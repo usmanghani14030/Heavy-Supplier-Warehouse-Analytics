@@ -1,0 +1,45 @@
+
+WEEK 02 — PRODUCT & INVENTORY ANALYTICS
+Heavy Supplier Warehouse Analytics
+
+1. PRODUCT PERFORMANCE
+- Products analysed: 30
+- Top product by sales value: P015 — Engine Block EB-600
+- Top product sales value: 5,381,418,000
+
+2. FAST-MOVING PRODUCTS
+- Fast-moving products were ranked based on total quantity sold.
+- Top fast-moving product: P029 — Pressure Sensor PS-90
+
+3. SLOW-MOVING PRODUCTS
+- Slow-moving products were identified using lowest total quantity sold.
+- Slowest-moving product: P024 — Track Roller TR-60
+
+4. INVENTORY TURNOVER
+- Inventory turnover was calculated using COGS divided by current inventory value.
+- This is a current-inventory turnover proxy because opening/average inventory data was not available.
+
+5. STOCK HEALTH
+- Total inventory rows analysed: 180
+- Overstock rows: 180
+- Reorder-required rows: 0
+- Critical/below-safety-stock rows: 0
+- Healthy rows: 0
+
+6. ABC / PARETO ANALYSIS
+- A-class products: 9
+- B-class products: 7
+- C-class products: 14
+- Highest inventory-value product: P015 — Engine Block EB-600
+- Highest inventory-value share: 21.48%
+
+7. PRODUCT PROFITABILITY
+- Top product by estimated gross profit: P015 — Engine Block EB-600
+- Estimated gross profit: 1,062,717,000
+
+8. KEY BUSINESS INSIGHTS
+- Inventory is heavily concentrated in A-class products.
+- All analysed inventory rows are currently above maximum stock levels.
+- High-value products require close inventory monitoring because excess stock can tie up substantial working capital.
+- Fast-moving products should be monitored closely to maintain availability.
+- Slow-moving products should be reviewed to reduce excess inventory exposure.
