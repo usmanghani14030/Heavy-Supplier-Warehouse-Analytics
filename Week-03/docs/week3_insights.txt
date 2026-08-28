@@ -1,0 +1,190 @@
+
+============================================================
+WEEK-03 — INVENTORY RISK & DEMAND EXPLORATION
+============================================================
+
+PROJECT:
+Heavy Supplier, Inventory & Warehouse Analytics
+
+SPRINT OBJECTIVE:
+Analyse inventory risk, product demand trends and stock
+movement activity to identify products requiring management
+attention and support better inventory planning decisions.
+
+
+1. OVERSTOCK & UNDERSTOCK DETECTION
+------------------------------------------------------------
+
+The inventory analysis covered 180 product-branch records
+across 30 products and 6 branches.
+
+All 180 records were classified as Overstock based on the
+current stock being above the defined maximum stock level.
+
+The result indicates a significant inventory-control issue
+within the supplied dataset, with stock levels consistently
+above the configured maximum thresholds.
+
+The highest inventory-value exposure was concentrated in
+high-value products such as:
+
+- P015 — Engine Block EB-600
+- P014 — Transmission Assembly TA-800
+- P021 — Boom Cylinder BC-400
+- P004 — Track Chain TC-45
+- P019 — Swing Motor SWM-350
+
+These products should receive priority attention when
+reviewing inventory levels and capital tied up in stock.
+
+
+2. PRODUCT DEMAND TREND ANALYSIS
+------------------------------------------------------------
+
+Demand trends were analysed across 72 months for all
+30 products.
+
+Demand trend classification produced:
+
+- 10 Decreasing
+- 7 Strongly Decreasing
+- 6 Strongly Increasing
+- 3 Increasing
+- 4 Stable
+
+Therefore, 17 products showed declining demand while
+9 products showed increasing demand.
+
+The strongest increasing-demand product was:
+
+P001 — Hydraulic Pump HP-300
+Demand change: +39.96%
+
+Other strongly increasing products included:
+
+- P002 — Engine Oil Filter OF-90
+- P008 — Bucket Tooth BT-10
+- P013 — Seal Kit SK-15
+- P026 — Grease Cartridge GC-5
+- P027 — O-Ring Set OR-50
+
+The strongest declining-demand product was:
+
+P023 — Idler Wheel IW-55
+Demand change: -46.81%
+
+Other strongly declining products included:
+
+- P010 — Turbocharger TB-900
+- P022 — Control Valve CV-75
+- P018 — Wheel Rim WR-24
+- P017 — Fan Belt FB-30
+- P016 — Radiator RD-250
+- P021 — Boom Cylinder BC-400
+
+
+3. MOVEMENT-BASED INVENTORY AGING
+------------------------------------------------------------
+
+Inventory aging was assessed using stock-ledger movement
+activity because the inventory master does not contain a
+direct stock acquisition or stock-age date.
+
+The latest recorded stock movement date was:
+
+28 January 2025
+
+All 180 product-branch combinations had a stock movement
+within the previous 30 days of the latest recorded movement.
+
+Therefore:
+
+- 180 records were classified as 0-30 Days
+- 180 records were classified as Normal
+- No movement-based aging risk was identified
+
+This should not be interpreted as proof that the physical
+stock is newly purchased. It indicates that the products
+had recent recorded stock movement in the supplied ledger.
+
+
+4. INVENTORY + DEMAND CROSS-ANALYSIS
+------------------------------------------------------------
+
+Inventory position was combined with demand trends to
+identify higher-priority inventory risks.
+
+The 30 products were classified as:
+
+- 7 High Risk — Overstock + Strong Demand Decline
+- 11 Medium Risk — Overstock + Demand Decline
+- 6 Growth Opportunity — Overstock + Rising Demand
+- 6 Monitor — Overstock + Stable/Moderate Demand
+
+The seven high-risk products were:
+
+- P021 — Boom Cylinder BC-400
+- P010 — Turbocharger TB-900
+- P022 — Control Valve CV-75
+- P023 — Idler Wheel IW-55
+- P018 — Wheel Rim WR-24
+- P016 — Radiator RD-250
+- P017 — Fan Belt FB-30
+
+These products combine excess inventory with strongly
+declining demand and therefore represent the highest
+priority for inventory review.
+
+
+5. BUSINESS INSIGHTS
+------------------------------------------------------------
+
+The combined analysis highlights a potential mismatch
+between inventory levels and demand.
+
+The dataset shows widespread overstocking while a large
+proportion of products have declining demand. This can
+increase working capital requirements and create a risk
+of inefficient inventory allocation.
+
+At the same time, several products have rising demand.
+These products should be monitored separately because
+their higher inventory levels may be more commercially
+justifiable.
+
+The analysis therefore supports a differentiated inventory
+strategy rather than applying the same action to every
+product.
+
+
+6. RECOMMENDED MANAGEMENT FOCUS
+------------------------------------------------------------
+
+Based on the analysis, management should prioritise:
+
+1. Reviewing maximum-stock parameters for all branches.
+2. Investigating the seven high-risk products with declining
+   demand and excess stock.
+3. Monitoring products with increasing demand separately.
+4. Reviewing demand trends before future replenishment
+   decisions.
+5. Investigating why current stock levels consistently exceed
+   configured maximum levels.
+6. Combining future forecasting with inventory thresholds
+   before making procurement decisions.
+
+
+7. WEEK-03 DELIVERABLES
+------------------------------------------------------------
+
+Completed outputs:
+
+- overstock_understock_analysis.csv
+- product_demand_trend.csv
+- product_demand_trend_summary.csv
+- inventory_aging_analysis.csv
+- inventory_demand_risk_analysis.csv
+
+============================================================
+END OF WEEK-03 INSIGHTS
+============================================================
