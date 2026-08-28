@@ -1,0 +1,146 @@
+WEEK-04 — WAREHOUSE OPERATIONS & EFFICIENCY
+INSIGHTS REPORT
+============================================================
+
+1. EXECUTIVE SUMMARY
+--------------------
+Week-04 analysed warehouse capacity, space utilisation, product-warehouse
+alignment, warehouse performance and operational bottleneck risk across
+six branches.
+
+The analysis shows significant calculated capacity pressure across all
+warehouses. At the same time, the relative warehouse performance model
+classifies all six branches as High Performance. This demonstrates that
+financial/operational efficiency and physical capacity risk are separate
+dimensions that should be monitored together.
+
+2. WAREHOUSE SPACE UTILISATION
+------------------------------
+All six warehouses were classified as Over Capacity under the calculated
+floor-footprint model.
+
+Kolkata East Depot recorded the highest calculated utilisation pressure,
+followed by Ahmedabad West Hub and Hyderabad Logistics.
+
+Important limitation:
+The dataset does not provide detailed information on racks, pallets,
+stacking height, aisles or storage configurations. Therefore, the
+calculated utilisation figures should be treated as analytical indicators
+rather than literal physical warehouse occupancy.
+
+3. WAREHOUSE CAPACITY RISK
+--------------------------
+All six branches were classified as Critical under the capacity-risk model.
+
+Kolkata showed the highest calculated capacity pressure, while Delhi
+recorded the lowest calculated pressure among the six branches.
+
+This indicates that warehouse capacity should be treated as a major
+operational risk area.
+
+4. PRODUCT-WAREHOUSE ALIGNMENT
+------------------------------
+All six warehouses store 30 products.
+
+Heavy products are major drivers of physical handling pressure.
+
+The largest heavy-stock contributors were:
+
+- P015 — Engine Block EB-600 — 320 kg/unit
+- P014 — Transmission Assembly TA-800 — 260 kg/unit
+- P004 — Track Chain TC-45 — 210 kg/unit
+
+Chennai had the highest total inventory value at approximately 47.8 billion,
+while Delhi had the highest total stock volume at approximately 3.29 million
+units.
+
+Chennai also recorded the highest total stock weight at approximately
+121.8 million kg.
+
+5. WAREHOUSE PERFORMANCE
+------------------------
+Relative warehouse performance scores were:
+
+1. Delhi Central — 98.51
+2. Chennai South Hub — 94.42
+3. Pune Distribution — 94.00
+4. Hyderabad Logistics — 88.08
+5. Ahmedabad West Hub — 85.73
+6. Kolkata East Depot — 85.52
+
+All six warehouses were classified as High Performance.
+
+The score combines cost efficiency, employee productivity, market demand
+and capacity efficiency.
+
+6. OPERATIONAL BOTTLENECK RISK
+------------------------------
+The bottleneck model identified:
+
+- 3 Critical Bottlenecks
+- 3 High Bottleneck Risks
+- 0 Moderate Bottleneck Risks
+- 0 Low Bottleneck Risks
+
+Top bottlenecks:
+
+1. Kolkata East Depot — 99.37
+2. Hyderabad Logistics — 90.53
+3. Ahmedabad West Hub — 86.60
+
+Pune, Chennai and Delhi were classified as High Bottleneck Risk.
+
+7. KEY BUSINESS INSIGHT
+-----------------------
+A major finding is that warehouse performance and bottleneck risk do not
+produce the same ranking.
+
+Delhi ranked first in overall warehouse performance but had the lowest
+bottleneck score among the six warehouses.
+
+Kolkata ranked last in performance but had the highest bottleneck score.
+
+This demonstrates that strong financial/operational efficiency does not
+necessarily mean low physical capacity or workload pressure.
+
+8. BUSINESS IMPLICATIONS
+------------------------
+The organisation should monitor warehouse efficiency and warehouse pressure
+as separate but connected KPI dimensions.
+
+Heavy products require particular attention because high stock quantities
+combined with high unit weight can create significant handling and space
+pressure.
+
+Warehouse-level monitoring should combine:
+
+- Capacity utilisation
+- Inventory volume
+- Inventory value
+- Stock weight
+- Employee workload
+- Revenue efficiency
+- Market demand
+
+9. DATA LIMITATIONS
+-------------------
+The warehouse utilisation analysis is based on product dimensions and
+current stock. It does not include rack height, pallet configuration,
+aisle space, stacking rules or actual storage layout.
+
+The performance and bottleneck scores are analytical scoring models
+developed from the available dataset and should not be interpreted as
+official company KPIs.
+
+============================================================
+WEEK-04 CONCLUSION
+============================================================
+
+Week-04 establishes a warehouse intelligence layer covering capacity,
+product alignment, performance and bottleneck risk.
+
+The strongest portfolio-level insight is that warehouse efficiency and
+warehouse capacity risk must be evaluated together rather than using a
+single KPI.
+
+============================================================
