@@ -1,0 +1,206 @@
+WEEK 7 - SUPPLIER, PROCUREMENT & SOURCING ANALYTICS
+====================================================
+
+OBJECTIVE
+---------
+Week 7 focused on evaluating supplier cost performance, procurement
+efficiency, supplier dependency, procurement risk, delivery risk,
+sourcing diversification, and overall supplier performance.
+
+DATASET
+-------
+Suppliers analysed: 8
+Purchase orders analysed: 24,000
+Received purchase orders: 21,630
+Cancelled purchase orders: 2,370
+
+KEY FINDINGS
+------------
+
+1. SUPPLIER COST PERFORMANCE
+Supplier purchase costs were analysed using weighted unit costs and
+cost variance metrics.
+
+Weighted cost variance ranged from approximately 5.92% to 6.32%.
+
+The highest weighted cost variance was observed for Guangzhou Local
+Vendor Supplies at 6.32%, while Hangzhou OEM Supplies had the lowest
+at 5.92%.
+
+2. SUPPLIER CONCENTRATION / DEPENDENCY
+Supplier purchasing was relatively diversified across all 8 suppliers.
+
+Total purchase value:
+346,621,977,539.14
+
+Top supplier purchase share:
+12.91%
+
+Top 3 supplier purchase share:
+38.10%
+
+Top 5 supplier purchase share:
+63.22%
+
+All suppliers were classified as Moderate Dependency and the overall
+concentration assessment was Diversified.
+
+This indicates that procurement spending is not heavily dependent on
+a single supplier, although supplier concentration should continue
+to be monitored.
+
+3. PROCUREMENT EFFICIENCY
+Average procurement efficiency score:
+90.12
+
+Highest score:
+90.59
+
+Lowest score:
+89.72
+
+Five suppliers were classified as Excellent Procurement Efficiency
+and three as Good Procurement Efficiency.
+
+Qingdao Distributor Supplies achieved the highest procurement
+efficiency score of 90.59%.
+
+The main improvement area for lower-ranked suppliers is reducing
+purchase order cancellations.
+
+4. SUPPLIER PROCUREMENT RISK
+Average procurement risk score:
+69.50
+
+Highest risk score:
+84.46
+
+Lowest risk score:
+54.93
+
+Four suppliers were classified as High Risk and four as Moderate Risk.
+
+Tianjin OEM Supplies had the highest procurement risk score of 84.46,
+followed by Ningbo Distributor Supplies at 81.44 and Qingdao Distributor
+Supplies at 81.39.
+
+Long lead times, supplier reliability, cancellation rates and import
+duty exposure were important procurement risk factors.
+
+5. LEAD-TIME / DELIVERY RISK
+Received purchase orders analysed:
+21,630
+
+Overall on-time delivery rate:
+84.90%
+
+Average delivery risk score:
+42.75
+
+Highest delivery risk score:
+61.30
+
+Lowest delivery risk score:
+28.25
+
+All 8 suppliers were classified as Moderate Delivery Risk.
+
+Tianjin OEM Supplies had the highest delivery risk score, mainly
+associated with its 28-day lead time and relatively low reliability
+score.
+
+6. SUPPLIER DIVERSIFICATION / SOURCING
+The supplier base consists of:
+
+OEM suppliers: 3
+Distributor suppliers: 3
+Local Vendors: 2
+
+Regional distribution:
+
+East China: 5
+South China: 2
+North China: 1
+
+The overall sourcing structure was classified as Diversified.
+
+However, East China represents the largest regional concentration,
+so geographic diversification should continue to be monitored.
+
+7. SUPPLIER PERFORMANCE SCORECARD
+Average supplier performance score:
+71.56
+
+Highest performance score:
+74.30
+
+Lowest performance score:
+68.85
+
+Supplier performance classification:
+
+Good Supplier Performance: 5
+Moderate Supplier Performance: 3
+
+Top performing suppliers:
+
+1. Shenzhen OEM Supplies - 74.30
+2. Guangzhou Local Vendor Supplies - 74.07
+3. Suzhou Local Vendor Supplies - 73.48
+4. Shanghai Distributor Supplies - 71.70
+5. Hangzhou OEM Supplies - 71.45
+
+The lower-performing suppliers were mainly affected by higher
+procurement risk rather than poor procurement efficiency.
+
+BUSINESS RECOMMENDATIONS
+------------------------
+1. Maintain alternative sourcing options even though overall supplier
+   concentration is currently diversified.
+
+2. Prioritize risk mitigation for Tianjin OEM Supplies, Ningbo
+   Distributor Supplies and Qingdao Distributor Supplies.
+
+3. Monitor suppliers with long lead times, particularly Tianjin OEM
+   Supplies and Hangzhou OEM Supplies.
+
+4. Reduce purchase order cancellations for suppliers with comparatively
+   lower procurement efficiency.
+
+5. Review supplier pricing and negotiate better purchase costs where
+   weighted cost variance is relatively high.
+
+6. Continue monitoring East China sourcing concentration.
+
+7. Use the supplier performance scorecard for periodic supplier review
+   and procurement decision-making.
+
+VALIDATION
+----------
+All Week 7 supplier analysis outputs passed final validation.
+
+Checks confirmed:
+- No missing supplier records
+- No duplicate supplier IDs
+- Required columns present
+- No invalid negative values
+- Procurement rate consistency passed
+- Delivery rate consistency passed
+- Supplier ranking consistency passed
+- Cumulative purchase share consistency passed
+- Supplier performance ranking consistency passed
+
+CONCLUSION
+----------
+Week 7 analysis provides a consolidated view of supplier cost,
+procurement efficiency, dependency, risk, delivery performance and
+sourcing diversification.
+
+The supplier base is broadly diversified and procurement efficiency
+is strong. However, procurement and delivery risks remain important,
+particularly for suppliers with longer lead times, lower reliability
+scores and higher cancellation exposure.
+
+The supplier performance scorecard can be used as a management tool
+to identify suppliers requiring closer monitoring, risk mitigation
+or commercial improvement.

@@ -1,0 +1,9 @@
+supplier_id,supplier_name,supplier_type,region,import_duty_rate,purchase_line_count,product_count,total_purchase_quantity,total_purchase_value,average_unit_cost,weighted_average_unit_cost,purchase_value_share_pct,cost_volume_rank,weighted_cost_variance_pct,cost_efficiency_class
+SUP0005,Tianjin OEM Supplies,OEM,North China,5,19884,30,3183732,44748497243.67,13976.693833735666,14055.359321598049,12.91,1,6.05,High Cost Concern
+SUP0001,Shenzhen OEM Supplies,OEM,South China,8,19395,30,3106464,43664270006.090004,13997.047989688064,14055.9394881415,12.6,2,5.93,High Cost Concern
+SUP0003,Shanghai Distributor Supplies,Distributor,East China,8,19411,30,3115813,43657994600.35,13984.457305651435,14011.750576928076,12.6,3,6.26,High Cost Concern
+SUP0007,Suzhou Local Vendor Supplies,Local Vendor,East China,15,19546,30,3124421,43632412424.6,13986.797127801086,13964.959403550289,12.59,4,6.0,High Cost Concern
+SUP0008,Hangzhou OEM Supplies,OEM,East China,5,19193,30,3074615,43432705804.86,14122.73693846715,14126.225821724021,12.53,5,5.92,High Cost Concern
+SUP0006,Qingdao Distributor Supplies,Distributor,East China,15,19740,30,3134287,43243725354.91,13778.887295846,13796.989667796855,12.48,6,6.01,High Cost Concern
+SUP0004,Ningbo Distributor Supplies,Distributor,East China,8,19099,30,3056587,42427550782.14,13866.063161422064,13880.694638215762,12.24,7,5.97,High Cost Concern
+SUP0002,Guangzhou Local Vendor Supplies,Local Vendor,South China,12,19227,30,3071797,41814821322.52,13669.076495033027,13612.495006186933,12.06,8,6.32,High Cost Concern

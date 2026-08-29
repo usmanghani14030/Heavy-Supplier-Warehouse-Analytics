@@ -1,0 +1,9 @@
+supplier_id,supplier_name,supplier_type,region,lead_time_days,reliability_score,average_actual_delivery_days,average_delivery_delay_days,on_time_delivery_rate_pct,late_delivery_rate_pct,delivery_risk_score,delivery_risk_class,delivery_risk_rank,action_focus
+SUP0005,Tianjin OEM Supplies,OEM,North China,28,3,28.485476,0.485476,85.330428,14.669572,61.299624,Moderate Delivery Risk,1,Monitor delivery performance and maintain supplier reliability
+SUP0008,Hangzhou OEM Supplies,OEM,East China,26,4,26.545555,0.545555,84.202792,15.797208,55.88202,Moderate Delivery Risk,2,Monitor delivery performance and maintain supplier reliability
+SUP0004,Ningbo Distributor Supplies,Distributor,East China,18,3,18.497372,0.497372,84.834835,15.165165,47.380654,Moderate Delivery Risk,3,Monitor delivery performance and maintain supplier reliability
+SUP0003,Shanghai Distributor Supplies,Distributor,East China,16,4,16.531399,0.531399,85.016526,14.983474,41.092714,Moderate Delivery Risk,4,Monitor delivery performance and maintain supplier reliability
+SUP0001,Shenzhen OEM Supplies,OEM,South China,19,5,19.496419,0.496419,84.922729,15.077271,40.765385,Moderate Delivery Risk,5,Monitor delivery performance and maintain supplier reliability
+SUP0006,Qingdao Distributor Supplies,Distributor,East China,10,3,10.50109,0.50109,85.210756,14.789244,35.907453,Moderate Delivery Risk,6,Monitor delivery performance and maintain supplier reliability
+SUP0007,Suzhou Local Vendor Supplies,Local Vendor,East China,12,5,12.528053,0.528053,84.671801,15.328199,31.420507,Moderate Delivery Risk,7,Monitor delivery performance and maintain supplier reliability
+SUP0002,Guangzhou Local Vendor Supplies,Local Vendor,South China,10,5,10.516129,0.516129,84.971537,15.028463,28.254881,Moderate Delivery Risk,8,Monitor delivery performance and maintain supplier reliability

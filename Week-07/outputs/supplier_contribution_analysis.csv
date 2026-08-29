@@ -1,0 +1,9 @@
+supplier_id,purchase_order_count,purchase_line_count,total_purchase_quantity,total_purchase_value,total_purchase_gst,total_purchase_grand_total,branch_count,product_count,supplier_name,supplier_type,product_category,region,lead_time_days,reliability_score,import_duty_rate,purchase_value_share_pct,purchase_quantity_share_pct,supplier_rank,contribution_class
+SUP0005,3044,19884,3183732,44748497243.67,12272721792.01,57021219035.68,6,30,Tianjin OEM Supplies,OEM,Small Parts,North China,28,3,5,12.91,12.8,1,High Contribution
+SUP0001,2944,19395,3106464,43664270006.09,11978697171.47,55642967177.56,6,30,Shenzhen OEM Supplies,OEM,Medium Parts,South China,19,5,8,12.6,12.49,2,High Contribution
+SUP0003,3033,19411,3115813,43657994600.35,11981772017.63,55639766617.98,6,30,Shanghai Distributor Supplies,Distributor,Large Parts,East China,16,4,8,12.6,12.53,3,High Contribution
+SUP0007,3028,19546,3124421,43632412424.6,11965306981.31,55597719405.91,6,30,Suzhou Local Vendor Supplies,Local Vendor,Medium Parts,East China,12,5,15,12.59,12.56,4,High Contribution
+SUP0008,3010,19193,3074615,43432705804.86,11922192793.96,55354898598.82,6,30,Hangzhou OEM Supplies,OEM,Small Parts,East China,26,4,5,12.53,12.36,5,High Contribution
+SUP0006,3038,19740,3134287,43243725354.91,11849849574.04,55093574928.95,6,30,Qingdao Distributor Supplies,Distributor,Large Parts,East China,10,3,15,12.48,12.6,6,High Contribution
+SUP0004,2966,19099,3056587,42427550782.14,11632658438.79,54060209220.93,6,30,Ningbo Distributor Supplies,Distributor,Large Parts,East China,18,3,8,12.24,12.29,7,High Contribution
+SUP0002,2937,19227,3071797,41814821322.52,11461131932.54,53275953255.06,6,30,Guangzhou Local Vendor Supplies,Local Vendor,Small Parts,South China,10,5,12,12.06,12.35,8,High Contribution

@@ -1,0 +1,9 @@
+supplier_id,received_po_count,on_time_po_count,late_po_count,average_delivery_delay_days,maximum_delivery_delay_days,total_purchase_cost,cancelled_po_count,total_po_count,on_time_delivery_rate_pct,received_po_rate_pct,supplier_name,supplier_type,region,lead_time_days,reliability_score,reliability_class,reliability_rank
+SUP0005,2754,2350,404,0.49,7,40256023887.03,290,3044,85.33,90.47,Tianjin OEM Supplies,OEM,North China,28,3,Good Reliability,1
+SUP0006,2752,2345,407,0.5,7,39111078783.99,286,3038,85.21,90.59,Qingdao Distributor Supplies,Distributor,East China,10,3,Good Reliability,2
+SUP0003,2723,2315,408,0.53,7,39188775296.85,310,3033,85.02,89.78,Shanghai Distributor Supplies,Distributor,East China,16,4,Good Reliability,3
+SUP0002,2635,2239,396,0.52,7,37715690508.02,302,2937,84.97,89.72,Guangzhou Local Vendor Supplies,Local Vendor,South China,10,5,Moderate Reliability,4
+SUP0001,2653,2253,400,0.5,7,39439157083.27,291,2944,84.92,90.12,Shenzhen OEM Supplies,OEM,South China,19,5,Moderate Reliability,5
+SUP0004,2664,2260,404,0.5,7,38025017578.72,302,2966,84.83,89.82,Ningbo Distributor Supplies,Distributor,East China,18,3,Moderate Reliability,6
+SUP0007,2727,2309,418,0.53,7,39045581644.58,301,3028,84.67,90.06,Suzhou Local Vendor Supplies,Local Vendor,East China,12,5,Moderate Reliability,7
+SUP0008,2722,2292,430,0.55,7,39246104325.24,288,3010,84.2,90.43,Hangzhou OEM Supplies,OEM,East China,26,4,Moderate Reliability,8

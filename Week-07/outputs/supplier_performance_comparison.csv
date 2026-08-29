@@ -1,0 +1,9 @@
+supplier_id,supplier_name,supplier_type,region,total_purchase_value,purchase_value_share_pct,supplier_rank,contribution_class,on_time_delivery_rate_pct,average_delivery_delay_days,received_po_rate_pct,reliability_score,reliability_rank,reliability_class,contribution_performance_score,delivery_performance_score,overall_performance_score,performance_rank,performance_class
+SUP0005,Tianjin OEM Supplies,OEM,North China,44748497243.67,12.91,1,High Contribution,85.33,0.49,90.47,3,1,Good Reliability,100.0,100.0,100.0,1,Excellent Performance
+SUP0003,Shanghai Distributor Supplies,Distributor,East China,43657994600.35,12.6,3,High Contribution,85.02,0.53,89.78,4,3,Good Reliability,97.5987606506584,99.63670455877183,98.62,2,Excellent Performance
+SUP0001,Shenzhen OEM Supplies,OEM,South China,43664270006.09,12.6,2,High Contribution,84.92,0.5,90.12,5,5,Moderate Reliability,97.5987606506584,99.5195124809563,98.56,3,Excellent Performance
+SUP0007,Suzhou Local Vendor Supplies,Local Vendor,East China,43632412424.6,12.59,4,High Contribution,84.67,0.53,90.06,5,7,Moderate Reliability,97.52130131680867,99.22653228641745,98.37,4,Excellent Performance
+SUP0006,Qingdao Distributor Supplies,Distributor,East China,43243725354.91,12.48,6,High Contribution,85.21,0.5,90.59,3,2,Good Reliability,96.66924864446166,99.85936950662135,98.26,5,Excellent Performance
+SUP0008,Hangzhou OEM Supplies,OEM,East China,43432705804.86,12.53,5,High Contribution,84.2,0.55,90.43,4,8,Moderate Reliability,97.0565453137103,98.67572952068441,97.87,6,Excellent Performance
+SUP0004,Ningbo Distributor Supplies,Distributor,East China,42427550782.14,12.24,7,High Contribution,84.83,0.5,89.82,3,6,Moderate Reliability,94.81022463206816,99.4140396109223,97.11,7,Excellent Performance
+SUP0002,Guangzhou Local Vendor Supplies,Local Vendor,South China,41814821322.52,12.06,8,High Contribution,84.97,0.52,89.72,5,4,Moderate Reliability,93.41595662277304,99.57810851986406,96.5,8,Excellent Performance

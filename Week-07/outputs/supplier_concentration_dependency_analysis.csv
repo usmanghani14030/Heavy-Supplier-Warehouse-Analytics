@@ -1,0 +1,9 @@
+supplier_id,supplier_name,supplier_type,total_po_count,total_purchase_value,purchase_value_share_pct,cumulative_purchase_share_pct,supplier_rank,dependency_class,concentration_flag,action_focus
+SUP0005,Tianjin OEM Supplies,OEM,3044,44748497243.67,12.909884584169816,12.909884584169816,1,Moderate Dependency,Moderate Concentration,Monitor supplier concentration and maintain alternative sourcing
+SUP0001,Shenzhen OEM Supplies,OEM,2944,43664270006.090004,12.597086404066662,25.50697098823648,2,Moderate Dependency,Moderate Concentration,Monitor supplier concentration and maintain alternative sourcing
+SUP0003,Shanghai Distributor Supplies,Distributor,3033,43657994600.35,12.595275957486052,38.10224694572253,3,Moderate Dependency,Moderate Concentration,Monitor supplier concentration and maintain alternative sourcing
+SUP0007,Suzhou Local Vendor Supplies,Local Vendor,3028,43632412424.6,12.58789553229443,50.69014247801696,4,Moderate Dependency,Moderate Concentration,Monitor supplier concentration and maintain alternative sourcing
+SUP0008,Hangzhou OEM Supplies,OEM,3010,43432705804.86,12.530280426305529,63.22042290432249,5,Moderate Dependency,Moderate Concentration,Monitor supplier concentration and maintain alternative sourcing
+SUP0006,Qingdao Distributor Supplies,Distributor,3038,43243725354.91,12.475759806669211,75.6961827109917,6,Moderate Dependency,Moderate Concentration,Monitor supplier concentration and maintain alternative sourcing
+SUP0004,Ningbo Distributor Supplies,Distributor,2966,42427550782.14,12.240294479697022,87.93647719068873,7,Moderate Dependency,Moderate Concentration,Monitor supplier concentration and maintain alternative sourcing
+SUP0002,Guangzhou Local Vendor Supplies,Local Vendor,2937,41814821322.52,12.063522809311287,100.00000000000003,8,Moderate Dependency,Moderate Concentration,Monitor supplier concentration and maintain alternative sourcing
