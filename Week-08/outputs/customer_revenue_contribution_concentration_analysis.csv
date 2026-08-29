@@ -1,0 +1,501 @@
+customer_id,delivered_order_count,total_revenue,average_order_value,first_order_date,last_order_date,revenue_share_pct,revenue_rank,cumulative_revenue_share_pct,contribution_class,concentration_group,abc_revenue_class,overall_concentration_flag,action_focus
+C0153,56,108200489.6,1932151.6,2019-01-17,2024-12-12,0.37,1,0.37,High Contribution,Top 10,A - Core Revenue,Diversified,Protect key account relationship and prioritize retention
+C0288,55,97218403.8,1767607.34,2019-02-21,2024-10-18,0.33,2,0.7,High Contribution,Top 10,A - Core Revenue,Diversified,Protect key account relationship and prioritize retention
+C0483,47,96130859.2,2045337.43,2019-02-20,2024-12-18,0.33,3,1.03,High Contribution,Top 10,A - Core Revenue,Diversified,Protect key account relationship and prioritize retention
+C0475,55,94883375.2,1725152.28,2019-01-19,2024-12-18,0.32,4,1.36,High Contribution,Top 10,A - Core Revenue,Diversified,Protect key account relationship and prioritize retention
+C0495,48,94540537.6,1969594.53,2019-01-28,2024-11-25,0.32,5,1.68,High Contribution,Top 10,A - Core Revenue,Diversified,Protect key account relationship and prioritize retention
+C0240,46,92835709.4,2018167.6,2019-02-19,2024-11-10,0.32,6,2.0,High Contribution,Top 10,A - Core Revenue,Diversified,Protect key account relationship and prioritize retention
+C0420,46,92482888.8,2010497.58,2019-01-10,2024-11-22,0.32,7,2.31,High Contribution,Top 10,A - Core Revenue,Diversified,Protect key account relationship and prioritize retention
+C0110,42,90807306.0,2162078.71,2019-01-25,2024-06-21,0.31,8,2.62,High Contribution,Top 10,A - Core Revenue,Diversified,Protect key account relationship and prioritize retention
+C0206,40,89674652.2,2241866.31,2019-01-08,2024-12-11,0.31,9,2.93,High Contribution,Top 10,A - Core Revenue,Diversified,Protect key account relationship and prioritize retention
+C0083,45,89672688.2,1992726.4,2019-05-23,2024-10-04,0.31,10,3.24,High Contribution,Top 10,A - Core Revenue,Diversified,Protect key account relationship and prioritize retention
+C0254,48,89556446.6,1865759.3,2019-07-01,2024-09-25,0.31,11,3.54,High Contribution,Top 25,A - Core Revenue,Diversified,Strengthen engagement and increase customer lifetime value
+C0178,54,89493824.6,1657293.05,2019-01-22,2024-12-09,0.31,12,3.85,High Contribution,Top 25,A - Core Revenue,Diversified,Strengthen engagement and increase customer lifetime value
+C0466,47,88329161.4,1879343.86,2019-03-19,2024-12-13,0.3,13,4.15,High Contribution,Top 25,A - Core Revenue,Diversified,Strengthen engagement and increase customer lifetime value
+C0046,46,87078641.0,1893013.93,2019-02-03,2024-12-09,0.3,14,4.45,High Contribution,Top 25,A - Core Revenue,Diversified,Strengthen engagement and increase customer lifetime value
+C0207,45,87068691.0,1934859.8,2019-02-10,2024-10-13,0.3,15,4.74,High Contribution,Top 25,A - Core Revenue,Diversified,Strengthen engagement and increase customer lifetime value
+C0304,48,86460648.4,1801263.51,2019-01-26,2024-12-25,0.3,16,5.04,High Contribution,Top 25,A - Core Revenue,Diversified,Strengthen engagement and increase customer lifetime value
+C0359,46,85617784.0,1861256.17,2019-02-12,2024-11-28,0.29,17,5.33,High Contribution,Top 25,A - Core Revenue,Diversified,Strengthen engagement and increase customer lifetime value
+C0134,48,85243025.2,1775896.36,2019-03-03,2024-11-24,0.29,18,5.62,High Contribution,Top 25,A - Core Revenue,Diversified,Strengthen engagement and increase customer lifetime value
+C0107,49,85196217.6,1738698.32,2019-01-16,2024-12-11,0.29,19,5.92,High Contribution,Top 25,A - Core Revenue,Diversified,Strengthen engagement and increase customer lifetime value
+C0142,45,84828043.0,1885067.62,2019-02-06,2024-12-08,0.29,20,6.21,High Contribution,Top 25,A - Core Revenue,Diversified,Strengthen engagement and increase customer lifetime value
+C0490,44,84742703.8,1925970.54,2019-01-26,2024-12-29,0.29,21,6.5,High Contribution,Top 25,A - Core Revenue,Diversified,Strengthen engagement and increase customer lifetime value
+C0200,47,84469856.6,1797230.99,2019-02-09,2024-11-25,0.29,22,6.78,High Contribution,Top 25,A - Core Revenue,Diversified,Strengthen engagement and increase customer lifetime value
+C0462,49,82777824.6,1689343.36,2019-01-06,2024-11-13,0.28,23,7.07,High Contribution,Top 25,A - Core Revenue,Diversified,Strengthen engagement and increase customer lifetime value
+C0440,44,82426773.6,1873335.76,2019-01-29,2024-10-21,0.28,24,7.35,High Contribution,Top 25,A - Core Revenue,Diversified,Strengthen engagement and increase customer lifetime value
+C0049,39,82316206.2,2110671.95,2019-01-25,2024-12-25,0.28,25,7.63,High Contribution,Top 25,A - Core Revenue,Diversified,Strengthen engagement and increase customer lifetime value
+C0371,47,82052808.0,1745804.43,2019-01-03,2024-11-02,0.28,26,7.91,High Contribution,Top 50,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0221,44,82001959.0,1863680.89,2019-01-17,2024-09-05,0.28,27,8.19,High Contribution,Top 50,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0375,42,81286325.6,1935388.7,2019-02-20,2024-11-03,0.28,28,8.47,High Contribution,Top 50,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0403,45,80523517.0,1789411.49,2019-02-19,2024-12-10,0.28,29,8.74,High Contribution,Top 50,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0201,47,80475593.0,1712246.66,2019-02-01,2024-12-13,0.28,30,9.02,High Contribution,Top 50,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0076,45,80026994.2,1778377.65,2019-01-12,2024-10-06,0.27,31,9.29,High Contribution,Top 50,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0294,45,79772077.0,1772712.82,2019-03-26,2024-12-27,0.27,32,9.57,High Contribution,Top 50,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0356,45,79690881.0,1770908.47,2019-03-16,2024-12-05,0.27,33,9.84,High Contribution,Top 50,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0165,50,79168592.4,1583371.85,2019-02-27,2024-12-24,0.27,34,10.11,High Contribution,Top 50,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0291,46,79064597.0,1718795.59,2019-03-13,2024-12-03,0.27,35,10.38,High Contribution,Top 50,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0062,36,78963082.0,2193418.94,2019-03-18,2024-10-31,0.27,36,10.65,High Contribution,Top 50,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0113,41,78713400.0,1919839.02,2019-01-13,2024-12-23,0.27,37,10.92,High Contribution,Top 50,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0380,50,77887431.8,1557748.64,2019-01-29,2024-11-03,0.27,38,11.18,High Contribution,Top 50,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0244,44,77550764.4,1762517.37,2019-05-06,2024-12-09,0.27,39,11.45,High Contribution,Top 50,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0082,46,77500928.6,1684802.8,2019-03-17,2024-12-18,0.26,40,11.71,High Contribution,Top 50,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0197,47,77464617.6,1648183.35,2019-02-22,2024-10-18,0.26,41,11.98,High Contribution,Top 50,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0060,44,77163010.4,1753704.78,2019-07-20,2024-11-24,0.26,42,12.24,High Contribution,Top 50,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0069,47,77108269.8,1640601.49,2019-02-18,2024-12-11,0.26,43,12.51,High Contribution,Top 50,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0246,35,77080113.6,2202288.96,2019-01-26,2024-11-02,0.26,44,12.77,High Contribution,Top 50,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0070,41,76883391.4,1875204.67,2019-02-04,2024-12-20,0.26,45,13.03,High Contribution,Top 50,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0013,44,76843692.4,1746447.55,2019-01-02,2024-10-27,0.26,46,13.29,High Contribution,Top 50,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0129,36,76393252.6,2122034.79,2019-01-06,2024-10-31,0.26,47,13.56,High Contribution,Top 50,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0257,43,76189558.0,1771850.19,2019-01-18,2024-12-23,0.26,48,13.82,High Contribution,Top 50,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0478,44,75901402.2,1725031.87,2019-02-04,2024-12-29,0.26,49,14.08,High Contribution,Top 50,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0272,39,75550922.6,1937203.14,2019-09-01,2024-12-13,0.26,50,14.33,High Contribution,Top 50,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0103,40,75304293.2,1882607.33,2019-02-21,2024-08-29,0.26,51,14.59,High Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0045,42,75275350.6,1792270.25,2019-02-02,2024-12-15,0.26,52,14.85,High Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0468,49,75254807.6,1535812.4,2019-05-10,2024-11-10,0.26,53,15.11,High Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0005,45,74996415.4,1666587.01,2019-02-28,2024-10-04,0.26,54,15.36,High Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0237,44,74820743.4,1700471.44,2019-01-28,2024-10-15,0.26,55,15.62,High Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0250,43,74416923.4,1730626.13,2019-03-08,2024-12-20,0.25,56,15.87,High Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0154,45,74171590.6,1648257.57,2019-01-29,2024-08-21,0.25,57,16.13,High Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0215,49,73940925.4,1508998.48,2019-02-28,2024-12-24,0.25,58,16.38,High Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0435,50,73908258.2,1478165.16,2019-10-11,2024-11-01,0.25,59,16.63,High Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0042,41,73882726.2,1802017.71,2019-01-25,2024-10-13,0.25,60,16.88,High Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0482,31,73762403.2,2379432.36,2019-12-15,2024-12-03,0.25,61,17.14,High Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0476,34,73746173.2,2169005.09,2019-01-13,2024-09-29,0.25,62,17.39,High Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0307,42,73655534.6,1753703.2,2019-01-15,2024-11-24,0.25,63,17.64,High Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0337,34,73457151.8,2160504.46,2019-04-15,2024-08-25,0.25,64,17.89,High Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0241,39,73396972.0,1881973.64,2019-02-01,2024-10-31,0.25,65,18.14,High Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0084,39,73317161.4,1879927.22,2019-04-29,2024-09-22,0.25,66,18.39,High Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0242,47,73225487.6,1557989.1,2019-01-30,2024-11-18,0.25,67,18.64,High Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0297,34,73065015.6,2148971.05,2019-02-13,2024-07-01,0.25,68,18.89,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0253,39,72946151.6,1870414.14,2019-03-28,2024-11-27,0.25,69,19.14,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0342,36,72821567.8,2022821.33,2019-12-04,2024-10-09,0.25,70,19.39,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0300,40,72746205.0,1818655.12,2019-05-05,2024-11-18,0.25,71,19.64,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0234,29,72295152.4,2492936.29,2019-01-09,2024-12-26,0.25,72,19.89,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0411,43,72229183.0,1679748.44,2019-07-14,2024-12-12,0.25,73,20.13,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0384,39,72157498.2,1850192.26,2019-02-05,2024-09-09,0.25,74,20.38,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0071,42,72076738.0,1716112.81,2019-01-24,2024-11-26,0.25,75,20.63,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0063,38,72065344.4,1896456.43,2019-02-28,2024-12-19,0.25,76,20.87,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0032,44,71991263.0,1636165.07,2019-01-23,2024-10-25,0.25,77,21.12,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0102,34,71864051.2,2113648.56,2019-03-11,2024-10-24,0.25,78,21.36,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0459,41,71816909.8,1751631.95,2019-03-10,2024-12-14,0.25,79,21.61,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0002,51,71712838.0,1406134.08,2019-01-24,2024-09-07,0.25,80,21.86,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0196,48,71291851.6,1485246.91,2019-01-09,2024-10-28,0.24,81,22.1,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0255,45,71144094.2,1580979.87,2019-01-05,2024-11-11,0.24,82,22.34,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0016,35,70872336.2,2024923.89,2019-01-18,2024-12-18,0.24,83,22.58,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0160,44,70762190.2,1608231.6,2019-02-19,2024-11-23,0.24,84,22.83,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0186,40,70676837.0,1766920.92,2019-02-17,2024-12-11,0.24,85,23.07,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0489,47,70625273.0,1502665.38,2019-04-14,2024-08-17,0.24,86,23.31,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0025,38,70349653.0,1851306.66,2019-01-29,2024-08-18,0.24,87,23.55,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0123,36,70019319.0,1944981.08,2019-01-16,2024-11-04,0.24,88,23.79,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0394,40,69936379.2,1748409.48,2019-03-08,2024-11-21,0.24,89,24.03,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0306,42,69813587.0,1662228.26,2019-07-19,2024-12-16,0.24,90,24.27,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0373,38,69753317.8,1835613.63,2019-04-03,2024-09-02,0.24,91,24.51,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0284,41,69641823.4,1698581.06,2019-01-09,2024-12-23,0.24,92,24.74,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0166,32,69504759.6,2172023.74,2019-01-18,2024-12-08,0.24,93,24.98,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0421,38,69466242.8,1828059.02,2019-04-06,2024-06-21,0.24,94,25.22,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0109,44,69451949.0,1578453.39,2019-01-14,2024-12-09,0.24,95,25.46,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0169,40,69450095.6,1736252.39,2019-03-25,2024-10-27,0.24,96,25.69,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0429,42,69444114.2,1653431.29,2019-02-08,2024-10-21,0.24,97,25.93,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0282,44,69381309.6,1576847.95,2019-01-17,2024-12-24,0.24,98,26.17,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0311,41,69331648.2,1691015.81,2019-02-03,2024-09-17,0.24,99,26.41,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0192,40,69269688.4,1731742.21,2019-01-19,2024-08-29,0.24,100,26.64,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0225,48,69254158.0,1442794.96,2019-03-17,2024-07-17,0.24,101,26.88,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0128,33,69172996.2,2096151.4,2019-01-02,2024-12-18,0.24,102,27.12,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0009,34,68836324.8,2024597.79,2019-04-14,2024-11-04,0.24,103,27.35,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0415,33,68592455.6,2078559.26,2019-03-21,2024-10-11,0.23,104,27.58,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0377,37,68519191.2,1851870.03,2019-02-01,2024-12-07,0.23,105,27.82,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0469,40,68502617.4,1712565.44,2019-01-04,2024-12-18,0.23,106,28.05,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0448,36,68495840.4,1902662.23,2019-03-13,2024-12-11,0.23,107,28.29,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0343,40,68419201.6,1710480.04,2019-02-28,2024-11-21,0.23,108,28.52,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0374,41,68389697.6,1668041.4,2019-03-07,2024-12-10,0.23,109,28.76,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0383,41,68192154.0,1663223.27,2019-02-18,2024-11-19,0.23,110,28.99,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0270,43,68114112.8,1584049.13,2019-03-27,2024-12-20,0.23,111,29.22,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0041,38,68044561.6,1790646.36,2019-01-11,2024-06-11,0.23,112,29.45,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0425,41,67882732.6,1655676.4,2019-01-17,2024-12-09,0.23,113,29.69,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0331,42,67826105.8,1614907.28,2019-04-12,2024-12-15,0.23,114,29.92,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0193,38,67795348.0,1784088.11,2019-01-10,2024-11-30,0.23,115,30.15,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0247,39,67759559.6,1737424.61,2019-02-14,2024-11-13,0.23,116,30.38,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0385,37,67435700.6,1822586.5,2019-07-27,2024-09-23,0.23,117,30.61,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0464,38,67405736.8,1773835.18,2019-01-18,2024-09-13,0.23,118,30.84,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0276,44,67350598.6,1530695.42,2019-01-08,2024-12-29,0.23,119,31.07,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0264,36,67321592.8,1870044.24,2019-01-02,2024-11-02,0.23,120,31.3,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0488,37,67251532.8,1817608.99,2019-03-01,2024-11-26,0.23,121,31.53,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0119,51,67143205.2,1316533.44,2019-01-07,2024-10-26,0.23,122,31.76,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0156,33,67117436.4,2033861.71,2019-01-14,2024-09-17,0.23,123,31.99,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0176,42,66901722.8,1592898.16,2019-01-14,2024-08-07,0.23,124,32.22,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0341,36,66838579.4,1856627.21,2019-03-10,2024-10-07,0.23,125,32.45,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0293,36,66815451.4,1855984.76,2019-01-19,2024-09-25,0.23,126,32.68,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0428,43,66337820.6,1542740.01,2019-01-25,2024-08-26,0.23,127,32.9,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0414,40,66316815.6,1657920.39,2019-02-16,2024-12-31,0.23,128,33.13,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0213,30,66248437.6,2208281.25,2019-02-26,2024-08-31,0.23,129,33.36,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0141,36,66220737.2,1839464.92,2019-04-06,2024-11-15,0.23,130,33.58,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0326,42,66177447.4,1575653.51,2019-03-14,2024-12-30,0.23,131,33.81,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0191,29,65787839.8,2268546.2,2019-02-03,2024-12-12,0.22,132,34.03,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0422,37,65678984.2,1775107.68,2019-09-19,2024-11-04,0.22,133,34.26,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0471,37,65501994.2,1770324.17,2019-02-23,2024-11-27,0.22,134,34.48,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0006,40,65482805.4,1637070.14,2019-06-05,2024-09-02,0.22,135,34.71,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0209,44,65445658.4,1487401.33,2019-10-18,2024-11-22,0.22,136,34.93,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0312,37,65437706.6,1768586.66,2019-04-16,2024-11-17,0.22,137,35.15,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0295,38,65390145.6,1720793.31,2019-03-07,2024-10-09,0.22,138,35.38,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0149,38,65235052.4,1716711.91,2019-02-28,2024-12-12,0.22,139,35.6,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0491,27,65215944.4,2415405.35,2019-03-27,2024-07-04,0.22,140,35.82,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0443,40,64951558.8,1623788.97,2019-03-27,2024-11-18,0.22,141,36.05,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0498,28,64864362.8,2316584.39,2019-03-01,2024-08-19,0.22,142,36.27,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0406,32,64818334.4,2025572.95,2019-02-25,2024-10-11,0.22,143,36.49,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0369,40,64656844.2,1616421.1,2019-01-26,2024-12-13,0.22,144,36.71,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0460,32,64634814.4,2019837.95,2019-04-06,2024-11-25,0.22,145,36.93,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0395,44,64514679.8,1466242.72,2019-02-21,2024-12-20,0.22,146,37.15,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0396,38,64506474.4,1697538.8,2019-01-14,2024-12-07,0.22,147,37.37,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0329,36,64307436.8,1786317.69,2019-01-03,2024-12-26,0.22,148,37.59,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0275,45,64270295.0,1428228.78,2019-06-17,2024-11-06,0.22,149,37.81,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0379,41,64194052.6,1565708.6,2019-03-29,2024-12-15,0.22,150,38.03,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0390,32,64132451.0,2004139.09,2019-03-23,2024-11-09,0.22,151,38.25,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0116,35,64081942.6,1830912.65,2019-01-08,2024-07-28,0.22,152,38.47,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0126,33,64059034.8,1941182.87,2019-03-05,2024-04-05,0.22,153,38.69,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0168,34,64028787.0,1883199.62,2019-06-02,2024-12-18,0.22,154,38.91,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0301,46,63821535.6,1387424.69,2019-01-13,2024-12-19,0.22,155,39.12,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0268,32,63709103.6,1990909.49,2019-01-21,2024-10-07,0.22,156,39.34,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0302,36,63607092.0,1766863.67,2019-02-05,2024-12-24,0.22,157,39.56,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0198,36,63577917.2,1766053.26,2019-03-27,2024-08-01,0.22,158,39.78,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0340,35,63532821.6,1815223.47,2019-01-05,2024-12-04,0.22,159,39.99,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0054,37,63424926.8,1714187.21,2019-01-31,2024-12-14,0.22,160,40.21,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0249,35,63391180.8,1811176.59,2019-01-16,2024-09-03,0.22,161,40.43,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0455,35,63287015.4,1808200.44,2019-04-27,2024-11-27,0.22,162,40.64,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0333,39,63220923.0,1621049.31,2019-01-09,2024-12-02,0.22,163,40.86,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0010,46,63051038.4,1370674.75,2019-01-23,2024-11-27,0.22,164,41.08,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0261,33,62999554.6,1909077.41,2019-05-06,2024-12-06,0.22,165,41.29,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0467,48,62880162.4,1310003.38,2019-01-02,2024-11-06,0.21,166,41.51,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0135,35,62791824.6,1794052.13,2019-03-09,2024-08-27,0.21,167,41.72,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0499,39,62785837.0,1609893.26,2019-01-18,2024-11-29,0.21,168,41.94,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0039,38,62706510.2,1650171.32,2019-04-17,2024-11-28,0.21,169,42.15,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0328,37,62646507.6,1693148.85,2019-01-03,2024-12-05,0.21,170,42.36,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0101,38,62629058.6,1648133.12,2019-02-26,2024-10-10,0.21,171,42.58,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0138,34,62582651.4,1840666.22,2019-01-10,2024-12-25,0.21,172,42.79,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0413,41,62380011.4,1521463.69,2019-02-06,2024-11-08,0.21,173,43.01,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0258,28,62250978.4,2223249.23,2019-02-04,2024-10-10,0.21,174,43.22,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0152,40,62249804.2,1556245.1,2019-03-10,2024-11-18,0.21,175,43.43,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0162,28,62233145.6,2222612.34,2019-07-05,2024-10-14,0.21,176,43.64,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0318,36,62202116.0,1727836.56,2019-01-08,2024-10-17,0.21,177,43.86,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0230,38,62086661.8,1633859.52,2019-02-19,2024-10-31,0.21,178,44.07,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0381,29,62038399.0,2139255.14,2019-07-06,2024-11-17,0.21,179,44.28,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0216,39,62009378.6,1589984.07,2019-01-27,2024-11-20,0.21,180,44.49,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0492,35,61798115.2,1765660.43,2019-02-04,2024-11-05,0.21,181,44.7,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0438,39,61720027.0,1582564.79,2019-06-17,2024-09-01,0.21,182,44.91,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0263,35,61677496.4,1762214.18,2019-03-06,2024-11-01,0.21,183,45.13,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0269,41,61642030.4,1503464.16,2019-01-12,2024-11-22,0.21,184,45.34,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0419,31,61514207.2,1984329.26,2019-03-05,2024-09-30,0.21,185,45.55,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0184,29,61479056.4,2119967.46,2019-03-12,2024-11-28,0.21,186,45.76,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0315,40,61457629.4,1536440.74,2019-01-09,2024-12-17,0.21,187,45.97,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0217,36,61360958.2,1704471.06,2019-01-19,2024-12-18,0.21,188,46.18,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0447,33,61334243.8,1858613.45,2019-05-16,2024-12-23,0.21,189,46.39,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0146,30,61245406.2,2041513.54,2019-01-20,2024-12-31,0.21,190,46.6,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0228,34,61132479.4,1798014.1,2019-03-27,2024-09-10,0.21,191,46.8,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0189,35,61121980.8,1746342.31,2019-03-03,2024-11-11,0.21,192,47.01,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0015,34,61028370.8,1794952.08,2019-02-18,2024-11-16,0.21,193,47.22,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0327,43,61017008.6,1419000.2,2019-02-01,2024-12-06,0.21,194,47.43,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0056,36,60885469.8,1691263.05,2019-01-08,2024-11-10,0.21,195,47.64,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0004,46,60843242.8,1322679.19,2019-03-21,2024-12-31,0.21,196,47.85,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0161,37,60837361.2,1644253.01,2019-03-24,2024-11-17,0.21,197,48.05,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0273,37,60830001.0,1644054.08,2019-05-04,2024-12-31,0.21,198,48.26,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0409,45,60821412.6,1351586.95,2019-01-19,2024-10-09,0.21,199,48.47,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0024,44,60658309.2,1378597.94,2019-01-22,2024-09-17,0.21,200,48.68,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0026,36,60554977.0,1682082.69,2019-01-09,2024-12-29,0.21,201,48.88,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0251,36,60544705.8,1681797.38,2019-01-09,2024-07-06,0.21,202,49.09,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0235,38,60478356.4,1591535.69,2019-05-08,2024-09-10,0.21,203,49.3,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0085,37,60463527.2,1634149.38,2019-01-01,2024-09-20,0.21,204,49.51,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0319,33,60426895.0,1831118.03,2019-05-16,2024-12-08,0.21,205,49.71,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0481,39,60397194.2,1548646.01,2019-01-03,2024-12-31,0.21,206,49.92,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0335,38,60351028.0,1588184.95,2019-01-31,2024-11-03,0.21,207,50.12,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0365,39,60336743.2,1547095.98,2019-01-04,2024-09-15,0.21,208,50.33,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0286,36,60273490.2,1674263.62,2019-01-06,2024-12-29,0.21,209,50.54,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0259,33,60202150.6,1824307.59,2019-02-02,2024-12-13,0.21,210,50.74,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0140,37,60136648.6,1625314.83,2019-03-18,2024-11-24,0.21,211,50.95,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0408,36,60127186.2,1670199.62,2019-07-06,2024-11-02,0.21,212,51.15,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0130,39,60017312.8,1538905.46,2019-02-17,2024-11-16,0.21,213,51.36,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0219,39,59976015.0,1537846.54,2019-01-09,2024-12-21,0.21,214,51.56,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0021,45,59956738.4,1332371.96,2019-01-16,2024-10-01,0.2,215,51.77,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0410,39,59804309.8,1533443.84,2019-03-03,2024-11-27,0.2,216,51.97,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0065,36,59751563.6,1659765.66,2019-01-07,2024-12-12,0.2,217,52.18,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0086,29,59655682.6,2057092.5,2019-01-12,2024-11-22,0.2,218,52.38,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0175,36,59434888.8,1650969.13,2019-01-24,2024-11-01,0.2,219,52.58,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0051,36,59420710.4,1650575.29,2019-02-15,2024-11-15,0.2,220,52.79,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0358,36,59405501.6,1650152.82,2019-04-17,2024-10-01,0.2,221,52.99,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0211,42,59389779.2,1414042.36,2019-03-06,2024-11-20,0.2,222,53.19,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0399,39,59287998.0,1520205.08,2019-01-03,2024-12-25,0.2,223,53.4,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0453,31,59284873.8,1912415.28,2019-05-25,2024-12-01,0.2,224,53.6,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0017,39,59194497.0,1517807.62,2019-01-31,2024-12-21,0.2,225,53.8,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0485,28,59146123.8,2112361.56,2019-01-14,2024-10-01,0.2,226,54.0,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0280,42,59078520.8,1406631.45,2019-01-12,2024-11-05,0.2,227,54.21,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0310,39,59059490.6,1514345.91,2019-05-30,2024-11-07,0.2,228,54.41,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0055,32,59056095.2,1845502.98,2019-04-01,2024-12-11,0.2,229,54.61,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0131,32,59008448.8,1844014.02,2019-02-21,2024-06-14,0.2,230,54.81,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0355,32,58903770.4,1840742.82,2019-01-03,2024-12-18,0.2,231,55.01,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0158,36,58875735.2,1635437.09,2019-03-03,2024-09-26,0.2,232,55.21,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0256,30,58794725.4,1959824.18,2019-01-03,2024-09-19,0.2,233,55.41,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0314,36,58625243.8,1628478.99,2019-01-22,2024-09-26,0.2,234,55.62,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0106,39,58339475.8,1495883.99,2019-04-07,2024-11-12,0.2,235,55.81,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0030,32,58263942.8,1820748.21,2019-01-30,2024-09-02,0.2,236,56.01,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0401,36,58231157.8,1617532.16,2019-01-11,2024-10-25,0.2,237,56.21,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0023,32,58217713.2,1819303.54,2019-01-05,2024-12-27,0.2,238,56.41,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0424,35,58183379.4,1662382.27,2019-03-22,2024-09-23,0.2,239,56.61,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0029,38,58176890.6,1530970.81,2019-01-16,2024-06-30,0.2,240,56.81,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0173,31,57999777.4,1870960.56,2019-03-29,2024-10-18,0.2,241,57.01,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0093,36,57944235.8,1609562.11,2019-02-13,2024-12-01,0.2,242,57.21,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0227,34,57926647.6,1703724.93,2019-02-13,2024-10-24,0.2,243,57.4,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0064,32,57893888.0,1809184.0,2019-03-21,2024-10-18,0.2,244,57.6,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0047,30,57880918.0,1929363.93,2019-04-06,2024-08-25,0.2,245,57.8,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0077,34,57865492.6,1701926.25,2019-02-05,2024-12-16,0.2,246,58.0,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0236,41,57861179.0,1411248.27,2019-03-21,2024-10-25,0.2,247,58.2,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0398,35,57843305.6,1652665.87,2019-09-10,2024-12-02,0.2,248,58.39,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0038,36,57808311.2,1605786.42,2019-01-08,2024-11-29,0.2,249,58.59,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0436,34,57784314.2,1699538.65,2019-02-01,2024-12-15,0.2,250,58.79,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0477,36,57746038.6,1604056.63,2019-06-12,2024-10-13,0.2,251,58.99,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0357,28,57734552.2,2061948.29,2019-01-05,2024-11-17,0.2,252,59.18,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0367,27,57592654.8,2133061.29,2019-02-28,2024-11-04,0.2,253,59.38,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0232,37,57544368.0,1555253.19,2019-01-24,2024-12-29,0.2,254,59.58,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0068,39,57372766.4,1471096.57,2019-03-11,2024-12-06,0.2,255,59.77,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0290,40,57372288.2,1434307.2,2019-03-04,2024-11-15,0.2,256,59.97,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0088,36,57330201.8,1592505.61,2019-01-26,2024-08-06,0.2,257,60.16,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0172,37,57323600.2,1549286.49,2019-08-18,2024-11-27,0.2,258,60.36,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0426,35,57207251.0,1634492.89,2019-02-20,2024-12-03,0.2,259,60.56,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0105,41,57202879.8,1395192.19,2019-05-25,2024-11-26,0.2,260,60.75,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0011,41,57187490.8,1394816.85,2019-01-03,2024-11-22,0.2,261,60.95,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0222,41,57177978.6,1394584.84,2019-01-30,2024-12-13,0.2,262,61.14,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0445,28,57177744.4,2042062.3,2019-04-04,2024-12-28,0.2,263,61.34,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0433,31,57020323.4,1839365.27,2019-09-11,2024-05-27,0.19,264,61.53,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0073,32,56970903.6,1780340.74,2019-03-23,2024-11-12,0.19,265,61.73,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0296,40,56944680.8,1423617.02,2019-01-02,2024-11-07,0.19,266,61.92,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0059,32,56859509.4,1776859.67,2019-01-21,2024-12-20,0.19,267,62.12,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0058,40,56831525.0,1420788.12,2019-01-23,2024-12-24,0.19,268,62.31,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0195,31,56797913.6,1832190.76,2019-02-15,2024-12-28,0.19,269,62.51,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0022,38,56759064.0,1493659.58,2019-01-13,2024-11-06,0.19,270,62.7,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0461,36,56714684.2,1575407.89,2019-02-27,2024-10-31,0.19,271,62.89,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0354,37,56690884.8,1532186.08,2019-01-06,2024-12-25,0.19,272,63.09,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0349,33,56613876.0,1715572.0,2019-01-31,2024-10-19,0.19,273,63.28,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0052,35,56612172.2,1617490.63,2019-02-12,2024-12-11,0.19,274,63.47,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0457,33,56578805.4,1714509.25,2019-01-13,2024-11-15,0.19,275,63.67,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0245,33,56554752.6,1713780.38,2019-01-01,2024-11-30,0.19,276,63.86,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0080,42,56541324.2,1346222.0,2019-02-20,2024-11-03,0.19,277,64.05,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0099,44,56469516.0,1283398.09,2019-01-10,2024-12-26,0.19,278,64.25,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0081,37,56355210.0,1523113.78,2019-01-03,2024-12-23,0.19,279,64.44,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0190,35,56351528.4,1610043.67,2019-05-15,2024-12-29,0.19,280,64.63,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0397,36,56279511.4,1563319.76,2019-02-11,2024-11-22,0.19,281,64.82,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0050,27,56151044.8,2079668.33,2019-01-11,2024-12-14,0.19,282,65.02,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0098,35,56088743.0,1602535.51,2019-03-14,2024-12-18,0.19,283,65.21,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0111,33,55916542.2,1694440.67,2019-04-09,2024-12-16,0.19,284,65.4,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0449,32,55700286.8,1740633.96,2019-07-19,2024-11-19,0.19,285,65.59,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0095,29,55610118.2,1917590.28,2019-05-21,2024-12-26,0.19,286,65.78,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0067,31,55575120.6,1792745.83,2019-05-29,2024-12-30,0.19,287,65.97,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0157,34,55572804.4,1634494.25,2019-02-15,2024-12-30,0.19,288,66.16,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0260,32,55524668.6,1735145.89,2019-08-24,2024-09-05,0.19,289,66.35,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0463,35,55370560.0,1582016.0,2019-01-10,2024-08-22,0.19,290,66.54,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0072,26,55369763.0,2129606.27,2019-06-15,2024-12-23,0.19,291,66.73,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0171,30,55348450.2,1844948.34,2019-04-27,2024-10-19,0.19,292,66.92,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0450,38,55345960.4,1456472.64,2019-01-15,2024-09-12,0.19,293,67.11,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0287,36,55179366.6,1532760.18,2019-03-22,2024-11-27,0.19,294,67.3,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0001,34,55019747.4,1618227.86,2019-01-26,2024-11-15,0.19,295,67.48,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0472,34,54888819.4,1614377.04,2019-04-29,2024-11-23,0.19,296,67.67,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0148,35,54884128.4,1568117.95,2019-01-28,2024-12-09,0.19,297,67.86,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0124,42,54870405.8,1306438.23,2019-01-11,2024-11-04,0.19,298,68.05,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0346,39,54686860.8,1402227.2,2019-01-21,2024-11-15,0.19,299,68.23,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0493,38,54684935.2,1439077.24,2019-02-18,2024-11-22,0.19,300,68.42,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0360,31,54662201.0,1763296.81,2019-05-25,2024-11-17,0.19,301,68.61,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0274,39,54639688.2,1401017.65,2019-01-08,2024-06-27,0.19,302,68.79,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0407,38,54609453.4,1437090.88,2019-02-01,2024-12-25,0.19,303,68.98,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0434,33,54575670.2,1653808.19,2019-01-05,2024-10-26,0.19,304,69.17,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0321,38,54558976.4,1435762.54,2019-01-04,2024-06-28,0.19,305,69.35,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0364,32,54408370.8,1700261.59,2019-03-14,2024-11-18,0.19,306,69.54,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0188,39,54387524.8,1394551.92,2019-03-04,2024-12-27,0.19,307,69.73,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0027,39,54309976.4,1392563.5,2019-03-25,2024-12-26,0.19,308,69.91,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0330,38,54285450.6,1428564.49,2019-02-12,2024-08-10,0.19,309,70.1,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0223,33,54079206.6,1638763.84,2019-03-01,2024-10-15,0.18,310,70.28,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0224,36,54050072.4,1501390.9,2019-01-30,2024-10-31,0.18,311,70.47,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0066,32,54037060.8,1688658.15,2019-01-29,2024-10-11,0.18,312,70.65,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0285,47,54036327.8,1149709.1,2019-02-11,2024-12-05,0.18,313,70.84,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0370,36,53881174.6,1496699.29,2019-02-18,2024-12-18,0.18,314,71.02,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0203,35,53777085.6,1536488.16,2019-02-25,2024-11-19,0.18,315,71.2,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0040,43,53757984.6,1250185.69,2019-02-23,2024-12-21,0.18,316,71.39,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0320,34,53574056.6,1575707.55,2019-04-01,2024-12-30,0.18,317,71.57,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0363,32,53560072.2,1673752.26,2019-05-10,2024-11-07,0.18,318,71.75,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0442,33,53527848.6,1622056.02,2019-01-28,2024-10-20,0.18,319,71.94,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0210,30,53509817.8,1783660.59,2019-02-20,2024-11-26,0.18,320,72.12,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0362,37,53495189.2,1445815.92,2019-02-26,2024-10-11,0.18,321,72.3,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0220,43,53467975.0,1243441.28,2019-01-19,2024-11-06,0.18,322,72.48,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0012,37,53404468.4,1443364.01,2019-01-28,2024-10-10,0.18,323,72.67,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0035,38,53340276.8,1403691.49,2019-01-07,2024-11-12,0.18,324,72.85,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0427,41,53149424.2,1296327.42,2019-02-07,2024-11-26,0.18,325,73.03,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0181,36,53087081.0,1474641.14,2019-04-13,2024-12-15,0.18,326,73.21,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0325,30,52920013.4,1764000.45,2019-03-03,2024-11-09,0.18,327,73.39,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0372,36,52822436.0,1467289.89,2019-02-15,2024-07-10,0.18,328,73.57,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0486,34,52620254.4,1547654.54,2019-01-01,2024-10-07,0.18,329,73.75,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0361,32,52532617.8,1641644.31,2019-01-15,2024-09-26,0.18,330,73.93,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0324,35,52335374.8,1495296.42,2019-01-24,2024-08-24,0.18,331,74.11,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0338,33,52210070.0,1582123.33,2019-02-01,2024-11-23,0.18,332,74.29,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0376,29,52106248.6,1796767.19,2019-07-01,2024-11-24,0.18,333,74.47,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0446,34,52035543.6,1530457.16,2019-02-03,2024-10-16,0.18,334,74.65,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0096,34,51986858.4,1529025.25,2019-01-02,2024-12-30,0.18,335,74.82,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0417,32,51984530.4,1624516.58,2019-12-18,2024-09-11,0.18,336,75.0,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0205,33,51965845.0,1574722.58,2019-02-07,2024-11-15,0.18,337,75.18,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0090,43,51915256.6,1207331.55,2019-03-16,2024-10-22,0.18,338,75.36,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0368,31,51837532.8,1672178.48,2019-02-17,2024-11-01,0.18,339,75.53,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0400,35,51694363.6,1476981.82,2019-04-06,2024-10-23,0.18,340,75.71,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0231,32,51646725.4,1613960.17,2019-02-21,2024-11-08,0.18,341,75.89,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0497,30,51439335.2,1714644.51,2019-06-12,2024-11-02,0.18,342,76.06,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0133,29,51247358.0,1767150.28,2019-03-27,2024-04-07,0.18,343,76.24,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0393,39,51240981.8,1313871.33,2019-03-27,2024-12-18,0.18,344,76.41,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0444,30,50928809.0,1697626.97,2019-02-25,2024-01-08,0.17,345,76.59,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0348,34,50897650.4,1496989.72,2019-04-15,2024-10-24,0.17,346,76.76,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0458,38,50799400.6,1336826.33,2019-07-09,2024-12-28,0.17,347,76.94,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0405,32,50787823.0,1587119.47,2019-01-30,2024-06-25,0.17,348,77.11,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0266,35,50717014.0,1449057.54,2019-01-22,2024-09-24,0.17,349,77.28,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0378,35,50644577.2,1446987.92,2019-01-19,2024-11-16,0.17,350,77.46,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0214,31,50612095.0,1632648.23,2019-01-12,2024-12-26,0.17,351,77.63,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0031,34,50500841.8,1485318.88,2019-04-11,2024-08-13,0.17,352,77.8,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0345,40,50444735.6,1261118.39,2019-02-21,2024-11-20,0.17,353,77.97,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0074,39,50426138.6,1292977.91,2019-01-10,2024-12-31,0.17,354,78.15,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0202,28,50389917.2,1799639.9,2019-09-19,2024-09-21,0.17,355,78.32,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0167,31,50383279.4,1625267.08,2019-01-03,2024-12-28,0.17,356,78.49,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0087,39,50370513.4,1291551.63,2019-01-22,2024-12-17,0.17,357,78.66,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0308,33,50359329.6,1526040.29,2019-02-19,2024-12-12,0.17,358,78.84,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0120,34,50313583.0,1479811.26,2019-01-02,2024-11-15,0.17,359,79.01,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0323,36,50291498.8,1396986.08,2019-01-11,2024-12-22,0.17,360,79.18,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0289,35,50221149.2,1434889.98,2019-02-07,2024-10-29,0.17,361,79.35,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0075,33,50186853.4,1520813.74,2019-04-17,2024-10-20,0.17,362,79.52,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0159,34,49934036.2,1468648.12,2019-02-02,2024-12-26,0.17,363,79.69,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0233,28,49889164.0,1781755.86,2019-05-29,2024-10-21,0.17,364,79.86,Moderate Contribution,Other Customers,A - Core Revenue,Diversified,Maintain service quality and monitor revenue contribution
+C0451,37,49725150.4,1343922.98,2019-01-07,2024-07-06,0.17,365,80.03,Moderate Contribution,Other Customers,B - Important Revenue,Diversified,Develop targeted growth opportunities
+C0057,32,49701788.6,1553180.89,2019-03-20,2024-12-04,0.17,366,80.2,Moderate Contribution,Other Customers,B - Important Revenue,Diversified,Develop targeted growth opportunities
+C0044,34,49589458.0,1458513.47,2019-01-05,2024-11-17,0.17,367,80.37,Moderate Contribution,Other Customers,B - Important Revenue,Diversified,Develop targeted growth opportunities
+C0048,31,49413459.2,1593982.55,2019-04-05,2024-09-12,0.17,368,80.54,Moderate Contribution,Other Customers,B - Important Revenue,Diversified,Develop targeted growth opportunities
+C0033,30,49354094.2,1645136.47,2019-03-05,2024-12-12,0.17,369,80.71,Moderate Contribution,Other Customers,B - Important Revenue,Diversified,Develop targeted growth opportunities
+C0432,37,49310040.8,1332703.81,2019-01-26,2024-10-04,0.17,370,80.88,Moderate Contribution,Other Customers,B - Important Revenue,Diversified,Develop targeted growth opportunities
+C0018,31,49286607.8,1589890.57,2019-06-10,2024-11-14,0.17,371,81.05,Moderate Contribution,Other Customers,B - Important Revenue,Diversified,Develop targeted growth opportunities
+C0470,36,49194933.2,1366525.92,2019-01-25,2024-09-27,0.17,372,81.22,Moderate Contribution,Other Customers,B - Important Revenue,Diversified,Develop targeted growth opportunities
+C0132,37,49004629.4,1324449.44,2019-02-22,2024-10-01,0.17,373,81.38,Moderate Contribution,Other Customers,B - Important Revenue,Diversified,Develop targeted growth opportunities
+C0127,28,48960650.8,1748594.67,2019-03-01,2024-06-25,0.17,374,81.55,Moderate Contribution,Other Customers,B - Important Revenue,Diversified,Develop targeted growth opportunities
+C0199,33,48930073.4,1482729.5,2019-01-19,2024-10-21,0.17,375,81.72,Moderate Contribution,Other Customers,B - Important Revenue,Diversified,Develop targeted growth opportunities
+C0036,31,48929201.8,1578361.35,2019-06-26,2024-12-18,0.17,376,81.89,Moderate Contribution,Other Customers,B - Important Revenue,Diversified,Develop targeted growth opportunities
+C0386,32,48819152.6,1525598.52,2019-04-23,2024-11-04,0.17,377,82.05,Moderate Contribution,Other Customers,B - Important Revenue,Diversified,Develop targeted growth opportunities
+C0389,30,48796477.0,1626549.23,2019-04-04,2024-11-25,0.17,378,82.22,Moderate Contribution,Other Customers,B - Important Revenue,Diversified,Develop targeted growth opportunities
+C0480,34,48525468.6,1427219.66,2019-01-24,2024-11-24,0.17,379,82.38,Moderate Contribution,Other Customers,B - Important Revenue,Diversified,Develop targeted growth opportunities
+C0114,33,48515792.8,1470175.54,2019-02-09,2024-09-27,0.17,380,82.55,Moderate Contribution,Other Customers,B - Important Revenue,Diversified,Develop targeted growth opportunities
+C0100,38,48373950.0,1272998.68,2019-01-25,2024-09-10,0.17,381,82.72,Moderate Contribution,Other Customers,B - Important Revenue,Diversified,Develop targeted growth opportunities
+C0008,34,48368868.0,1422613.76,2019-03-04,2024-07-16,0.17,382,82.88,Moderate Contribution,Other Customers,B - Important Revenue,Diversified,Develop targeted growth opportunities
+C0494,32,48287535.6,1508985.49,2019-02-25,2024-11-28,0.17,383,83.05,Moderate Contribution,Other Customers,B - Important Revenue,Diversified,Develop targeted growth opportunities
+C0305,31,48238808.8,1556090.61,2019-05-16,2024-11-27,0.16,384,83.21,Moderate Contribution,Other Customers,B - Important Revenue,Diversified,Develop targeted growth opportunities
+C0474,30,48230361.0,1607678.7,2019-01-11,2024-11-07,0.16,385,83.38,Moderate Contribution,Other Customers,B - Important Revenue,Diversified,Develop targeted growth opportunities
+C0313,30,48205237.4,1606841.25,2019-05-28,2024-09-02,0.16,386,83.54,Moderate Contribution,Other Customers,B - Important Revenue,Diversified,Develop targeted growth opportunities
+C0194,33,48202752.8,1460689.48,2019-04-15,2024-12-26,0.16,387,83.71,Moderate Contribution,Other Customers,B - Important Revenue,Diversified,Develop targeted growth opportunities
+C0484,27,48200851.6,1785216.73,2019-01-30,2024-11-10,0.16,388,83.87,Moderate Contribution,Other Customers,B - Important Revenue,Diversified,Develop targeted growth opportunities
+C0496,37,48190097.0,1302435.05,2019-02-17,2024-12-27,0.16,389,84.04,Moderate Contribution,Other Customers,B - Important Revenue,Diversified,Develop targeted growth opportunities
+C0344,28,48151864.0,1719709.43,2019-01-04,2024-06-17,0.16,390,84.2,Moderate Contribution,Other Customers,B - Important Revenue,Diversified,Develop targeted growth opportunities
+C0299,34,48095055.8,1414560.46,2019-01-24,2024-08-30,0.16,391,84.36,Moderate Contribution,Other Customers,B - Important Revenue,Diversified,Develop targeted growth opportunities
+C0465,35,48083241.6,1373806.9,2019-03-12,2024-12-12,0.16,392,84.53,Moderate Contribution,Other Customers,B - Important Revenue,Diversified,Develop targeted growth opportunities
+C0122,31,48051119.4,1550036.11,2019-01-12,2024-11-05,0.16,393,84.69,Moderate Contribution,Other Customers,B - Important Revenue,Diversified,Develop targeted growth opportunities
+C0265,29,47931619.6,1652814.47,2019-02-19,2024-09-27,0.16,394,84.86,Moderate Contribution,Other Customers,B - Important Revenue,Diversified,Develop targeted growth opportunities
+C0043,36,47644638.8,1323462.19,2019-04-04,2024-06-14,0.16,395,85.02,Moderate Contribution,Other Customers,B - Important Revenue,Diversified,Develop targeted growth opportunities
+C0439,36,47576062.0,1321557.28,2019-03-21,2024-12-22,0.16,396,85.18,Moderate Contribution,Other Customers,B - Important Revenue,Diversified,Develop targeted growth opportunities
+C0185,33,47500335.2,1439404.1,2019-03-25,2024-09-16,0.16,397,85.34,Moderate Contribution,Other Customers,B - Important Revenue,Diversified,Develop targeted growth opportunities
+C0097,26,47499351.2,1826898.12,2019-03-22,2024-12-16,0.16,398,85.51,Moderate Contribution,Other Customers,B - Important Revenue,Diversified,Develop targeted growth opportunities
+C0079,31,47175266.2,1521782.78,2019-01-25,2024-11-28,0.16,399,85.67,Moderate Contribution,Other Customers,B - Important Revenue,Diversified,Develop targeted growth opportunities
+C0418,30,47167025.6,1572234.19,2019-03-18,2024-11-14,0.16,400,85.83,Moderate Contribution,Other Customers,B - Important Revenue,Diversified,Develop targeted growth opportunities
+C0387,34,47133318.0,1386274.06,2019-01-02,2024-10-26,0.16,401,85.99,Moderate Contribution,Other Customers,B - Important Revenue,Diversified,Develop targeted growth opportunities
+C0089,37,47111014.0,1273270.65,2019-01-02,2024-11-14,0.16,402,86.15,Moderate Contribution,Other Customers,B - Important Revenue,Diversified,Develop targeted growth opportunities
+C0278,38,47107787.2,1239678.61,2019-08-12,2024-12-03,0.16,403,86.31,Moderate Contribution,Other Customers,B - Important Revenue,Diversified,Develop targeted growth opportunities
+C0391,33,47080496.4,1426681.71,2019-01-14,2024-11-30,0.16,404,86.47,Moderate Contribution,Other Customers,B - Important Revenue,Diversified,Develop targeted growth opportunities
+C0441,31,47045233.8,1517588.19,2019-01-17,2024-10-19,0.16,405,86.63,Moderate Contribution,Other Customers,B - Important Revenue,Diversified,Develop targeted growth opportunities
+C0121,34,47029566.2,1383222.54,2019-01-22,2024-12-01,0.16,406,86.8,Moderate Contribution,Other Customers,B - Important Revenue,Diversified,Develop targeted growth opportunities
+C0226,26,47025541.0,1808674.65,2019-01-22,2024-09-28,0.16,407,86.96,Moderate Contribution,Other Customers,B - Important Revenue,Diversified,Develop targeted growth opportunities
+C0208,30,46904115.8,1563470.53,2019-01-20,2024-12-30,0.16,408,87.12,Moderate Contribution,Other Customers,B - Important Revenue,Diversified,Develop targeted growth opportunities
+C0187,30,46901016.0,1563367.2,2019-05-02,2024-11-08,0.16,409,87.28,Moderate Contribution,Other Customers,B - Important Revenue,Diversified,Develop targeted growth opportunities
+C0423,30,46894840.4,1563161.35,2019-02-25,2024-11-09,0.16,410,87.44,Moderate Contribution,Other Customers,B - Important Revenue,Diversified,Develop targeted growth opportunities
+C0298,33,46771231.0,1417310.03,2019-01-05,2024-11-20,0.16,411,87.6,Moderate Contribution,Other Customers,B - Important Revenue,Diversified,Develop targeted growth opportunities
+C0092,36,46760586.8,1298905.19,2019-01-17,2024-07-30,0.16,412,87.76,Moderate Contribution,Other Customers,B - Important Revenue,Diversified,Develop targeted growth opportunities
+C0267,29,46440405.2,1601393.28,2019-03-07,2024-03-25,0.16,413,87.92,Moderate Contribution,Other Customers,B - Important Revenue,Diversified,Develop targeted growth opportunities
+C0163,38,46377823.0,1220469.03,2019-06-02,2024-08-05,0.16,414,88.07,Moderate Contribution,Other Customers,B - Important Revenue,Diversified,Develop targeted growth opportunities
+C0094,31,46343009.2,1494935.78,2019-01-18,2024-09-20,0.16,415,88.23,Moderate Contribution,Other Customers,B - Important Revenue,Diversified,Develop targeted growth opportunities
+C0281,26,46282268.6,1780087.25,2019-07-26,2024-06-25,0.16,416,88.39,Moderate Contribution,Other Customers,B - Important Revenue,Diversified,Develop targeted growth opportunities
+C0112,33,46248326.6,1401464.44,2019-02-27,2024-12-01,0.16,417,88.55,Moderate Contribution,Other Customers,B - Important Revenue,Diversified,Develop targeted growth opportunities
+C0437,30,46199550.2,1539985.01,2019-02-09,2024-12-21,0.16,418,88.71,Moderate Contribution,Other Customers,B - Important Revenue,Diversified,Develop targeted growth opportunities
+C0404,31,46035794.4,1485025.63,2019-02-10,2024-12-26,0.16,419,88.86,Moderate Contribution,Other Customers,B - Important Revenue,Diversified,Develop targeted growth opportunities
+C0416,37,46006682.0,1243423.84,2019-01-05,2024-10-20,0.16,420,89.02,Moderate Contribution,Other Customers,B - Important Revenue,Diversified,Develop targeted growth opportunities
+C0431,28,45787279.2,1635259.97,2019-06-09,2024-07-05,0.16,421,89.18,Moderate Contribution,Other Customers,B - Important Revenue,Diversified,Develop targeted growth opportunities
+C0136,37,45774176.2,1237139.9,2019-03-23,2024-11-13,0.16,422,89.33,Moderate Contribution,Other Customers,B - Important Revenue,Diversified,Develop targeted growth opportunities
+C0164,36,45625652.8,1267379.24,2019-01-11,2024-11-13,0.16,423,89.49,Moderate Contribution,Other Customers,B - Important Revenue,Diversified,Develop targeted growth opportunities
+C0037,36,45505928.0,1264053.56,2019-06-12,2024-10-25,0.16,424,89.65,Moderate Contribution,Other Customers,B - Important Revenue,Diversified,Develop targeted growth opportunities
+C0316,33,45390754.0,1375477.39,2019-03-08,2024-09-22,0.16,425,89.8,Moderate Contribution,Other Customers,B - Important Revenue,Diversified,Develop targeted growth opportunities
+C0252,34,45321304.6,1332979.55,2019-08-03,2024-10-07,0.15,426,89.96,Moderate Contribution,Other Customers,B - Important Revenue,Diversified,Develop targeted growth opportunities
+C0212,31,45262151.0,1460069.39,2019-02-01,2024-08-23,0.15,427,90.11,Moderate Contribution,Other Customers,B - Important Revenue,Diversified,Develop targeted growth opportunities
+C0248,30,45208412.0,1506947.07,2019-01-10,2024-12-04,0.15,428,90.27,Moderate Contribution,Other Customers,B - Important Revenue,Diversified,Develop targeted growth opportunities
+C0053,27,45016037.4,1667260.64,2019-05-16,2024-09-18,0.15,429,90.42,Moderate Contribution,Other Customers,B - Important Revenue,Diversified,Develop targeted growth opportunities
+C0239,32,44962159.0,1405067.47,2019-10-11,2024-10-27,0.15,430,90.57,Moderate Contribution,Other Customers,B - Important Revenue,Diversified,Develop targeted growth opportunities
+C0430,27,44879330.8,1662197.44,2019-03-08,2024-10-11,0.15,431,90.73,Moderate Contribution,Other Customers,B - Important Revenue,Diversified,Develop targeted growth opportunities
+C0351,34,44776790.6,1316964.43,2019-03-29,2024-09-12,0.15,432,90.88,Moderate Contribution,Other Customers,B - Important Revenue,Diversified,Develop targeted growth opportunities
+C0003,38,44728031.8,1177053.47,2019-04-05,2024-10-30,0.15,433,91.03,Moderate Contribution,Other Customers,B - Important Revenue,Diversified,Develop targeted growth opportunities
+C0143,27,44644618.2,1653504.38,2019-01-11,2024-08-02,0.15,434,91.18,Moderate Contribution,Other Customers,B - Important Revenue,Diversified,Develop targeted growth opportunities
+C0332,35,44566684.4,1273333.84,2019-01-19,2024-11-11,0.15,435,91.34,Moderate Contribution,Other Customers,B - Important Revenue,Diversified,Develop targeted growth opportunities
+C0283,31,44490975.8,1435192.77,2019-04-14,2024-09-04,0.15,436,91.49,Moderate Contribution,Other Customers,B - Important Revenue,Diversified,Develop targeted growth opportunities
+C0500,27,44474866.6,1647217.28,2019-01-06,2024-12-07,0.15,437,91.64,Moderate Contribution,Other Customers,B - Important Revenue,Diversified,Develop targeted growth opportunities
+C0229,28,44419985.8,1586428.06,2019-05-15,2024-11-29,0.15,438,91.79,Moderate Contribution,Other Customers,B - Important Revenue,Diversified,Develop targeted growth opportunities
+C0115,29,44357793.6,1529579.09,2019-05-07,2024-11-28,0.15,439,91.94,Moderate Contribution,Other Customers,B - Important Revenue,Diversified,Develop targeted growth opportunities
+C0218,36,44324901.0,1231247.25,2019-02-02,2024-10-16,0.15,440,92.1,Moderate Contribution,Other Customers,B - Important Revenue,Diversified,Develop targeted growth opportunities
+C0147,30,44007572.2,1466919.07,2019-07-21,2024-12-22,0.15,441,92.25,Moderate Contribution,Other Customers,B - Important Revenue,Diversified,Develop targeted growth opportunities
+C0366,26,43711261.8,1681202.38,2019-03-09,2024-10-26,0.15,442,92.4,Moderate Contribution,Other Customers,B - Important Revenue,Diversified,Develop targeted growth opportunities
+C0277,36,43668914.6,1213025.41,2019-05-28,2024-09-14,0.15,443,92.55,Moderate Contribution,Other Customers,B - Important Revenue,Diversified,Develop targeted growth opportunities
+C0402,35,43498305.2,1242808.72,2019-01-25,2024-07-12,0.15,444,92.69,Moderate Contribution,Other Customers,B - Important Revenue,Diversified,Develop targeted growth opportunities
+C0317,32,43291415.2,1352856.72,2019-01-17,2024-12-25,0.15,445,92.84,Moderate Contribution,Other Customers,B - Important Revenue,Diversified,Develop targeted growth opportunities
+C0412,32,43246987.6,1351468.36,2019-04-20,2024-05-28,0.15,446,92.99,Moderate Contribution,Other Customers,B - Important Revenue,Diversified,Develop targeted growth opportunities
+C0179,32,43222736.0,1350710.5,2019-05-20,2024-07-21,0.15,447,93.14,Moderate Contribution,Other Customers,B - Important Revenue,Diversified,Develop targeted growth opportunities
+C0382,33,42929317.0,1300888.39,2019-04-17,2024-11-19,0.15,448,93.28,Moderate Contribution,Other Customers,B - Important Revenue,Diversified,Develop targeted growth opportunities
+C0137,21,42806442.6,2038402.03,2019-06-13,2024-06-10,0.15,449,93.43,Moderate Contribution,Other Customers,B - Important Revenue,Diversified,Develop targeted growth opportunities
+C0020,37,42586254.6,1150979.85,2019-01-26,2024-10-17,0.15,450,93.58,Moderate Contribution,Other Customers,B - Important Revenue,Diversified,Develop targeted growth opportunities
+C0078,31,42565724.6,1373087.89,2019-01-31,2024-06-22,0.15,451,93.72,Moderate Contribution,Other Customers,B - Important Revenue,Diversified,Develop targeted growth opportunities
+C0019,37,42528118.4,1149408.61,2019-01-19,2024-12-10,0.15,452,93.87,Moderate Contribution,Other Customers,B - Important Revenue,Diversified,Develop targeted growth opportunities
+C0034,32,42477752.2,1327429.76,2019-01-05,2024-10-06,0.15,453,94.01,Moderate Contribution,Other Customers,B - Important Revenue,Diversified,Develop targeted growth opportunities
+C0243,28,42431751.6,1515419.7,2019-11-20,2024-12-10,0.15,454,94.16,Moderate Contribution,Other Customers,B - Important Revenue,Diversified,Develop targeted growth opportunities
+C0104,34,42120081.4,1238825.92,2019-04-06,2024-12-30,0.14,455,94.3,Moderate Contribution,Other Customers,B - Important Revenue,Diversified,Develop targeted growth opportunities
+C0473,26,42018356.8,1616090.65,2019-03-04,2024-11-15,0.14,456,94.44,Moderate Contribution,Other Customers,B - Important Revenue,Diversified,Develop targeted growth opportunities
+C0118,32,41835680.2,1307365.01,2019-02-03,2024-12-10,0.14,457,94.59,Moderate Contribution,Other Customers,B - Important Revenue,Diversified,Develop targeted growth opportunities
+C0454,33,41820500.6,1267287.9,2019-02-08,2024-11-14,0.14,458,94.73,Moderate Contribution,Other Customers,B - Important Revenue,Diversified,Develop targeted growth opportunities
+C0150,30,41608958.8,1386965.29,2019-07-12,2024-11-09,0.14,459,94.87,Moderate Contribution,Other Customers,B - Important Revenue,Diversified,Develop targeted growth opportunities
+C0155,31,41576324.2,1341171.75,2019-11-15,2024-12-17,0.14,460,95.02,Moderate Contribution,Other Customers,C - Long Tail,Diversified,Use scalable retention and cross-selling strategies
+C0014,27,41523847.6,1537920.28,2019-03-05,2024-12-21,0.14,461,95.16,Moderate Contribution,Other Customers,C - Long Tail,Diversified,Use scalable retention and cross-selling strategies
+C0350,32,41227777.0,1288368.03,2019-05-03,2024-11-25,0.14,462,95.3,Moderate Contribution,Other Customers,C - Long Tail,Diversified,Use scalable retention and cross-selling strategies
+C0322,28,40996678.0,1464167.07,2019-04-10,2024-12-10,0.14,463,95.44,Moderate Contribution,Other Customers,C - Long Tail,Diversified,Use scalable retention and cross-selling strategies
+C0182,29,40856091.0,1408830.72,2019-03-03,2024-08-03,0.14,464,95.58,Moderate Contribution,Other Customers,C - Long Tail,Diversified,Use scalable retention and cross-selling strategies
+C0352,30,40262666.2,1342088.87,2019-02-23,2024-11-11,0.14,465,95.72,Moderate Contribution,Other Customers,C - Long Tail,Diversified,Use scalable retention and cross-selling strategies
+C0339,24,40193008.4,1674708.68,2019-05-01,2024-08-16,0.14,466,95.85,Moderate Contribution,Other Customers,C - Long Tail,Diversified,Use scalable retention and cross-selling strategies
+C0452,35,40090449.2,1145441.41,2019-03-05,2024-12-27,0.14,467,95.99,Moderate Contribution,Other Customers,C - Long Tail,Diversified,Use scalable retention and cross-selling strategies
+C0204,31,39880662.0,1286472.97,2019-05-20,2024-12-08,0.14,468,96.13,Moderate Contribution,Other Customers,C - Long Tail,Diversified,Use scalable retention and cross-selling strategies
+C0144,25,39589546.2,1583581.85,2019-04-02,2024-08-23,0.14,469,96.26,Moderate Contribution,Other Customers,C - Long Tail,Diversified,Use scalable retention and cross-selling strategies
+C0151,27,39556960.6,1465072.61,2019-03-03,2024-11-28,0.14,470,96.4,Moderate Contribution,Other Customers,C - Long Tail,Diversified,Use scalable retention and cross-selling strategies
+C0487,26,39512216.0,1519700.62,2019-03-08,2024-03-18,0.14,471,96.53,Moderate Contribution,Other Customers,C - Long Tail,Diversified,Use scalable retention and cross-selling strategies
+C0388,27,39389408.6,1458866.99,2019-03-21,2024-12-12,0.13,472,96.67,Moderate Contribution,Other Customers,C - Long Tail,Diversified,Use scalable retention and cross-selling strategies
+C0336,33,39095696.4,1184718.07,2019-04-29,2024-09-26,0.13,473,96.8,Moderate Contribution,Other Customers,C - Long Tail,Diversified,Use scalable retention and cross-selling strategies
+C0091,30,39090471.8,1303015.73,2019-01-09,2024-09-07,0.13,474,96.93,Moderate Contribution,Other Customers,C - Long Tail,Diversified,Use scalable retention and cross-selling strategies
+C0117,31,38951277.4,1256492.82,2019-01-01,2024-08-12,0.13,475,97.07,Moderate Contribution,Other Customers,C - Long Tail,Diversified,Use scalable retention and cross-selling strategies
+C0170,27,38882680.4,1440099.27,2019-03-21,2024-12-20,0.13,476,97.2,Moderate Contribution,Other Customers,C - Long Tail,Diversified,Use scalable retention and cross-selling strategies
+C0392,31,38571708.8,1244248.67,2019-02-11,2024-12-12,0.13,477,97.33,Moderate Contribution,Other Customers,C - Long Tail,Diversified,Use scalable retention and cross-selling strategies
+C0028,29,38208624.0,1317538.76,2019-01-22,2024-11-13,0.13,478,97.46,Moderate Contribution,Other Customers,C - Long Tail,Diversified,Use scalable retention and cross-selling strategies
+C0309,31,38065991.6,1227935.21,2019-03-04,2024-12-17,0.13,479,97.59,Moderate Contribution,Other Customers,C - Long Tail,Diversified,Use scalable retention and cross-selling strategies
+C0271,24,37757473.8,1573228.08,2019-06-05,2024-11-26,0.13,480,97.72,Moderate Contribution,Other Customers,C - Long Tail,Diversified,Use scalable retention and cross-selling strategies
+C0479,26,37716131.0,1450620.42,2019-02-22,2024-10-08,0.13,481,97.85,Moderate Contribution,Other Customers,C - Long Tail,Diversified,Use scalable retention and cross-selling strategies
+C0334,33,37526956.6,1137180.5,2019-01-03,2024-08-24,0.13,482,97.98,Moderate Contribution,Other Customers,C - Long Tail,Diversified,Use scalable retention and cross-selling strategies
+C0139,29,37337910.0,1287514.14,2019-03-13,2024-10-31,0.13,483,98.11,Moderate Contribution,Other Customers,C - Long Tail,Diversified,Use scalable retention and cross-selling strategies
+C0238,30,36717219.2,1223907.31,2019-01-22,2024-03-25,0.13,484,98.23,Moderate Contribution,Other Customers,C - Long Tail,Diversified,Use scalable retention and cross-selling strategies
+C0262,26,36628894.0,1408803.62,2019-02-26,2024-12-04,0.13,485,98.36,Moderate Contribution,Other Customers,C - Long Tail,Diversified,Use scalable retention and cross-selling strategies
+C0007,31,36509378.2,1177721.88,2019-05-08,2024-11-03,0.12,486,98.48,Moderate Contribution,Other Customers,C - Long Tail,Diversified,Use scalable retention and cross-selling strategies
+C0177,28,35762840.4,1277244.3,2019-04-01,2024-12-25,0.12,487,98.6,Moderate Contribution,Other Customers,C - Long Tail,Diversified,Use scalable retention and cross-selling strategies
+C0279,26,35292218.0,1357393.0,2019-05-12,2024-11-12,0.12,488,98.72,Moderate Contribution,Other Customers,C - Long Tail,Diversified,Use scalable retention and cross-selling strategies
+C0145,33,34445949.4,1043816.65,2019-04-01,2024-12-29,0.12,489,98.84,Moderate Contribution,Other Customers,C - Long Tail,Diversified,Use scalable retention and cross-selling strategies
+C0061,29,33890240.0,1168628.97,2019-01-29,2024-09-08,0.12,490,98.96,Moderate Contribution,Other Customers,C - Long Tail,Diversified,Use scalable retention and cross-selling strategies
+C0303,27,32465859.6,1202439.24,2019-04-05,2024-12-01,0.11,491,99.07,Moderate Contribution,Other Customers,C - Long Tail,Diversified,Use scalable retention and cross-selling strategies
+C0183,27,32313901.0,1196811.15,2019-02-03,2024-12-05,0.11,492,99.18,Moderate Contribution,Other Customers,C - Long Tail,Diversified,Use scalable retention and cross-selling strategies
+C0353,27,31979908.6,1184441.06,2019-01-16,2024-10-08,0.11,493,99.29,Moderate Contribution,Other Customers,C - Long Tail,Diversified,Use scalable retention and cross-selling strategies
+C0125,30,31904862.6,1063495.42,2019-02-17,2024-12-09,0.11,494,99.4,Moderate Contribution,Other Customers,C - Long Tail,Diversified,Use scalable retention and cross-selling strategies
+C0456,27,31514609.0,1167207.74,2019-02-23,2024-10-16,0.11,495,99.51,Moderate Contribution,Other Customers,C - Long Tail,Diversified,Use scalable retention and cross-selling strategies
+C0108,24,31126705.0,1296946.04,2019-01-03,2024-12-29,0.11,496,99.61,Moderate Contribution,Other Customers,C - Long Tail,Diversified,Use scalable retention and cross-selling strategies
+C0292,27,30979627.8,1147393.62,2019-01-11,2024-04-28,0.11,497,99.72,Moderate Contribution,Other Customers,C - Long Tail,Diversified,Use scalable retention and cross-selling strategies
+C0180,27,30093537.8,1114575.47,2019-01-04,2024-12-10,0.1,498,99.82,Moderate Contribution,Other Customers,C - Long Tail,Diversified,Use scalable retention and cross-selling strategies
+C0174,29,29793255.0,1027353.62,2019-01-11,2024-12-03,0.1,499,99.92,Moderate Contribution,Other Customers,C - Long Tail,Diversified,Use scalable retention and cross-selling strategies
+C0347,24,22536660.4,939027.52,2019-03-04,2024-12-03,0.08,500,100.0,Low Contribution,Other Customers,C - Long Tail,Diversified,Use scalable retention and cross-selling strategies

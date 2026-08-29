@@ -1,0 +1,501 @@
+customer_id,customer_type,industry_segment,region,delivered_order_count,total_revenue,average_order_value,unique_sales_channels,preferred_sales_channel,preferred_channel_orders,preferred_channel_revenue,preferred_channel_revenue_share_pct,channel_diversification_class,channel_preference_class
+C0001,Retail,Construction,East,34,55019747.4,1618227.8647058823,4,Field Sales,10,16385468.8,29.78,Multi-Channel Customer,No Sales
+C0002,Fleet Owner,Manufacturing,South,51,71712838.0,1406134.0784313725,4,Field Sales,18,26996855.8,37.65,Multi-Channel Customer,No Sales
+C0003,Government,Logistics,West,38,44728031.8,1177053.4684210524,4,Counter Sale,13,20963210.4,46.87,Multi-Channel Customer,Counter Sale Preferred
+C0004,Fleet Owner,Logistics,South,46,60843242.8,1322679.1913043477,4,Counter Sale,13,19779035.2,32.51,Multi-Channel Customer,Counter Sale Preferred
+C0005,Dealer,Construction,West,45,74996415.4,1666587.008888889,4,Counter Sale,15,29690072.400000002,39.59,Multi-Channel Customer,Counter Sale Preferred
+C0006,Government,Construction,West,40,65482805.4,1637070.135,4,Dealer Network,14,24814420.8,37.89,Multi-Channel Customer,Dealer Network Preferred
+C0007,Corporate,Manufacturing,West,31,36509378.2,1177721.8774193549,4,Counter Sale,7,15304462.6,41.92,Multi-Channel Customer,Counter Sale Preferred
+C0008,Corporate,Logistics,West,34,48368868.0,1422613.7647058824,4,Online,14,21069559.6,43.56,Multi-Channel Customer,Online Preferred
+C0009,Corporate,Rental,West,34,68836324.8,2024597.788235294,4,Field Sales,10,28039680.2,40.73,Multi-Channel Customer,No Sales
+C0010,Dealer,Construction,South,46,63051038.4,1370674.7478260868,4,Dealer Network,16,26907097.6,42.68,Multi-Channel Customer,Dealer Network Preferred
+C0011,Retail,Infrastructure,West,41,57187490.8,1394816.8487804877,4,Field Sales,13,19420888.8,33.96,Multi-Channel Customer,No Sales
+C0012,Fleet Owner,Logistics,South,37,53404468.4,1443364.0108108108,4,Counter Sale,8,17067669.2,31.96,Multi-Channel Customer,Counter Sale Preferred
+C0013,Dealer,Construction,West,44,76843692.4,1746447.5545454547,4,Field Sales,11,25911212.6,33.72,Multi-Channel Customer,No Sales
+C0014,Fleet Owner,Construction,East,27,41523847.6,1537920.2814814816,4,Dealer Network,9,16297846.8,39.25,Multi-Channel Customer,Dealer Network Preferred
+C0015,Government,Rental,West,34,61028370.8,1794952.0823529412,4,Counter Sale,12,20292512.8,33.25,Multi-Channel Customer,Counter Sale Preferred
+C0016,Government,Rental,East,35,70872336.2,2024923.8914285714,4,Dealer Network,11,23047389.8,32.52,Multi-Channel Customer,Dealer Network Preferred
+C0017,Government,Infrastructure,South,39,59194497.0,1517807.6153846155,4,Online,13,20090790.8,33.94,Multi-Channel Customer,Online Preferred
+C0018,Retail,Construction,West,31,49286607.8,1589890.5741935482,4,Field Sales,10,20235807.6,41.06,Multi-Channel Customer,No Sales
+C0019,Government,Logistics,East,37,42528118.4,1149408.6054054054,4,Online,10,13206318.6,31.05,Multi-Channel Customer,Online Preferred
+C0020,Dealer,Logistics,East,37,42586254.6,1150979.854054054,4,Dealer Network,14,19332225.400000002,45.4,Multi-Channel Customer,Dealer Network Preferred
+C0021,Corporate,Mining,South,45,59956738.4,1332371.9644444445,4,Field Sales,17,27840038.8,46.43,Multi-Channel Customer,No Sales
+C0022,Retail,Infrastructure,South,38,56759064.0,1493659.5789473683,4,Dealer Network,13,19957052.8,35.16,Multi-Channel Customer,Dealer Network Preferred
+C0023,Corporate,Mining,South,32,58217713.2,1819303.5375,4,Dealer Network,10,19564137.4,33.61,Multi-Channel Customer,Dealer Network Preferred
+C0024,Dealer,Rental,South,44,60658309.2,1378597.9363636365,4,Online,18,38119151.4,62.84,Multi-Channel Customer,Online Preferred
+C0025,Corporate,Infrastructure,West,38,70349653.0,1851306.6578947369,4,Counter Sale,9,23375798.4,33.23,Multi-Channel Customer,Counter Sale Preferred
+C0026,Fleet Owner,Mining,North,36,60554977.0,1682082.6944444445,4,Online,12,22734310.4,37.54,Multi-Channel Customer,Online Preferred
+C0027,Fleet Owner,Logistics,West,39,54309976.4,1392563.4974358974,4,Counter Sale,14,20430606.6,37.62,Multi-Channel Customer,Counter Sale Preferred
+C0028,Retail,Infrastructure,South,29,38208624.0,1317538.7586206896,4,Counter Sale,7,13066863.399999999,34.2,Multi-Channel Customer,Counter Sale Preferred
+C0029,Dealer,Construction,South,38,58176890.6,1530970.805263158,4,Counter Sale,14,23322942.0,40.09,Multi-Channel Customer,Counter Sale Preferred
+C0030,Corporate,Construction,South,32,58263942.8,1820748.2125,4,Dealer Network,10,26494110.0,45.47,Multi-Channel Customer,Dealer Network Preferred
+C0031,Government,Mining,East,34,50500841.8,1485318.8764705881,4,Dealer Network,14,22846260.4,45.24,Multi-Channel Customer,Dealer Network Preferred
+C0032,Government,Logistics,West,44,71991263.0,1636165.0681818181,4,Field Sales,15,27466224.8,38.15,Multi-Channel Customer,No Sales
+C0033,Government,Mining,South,30,49354094.2,1645136.4733333334,4,Dealer Network,9,16886348.2,34.21,Multi-Channel Customer,Dealer Network Preferred
+C0034,Government,Construction,West,32,42477752.2,1327429.75625,4,Field Sales,10,18911597.4,44.52,Multi-Channel Customer,No Sales
+C0035,Dealer,Infrastructure,Central,38,53340276.800000004,1403691.494736842,4,Field Sales,10,17134245.8,32.12,Multi-Channel Customer,No Sales
+C0036,Fleet Owner,Construction,East,31,48929201.8,1578361.3483870968,4,Counter Sale,12,16157282.6,33.02,Multi-Channel Customer,Counter Sale Preferred
+C0037,Corporate,Construction,West,36,45505928.0,1264053.5555555555,4,Online,12,16919241.0,37.18,Multi-Channel Customer,Online Preferred
+C0038,Fleet Owner,Rental,North,36,57808311.2,1605786.4222222222,4,Dealer Network,16,33522777.6,57.99,Multi-Channel Customer,Dealer Network Preferred
+C0039,Fleet Owner,Rental,South,38,62706510.2,1650171.3210526316,4,Field Sales,9,20494240.4,32.68,Multi-Channel Customer,No Sales
+C0040,Government,Logistics,North,43,53757984.6,1250185.688372093,4,Counter Sale,15,21921638.8,40.78,Multi-Channel Customer,Counter Sale Preferred
+C0041,Government,Rental,South,38,68044561.6,1790646.3578947366,4,Online,12,20131896.2,29.59,Multi-Channel Customer,Online Preferred
+C0042,Fleet Owner,Rental,South,41,73882726.2,1802017.712195122,4,Counter Sale,14,27407469.4,37.1,Multi-Channel Customer,Counter Sale Preferred
+C0043,Corporate,Construction,South,36,47644638.800000004,1323462.188888889,4,Dealer Network,15,18345886.4,38.51,Multi-Channel Customer,Dealer Network Preferred
+C0044,Government,Mining,West,34,49589458.0,1458513.4705882352,4,Online,13,17263353.4,34.81,Multi-Channel Customer,Online Preferred
+C0045,Corporate,Rental,East,42,75275350.60000001,1792270.2523809527,4,Field Sales,13,25792941.6,34.26,Multi-Channel Customer,No Sales
+C0046,Retail,Rental,West,46,87078641.0,1893013.9347826086,4,Counter Sale,12,27656064.2,31.76,Multi-Channel Customer,Counter Sale Preferred
+C0047,Corporate,Rental,West,30,57880918.0,1929363.9333333333,4,Dealer Network,13,27536519.4,47.57,Multi-Channel Customer,Dealer Network Preferred
+C0048,Dealer,Mining,South,31,49413459.2,1593982.5548387098,4,Online,11,19623231.6,39.71,Multi-Channel Customer,Online Preferred
+C0049,Dealer,Manufacturing,South,39,82316206.2,2110671.953846154,4,Online,13,27592913.8,33.52,Multi-Channel Customer,Online Preferred
+C0050,Dealer,Mining,East,27,56151044.8,2079668.3259259257,4,Field Sales,10,19554015.6,34.82,Multi-Channel Customer,No Sales
+C0051,Retail,Infrastructure,North,36,59420710.4,1650575.288888889,4,Dealer Network,11,21283580.8,35.82,Multi-Channel Customer,Dealer Network Preferred
+C0052,Government,Manufacturing,North East,35,56612172.2,1617490.6342857145,4,Counter Sale,8,19836844.4,35.04,Multi-Channel Customer,Counter Sale Preferred
+C0053,Fleet Owner,Construction,North,27,45016037.4,1667260.6444444444,4,Online,5,16109499.2,35.79,Multi-Channel Customer,Online Preferred
+C0054,Fleet Owner,Manufacturing,South,37,63424926.8,1714187.2108108108,4,Online,13,23461035.8,36.99,Multi-Channel Customer,Online Preferred
+C0055,Dealer,Construction,North,32,59056095.2,1845502.975,4,Dealer Network,10,18654453.0,31.59,Multi-Channel Customer,Dealer Network Preferred
+C0056,Dealer,Mining,North,36,60885469.8,1691263.0499999998,4,Field Sales,9,21185644.8,34.8,Multi-Channel Customer,No Sales
+C0057,Retail,Logistics,East,32,49701788.6,1553180.89375,4,Field Sales,14,18276774.0,36.77,Multi-Channel Customer,No Sales
+C0058,Retail,Infrastructure,West,40,56831525.0,1420788.125,4,Dealer Network,11,17891759.2,31.48,Multi-Channel Customer,Dealer Network Preferred
+C0059,Retail,Manufacturing,South,32,56859509.4,1776859.66875,4,Online,10,19722731.0,34.69,Multi-Channel Customer,Online Preferred
+C0060,Dealer,Mining,South,44,77163010.4,1753704.781818182,4,Dealer Network,12,23361555.6,30.28,Multi-Channel Customer,Dealer Network Preferred
+C0061,Dealer,Construction,West,29,33890240.0,1168628.9655172413,4,Counter Sale,10,13951601.0,41.17,Multi-Channel Customer,Counter Sale Preferred
+C0062,Dealer,Construction,South,36,78963082.0,2193418.9444444445,4,Dealer Network,10,34651653.199999996,43.88,Multi-Channel Customer,Dealer Network Preferred
+C0063,Retail,Rental,North,38,72065344.4,1896456.4315789475,4,Counter Sale,11,28376161.8,39.38,Multi-Channel Customer,Counter Sale Preferred
+C0064,Corporate,Manufacturing,North,32,57893888.0,1809184.0,4,Dealer Network,12,21604848.0,37.32,Multi-Channel Customer,Dealer Network Preferred
+C0065,Corporate,Mining,West,36,59751563.6,1659765.6555555556,4,Dealer Network,14,25071323.2,41.96,Multi-Channel Customer,Dealer Network Preferred
+C0066,Retail,Manufacturing,Central,32,54037060.800000004,1688658.1500000001,4,Counter Sale,10,18266774.6,33.8,Multi-Channel Customer,Counter Sale Preferred
+C0067,Retail,Manufacturing,West,31,55575120.6,1792745.8258064517,4,Dealer Network,9,21168760.8,38.09,Multi-Channel Customer,Dealer Network Preferred
+C0068,Retail,Mining,North,39,57372766.4,1471096.5743589744,4,Field Sales,14,27773060.0,48.41,Multi-Channel Customer,No Sales
+C0069,Dealer,Logistics,North,47,77108269.8,1640601.485106383,4,Dealer Network,16,27235501.0,35.32,Multi-Channel Customer,Dealer Network Preferred
+C0070,Government,Logistics,West,41,76883391.4,1875204.668292683,4,Field Sales,12,29710133.8,38.64,Multi-Channel Customer,No Sales
+C0071,Corporate,Rental,North,42,72076738.0,1716112.8095238095,4,Field Sales,10,25559639.0,35.46,Multi-Channel Customer,No Sales
+C0072,Government,Logistics,West,26,55369763.0,2129606.269230769,4,Dealer Network,6,17905813.6,32.34,Multi-Channel Customer,Dealer Network Preferred
+C0073,Corporate,Rental,North,32,56970903.6,1780340.7375,4,Online,10,24226573.8,42.52,Multi-Channel Customer,Online Preferred
+C0074,Fleet Owner,Infrastructure,East,39,50426138.6,1292977.912820513,4,Dealer Network,9,16056012.200000001,31.84,Multi-Channel Customer,Dealer Network Preferred
+C0075,Retail,Mining,South,33,50186853.4,1520813.7393939393,4,Counter Sale,11,17170588.6,34.21,Multi-Channel Customer,Counter Sale Preferred
+C0076,Government,Mining,South,45,80026994.2,1778377.648888889,4,Dealer Network,13,26485648.6,33.1,Multi-Channel Customer,Dealer Network Preferred
+C0077,Corporate,Mining,North,34,57865492.6,1701926.2529411765,4,Field Sales,13,21347305.8,36.89,Multi-Channel Customer,No Sales
+C0078,Dealer,Rental,South,31,42565724.6,1373087.8903225807,4,Online,5,13303612.8,31.25,Multi-Channel Customer,Online Preferred
+C0079,Retail,Rental,North,31,47175266.2,1521782.7806451614,4,Field Sales,8,14164024.8,30.02,Multi-Channel Customer,No Sales
+C0080,Retail,Mining,South,42,56541324.2,1346222.004761905,4,Online,15,24603043.8,43.51,Multi-Channel Customer,Online Preferred
+C0081,Corporate,Rental,West,37,56355210.0,1523113.7837837837,4,Field Sales,13,22089813.8,39.2,Multi-Channel Customer,No Sales
+C0082,Fleet Owner,Manufacturing,West,46,77500928.6,1684802.7956521737,4,Counter Sale,17,23705564.8,30.59,Multi-Channel Customer,Counter Sale Preferred
+C0083,Dealer,Infrastructure,North,45,89672688.2,1992726.4044444445,4,Dealer Network,15,31306767.6,34.91,Multi-Channel Customer,Dealer Network Preferred
+C0084,Corporate,Logistics,West,39,73317161.4,1879927.2153846156,4,Field Sales,19,30238196.2,41.24,Multi-Channel Customer,No Sales
+C0085,Retail,Mining,South,37,60463527.2,1634149.3837837838,4,Counter Sale,13,22473488.0,37.17,Multi-Channel Customer,Counter Sale Preferred
+C0086,Retail,Construction,West,29,59655682.6,2057092.5034482758,4,Online,10,25215413.0,42.27,Multi-Channel Customer,Online Preferred
+C0087,Government,Logistics,South,39,50370513.4,1291551.6256410256,4,Counter Sale,9,16152971.8,32.07,Multi-Channel Customer,Counter Sale Preferred
+C0088,Corporate,Infrastructure,West,36,57330201.8,1592505.6055555556,4,Counter Sale,12,25195052.8,43.95,Multi-Channel Customer,Counter Sale Preferred
+C0089,Corporate,Rental,West,37,47111014.0,1273270.6486486488,4,Counter Sale,12,16586365.2,35.21,Multi-Channel Customer,Counter Sale Preferred
+C0090,Government,Infrastructure,North,43,51915256.6,1207331.5488372094,4,Dealer Network,14,16328928.2,31.45,Multi-Channel Customer,Dealer Network Preferred
+C0091,Retail,Construction,South,30,39090471.8,1303015.7266666666,4,Dealer Network,7,13319515.4,34.07,Multi-Channel Customer,Dealer Network Preferred
+C0092,Fleet Owner,Logistics,West,36,46760586.8,1298905.1888888888,4,Counter Sale,13,20128335.2,43.05,Multi-Channel Customer,Counter Sale Preferred
+C0093,Dealer,Manufacturing,South,36,57944235.8,1609562.1055555556,4,Field Sales,11,20925068.0,36.11,Multi-Channel Customer,No Sales
+C0094,Corporate,Logistics,West,31,46343009.2,1494935.7806451614,4,Online,8,15407584.0,33.25,Multi-Channel Customer,Online Preferred
+C0095,Fleet Owner,Logistics,West,29,55610118.2,1917590.2827586208,4,Online,6,16948158.4,30.48,Multi-Channel Customer,Online Preferred
+C0096,Corporate,Construction,South,34,51986858.4,1529025.2470588235,4,Field Sales,14,18522105.8,35.63,Multi-Channel Customer,No Sales
+C0097,Corporate,Construction,West,26,47499351.2,1826898.1230769232,4,Field Sales,10,21198269.4,44.63,Multi-Channel Customer,No Sales
+C0098,Corporate,Mining,East,35,56088743.0,1602535.5142857144,4,Counter Sale,9,18844962.4,33.6,Multi-Channel Customer,Counter Sale Preferred
+C0099,Fleet Owner,Rental,South,44,56469516.0,1283398.0909090908,4,Online,13,19545775.2,34.61,Multi-Channel Customer,Online Preferred
+C0100,Government,Construction,North,38,48373950.0,1272998.6842105263,4,Counter Sale,15,20939956.4,43.29,Multi-Channel Customer,Counter Sale Preferred
+C0101,Corporate,Logistics,South,38,62629058.6,1648133.1210526316,4,Field Sales,14,26206821.8,41.84,Multi-Channel Customer,No Sales
+C0102,Government,Infrastructure,East,34,71864051.2,2113648.564705882,4,Field Sales,9,23444620.8,32.62,Multi-Channel Customer,No Sales
+C0103,Dealer,Infrastructure,South,40,75304293.2,1882607.33,4,Field Sales,10,22685889.2,30.13,Multi-Channel Customer,No Sales
+C0104,Fleet Owner,Infrastructure,South,34,42120081.4,1238825.9235294117,4,Counter Sale,9,16482303.8,39.13,Multi-Channel Customer,Counter Sale Preferred
+C0105,Government,Logistics,North,41,57202879.8,1395192.1902439024,4,Counter Sale,15,22796747.4,39.85,Multi-Channel Customer,Counter Sale Preferred
+C0106,Dealer,Infrastructure,Central,39,58339475.8,1495883.9948717947,4,Dealer Network,13,21076370.6,36.13,Multi-Channel Customer,Dealer Network Preferred
+C0107,Fleet Owner,Construction,North,49,85196217.6,1738698.318367347,4,Field Sales,18,26550606.6,31.16,Multi-Channel Customer,No Sales
+C0108,Corporate,Rental,North,24,31126705.0,1296946.0416666667,4,Dealer Network,7,12079796.2,38.81,Multi-Channel Customer,Dealer Network Preferred
+C0109,Retail,Mining,South,44,69451949.0,1578453.3863636365,4,Counter Sale,12,23168826.0,33.36,Multi-Channel Customer,Counter Sale Preferred
+C0110,Dealer,Logistics,Central,42,90807306.0,2162078.714285714,4,Dealer Network,15,29999886.8,33.04,Multi-Channel Customer,Dealer Network Preferred
+C0111,Corporate,Construction,South,33,55916542.2,1694440.6727272728,4,Dealer Network,14,28027032.2,50.12,Multi-Channel Customer,Dealer Network Preferred
+C0112,Fleet Owner,Mining,South,33,46248326.6,1401464.4424242424,4,Field Sales,11,16744383.4,36.21,Multi-Channel Customer,No Sales
+C0113,Corporate,Logistics,South,41,78713400.0,1919839.024390244,4,Online,13,25338348.4,32.19,Multi-Channel Customer,Online Preferred
+C0114,Retail,Mining,East,33,48515792.8,1470175.5393939393,4,Dealer Network,13,15729885.6,32.42,Multi-Channel Customer,Dealer Network Preferred
+C0115,Fleet Owner,Mining,South,29,44357793.6,1529579.0896551725,4,Dealer Network,10,17153986.8,38.67,Multi-Channel Customer,Dealer Network Preferred
+C0116,Dealer,Construction,North,35,64081942.6,1830912.6457142858,4,Dealer Network,13,27433326.0,42.81,Multi-Channel Customer,Dealer Network Preferred
+C0117,Government,Mining,North East,31,38951277.4,1256492.8193548387,4,Dealer Network,9,12509080.2,32.11,Multi-Channel Customer,Dealer Network Preferred
+C0118,Retail,Rental,South,32,41835680.2,1307365.00625,4,Dealer Network,11,16812260.0,40.19,Multi-Channel Customer,Dealer Network Preferred
+C0119,Government,Manufacturing,West,51,67143205.2,1316533.4352941178,4,Dealer Network,21,27815643.0,41.43,Multi-Channel Customer,Dealer Network Preferred
+C0120,Fleet Owner,Construction,South,34,50313583.0,1479811.2647058824,4,Field Sales,14,20046812.8,39.84,Multi-Channel Customer,No Sales
+C0121,Government,Construction,West,34,47029566.199999996,1383222.5352941174,4,Dealer Network,11,18528233.0,39.4,Multi-Channel Customer,Dealer Network Preferred
+C0122,Dealer,Rental,North East,31,48051119.4,1550036.1096774193,4,Field Sales,11,20926264.6,43.55,Multi-Channel Customer,No Sales
+C0123,Corporate,Infrastructure,East,36,70019319.0,1944981.0833333333,4,Dealer Network,10,25484967.8,36.4,Multi-Channel Customer,Dealer Network Preferred
+C0124,Dealer,Construction,West,42,54870405.8,1306438.2333333332,4,Field Sales,17,20437698.8,37.25,Multi-Channel Customer,No Sales
+C0125,Government,Mining,West,30,31904862.6,1063495.4200000002,4,Counter Sale,11,13021774.2,40.81,Multi-Channel Customer,Counter Sale Preferred
+C0126,Dealer,Manufacturing,South,33,64059034.8,1941182.8727272726,4,Counter Sale,7,22713660.400000002,35.46,Multi-Channel Customer,Counter Sale Preferred
+C0127,Government,Construction,East,28,48960650.8,1748594.6714285712,4,Online,10,15781834.6,32.23,Multi-Channel Customer,Online Preferred
+C0128,Retail,Mining,West,33,69172996.2,2096151.4000000001,4,Counter Sale,13,30319993.0,43.83,Multi-Channel Customer,Counter Sale Preferred
+C0129,Corporate,Mining,North,36,76393252.6,2122034.794444444,4,Dealer Network,15,33609002.8,43.99,Multi-Channel Customer,Dealer Network Preferred
+C0130,Government,Mining,West,39,60017312.8,1538905.4564102564,4,Online,12,20685110.2,34.47,Multi-Channel Customer,Online Preferred
+C0131,Corporate,Rental,South,32,59008448.8,1844014.025,4,Online,10,18946922.8,32.11,Multi-Channel Customer,Online Preferred
+C0132,Corporate,Construction,Central,37,49004629.4,1324449.4432432433,4,Dealer Network,12,18480526.6,37.71,Multi-Channel Customer,Dealer Network Preferred
+C0133,Government,Mining,South,29,51247358.0,1767150.2758620689,4,Online,9,15414281.2,30.08,Multi-Channel Customer,Online Preferred
+C0134,Fleet Owner,Infrastructure,West,48,85243025.2,1775896.3583333334,4,Online,16,34324997.6,40.27,Multi-Channel Customer,Online Preferred
+C0135,Retail,Rental,South,35,62791824.6,1794052.1314285714,4,Dealer Network,11,30183363.4,48.07,Multi-Channel Customer,Dealer Network Preferred
+C0136,Dealer,Mining,West,37,45774176.2,1237139.8972972974,4,Field Sales,14,23245912.6,50.78,Multi-Channel Customer,No Sales
+C0137,Dealer,Infrastructure,South,21,42806442.6,2038402.0285714287,4,Dealer Network,7,20671128.6,48.29,Multi-Channel Customer,Dealer Network Preferred
+C0138,Corporate,Mining,South,34,62582651.4,1840666.217647059,4,Counter Sale,7,21286084.6,34.01,Multi-Channel Customer,Counter Sale Preferred
+C0139,Government,Mining,West,29,37337910.0,1287514.1379310344,4,Counter Sale,9,13101504.4,35.09,Multi-Channel Customer,Counter Sale Preferred
+C0140,Retail,Logistics,West,37,60136648.6,1625314.827027027,4,Counter Sale,11,25578412.4,42.53,Multi-Channel Customer,Counter Sale Preferred
+C0141,Corporate,Rental,West,36,66220737.2,1839464.9222222222,4,Field Sales,12,26430358.8,39.91,Multi-Channel Customer,No Sales
+C0142,Retail,Manufacturing,West,45,84828043.0,1885067.6222222222,4,Online,12,32019171.6,37.75,Multi-Channel Customer,Online Preferred
+C0143,Corporate,Infrastructure,South,27,44644618.2,1653504.3777777778,4,Counter Sale,9,17576397.6,39.37,Multi-Channel Customer,Counter Sale Preferred
+C0144,Fleet Owner,Construction,West,25,39589546.2,1583581.8480000002,4,Counter Sale,9,18650562.2,47.11,Multi-Channel Customer,Counter Sale Preferred
+C0145,Retail,Construction,West,33,34445949.4,1043816.6484848484,4,Field Sales,8,13098738.600000001,38.03,Multi-Channel Customer,No Sales
+C0146,Retail,Mining,West,30,61245406.2,2041513.54,4,Counter Sale,9,20556587.4,33.56,Multi-Channel Customer,Counter Sale Preferred
+C0147,Dealer,Rental,North,30,44007572.2,1466919.0733333335,4,Field Sales,7,12390117.0,28.15,Multi-Channel Customer,No Sales
+C0148,Government,Construction,South,35,54884128.4,1568117.9542857143,4,Counter Sale,9,18937075.6,34.5,Multi-Channel Customer,Counter Sale Preferred
+C0149,Government,Manufacturing,West,38,65235052.4,1716711.9052631578,4,Field Sales,10,25857547.0,39.64,Multi-Channel Customer,No Sales
+C0150,Fleet Owner,Manufacturing,West,30,41608958.8,1386965.2933333332,4,Field Sales,12,18127877.4,43.57,Multi-Channel Customer,No Sales
+C0151,Government,Infrastructure,East,27,39556960.6,1465072.6148148149,4,Counter Sale,8,13524472.0,34.19,Multi-Channel Customer,Counter Sale Preferred
+C0152,Corporate,Manufacturing,South,40,62249804.2,1556245.105,4,Counter Sale,10,22959473.2,36.88,Multi-Channel Customer,Counter Sale Preferred
+C0153,Retail,Rental,East,56,108200489.6,1932151.5999999999,4,Online,18,31274025.4,28.9,Multi-Channel Customer,Online Preferred
+C0154,Fleet Owner,Logistics,North,45,74171590.6,1648257.5688888887,4,Counter Sale,14,20709718.2,27.92,Multi-Channel Customer,Counter Sale Preferred
+C0155,Fleet Owner,Mining,East,31,41576324.2,1341171.748387097,4,Online,8,14956764.6,35.97,Multi-Channel Customer,Online Preferred
+C0156,Government,Manufacturing,South,33,67117436.4,2033861.7090909092,4,Online,7,19309669.8,28.77,Multi-Channel Customer,Online Preferred
+C0157,Dealer,Infrastructure,North,34,55572804.4,1634494.2470588235,4,Dealer Network,11,22922471.2,41.25,Multi-Channel Customer,Dealer Network Preferred
+C0158,Corporate,Infrastructure,East,36,58875735.2,1635437.088888889,4,Online,13,22883027.8,38.87,Multi-Channel Customer,Online Preferred
+C0159,Dealer,Construction,South,34,49934036.2,1468648.1235294119,4,Dealer Network,11,12979807.6,25.99,Multi-Channel Customer,Dealer Network Preferred
+C0160,Retail,Rental,West,44,70762190.2,1608231.5954545455,4,Online,11,23772403.2,33.59,Multi-Channel Customer,Online Preferred
+C0161,Dealer,Mining,West,37,60837361.2,1644253.0054054055,4,Field Sales,13,18832559.2,30.96,Multi-Channel Customer,No Sales
+C0162,Retail,Mining,East,28,62233145.6,2222612.342857143,4,Counter Sale,12,24460775.8,39.31,Multi-Channel Customer,Counter Sale Preferred
+C0163,Dealer,Logistics,West,38,46377823.0,1220469.0263157894,4,Counter Sale,11,14278137.6,30.79,Multi-Channel Customer,Counter Sale Preferred
+C0164,Government,Construction,North,36,45625652.8,1267379.2444444443,4,Counter Sale,12,14263962.0,31.26,Multi-Channel Customer,Counter Sale Preferred
+C0165,Fleet Owner,Manufacturing,North,50,79168592.4,1583371.8480000002,4,Dealer Network,21,35052339.4,44.28,Multi-Channel Customer,Dealer Network Preferred
+C0166,Fleet Owner,Manufacturing,West,32,69504759.6,2172023.7375,4,Online,11,33302254.8,47.91,Multi-Channel Customer,Online Preferred
+C0167,Retail,Mining,West,31,50383279.4,1625267.0774193548,4,Online,12,17765125.599999998,35.26,Multi-Channel Customer,Online Preferred
+C0168,Dealer,Infrastructure,West,34,64028787.0,1883199.6176470588,4,Dealer Network,9,19666070.4,30.71,Multi-Channel Customer,Dealer Network Preferred
+C0169,Fleet Owner,Construction,West,40,69450095.6,1736252.39,4,Counter Sale,14,21947983.0,31.6,Multi-Channel Customer,Counter Sale Preferred
+C0170,Government,Construction,South,27,38882680.4,1440099.274074074,4,Dealer Network,9,10748673.4,27.64,Multi-Channel Customer,Dealer Network Preferred
+C0171,Fleet Owner,Construction,South,30,55348450.2,1844948.34,4,Counter Sale,10,23393630.6,42.27,Multi-Channel Customer,Counter Sale Preferred
+C0172,Dealer,Manufacturing,South,37,57323600.2,1549286.491891892,4,Counter Sale,13,25538499.6,44.55,Multi-Channel Customer,Counter Sale Preferred
+C0173,Retail,Logistics,South,31,57999777.4,1870960.5612903226,4,Dealer Network,9,17663934.4,30.46,Multi-Channel Customer,Dealer Network Preferred
+C0174,Government,Mining,West,29,29793255.0,1027353.6206896552,4,Field Sales,14,16208242.8,54.4,Multi-Channel Customer,No Sales
+C0175,Fleet Owner,Rental,East,36,59434888.8,1650969.1333333333,4,Field Sales,14,22529137.6,37.91,Multi-Channel Customer,No Sales
+C0176,Dealer,Logistics,South,42,66901722.800000004,1592898.161904762,4,Dealer Network,15,25976485.6,38.83,Multi-Channel Customer,Dealer Network Preferred
+C0177,Dealer,Construction,West,28,35762840.4,1277244.3,4,Dealer Network,11,13792109.6,38.57,Multi-Channel Customer,Dealer Network Preferred
+C0178,Dealer,Logistics,East,54,89493824.6,1657293.048148148,4,Counter Sale,15,24361539.0,27.22,Multi-Channel Customer,Counter Sale Preferred
+C0179,Government,Infrastructure,South,32,43222736.0,1350710.5,4,Online,12,17044420.8,39.43,Multi-Channel Customer,Online Preferred
+C0180,Fleet Owner,Logistics,South,27,30093537.8,1114575.474074074,4,Field Sales,8,11102091.6,36.89,Multi-Channel Customer,No Sales
+C0181,Government,Construction,West,36,53087081.0,1474641.138888889,4,Field Sales,13,17988517.2,33.88,Multi-Channel Customer,No Sales
+C0182,Dealer,Infrastructure,East,29,40856091.0,1408830.7241379311,4,Online,10,15439347.6,37.79,Multi-Channel Customer,Online Preferred
+C0183,Government,Mining,West,27,32313901.0,1196811.148148148,4,Counter Sale,9,12599184.4,38.99,Multi-Channel Customer,Counter Sale Preferred
+C0184,Retail,Rental,South,29,61479056.4,2119967.4620689657,4,Field Sales,8,21222173.0,34.52,Multi-Channel Customer,No Sales
+C0185,Dealer,Logistics,West,33,47500335.2,1439404.0969696972,4,Field Sales,11,21376050.0,45.0,Multi-Channel Customer,No Sales
+C0186,Fleet Owner,Infrastructure,East,40,70676837.0,1766920.925,4,Dealer Network,11,20968351.0,29.67,Multi-Channel Customer,Dealer Network Preferred
+C0187,Retail,Rental,North,30,46901016.0,1563367.2,4,Counter Sale,8,13610612.4,29.02,Multi-Channel Customer,Counter Sale Preferred
+C0188,Corporate,Logistics,West,39,54387524.8,1394551.917948718,4,Field Sales,11,17883607.4,32.88,Multi-Channel Customer,No Sales
+C0189,Government,Manufacturing,South,35,61121980.8,1746342.3085714285,4,Online,11,20321622.8,33.25,Multi-Channel Customer,Online Preferred
+C0190,Retail,Manufacturing,North,35,56351528.4,1610043.6685714286,4,Online,13,24193443.8,42.93,Multi-Channel Customer,Online Preferred
+C0191,Corporate,Manufacturing,South,29,65787839.8,2268546.1999999997,4,Field Sales,6,23983795.8,36.46,Multi-Channel Customer,No Sales
+C0192,Fleet Owner,Logistics,East,40,69269688.4,1731742.2100000002,4,Dealer Network,10,22218386.0,32.08,Multi-Channel Customer,Dealer Network Preferred
+C0193,Dealer,Infrastructure,West,38,67795348.0,1784088.105263158,4,Online,11,24196465.0,35.69,Multi-Channel Customer,Online Preferred
+C0194,Fleet Owner,Construction,South,33,48202752.8,1460689.4787878788,4,Field Sales,8,16739335.6,34.73,Multi-Channel Customer,No Sales
+C0195,Fleet Owner,Logistics,East,31,56797913.6,1832190.7612903225,4,Field Sales,13,29489622.8,51.92,Multi-Channel Customer,No Sales
+C0196,Fleet Owner,Rental,North East,48,71291851.6,1485246.9083333332,4,Online,14,22872297.8,32.08,Multi-Channel Customer,Online Preferred
+C0197,Government,Manufacturing,West,47,77464617.6,1648183.3531914891,4,Online,14,30928184.8,39.93,Multi-Channel Customer,Online Preferred
+C0198,Government,Mining,West,36,63577917.2,1766053.2555555557,4,Field Sales,14,23687430.2,37.26,Multi-Channel Customer,No Sales
+C0199,Government,Mining,West,33,48930073.4,1482729.4969696968,4,Dealer Network,13,15347801.4,31.37,Multi-Channel Customer,Dealer Network Preferred
+C0200,Retail,Logistics,East,47,84469856.6,1797230.9914893615,4,Counter Sale,15,27159757.6,32.15,Multi-Channel Customer,Counter Sale Preferred
+C0201,Dealer,Infrastructure,South,47,80475593.0,1712246.6595744682,4,Online,11,25157024.400000002,31.26,Multi-Channel Customer,Online Preferred
+C0202,Government,Logistics,North,28,50389917.2,1799639.9000000001,4,Dealer Network,7,19959331.8,39.61,Multi-Channel Customer,Dealer Network Preferred
+C0203,Government,Manufacturing,West,35,53777085.6,1536488.1600000001,4,Counter Sale,8,20174286.0,37.51,Multi-Channel Customer,Counter Sale Preferred
+C0204,Retail,Rental,South,31,39880662.0,1286472.9677419355,4,Counter Sale,6,11749785.4,29.46,Multi-Channel Customer,Counter Sale Preferred
+C0205,Retail,Construction,North,33,51965845.0,1574722.5757575757,4,Counter Sale,9,17497794.8,33.67,Multi-Channel Customer,Counter Sale Preferred
+C0206,Retail,Construction,West,40,89674652.2,2241866.305,4,Dealer Network,13,27342529.0,30.49,Multi-Channel Customer,Dealer Network Preferred
+C0207,Corporate,Rental,East,45,87068691.0,1934859.8,4,Online,18,32244451.6,37.03,Multi-Channel Customer,Online Preferred
+C0208,Fleet Owner,Logistics,North,30,46904115.8,1563470.5266666666,4,Counter Sale,11,17270853.6,36.82,Multi-Channel Customer,Counter Sale Preferred
+C0209,Corporate,Infrastructure,East,44,65445658.4,1487401.3272727272,4,Dealer Network,14,27105721.4,41.42,Multi-Channel Customer,Dealer Network Preferred
+C0210,Retail,Infrastructure,West,30,53509817.8,1783660.5933333333,4,Counter Sale,8,17286713.4,32.31,Multi-Channel Customer,Counter Sale Preferred
+C0211,Fleet Owner,Manufacturing,South,42,59389779.2,1414042.361904762,4,Online,12,20498849.8,34.52,Multi-Channel Customer,Online Preferred
+C0212,Retail,Infrastructure,North East,31,45262151.0,1460069.3870967743,4,Counter Sale,8,12934374.8,28.58,Multi-Channel Customer,Counter Sale Preferred
+C0213,Fleet Owner,Rental,West,30,66248437.6,2208281.2533333334,4,Dealer Network,9,21765780.4,32.85,Multi-Channel Customer,Dealer Network Preferred
+C0214,Corporate,Rental,West,31,50612095.0,1632648.2258064516,4,Dealer Network,13,24953228.4,49.3,Multi-Channel Customer,Dealer Network Preferred
+C0215,Corporate,Rental,South,49,73940925.4,1508998.4775510204,4,Counter Sale,16,24621390.4,33.3,Multi-Channel Customer,Counter Sale Preferred
+C0216,Government,Mining,East,39,62009378.6,1589984.0666666667,4,Online,14,26574235.4,42.86,Multi-Channel Customer,Online Preferred
+C0217,Corporate,Infrastructure,North,36,61360958.2,1704471.0611111112,4,Online,11,21139152.0,34.45,Multi-Channel Customer,Online Preferred
+C0218,Fleet Owner,Construction,West,36,44324901.0,1231247.25,4,Online,12,18352876.8,41.41,Multi-Channel Customer,Online Preferred
+C0219,Government,Manufacturing,West,39,59976015.0,1537846.5384615385,4,Field Sales,11,21539567.0,35.91,Multi-Channel Customer,No Sales
+C0220,Government,Infrastructure,Central,43,53467975.0,1243441.2790697673,4,Field Sales,17,18907862.6,35.36,Multi-Channel Customer,No Sales
+C0221,Dealer,Logistics,North,44,82001959.0,1863680.8863636365,4,Field Sales,17,43595932.4,53.16,Multi-Channel Customer,No Sales
+C0222,Fleet Owner,Logistics,North,41,57177978.6,1394584.843902439,4,Field Sales,11,17804369.0,31.14,Multi-Channel Customer,No Sales
+C0223,Corporate,Logistics,West,33,54079206.6,1638763.8363636364,4,Field Sales,14,23610804.0,43.66,Multi-Channel Customer,No Sales
+C0224,Retail,Manufacturing,East,36,54050072.4,1501390.9,4,Field Sales,9,18923823.4,35.01,Multi-Channel Customer,No Sales
+C0225,Fleet Owner,Logistics,North,48,69254158.0,1442794.9583333333,4,Online,16,26257929.6,37.92,Multi-Channel Customer,Online Preferred
+C0226,Dealer,Logistics,West,26,47025541.0,1808674.6538461538,4,Field Sales,9,16807027.8,35.74,Multi-Channel Customer,No Sales
+C0227,Fleet Owner,Infrastructure,East,34,57926647.6,1703724.9294117647,4,Dealer Network,15,22379642.8,38.63,Multi-Channel Customer,Dealer Network Preferred
+C0228,Government,Construction,South,34,61132479.4,1798014.0999999999,4,Online,14,25250206.4,41.3,Multi-Channel Customer,Online Preferred
+C0229,Government,Mining,East,28,44419985.8,1586428.0642857142,4,Field Sales,8,18224604.6,41.03,Multi-Channel Customer,No Sales
+C0230,Dealer,Infrastructure,North,38,62086661.8,1633859.5210526315,4,Counter Sale,15,31182429.2,50.22,Multi-Channel Customer,Counter Sale Preferred
+C0231,Government,Infrastructure,West,32,51646725.4,1613960.16875,4,Dealer Network,11,20021011.2,38.77,Multi-Channel Customer,Dealer Network Preferred
+C0232,Government,Mining,South,37,57544368.0,1555253.189189189,4,Dealer Network,12,18128769.8,31.5,Multi-Channel Customer,Dealer Network Preferred
+C0233,Government,Logistics,East,28,49889164.0,1781755.857142857,4,Dealer Network,10,19200174.8,38.49,Multi-Channel Customer,Dealer Network Preferred
+C0234,Corporate,Infrastructure,West,29,72295152.4,2492936.2896551727,4,Dealer Network,9,34815662.2,48.16,Multi-Channel Customer,Dealer Network Preferred
+C0235,Fleet Owner,Mining,East,38,60478356.4,1591535.694736842,4,Online,10,17294841.4,28.6,Multi-Channel Customer,Online Preferred
+C0236,Corporate,Mining,West,41,57861179.0,1411248.268292683,4,Counter Sale,10,19259696.4,33.29,Multi-Channel Customer,Counter Sale Preferred
+C0237,Dealer,Infrastructure,South,44,74820743.4,1700471.4409090912,4,Counter Sale,13,29544802.8,39.49,Multi-Channel Customer,Counter Sale Preferred
+C0238,Corporate,Construction,South,30,36717219.2,1223907.3066666669,4,Counter Sale,9,11735768.2,31.96,Multi-Channel Customer,Counter Sale Preferred
+C0239,Government,Logistics,South,32,44962159.0,1405067.46875,4,Counter Sale,10,13582463.4,30.21,Multi-Channel Customer,Counter Sale Preferred
+C0240,Corporate,Manufacturing,South,46,92835709.4,2018167.595652174,4,Field Sales,13,32556968.4,35.07,Multi-Channel Customer,No Sales
+C0241,Government,Construction,West,39,73396972.0,1881973.641025641,4,Dealer Network,10,19994007.8,27.24,Multi-Channel Customer,Dealer Network Preferred
+C0242,Government,Construction,South,47,73225487.6,1557989.0978723404,4,Counter Sale,14,24554971.6,33.53,Multi-Channel Customer,Counter Sale Preferred
+C0243,Government,Construction,North,28,42431751.6,1515419.7,4,Online,8,12267948.2,28.91,Multi-Channel Customer,Online Preferred
+C0244,Government,Logistics,North,44,77550764.4,1762517.3727272728,4,Dealer Network,16,31350365.4,40.43,Multi-Channel Customer,Dealer Network Preferred
+C0245,Dealer,Logistics,South,33,56554752.6,1713780.3818181818,4,Field Sales,9,18067623.2,31.95,Multi-Channel Customer,No Sales
+C0246,Retail,Manufacturing,North,35,77080113.6,2202288.96,4,Field Sales,13,33703310.8,43.73,Multi-Channel Customer,No Sales
+C0247,Corporate,Logistics,East,39,67759559.60000001,1737424.6051282054,4,Counter Sale,9,19672296.8,29.03,Multi-Channel Customer,Counter Sale Preferred
+C0248,Fleet Owner,Rental,West,30,45208412.0,1506947.0666666667,4,Field Sales,7,12475307.6,27.6,Multi-Channel Customer,No Sales
+C0249,Corporate,Construction,West,35,63391180.8,1811176.5942857142,4,Online,14,25199108.4,39.75,Multi-Channel Customer,Online Preferred
+C0250,Government,Infrastructure,East,43,74416923.4,1730626.1255813956,4,Online,15,31256249.6,42.0,Multi-Channel Customer,Online Preferred
+C0251,Dealer,Mining,North,36,60544705.8,1681797.3833333333,4,Counter Sale,12,20163051.4,33.3,Multi-Channel Customer,Counter Sale Preferred
+C0252,Retail,Construction,South,34,45321304.6,1332979.5470588235,4,Dealer Network,7,15074725.0,33.26,Multi-Channel Customer,Dealer Network Preferred
+C0253,Retail,Rental,West,39,72946151.6,1870414.1435897434,4,Counter Sale,11,24336933.8,33.36,Multi-Channel Customer,Counter Sale Preferred
+C0254,Dealer,Mining,West,48,89556446.6,1865759.3041666665,4,Counter Sale,16,27700525.0,30.93,Multi-Channel Customer,Counter Sale Preferred
+C0255,Retail,Infrastructure,South,45,71144094.2,1580979.8711111112,4,Online,15,26298875.8,36.97,Multi-Channel Customer,Online Preferred
+C0256,Corporate,Infrastructure,North East,30,58794725.4,1959824.18,4,Field Sales,9,22409353.4,38.11,Multi-Channel Customer,No Sales
+C0257,Corporate,Logistics,North,43,76189558.0,1771850.1860465116,4,Counter Sale,12,30254268.0,39.71,Multi-Channel Customer,Counter Sale Preferred
+C0258,Corporate,Mining,South,28,62250978.4,2223249.2285714285,4,Dealer Network,9,25762161.0,41.38,Multi-Channel Customer,Dealer Network Preferred
+C0259,Fleet Owner,Logistics,South,33,60202150.6,1824307.593939394,4,Online,11,24732997.4,41.08,Multi-Channel Customer,Online Preferred
+C0260,Dealer,Logistics,South,32,55524668.6,1735145.89375,4,Counter Sale,11,19034996.8,34.28,Multi-Channel Customer,Counter Sale Preferred
+C0261,Dealer,Manufacturing,North,33,62999554.6,1909077.412121212,4,Field Sales,12,25530619.0,40.53,Multi-Channel Customer,No Sales
+C0262,Corporate,Logistics,North,26,36628894.0,1408803.6153846155,4,Field Sales,5,10789046.0,29.46,Multi-Channel Customer,No Sales
+C0263,Government,Rental,South,35,61677496.4,1762214.1828571428,4,Counter Sale,16,31580750.6,51.2,Multi-Channel Customer,Counter Sale Preferred
+C0264,Retail,Infrastructure,West,36,67321592.8,1870044.2444444443,4,Online,13,25450521.2,37.8,Multi-Channel Customer,Online Preferred
+C0265,Retail,Mining,West,29,47931619.6,1652814.4689655174,4,Counter Sale,9,15412393.0,32.15,Multi-Channel Customer,Counter Sale Preferred
+C0266,Fleet Owner,Rental,South,35,50717014.0,1449057.5428571429,4,Dealer Network,8,18272252.4,36.03,Multi-Channel Customer,Dealer Network Preferred
+C0267,Fleet Owner,Infrastructure,South,29,46440405.199999996,1601393.2827586206,4,Online,15,21030080.0,45.28,Multi-Channel Customer,Online Preferred
+C0268,Government,Mining,West,32,63709103.6,1990909.4875,4,Counter Sale,10,30166140.6,47.35,Multi-Channel Customer,Counter Sale Preferred
+C0269,Government,Mining,South,41,61642030.4,1503464.156097561,4,Counter Sale,10,18939345.0,30.72,Multi-Channel Customer,Counter Sale Preferred
+C0270,Corporate,Manufacturing,North,43,68114112.8,1584049.134883721,4,Counter Sale,17,26956445.0,39.58,Multi-Channel Customer,Counter Sale Preferred
+C0271,Corporate,Infrastructure,South,24,37757473.800000004,1573228.0750000002,4,Dealer Network,8,13159322.0,34.85,Multi-Channel Customer,Dealer Network Preferred
+C0272,Government,Construction,North,39,75550922.6,1937203.1435897434,4,Field Sales,15,33691807.0,44.59,Multi-Channel Customer,No Sales
+C0273,Dealer,Manufacturing,East,37,60830001.0,1644054.0810810812,4,Field Sales,11,23814585.8,39.15,Multi-Channel Customer,No Sales
+C0274,Dealer,Mining,North,39,54639688.2,1401017.6461538463,4,Online,10,18631697.2,34.1,Multi-Channel Customer,Online Preferred
+C0275,Fleet Owner,Construction,West,45,64270295.0,1428228.7777777778,4,Online,15,23986362.0,37.32,Multi-Channel Customer,Online Preferred
+C0276,Dealer,Manufacturing,Central,44,67350598.6,1530695.4227272726,4,Online,14,24836377.2,36.88,Multi-Channel Customer,Online Preferred
+C0277,Dealer,Logistics,West,36,43668914.6,1213025.4055555556,4,Online,10,14939414.8,34.21,Multi-Channel Customer,Online Preferred
+C0278,Fleet Owner,Logistics,West,38,47107787.2,1239678.6105263159,4,Dealer Network,12,14969722.0,31.78,Multi-Channel Customer,Dealer Network Preferred
+C0279,Dealer,Rental,West,26,35292218.0,1357393.0,4,Online,10,16292945.4,46.17,Multi-Channel Customer,Online Preferred
+C0280,Corporate,Construction,West,42,59078520.8,1406631.4476190475,4,Online,14,19277441.0,32.63,Multi-Channel Customer,Online Preferred
+C0281,Government,Logistics,South,26,46282268.6,1780087.2538461538,4,Dealer Network,8,17571195.6,37.97,Multi-Channel Customer,Dealer Network Preferred
+C0282,Government,Logistics,East,44,69381309.6,1576847.9454545453,4,Counter Sale,14,24982419.6,36.01,Multi-Channel Customer,Counter Sale Preferred
+C0283,Retail,Logistics,North,31,44490975.8,1435192.7677419353,4,Field Sales,14,17392050.4,39.09,Multi-Channel Customer,No Sales
+C0284,Corporate,Manufacturing,East,41,69641823.4,1698581.0585365854,4,Field Sales,11,19001676.2,27.28,Multi-Channel Customer,No Sales
+C0285,Government,Infrastructure,West,47,54036327.8,1149709.1021276596,4,Dealer Network,13,18078005.2,33.46,Multi-Channel Customer,Dealer Network Preferred
+C0286,Dealer,Construction,South,36,60273490.2,1674263.6166666667,4,Dealer Network,13,19459913.8,32.29,Multi-Channel Customer,Dealer Network Preferred
+C0287,Dealer,Manufacturing,South,36,55179366.6,1532760.1833333333,4,Counter Sale,8,16236069.0,29.42,Multi-Channel Customer,Counter Sale Preferred
+C0288,Dealer,Infrastructure,North,55,97218403.8,1767607.3418181818,4,Counter Sale,17,29529679.8,30.37,Multi-Channel Customer,Counter Sale Preferred
+C0289,Corporate,Logistics,South,35,50221149.2,1434889.9771428572,4,Counter Sale,12,18485329.2,36.81,Multi-Channel Customer,Counter Sale Preferred
+C0290,Corporate,Construction,West,40,57372288.2,1434307.205,4,Counter Sale,15,21744602.6,37.9,Multi-Channel Customer,Counter Sale Preferred
+C0291,Retail,Construction,South,46,79064597.0,1718795.5869565217,4,Counter Sale,13,31940268.8,40.4,Multi-Channel Customer,Counter Sale Preferred
+C0292,Corporate,Rental,Central,27,30979627.8,1147393.6222222222,4,Counter Sale,8,12960022.8,41.83,Multi-Channel Customer,Counter Sale Preferred
+C0293,Dealer,Logistics,West,36,66815451.4,1855984.7611111111,4,Online,7,19002876.8,28.44,Multi-Channel Customer,Online Preferred
+C0294,Government,Infrastructure,South,45,79772077.0,1772712.822222222,4,Dealer Network,13,23270934.6,29.17,Multi-Channel Customer,Dealer Network Preferred
+C0295,Corporate,Mining,East,38,65390145.6,1720793.305263158,4,Online,11,24418833.4,37.34,Multi-Channel Customer,Online Preferred
+C0296,Corporate,Manufacturing,East,40,56944680.8,1423617.02,4,Field Sales,11,18012871.2,31.63,Multi-Channel Customer,No Sales
+C0297,Fleet Owner,Rental,South,34,73065015.6,2148971.0470588235,4,Field Sales,10,23236853.6,31.8,Multi-Channel Customer,No Sales
+C0298,Fleet Owner,Construction,South,33,46771231.0,1417310.0303030303,4,Counter Sale,13,21872975.4,46.77,Multi-Channel Customer,Counter Sale Preferred
+C0299,Retail,Logistics,South,34,48095055.8,1414560.4647058824,4,Dealer Network,10,16907502.6,35.15,Multi-Channel Customer,Dealer Network Preferred
+C0300,Dealer,Mining,North,40,72746205.0,1818655.125,4,Online,16,29794569.8,40.96,Multi-Channel Customer,Online Preferred
+C0301,Dealer,Mining,East,46,63821535.6,1387424.6869565218,4,Dealer Network,13,19618757.6,30.74,Multi-Channel Customer,Dealer Network Preferred
+C0302,Fleet Owner,Mining,West,36,63607092.0,1766863.6666666667,4,Counter Sale,13,27606337.6,43.4,Multi-Channel Customer,Counter Sale Preferred
+C0303,Corporate,Mining,West,27,32465859.599999998,1202439.2444444443,4,Dealer Network,9,12362966.4,38.08,Multi-Channel Customer,Dealer Network Preferred
+C0304,Dealer,Construction,North,48,86460648.4,1801263.5083333335,4,Dealer Network,18,35318229.800000004,40.85,Multi-Channel Customer,Dealer Network Preferred
+C0305,Fleet Owner,Logistics,North,31,48238808.800000004,1556090.6064516131,4,Online,10,21476259.8,44.52,Multi-Channel Customer,Online Preferred
+C0306,Fleet Owner,Manufacturing,East,42,69813587.0,1662228.261904762,4,Online,13,21068803.2,30.18,Multi-Channel Customer,Online Preferred
+C0307,Dealer,Manufacturing,West,42,73655534.6,1753703.2047619047,4,Dealer Network,10,21219112.0,28.81,Multi-Channel Customer,Dealer Network Preferred
+C0308,Retail,Mining,North,33,50359329.6,1526040.290909091,4,Field Sales,11,17864986.0,35.48,Multi-Channel Customer,No Sales
+C0309,Government,Manufacturing,West,31,38065991.6,1227935.2129032258,4,Online,10,12078029.4,31.73,Multi-Channel Customer,Online Preferred
+C0310,Government,Infrastructure,East,39,59059490.6,1514345.912820513,4,Dealer Network,12,20081015.0,34.0,Multi-Channel Customer,Dealer Network Preferred
+C0311,Government,Infrastructure,North,41,69331648.2,1691015.8097560976,4,Online,11,21839524.0,31.5,Multi-Channel Customer,Online Preferred
+C0312,Government,Construction,West,37,65437706.6,1768586.664864865,4,Online,12,19674859.0,30.07,Multi-Channel Customer,Online Preferred
+C0313,Corporate,Mining,West,30,48205237.4,1606841.2466666666,4,Field Sales,7,15637275.2,32.44,Multi-Channel Customer,No Sales
+C0314,Retail,Logistics,East,36,58625243.800000004,1628478.9944444445,4,Online,7,19586862.6,33.41,Multi-Channel Customer,Online Preferred
+C0315,Dealer,Rental,West,40,61457629.4,1536440.7349999999,4,Field Sales,8,17380710.6,28.28,Multi-Channel Customer,No Sales
+C0316,Dealer,Manufacturing,East,33,45390754.0,1375477.393939394,4,Dealer Network,9,13747561.4,30.29,Multi-Channel Customer,Dealer Network Preferred
+C0317,Corporate,Manufacturing,South,32,43291415.2,1352856.725,4,Dealer Network,10,13400933.8,30.96,Multi-Channel Customer,Dealer Network Preferred
+C0318,Corporate,Logistics,North,36,62202116.0,1727836.5555555555,4,Field Sales,12,25073711.8,40.31,Multi-Channel Customer,No Sales
+C0319,Dealer,Mining,South,33,60426895.0,1831118.0303030303,4,Counter Sale,8,21304816.4,35.26,Multi-Channel Customer,Counter Sale Preferred
+C0320,Retail,Construction,North,34,53574056.6,1575707.5470588235,4,Counter Sale,12,18573626.8,34.67,Multi-Channel Customer,Counter Sale Preferred
+C0321,Retail,Logistics,South,38,54558976.4,1435762.5368421052,4,Counter Sale,14,16944388.6,31.06,Multi-Channel Customer,Counter Sale Preferred
+C0322,Government,Construction,West,28,40996678.0,1464167.0714285714,4,Counter Sale,11,23073207.2,56.28,Multi-Channel Customer,Counter Sale Preferred
+C0323,Government,Manufacturing,West,36,50291498.8,1396986.0777777778,4,Counter Sale,13,23120262.2,45.97,Multi-Channel Customer,Counter Sale Preferred
+C0324,Corporate,Mining,South,35,52335374.8,1495296.4228571428,4,Dealer Network,10,21288441.6,40.68,Multi-Channel Customer,Dealer Network Preferred
+C0325,Corporate,Rental,East,30,52920013.4,1764000.4466666665,4,Dealer Network,8,21698813.8,41.0,Multi-Channel Customer,Dealer Network Preferred
+C0326,Government,Mining,East,42,66177447.4,1575653.5095238094,4,Online,11,22033051.4,33.29,Multi-Channel Customer,Online Preferred
+C0327,Retail,Mining,West,43,61017008.6,1419000.2,4,Field Sales,11,20076812.6,32.9,Multi-Channel Customer,No Sales
+C0328,Government,Rental,East,37,62646507.6,1693148.854054054,4,Online,11,20581404.2,32.85,Multi-Channel Customer,Online Preferred
+C0329,Dealer,Infrastructure,Central,36,64307436.8,1786317.6888888888,4,Counter Sale,12,22125094.0,34.41,Multi-Channel Customer,Counter Sale Preferred
+C0330,Retail,Infrastructure,East,38,54285450.6,1428564.4894736842,4,Dealer Network,16,23759418.0,43.77,Multi-Channel Customer,Dealer Network Preferred
+C0331,Dealer,Logistics,North,42,67826105.8,1614907.280952381,4,Counter Sale,14,24392765.0,35.96,Multi-Channel Customer,Counter Sale Preferred
+C0332,Corporate,Mining,South,35,44566684.4,1273333.8399999999,4,Field Sales,15,15750323.8,35.34,Multi-Channel Customer,No Sales
+C0333,Corporate,Mining,South,39,63220923.0,1621049.3076923077,4,Dealer Network,11,17769383.0,28.11,Multi-Channel Customer,Dealer Network Preferred
+C0334,Corporate,Mining,South,33,37526956.6,1137180.5030303032,4,Counter Sale,11,14257069.8,37.99,Multi-Channel Customer,Counter Sale Preferred
+C0335,Government,Infrastructure,North East,38,60351028.0,1588184.9473684211,4,Counter Sale,16,23681163.4,39.24,Multi-Channel Customer,Counter Sale Preferred
+C0336,Government,Rental,East,33,39095696.4,1184718.0727272728,4,Counter Sale,12,13347104.0,34.14,Multi-Channel Customer,Counter Sale Preferred
+C0337,Corporate,Manufacturing,North,34,73457151.8,2160504.464705882,4,Counter Sale,9,24488572.6,33.34,Multi-Channel Customer,Counter Sale Preferred
+C0338,Corporate,Rental,West,33,52210070.0,1582123.3333333333,4,Dealer Network,10,16767396.0,32.12,Multi-Channel Customer,Dealer Network Preferred
+C0339,Fleet Owner,Logistics,South,24,40193008.4,1674708.6833333333,4,Field Sales,10,16606537.0,41.32,Multi-Channel Customer,No Sales
+C0340,Government,Mining,South,35,63532821.6,1815223.4742857143,4,Dealer Network,12,23257903.6,36.61,Multi-Channel Customer,Dealer Network Preferred
+C0341,Fleet Owner,Mining,North,36,66838579.4,1856627.2055555554,4,Field Sales,12,25411968.8,38.02,Multi-Channel Customer,No Sales
+C0342,Dealer,Infrastructure,North,36,72821567.8,2022821.3277777778,4,Field Sales,12,23161322.4,31.81,Multi-Channel Customer,No Sales
+C0343,Corporate,Construction,West,40,68419201.6,1710480.0399999998,4,Field Sales,11,18633468.8,27.23,Multi-Channel Customer,No Sales
+C0344,Fleet Owner,Mining,West,28,48151864.0,1719709.4285714286,4,Online,9,16941347.0,35.18,Multi-Channel Customer,Online Preferred
+C0345,Retail,Infrastructure,West,40,50444735.6,1261118.3900000001,4,Field Sales,9,17945070.6,35.57,Multi-Channel Customer,No Sales
+C0346,Retail,Construction,East,39,54686860.8,1402227.2,4,Dealer Network,14,18118652.8,33.13,Multi-Channel Customer,Dealer Network Preferred
+C0347,Retail,Mining,North,24,22536660.4,939027.5166666666,4,Online,8,7861632.8,34.88,Multi-Channel Customer,Online Preferred
+C0348,Retail,Logistics,North,34,50897650.4,1496989.717647059,4,Counter Sale,11,18901267.8,37.14,Multi-Channel Customer,Counter Sale Preferred
+C0349,Corporate,Rental,West,33,56613876.0,1715572.0,4,Counter Sale,11,25924986.599999998,45.79,Multi-Channel Customer,Counter Sale Preferred
+C0350,Dealer,Logistics,North East,32,41227777.0,1288368.03125,4,Field Sales,10,13996620.2,33.95,Multi-Channel Customer,No Sales
+C0351,Corporate,Rental,East,34,44776790.6,1316964.4294117647,4,Counter Sale,8,16529982.0,36.92,Multi-Channel Customer,Counter Sale Preferred
+C0352,Corporate,Mining,South,30,40262666.2,1342088.8733333335,4,Dealer Network,6,12014760.8,29.84,Multi-Channel Customer,Dealer Network Preferred
+C0353,Dealer,Manufacturing,North,27,31979908.6,1184441.0592592594,4,Counter Sale,10,12078901.8,37.77,Multi-Channel Customer,Counter Sale Preferred
+C0354,Corporate,Logistics,South,37,56690884.8,1532186.0756756756,4,Field Sales,14,21118701.0,37.25,Multi-Channel Customer,No Sales
+C0355,Government,Infrastructure,South,32,58903770.4,1840742.825,4,Field Sales,12,24949116.0,42.36,Multi-Channel Customer,No Sales
+C0356,Dealer,Mining,East,45,79690881.0,1770908.4666666666,4,Field Sales,12,29655773.6,37.21,Multi-Channel Customer,No Sales
+C0357,Corporate,Mining,West,28,57734552.2,2061948.2928571429,4,Online,8,17547513.8,30.39,Multi-Channel Customer,Online Preferred
+C0358,Government,Infrastructure,West,36,59405501.6,1650152.8222222223,4,Online,11,20404286.2,34.35,Multi-Channel Customer,Online Preferred
+C0359,Fleet Owner,Mining,South,46,85617784.0,1861256.1739130435,4,Online,16,40444057.2,47.24,Multi-Channel Customer,Online Preferred
+C0360,Dealer,Construction,West,31,54662201.0,1763296.8064516129,4,Online,9,20324116.8,37.18,Multi-Channel Customer,Online Preferred
+C0361,Government,Logistics,South,32,52532617.8,1641644.30625,4,Dealer Network,8,18955515.6,36.08,Multi-Channel Customer,Dealer Network Preferred
+C0362,Corporate,Rental,West,37,53495189.2,1445815.9243243244,4,Online,11,17300271.4,32.34,Multi-Channel Customer,Online Preferred
+C0363,Fleet Owner,Logistics,South,32,53560072.2,1673752.25625,4,Counter Sale,11,16540026.8,30.88,Multi-Channel Customer,Counter Sale Preferred
+C0364,Government,Infrastructure,East,32,54408370.8,1700261.5875,4,Field Sales,10,16434508.8,30.21,Multi-Channel Customer,No Sales
+C0365,Government,Manufacturing,East,39,60336743.2,1547095.9794871795,4,Counter Sale,15,22120066.8,36.66,Multi-Channel Customer,Counter Sale Preferred
+C0366,Corporate,Logistics,East,26,43711261.800000004,1681202.376923077,4,Dealer Network,10,19063261.4,43.61,Multi-Channel Customer,Dealer Network Preferred
+C0367,Fleet Owner,Logistics,South,27,57592654.8,2133061.288888889,4,Dealer Network,11,24129422.4,41.9,Multi-Channel Customer,Dealer Network Preferred
+C0368,Fleet Owner,Construction,South,31,51837532.8,1672178.4774193547,4,Counter Sale,9,18113893.0,34.94,Multi-Channel Customer,Counter Sale Preferred
+C0369,Government,Manufacturing,West,40,64656844.2,1616421.105,4,Counter Sale,15,25488899.4,39.42,Multi-Channel Customer,Counter Sale Preferred
+C0370,Corporate,Infrastructure,East,36,53881174.6,1496699.2944444446,4,Field Sales,11,20686956.0,38.39,Multi-Channel Customer,No Sales
+C0371,Retail,Rental,South,47,82052808.0,1745804.425531915,4,Online,15,26012220.8,31.7,Multi-Channel Customer,Online Preferred
+C0372,Government,Logistics,South,36,52822436.0,1467289.888888889,4,Online,11,18637710.0,35.28,Multi-Channel Customer,Online Preferred
+C0373,Corporate,Manufacturing,South,38,69753317.8,1835613.6263157893,4,Dealer Network,10,20735761.8,29.73,Multi-Channel Customer,Dealer Network Preferred
+C0374,Corporate,Manufacturing,West,41,68389697.6,1668041.4048780487,4,Dealer Network,10,21145602.2,30.92,Multi-Channel Customer,Dealer Network Preferred
+C0375,Fleet Owner,Mining,West,42,81286325.6,1935388.7047619047,4,Counter Sale,15,27815638.8,34.22,Multi-Channel Customer,Counter Sale Preferred
+C0376,Retail,Construction,North,29,52106248.6,1796767.1931034483,4,Dealer Network,7,21074579.4,40.45,Multi-Channel Customer,Dealer Network Preferred
+C0377,Dealer,Logistics,West,37,68519191.2,1851870.0324324325,4,Field Sales,9,22500217.6,32.84,Multi-Channel Customer,No Sales
+C0378,Retail,Manufacturing,North,35,50644577.199999996,1446987.92,4,Field Sales,10,21031783.4,41.53,Multi-Channel Customer,No Sales
+C0379,Retail,Mining,West,41,64194052.6,1565708.6,4,Field Sales,14,23821833.0,37.11,Multi-Channel Customer,No Sales
+C0380,Fleet Owner,Manufacturing,South,50,77887431.8,1557748.636,4,Field Sales,16,22155942.2,28.45,Multi-Channel Customer,No Sales
+C0381,Corporate,Mining,South,29,62038399.0,2139255.1379310344,4,Counter Sale,9,24543321.799999997,39.56,Multi-Channel Customer,Counter Sale Preferred
+C0382,Retail,Manufacturing,South,33,42929317.0,1300888.393939394,4,Counter Sale,11,14786182.4,34.44,Multi-Channel Customer,Counter Sale Preferred
+C0383,Fleet Owner,Infrastructure,North,41,68192154.0,1663223.268292683,4,Counter Sale,13,21942857.2,32.18,Multi-Channel Customer,Counter Sale Preferred
+C0384,Retail,Construction,South,39,72157498.2,1850192.2615384615,4,Online,12,25053994.8,34.72,Multi-Channel Customer,Online Preferred
+C0385,Corporate,Manufacturing,West,37,67435700.6,1822586.5027027025,4,Counter Sale,8,19122077.4,28.36,Multi-Channel Customer,Counter Sale Preferred
+C0386,Retail,Construction,North,32,48819152.6,1525598.51875,4,Counter Sale,10,16085573.0,32.95,Multi-Channel Customer,Counter Sale Preferred
+C0387,Dealer,Infrastructure,East,34,47133318.0,1386274.0588235294,4,Dealer Network,12,15497002.8,32.88,Multi-Channel Customer,Dealer Network Preferred
+C0388,Fleet Owner,Infrastructure,West,27,39389408.6,1458866.9851851852,4,Dealer Network,6,13187991.2,33.48,Multi-Channel Customer,Dealer Network Preferred
+C0389,Retail,Mining,West,30,48796477.0,1626549.2333333334,4,Field Sales,9,19807454.4,40.59,Multi-Channel Customer,No Sales
+C0390,Fleet Owner,Construction,North,32,64132451.0,2004139.09375,4,Counter Sale,11,20196177.6,31.49,Multi-Channel Customer,Counter Sale Preferred
+C0391,Government,Construction,West,33,47080496.4,1426681.709090909,4,Online,13,19016769.4,40.39,Multi-Channel Customer,Online Preferred
+C0392,Fleet Owner,Logistics,East,31,38571708.8,1244248.6709677419,4,Field Sales,11,15944204.2,41.34,Multi-Channel Customer,No Sales
+C0393,Retail,Rental,East,39,51240981.8,1313871.3282051282,4,Counter Sale,12,15724175.6,30.69,Multi-Channel Customer,Counter Sale Preferred
+C0394,Government,Construction,South,40,69936379.2,1748409.48,4,Dealer Network,11,22598785.2,32.31,Multi-Channel Customer,Dealer Network Preferred
+C0395,Corporate,Manufacturing,East,44,64514679.8,1466242.7227272727,4,Field Sales,17,21591950.6,33.47,Multi-Channel Customer,No Sales
+C0396,Government,Manufacturing,West,38,64506474.4,1697538.8,4,Field Sales,12,23637502.0,36.64,Multi-Channel Customer,No Sales
+C0397,Fleet Owner,Mining,West,36,56279511.4,1563319.7611111111,4,Online,11,17557923.8,31.2,Multi-Channel Customer,Online Preferred
+C0398,Government,Rental,South,35,57843305.6,1652665.8742857142,4,Counter Sale,13,23259117.6,40.21,Multi-Channel Customer,Counter Sale Preferred
+C0399,Fleet Owner,Rental,South,39,59287998.0,1520205.076923077,4,Field Sales,14,20708655.400000002,34.93,Multi-Channel Customer,No Sales
+C0400,Government,Infrastructure,North,35,51694363.6,1476981.8171428572,4,Dealer Network,11,16315417.4,31.56,Multi-Channel Customer,Dealer Network Preferred
+C0401,Government,Logistics,North East,36,58231157.8,1617532.161111111,4,Dealer Network,8,18295457.6,31.42,Multi-Channel Customer,Dealer Network Preferred
+C0402,Fleet Owner,Rental,South,35,43498305.199999996,1242808.72,4,Counter Sale,10,13617032.8,31.3,Multi-Channel Customer,Counter Sale Preferred
+C0403,Government,Construction,East,45,80523517.0,1789411.4888888889,4,Online,12,26454644.2,32.85,Multi-Channel Customer,Online Preferred
+C0404,Government,Mining,West,31,46035794.4,1485025.6258064515,4,Counter Sale,10,16109323.0,34.99,Multi-Channel Customer,Counter Sale Preferred
+C0405,Corporate,Infrastructure,West,32,50787823.0,1587119.46875,4,Counter Sale,12,23095269.2,45.47,Multi-Channel Customer,Counter Sale Preferred
+C0406,Dealer,Logistics,West,32,64818334.4,2025572.95,4,Field Sales,10,27919162.0,43.07,Multi-Channel Customer,No Sales
+C0407,Dealer,Logistics,South,38,54609453.4,1437090.8789473684,4,Field Sales,13,25528628.4,46.75,Multi-Channel Customer,No Sales
+C0408,Government,Infrastructure,South,36,60127186.2,1670199.6166666667,4,Dealer Network,12,20094817.2,33.42,Multi-Channel Customer,Dealer Network Preferred
+C0409,Government,Logistics,West,45,60821412.6,1351586.9466666668,4,Counter Sale,10,20794722.2,34.19,Multi-Channel Customer,Counter Sale Preferred
+C0410,Corporate,Mining,South,39,59804309.8,1533443.841025641,4,Online,14,21152404.8,35.37,Multi-Channel Customer,Online Preferred
+C0411,Corporate,Mining,South,43,72229183.0,1679748.441860465,4,Counter Sale,14,20871904.400000002,28.9,Multi-Channel Customer,Counter Sale Preferred
+C0412,Corporate,Infrastructure,East,32,43246987.6,1351468.3625,4,Online,14,21645894.2,50.05,Multi-Channel Customer,Online Preferred
+C0413,Fleet Owner,Manufacturing,South,41,62380011.4,1521463.6926829268,4,Online,13,20388741.4,32.68,Multi-Channel Customer,Online Preferred
+C0414,Dealer,Construction,South,40,66316815.6,1657920.3900000001,4,Online,15,31867197.200000003,48.05,Multi-Channel Customer,Online Preferred
+C0415,Government,Infrastructure,North East,33,68592455.6,2078559.2606060605,4,Field Sales,11,29572749.0,43.11,Multi-Channel Customer,No Sales
+C0416,Dealer,Manufacturing,South,37,46006682.0,1243423.8378378379,4,Dealer Network,13,14552689.2,31.63,Multi-Channel Customer,Dealer Network Preferred
+C0417,Fleet Owner,Mining,East,32,51984530.4,1624516.575,4,Counter Sale,10,17462235.8,33.59,Multi-Channel Customer,Counter Sale Preferred
+C0418,Government,Mining,West,30,47167025.6,1572234.1866666668,4,Dealer Network,8,17124749.0,36.31,Multi-Channel Customer,Dealer Network Preferred
+C0419,Fleet Owner,Logistics,West,31,61514207.2,1984329.2645161292,4,Field Sales,8,19048311.6,30.97,Multi-Channel Customer,No Sales
+C0420,Retail,Rental,South,46,92482888.8,2010497.5826086956,4,Online,12,29210984.2,31.59,Multi-Channel Customer,Online Preferred
+C0421,Retail,Construction,South,38,69466242.8,1828059.0210526315,4,Online,10,20316214.4,29.25,Multi-Channel Customer,Online Preferred
+C0422,Government,Construction,South,37,65678984.2,1775107.6810810813,4,Online,8,21410918.6,32.6,Multi-Channel Customer,Online Preferred
+C0423,Dealer,Infrastructure,South,30,46894840.4,1563161.3466666667,4,Field Sales,12,18725827.0,39.93,Multi-Channel Customer,No Sales
+C0424,Retail,Construction,West,35,58183379.4,1662382.2685714285,4,Online,9,22896222.4,39.35,Multi-Channel Customer,Online Preferred
+C0425,Dealer,Manufacturing,South,41,67882732.6,1655676.4048780487,4,Field Sales,14,27111074.0,39.94,Multi-Channel Customer,No Sales
+C0426,Dealer,Infrastructure,North East,35,57207251.0,1634492.8857142858,4,Counter Sale,10,17948855.6,31.38,Multi-Channel Customer,Counter Sale Preferred
+C0427,Corporate,Mining,West,41,53149424.199999996,1296327.419512195,4,Counter Sale,12,17376628.2,32.69,Multi-Channel Customer,Counter Sale Preferred
+C0428,Retail,Construction,North,43,66337820.6,1542740.0139534883,4,Field Sales,12,20810920.400000002,31.37,Multi-Channel Customer,No Sales
+C0429,Fleet Owner,Logistics,West,42,69444114.2,1653431.2904761906,4,Online,17,32936725.2,47.43,Multi-Channel Customer,Online Preferred
+C0430,Retail,Manufacturing,West,27,44879330.8,1662197.437037037,4,Online,9,23692053.8,52.79,Multi-Channel Customer,Online Preferred
+C0431,Government,Logistics,West,28,45787279.2,1635259.9714285715,4,Counter Sale,9,18591411.6,40.6,Multi-Channel Customer,Counter Sale Preferred
+C0432,Fleet Owner,Mining,South,37,49310040.800000004,1332703.8054054056,4,Online,11,16493479.399999999,33.45,Multi-Channel Customer,Online Preferred
+C0433,Dealer,Infrastructure,North,31,57020323.4,1839365.270967742,4,Counter Sale,7,19601463.0,34.38,Multi-Channel Customer,Counter Sale Preferred
+C0434,Corporate,Mining,Central,33,54575670.2,1653808.187878788,4,Online,9,19456430.0,35.65,Multi-Channel Customer,Online Preferred
+C0435,Dealer,Manufacturing,South,50,73908258.2,1478165.164,4,Online,15,27720357.2,37.51,Multi-Channel Customer,Online Preferred
+C0436,Fleet Owner,Logistics,East,34,57784314.2,1699538.6529411767,4,Counter Sale,12,21732703.6,37.61,Multi-Channel Customer,Counter Sale Preferred
+C0437,Dealer,Mining,West,30,46199550.2,1539985.0066666668,4,Field Sales,9,17541512.6,37.97,Multi-Channel Customer,No Sales
+C0438,Corporate,Rental,East,39,61720027.0,1582564.7948717948,4,Field Sales,15,23774740.6,38.52,Multi-Channel Customer,No Sales
+C0439,Dealer,Construction,South,36,47576062.0,1321557.2777777778,4,Field Sales,9,15440335.0,32.45,Multi-Channel Customer,No Sales
+C0440,Retail,Manufacturing,South,44,82426773.6,1873335.7636363634,4,Dealer Network,10,25106508.0,30.46,Multi-Channel Customer,Dealer Network Preferred
+C0441,Dealer,Construction,North,31,47045233.8,1517588.187096774,4,Dealer Network,9,19104059.0,40.61,Multi-Channel Customer,Dealer Network Preferred
+C0442,Dealer,Logistics,East,33,53527848.6,1622056.0181818183,4,Dealer Network,10,19969524.8,37.31,Multi-Channel Customer,Dealer Network Preferred
+C0443,Dealer,Infrastructure,East,40,64951558.8,1623788.97,4,Field Sales,15,23437553.2,36.08,Multi-Channel Customer,No Sales
+C0444,Dealer,Manufacturing,South,30,50928809.0,1697626.9666666666,4,Dealer Network,16,23803675.2,46.74,Multi-Channel Customer,Dealer Network Preferred
+C0445,Government,Mining,East,28,57177744.4,2042062.3,4,Counter Sale,8,15880080.4,27.77,Multi-Channel Customer,Counter Sale Preferred
+C0446,Retail,Logistics,South,34,52035543.6,1530457.1647058823,4,Counter Sale,10,15019074.0,28.86,Multi-Channel Customer,Counter Sale Preferred
+C0447,Fleet Owner,Rental,East,33,61334243.8,1858613.4484848485,4,Online,13,25728495.8,41.95,Multi-Channel Customer,Online Preferred
+C0448,Fleet Owner,Logistics,East,36,68495840.4,1902662.2333333334,4,Counter Sale,11,21998497.6,32.12,Multi-Channel Customer,Counter Sale Preferred
+C0449,Fleet Owner,Logistics,West,32,55700286.8,1740633.9625,4,Dealer Network,11,21221770.4,38.1,Multi-Channel Customer,Dealer Network Preferred
+C0450,Fleet Owner,Construction,East,38,55345960.4,1456472.6421052632,4,Field Sales,13,23057447.0,41.66,Multi-Channel Customer,No Sales
+C0451,Government,Manufacturing,East,37,49725150.4,1343922.9837837839,4,Dealer Network,8,16431950.4,33.05,Multi-Channel Customer,Dealer Network Preferred
+C0452,Fleet Owner,Mining,South,35,40090449.2,1145441.4057142858,4,Dealer Network,13,13612397.0,33.95,Multi-Channel Customer,Dealer Network Preferred
+C0453,Dealer,Mining,East,31,59284873.8,1912415.2838709676,4,Dealer Network,10,19804891.2,33.41,Multi-Channel Customer,Dealer Network Preferred
+C0454,Government,Mining,West,33,41820500.6,1267287.896969697,4,Counter Sale,9,21742253.2,51.99,Multi-Channel Customer,Counter Sale Preferred
+C0455,Retail,Logistics,Central,35,63287015.4,1808200.44,4,Field Sales,12,17923861.8,28.32,Multi-Channel Customer,No Sales
+C0456,Corporate,Mining,North,27,31514609.0,1167207.7407407407,4,Counter Sale,8,13640021.6,43.28,Multi-Channel Customer,Counter Sale Preferred
+C0457,Retail,Manufacturing,East,33,56578805.4,1714509.2545454544,4,Dealer Network,8,20985789.4,37.09,Multi-Channel Customer,Dealer Network Preferred
+C0458,Dealer,Manufacturing,West,38,50799400.6,1336826.3315789474,4,Dealer Network,12,15390415.0,30.3,Multi-Channel Customer,Dealer Network Preferred
+C0459,Retail,Logistics,East,41,71816909.8,1751631.9463414634,4,Online,16,24858134.4,34.61,Multi-Channel Customer,Online Preferred
+C0460,Dealer,Logistics,South,32,64634814.4,2019837.95,4,Online,11,21775955.0,33.69,Multi-Channel Customer,Online Preferred
+C0461,Corporate,Infrastructure,North,36,56714684.2,1575407.8944444444,4,Dealer Network,12,17884028.6,31.53,Multi-Channel Customer,Dealer Network Preferred
+C0462,Retail,Logistics,South,49,82777824.6,1689343.3591836733,4,Counter Sale,15,28312778.2,34.2,Multi-Channel Customer,Counter Sale Preferred
+C0463,Dealer,Mining,West,35,55370560.0,1582016.0,4,Counter Sale,11,17325290.0,31.29,Multi-Channel Customer,Counter Sale Preferred
+C0464,Corporate,Infrastructure,North,38,67405736.8,1773835.1789473684,4,Counter Sale,9,27157704.4,40.29,Multi-Channel Customer,Counter Sale Preferred
+C0465,Fleet Owner,Mining,South,35,48083241.6,1373806.902857143,4,Online,11,16041991.4,33.36,Multi-Channel Customer,Online Preferred
+C0466,Retail,Manufacturing,South,47,88329161.4,1879343.859574468,4,Field Sales,16,28059255.2,31.77,Multi-Channel Customer,No Sales
+C0467,Retail,Construction,North,48,62880162.4,1310003.3833333333,4,Field Sales,17,20065921.8,31.91,Multi-Channel Customer,No Sales
+C0468,Fleet Owner,Rental,South,49,75254807.6,1535812.4,4,Dealer Network,14,21099191.4,28.04,Multi-Channel Customer,Dealer Network Preferred
+C0469,Government,Manufacturing,North,40,68502617.4,1712565.435,4,Field Sales,13,23403716.8,34.16,Multi-Channel Customer,No Sales
+C0470,Government,Mining,South,36,49194933.2,1366525.9222222222,4,Field Sales,9,17816552.6,36.22,Multi-Channel Customer,No Sales
+C0471,Fleet Owner,Logistics,West,37,65501994.2,1770324.1675675677,4,Dealer Network,14,22843830.6,34.88,Multi-Channel Customer,Dealer Network Preferred
+C0472,Dealer,Manufacturing,South,34,54888819.4,1614377.0411764705,4,Online,9,15947011.0,29.05,Multi-Channel Customer,Online Preferred
+C0473,Government,Rental,South,26,42018356.8,1616090.646153846,4,Online,8,21991422.4,52.34,Multi-Channel Customer,Online Preferred
+C0474,Government,Logistics,West,30,48230361.0,1607678.7,4,Field Sales,9,22324115.2,46.29,Multi-Channel Customer,No Sales
+C0475,Fleet Owner,Construction,East,55,94883375.2,1725152.2763636364,4,Field Sales,17,32659046.2,34.42,Multi-Channel Customer,No Sales
+C0476,Fleet Owner,Infrastructure,North,34,73746173.2,2169005.094117647,4,Field Sales,10,29672526.8,40.24,Multi-Channel Customer,No Sales
+C0477,Government,Construction,West,36,57746038.6,1604056.6277777778,4,Online,13,22044263.2,38.17,Multi-Channel Customer,Online Preferred
+C0478,Retail,Rental,North,44,75901402.2,1725031.8681818182,4,Field Sales,14,25739348.6,33.91,Multi-Channel Customer,No Sales
+C0479,Retail,Construction,West,26,37716131.0,1450620.423076923,4,Online,7,12649709.8,33.54,Multi-Channel Customer,Online Preferred
+C0480,Government,Infrastructure,West,34,48525468.6,1427219.6647058823,4,Dealer Network,11,19328351.0,39.83,Multi-Channel Customer,Dealer Network Preferred
+C0481,Corporate,Logistics,South,39,60397194.2,1548646.0051282053,4,Online,10,17360065.8,28.74,Multi-Channel Customer,Online Preferred
+C0482,Fleet Owner,Logistics,East,31,73762403.2,2379432.3612903226,4,Field Sales,13,24022526.8,32.57,Multi-Channel Customer,No Sales
+C0483,Corporate,Rental,North,47,96130859.2,2045337.4297872342,4,Dealer Network,18,43097268.2,44.83,Multi-Channel Customer,Dealer Network Preferred
+C0484,Fleet Owner,Mining,West,27,48200851.6,1785216.725925926,4,Dealer Network,9,12613537.4,26.17,Multi-Channel Customer,Dealer Network Preferred
+C0485,Fleet Owner,Rental,West,28,59146123.8,2112361.564285714,4,Counter Sale,6,21794516.6,36.85,Multi-Channel Customer,Counter Sale Preferred
+C0486,Government,Manufacturing,West,34,52620254.4,1547654.5411764705,4,Online,11,18469589.2,35.1,Multi-Channel Customer,Online Preferred
+C0487,Dealer,Mining,South,26,39512216.0,1519700.6153846155,4,Counter Sale,11,21841174.8,55.28,Multi-Channel Customer,Counter Sale Preferred
+C0488,Government,Construction,South,37,67251532.8,1817608.9945945945,4,Online,12,19759257.6,29.38,Multi-Channel Customer,Online Preferred
+C0489,Fleet Owner,Rental,South,47,70625273.0,1502665.3829787234,4,Online,14,22719373.8,32.17,Multi-Channel Customer,Online Preferred
+C0490,Government,Logistics,West,44,84742703.8,1925970.5409090908,4,Field Sales,14,30754845.599999998,36.29,Multi-Channel Customer,No Sales
+C0491,Dealer,Infrastructure,South,27,65215944.4,2415405.348148148,4,Dealer Network,9,22999268.8,35.27,Multi-Channel Customer,Dealer Network Preferred
+C0492,Dealer,Rental,East,35,61798115.2,1765660.4342857143,4,Counter Sale,15,20496045.8,33.17,Multi-Channel Customer,Counter Sale Preferred
+C0493,Retail,Construction,South,38,54684935.199999996,1439077.242105263,4,Field Sales,13,21828003.599999998,39.92,Multi-Channel Customer,No Sales
+C0494,Corporate,Construction,East,32,48287535.6,1508985.4875,4,Online,10,15402046.6,31.9,Multi-Channel Customer,Online Preferred
+C0495,Fleet Owner,Infrastructure,North,48,94540537.6,1969594.5333333332,4,Dealer Network,14,30164610.8,31.91,Multi-Channel Customer,Dealer Network Preferred
+C0496,Government,Infrastructure,East,37,48190097.0,1302435.054054054,4,Dealer Network,15,18790340.8,38.99,Multi-Channel Customer,Dealer Network Preferred
+C0497,Government,Logistics,South,30,51439335.2,1714644.5066666668,4,Dealer Network,11,19331684.4,37.58,Multi-Channel Customer,Dealer Network Preferred
+C0498,Fleet Owner,Construction,East,28,64864362.8,2316584.3857142855,4,Online,10,26173623.0,40.35,Multi-Channel Customer,Online Preferred
+C0499,Corporate,Construction,East,39,62785837.0,1609893.2564102565,4,Field Sales,11,23584426.6,37.56,Multi-Channel Customer,No Sales
+C0500,Corporate,Infrastructure,East,27,44474866.6,1647217.2814814816,4,Dealer Network,6,14346583.2,32.26,Multi-Channel Customer,Dealer Network Preferred

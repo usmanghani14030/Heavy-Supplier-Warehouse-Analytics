@@ -1,0 +1,501 @@
+customer_id,customer_type,industry_segment,region,branch_id,customer_rating,last_purchase_date,frequency,monetary,recency_days,recency_score,frequency_score,monetary_score,rfm_score,customer_value_segment,monetary_share_pct,customer_value_rank,action_focus
+C0483,Corporate,Rental,North,DEL001,1,2024-12-18,47,96130859.2,14,5,5,5,15,Champions,0.33,3,"Retain, reward and expand high-value relationship"
+C0475,Fleet Owner,Construction,East,KOL001,3,2024-12-18,55,94883375.2,14,5,5,5,15,Champions,0.32,4,"Retain, reward and expand high-value relationship"
+C0304,Dealer,Construction,North,DEL001,5,2024-12-25,48,86460648.4,7,5,5,5,15,Champions,0.3,16,"Retain, reward and expand high-value relationship"
+C0490,Government,Logistics,West,PUN001,3,2024-12-29,44,84742703.8,3,5,5,5,15,Champions,0.29,21,"Retain, reward and expand high-value relationship"
+C0294,Government,Infrastructure,South,HYD001,4,2024-12-27,45,79772077.0,5,5,5,5,15,Champions,0.27,32,"Retain, reward and expand high-value relationship"
+C0165,Fleet Owner,Manufacturing,North,DEL001,4,2024-12-24,50,79168592.4,8,5,5,5,15,Champions,0.27,34,"Retain, reward and expand high-value relationship"
+C0082,Fleet Owner,Manufacturing,West,AHM001,3,2024-12-18,46,77500928.6,14,5,5,5,15,Champions,0.26,40,"Retain, reward and expand high-value relationship"
+C0257,Corporate,Logistics,North,DEL001,1,2024-12-23,43,76189558.0,9,5,5,5,15,Champions,0.26,48,"Retain, reward and expand high-value relationship"
+C0478,Retail,Rental,North,DEL001,1,2024-12-29,44,75901402.2,3,5,5,5,15,Champions,0.26,49,"Retain, reward and expand high-value relationship"
+C0045,Corporate,Rental,East,KOL001,4,2024-12-15,42,75275350.6,17,5,5,5,15,Champions,0.26,52,"Retain, reward and expand high-value relationship"
+C0250,Government,Infrastructure,East,PUN001,2,2024-12-20,43,74416923.4,12,5,5,5,15,Champions,0.25,56,"Retain, reward and expand high-value relationship"
+C0215,Corporate,Rental,South,CHN001,5,2024-12-24,49,73940925.4,8,5,5,5,15,Champions,0.25,58,"Retain, reward and expand high-value relationship"
+C0306,Fleet Owner,Manufacturing,East,KOL001,1,2024-12-16,42,69813587.0,16,5,5,5,15,Champions,0.24,90,"Retain, reward and expand high-value relationship"
+C0282,Government,Logistics,East,KOL001,2,2024-12-24,44,69381309.6,8,5,5,5,15,Champions,0.24,98,"Retain, reward and expand high-value relationship"
+C0153,Retail,Rental,East,PUN001,4,2024-12-12,56,108200489.6,20,4,5,5,14,Champions,0.37,1,"Retain, reward and expand high-value relationship"
+C0178,Dealer,Logistics,East,KOL001,1,2024-12-09,54,89493824.6,23,4,5,5,14,Champions,0.31,12,"Retain, reward and expand high-value relationship"
+C0466,Retail,Manufacturing,South,DEL001,3,2024-12-13,47,88329161.4,19,4,5,5,14,Champions,0.3,13,"Retain, reward and expand high-value relationship"
+C0046,Retail,Rental,West,AHM001,3,2024-12-09,46,87078641.0,23,4,5,5,14,Champions,0.3,14,"Retain, reward and expand high-value relationship"
+C0359,Fleet Owner,Mining,South,HYD001,3,2024-11-28,46,85617784.0,34,4,5,5,14,Champions,0.29,17,"Retain, reward and expand high-value relationship"
+C0107,Fleet Owner,Construction,North,DEL001,1,2024-12-11,49,85196217.6,21,4,5,5,14,Champions,0.29,19,"Retain, reward and expand high-value relationship"
+C0142,Retail,Manufacturing,West,AHM001,1,2024-12-08,45,84828043.0,24,4,5,5,14,Champions,0.29,20,"Retain, reward and expand high-value relationship"
+C0200,Retail,Logistics,East,DEL001,2,2024-11-25,47,84469856.6,37,4,5,5,14,Champions,0.29,22,"Retain, reward and expand high-value relationship"
+C0049,Dealer,Manufacturing,South,KOL001,5,2024-12-25,39,82316206.2,7,5,4,5,14,Champions,0.28,25,"Retain, reward and expand high-value relationship"
+C0403,Government,Construction,East,KOL001,4,2024-12-10,45,80523517.0,22,4,5,5,14,Champions,0.28,29,"Retain, reward and expand high-value relationship"
+C0201,Dealer,Infrastructure,South,CHN001,4,2024-12-13,47,80475593.0,19,4,5,5,14,Champions,0.28,30,"Retain, reward and expand high-value relationship"
+C0356,Dealer,Mining,East,DEL001,2,2024-12-05,45,79690881.0,27,4,5,5,14,Champions,0.27,33,"Retain, reward and expand high-value relationship"
+C0291,Retail,Construction,South,HYD001,2,2024-12-03,46,79064597.0,29,4,5,5,14,Champions,0.27,35,"Retain, reward and expand high-value relationship"
+C0113,Corporate,Logistics,South,CHN001,2,2024-12-23,41,78713400.0,9,5,4,5,14,Champions,0.27,37,"Retain, reward and expand high-value relationship"
+C0244,Government,Logistics,North,KOL001,3,2024-12-09,44,77550764.4,23,4,5,5,14,Champions,0.27,39,"Retain, reward and expand high-value relationship"
+C0069,Dealer,Logistics,North,DEL001,2,2024-12-11,47,77108269.8,21,4,5,5,14,Champions,0.26,43,"Retain, reward and expand high-value relationship"
+C0070,Government,Logistics,West,AHM001,3,2024-12-20,41,76883391.4,12,5,4,5,14,Champions,0.26,45,"Retain, reward and expand high-value relationship"
+C0411,Corporate,Mining,South,HYD001,5,2024-12-12,43,72229183.0,20,4,5,5,14,Champions,0.25,73,"Retain, reward and expand high-value relationship"
+C0071,Corporate,Rental,North,KOL001,2,2024-11-26,42,72076738.0,36,4,5,5,14,Champions,0.25,75,"Retain, reward and expand high-value relationship"
+C0063,Retail,Rental,North,DEL001,5,2024-12-19,38,72065344.4,13,5,4,5,14,Champions,0.25,76,"Retain, reward and expand high-value relationship"
+C0459,Retail,Logistics,East,PUN001,5,2024-12-14,41,71816909.8,18,4,5,5,14,Champions,0.25,79,"Retain, reward and expand high-value relationship"
+C0284,Corporate,Manufacturing,East,KOL001,1,2024-12-23,41,69641823.4,9,5,4,5,14,Champions,0.24,92,"Retain, reward and expand high-value relationship"
+C0109,Retail,Mining,South,CHN001,1,2024-12-09,44,69451949.0,23,4,5,5,14,Champions,0.24,95,"Retain, reward and expand high-value relationship"
+C0270,Corporate,Manufacturing,North,DEL001,2,2024-12-20,43,68114112.8,12,5,5,4,14,Champions,0.23,111,"Retain, reward and expand high-value relationship"
+C0331,Dealer,Logistics,North,DEL001,2,2024-12-15,42,67826105.8,17,5,5,4,14,Champions,0.23,114,"Retain, reward and expand high-value relationship"
+C0276,Dealer,Manufacturing,Central,KOL001,3,2024-12-29,44,67350598.6,3,5,5,4,14,Champions,0.23,119,"Retain, reward and expand high-value relationship"
+C0326,Government,Mining,East,KOL001,4,2024-12-30,42,66177447.4,2,5,5,4,14,Champions,0.23,131,"Retain, reward and expand high-value relationship"
+C0395,Corporate,Manufacturing,East,KOL001,1,2024-12-20,44,64514679.8,12,5,5,4,14,Champions,0.22,146,"Retain, reward and expand high-value relationship"
+C0379,Retail,Mining,West,CHN001,3,2024-12-15,41,64194052.6,17,5,5,4,14,Champions,0.22,150,"Retain, reward and expand high-value relationship"
+C0301,Dealer,Mining,East,KOL001,5,2024-12-19,46,63821535.6,13,5,5,4,14,Champions,0.22,155,"Retain, reward and expand high-value relationship"
+C0004,Fleet Owner,Logistics,South,CHN001,3,2024-12-31,46,60843242.8,1,5,5,4,14,Champions,0.21,196,"Retain, reward and expand high-value relationship"
+C0495,Fleet Owner,Infrastructure,North,AHM001,2,2024-11-25,48,94540537.6,37,3,5,5,13,Loyal High Value,0.32,5,Strengthen relationship and pursue cross-selling opportunities
+C0240,Corporate,Manufacturing,South,HYD001,1,2024-11-10,46,92835709.4,52,3,5,5,13,Loyal High Value,0.32,6,Strengthen relationship and pursue cross-selling opportunities
+C0420,Retail,Rental,South,CHN001,3,2024-11-22,46,92482888.8,40,3,5,5,13,Loyal High Value,0.32,7,Strengthen relationship and pursue cross-selling opportunities
+C0206,Retail,Construction,West,PUN001,3,2024-12-11,40,89674652.2,21,4,4,5,13,Champions,0.31,9,"Retain, reward and expand high-value relationship"
+C0134,Fleet Owner,Infrastructure,West,AHM001,5,2024-11-24,48,85243025.2,38,3,5,5,13,Loyal High Value,0.29,18,Strengthen relationship and pursue cross-selling opportunities
+C0462,Retail,Logistics,South,CHN001,5,2024-11-13,49,82777824.6,49,3,5,5,13,Loyal High Value,0.28,23,Strengthen relationship and pursue cross-selling opportunities
+C0060,Dealer,Mining,South,HYD001,1,2024-11-24,44,77163010.4,38,3,5,5,13,Loyal High Value,0.26,42,Strengthen relationship and pursue cross-selling opportunities
+C0272,Government,Construction,North,DEL001,1,2024-12-13,39,75550922.6,19,4,4,5,13,Champions,0.26,50,"Retain, reward and expand high-value relationship"
+C0468,Fleet Owner,Rental,South,HYD001,1,2024-11-10,49,75254807.6,52,3,5,5,13,Loyal High Value,0.26,53,Strengthen relationship and pursue cross-selling opportunities
+C0307,Dealer,Manufacturing,West,AHM001,1,2024-11-24,42,73655534.6,38,3,5,5,13,Loyal High Value,0.25,63,Strengthen relationship and pursue cross-selling opportunities
+C0242,Government,Construction,South,CHN001,3,2024-11-18,47,73225487.6,44,3,5,5,13,Loyal High Value,0.25,67,Strengthen relationship and pursue cross-selling opportunities
+C0253,Retail,Rental,West,PUN001,2,2024-11-27,39,72946151.6,35,4,4,5,13,Champions,0.25,69,"Retain, reward and expand high-value relationship"
+C0255,Retail,Infrastructure,South,CHN001,4,2024-11-11,45,71144094.2,51,3,5,5,13,Loyal High Value,0.24,82,Strengthen relationship and pursue cross-selling opportunities
+C0016,Government,Rental,East,DEL001,4,2024-12-18,35,70872336.2,14,5,3,5,13,Recent Customers,0.24,83,Build repeat purchasing and increase customer value
+C0160,Retail,Rental,West,AHM001,2,2024-11-23,44,70762190.2,39,3,5,5,13,Loyal High Value,0.24,84,Strengthen relationship and pursue cross-selling opportunities
+C0186,Fleet Owner,Infrastructure,East,KOL001,3,2024-12-11,40,70676837.0,21,4,4,5,13,Champions,0.24,85,"Retain, reward and expand high-value relationship"
+C0469,Government,Manufacturing,North,KOL001,1,2024-12-18,40,68502617.4,14,5,4,4,13,Champions,0.23,106,"Retain, reward and expand high-value relationship"
+C0374,Corporate,Manufacturing,West,PUN001,5,2024-12-10,41,68389697.6,22,4,5,4,13,Champions,0.23,109,"Retain, reward and expand high-value relationship"
+C0425,Dealer,Manufacturing,South,CHN001,3,2024-12-09,41,67882732.6,23,4,5,4,13,Champions,0.23,113,"Retain, reward and expand high-value relationship"
+C0414,Dealer,Construction,South,CHN001,4,2024-12-31,40,66316815.6,1,5,4,4,13,Champions,0.23,128,"Retain, reward and expand high-value relationship"
+C0010,Dealer,Construction,South,CHN001,5,2024-11-27,46,63051038.4,35,4,5,4,13,Champions,0.22,164,"Retain, reward and expand high-value relationship"
+C0315,Dealer,Rental,West,AHM001,4,2024-12-17,40,61457629.4,15,5,4,4,13,Champions,0.21,187,"Retain, reward and expand high-value relationship"
+C0327,Retail,Mining,West,AHM001,1,2024-12-06,43,61017008.6,26,4,5,4,13,Champions,0.21,194,"Retain, reward and expand high-value relationship"
+C0273,Dealer,Manufacturing,East,KOL001,1,2024-12-31,37,60830001.0,1,5,4,4,13,Champions,0.21,198,"Retain, reward and expand high-value relationship"
+C0099,Fleet Owner,Rental,South,PUN001,4,2024-12-26,44,56469516.0,6,5,5,3,13,Recent Customers,0.19,278,Build repeat purchasing and increase customer value
+C0288,Dealer,Infrastructure,North,DEL001,3,2024-10-18,55,97218403.8,75,2,5,5,12,At Risk High Value,0.33,2,Prioritize retention and immediate re-engagement
+C0083,Dealer,Infrastructure,North,DEL001,2,2024-10-04,45,89672688.2,89,2,5,5,12,At Risk High Value,0.31,10,Prioritize retention and immediate re-engagement
+C0254,Dealer,Mining,West,AHM001,5,2024-09-25,48,89556446.6,98,2,5,5,12,At Risk High Value,0.31,11,Prioritize retention and immediate re-engagement
+C0207,Corporate,Rental,East,KOL001,1,2024-10-13,45,87068691.0,80,2,5,5,12,At Risk High Value,0.3,15,Prioritize retention and immediate re-engagement
+C0440,Retail,Manufacturing,South,HYD001,5,2024-10-21,44,82426773.6,72,2,5,5,12,At Risk High Value,0.28,24,Prioritize retention and immediate re-engagement
+C0371,Retail,Rental,South,HYD001,3,2024-11-02,47,82052808.0,60,2,5,5,12,At Risk High Value,0.28,26,Prioritize retention and immediate re-engagement
+C0375,Fleet Owner,Mining,West,PUN001,1,2024-11-03,42,81286325.6,59,2,5,5,12,At Risk High Value,0.28,28,Prioritize retention and immediate re-engagement
+C0076,Government,Mining,South,CHN001,2,2024-10-06,45,80026994.2,87,2,5,5,12,At Risk High Value,0.27,31,Prioritize retention and immediate re-engagement
+C0380,Fleet Owner,Manufacturing,South,HYD001,5,2024-11-03,50,77887431.8,59,2,5,5,12,At Risk High Value,0.27,38,Prioritize retention and immediate re-engagement
+C0197,Government,Manufacturing,West,AHM001,2,2024-10-18,47,77464617.6,75,2,5,5,12,At Risk High Value,0.26,41,Prioritize retention and immediate re-engagement
+C0013,Dealer,Construction,West,AHM001,2,2024-10-27,44,76843692.4,66,2,5,5,12,At Risk High Value,0.26,46,Prioritize retention and immediate re-engagement
+C0005,Dealer,Construction,West,AHM001,2,2024-10-04,45,74996415.4,89,2,5,5,12,At Risk High Value,0.26,54,Prioritize retention and immediate re-engagement
+C0237,Dealer,Infrastructure,South,HYD001,5,2024-10-15,44,74820743.4,78,2,5,5,12,At Risk High Value,0.26,55,Prioritize retention and immediate re-engagement
+C0435,Dealer,Manufacturing,South,CHN001,4,2024-11-01,50,73908258.2,61,2,5,5,12,At Risk High Value,0.25,59,Prioritize retention and immediate re-engagement
+C0300,Dealer,Mining,North,DEL001,1,2024-11-18,40,72746205.0,44,3,4,5,12,Loyal High Value,0.25,71,Strengthen relationship and pursue cross-selling opportunities
+C0032,Government,Logistics,West,AHM001,5,2024-10-25,44,71991263.0,68,2,5,5,12,At Risk High Value,0.25,77,Prioritize retention and immediate re-engagement
+C0196,Fleet Owner,Rental,North East,KOL001,3,2024-10-28,48,71291851.6,65,2,5,5,12,At Risk High Value,0.24,81,Prioritize retention and immediate re-engagement
+C0394,Government,Construction,South,HYD001,4,2024-11-21,40,69936379.2,41,3,4,5,12,Loyal High Value,0.24,89,Strengthen relationship and pursue cross-selling opportunities
+C0429,Fleet Owner,Logistics,West,AHM001,3,2024-10-21,42,69444114.2,72,2,5,5,12,At Risk High Value,0.24,97,Prioritize retention and immediate re-engagement
+C0377,Dealer,Logistics,West,CHN001,3,2024-12-07,37,68519191.2,25,4,4,4,12,Champions,0.23,105,"Retain, reward and expand high-value relationship"
+C0383,Fleet Owner,Infrastructure,North,PUN001,5,2024-11-19,41,68192154.0,43,3,5,4,12,Loyal High Value,0.23,110,Strengthen relationship and pursue cross-selling opportunities
+C0193,Dealer,Infrastructure,West,CHN001,4,2024-11-30,38,67795348.0,32,4,4,4,12,Champions,0.23,115,"Retain, reward and expand high-value relationship"
+C0488,Government,Construction,South,CHN001,1,2024-11-26,37,67251532.8,36,4,4,4,12,Champions,0.23,121,"Retain, reward and expand high-value relationship"
+C0471,Fleet Owner,Logistics,West,AHM001,5,2024-11-27,37,65501994.2,35,4,4,4,12,Champions,0.22,134,"Retain, reward and expand high-value relationship"
+C0209,Corporate,Infrastructure,East,CHN001,5,2024-11-22,44,65445658.4,40,3,5,4,12,Loyal High Value,0.22,136,Strengthen relationship and pursue cross-selling opportunities
+C0149,Government,Manufacturing,West,AHM001,3,2024-12-12,38,65235052.4,20,4,4,4,12,Champions,0.22,139,"Retain, reward and expand high-value relationship"
+C0369,Government,Manufacturing,West,PUN001,1,2024-12-13,40,64656844.2,19,4,4,4,12,Champions,0.22,144,"Retain, reward and expand high-value relationship"
+C0396,Government,Manufacturing,West,AHM001,2,2024-12-07,38,64506474.4,25,4,4,4,12,Champions,0.22,147,"Retain, reward and expand high-value relationship"
+C0329,Dealer,Infrastructure,Central,PUN001,1,2024-12-26,36,64307436.8,6,5,3,4,12,Recent Customers,0.22,148,Build repeat purchasing and increase customer value
+C0275,Fleet Owner,Construction,West,AHM001,5,2024-11-06,45,64270295.0,56,3,5,4,12,Loyal High Value,0.22,149,Strengthen relationship and pursue cross-selling opportunities
+C0302,Fleet Owner,Mining,West,AHM001,1,2024-12-24,36,63607092.0,8,5,3,4,12,Recent Customers,0.22,157,Build repeat purchasing and increase customer value
+C0333,Corporate,Mining,South,HYD001,3,2024-12-02,39,63220923.0,30,4,4,4,12,Champions,0.22,163,"Retain, reward and expand high-value relationship"
+C0467,Retail,Construction,North,DEL001,5,2024-11-06,48,62880162.4,56,3,5,4,12,Loyal High Value,0.21,166,Strengthen relationship and pursue cross-selling opportunities
+C0499,Corporate,Construction,East,PUN001,5,2024-11-29,39,62785837.0,33,4,4,4,12,Champions,0.21,168,"Retain, reward and expand high-value relationship"
+C0039,Fleet Owner,Rental,South,HYD001,4,2024-11-28,38,62706510.2,34,4,4,4,12,Champions,0.21,169,"Retain, reward and expand high-value relationship"
+C0328,Government,Rental,East,KOL001,4,2024-12-05,37,62646507.6,27,4,4,4,12,Champions,0.21,170,"Retain, reward and expand high-value relationship"
+C0413,Fleet Owner,Manufacturing,South,CHN001,1,2024-11-08,41,62380011.4,54,3,5,4,12,Loyal High Value,0.21,173,Strengthen relationship and pursue cross-selling opportunities
+C0217,Corporate,Infrastructure,North,DEL001,5,2024-12-18,36,61360958.2,14,5,3,4,12,Recent Customers,0.21,188,Build repeat purchasing and increase customer value
+C0481,Corporate,Logistics,South,CHN001,5,2024-12-31,39,60397194.2,1,5,4,3,12,Recent Customers,0.21,206,Build repeat purchasing and increase customer value
+C0219,Government,Manufacturing,West,PUN001,2,2024-12-21,39,59976015.0,11,5,4,3,12,Recent Customers,0.21,214,Build repeat purchasing and increase customer value
+C0399,Fleet Owner,Rental,South,CHN001,3,2024-12-25,39,59287998.0,7,5,4,3,12,Recent Customers,0.2,223,Build repeat purchasing and increase customer value
+C0017,Government,Infrastructure,South,CHN001,1,2024-12-21,39,59194497.0,11,5,4,3,12,Recent Customers,0.2,225,Build repeat purchasing and increase customer value
+C0232,Government,Mining,South,CHN001,1,2024-12-29,37,57544368.0,3,5,4,3,12,Recent Customers,0.2,254,Build repeat purchasing and increase customer value
+C0058,Retail,Infrastructure,West,PUN001,3,2024-12-24,40,56831525.0,8,5,4,3,12,Recent Customers,0.19,268,Build repeat purchasing and increase customer value
+C0354,Corporate,Logistics,South,HYD001,2,2024-12-25,37,56690884.8,7,5,4,3,12,Recent Customers,0.19,272,Build repeat purchasing and increase customer value
+C0040,Government,Logistics,North,DEL001,2,2024-12-21,43,53757984.6,11,5,5,2,12,Recent Customers,0.18,316,Build repeat purchasing and increase customer value
+C0110,Dealer,Logistics,Central,CHN001,5,2024-06-21,42,90807306.0,194,1,5,5,11,At Risk High Value,0.31,8,Prioritize retention and immediate re-engagement
+C0221,Dealer,Logistics,North,DEL001,5,2024-09-05,44,82001959.0,118,1,5,5,11,At Risk High Value,0.28,27,Prioritize retention and immediate re-engagement
+C0154,Fleet Owner,Logistics,North,DEL001,5,2024-08-21,45,74171590.6,133,1,5,5,11,At Risk High Value,0.25,57,Prioritize retention and immediate re-engagement
+C0042,Fleet Owner,Rental,South,CHN001,4,2024-10-13,41,73882726.2,80,2,4,5,11,At Risk High Value,0.25,60,Prioritize retention and immediate re-engagement
+C0482,Fleet Owner,Logistics,East,KOL001,1,2024-12-03,31,73762403.2,29,4,2,5,11,Regular Customers,0.25,61,Maintain engagement and encourage higher purchase frequency
+C0241,Government,Construction,West,AHM001,1,2024-10-31,39,73396972.0,62,2,4,5,11,At Risk High Value,0.25,65,Prioritize retention and immediate re-engagement
+C0234,Corporate,Infrastructure,West,CHN001,2,2024-12-26,29,72295152.4,6,5,1,5,11,Regular Customers,0.25,72,Maintain engagement and encourage higher purchase frequency
+C0002,Fleet Owner,Manufacturing,South,HYD001,2,2024-09-07,51,71712838.0,116,1,5,5,11,At Risk High Value,0.25,80,Prioritize retention and immediate re-engagement
+C0489,Fleet Owner,Rental,South,CHN001,5,2024-08-17,47,70625273.0,137,1,5,5,11,At Risk High Value,0.24,86,Prioritize retention and immediate re-engagement
+C0123,Corporate,Infrastructure,East,KOL001,3,2024-11-04,36,70019319.0,58,3,3,5,11,Regular Customers,0.24,88,Maintain engagement and encourage higher purchase frequency
+C0166,Fleet Owner,Manufacturing,West,AHM001,2,2024-12-08,32,69504759.6,24,4,2,5,11,Regular Customers,0.24,93,Maintain engagement and encourage higher purchase frequency
+C0169,Fleet Owner,Construction,West,AHM001,4,2024-10-27,40,69450095.6,66,2,4,5,11,At Risk High Value,0.24,96,Prioritize retention and immediate re-engagement
+C0311,Government,Infrastructure,North,DEL001,4,2024-09-17,41,69331648.2,106,1,5,5,11,At Risk High Value,0.24,99,Prioritize retention and immediate re-engagement
+C0128,Retail,Mining,West,AHM001,1,2024-12-18,33,69172996.2,14,5,2,4,11,Regular Customers,0.24,102,Maintain engagement and encourage higher purchase frequency
+C0448,Fleet Owner,Logistics,East,KOL001,4,2024-12-11,36,68495840.4,21,4,3,4,11,Recent Customers,0.23,107,Build repeat purchasing and increase customer value
+C0343,Corporate,Construction,West,PUN001,1,2024-11-21,40,68419201.6,41,3,4,4,11,Loyal High Value,0.23,108,Strengthen relationship and pursue cross-selling opportunities
+C0247,Corporate,Logistics,East,AHM001,2,2024-11-13,39,67759559.6,49,3,4,4,11,Loyal High Value,0.23,116,Strengthen relationship and pursue cross-selling opportunities
+C0119,Government,Manufacturing,West,DEL001,4,2024-10-26,51,67143205.2,67,2,5,4,11,At Risk High Value,0.23,122,Prioritize retention and immediate re-engagement
+C0422,Government,Construction,South,HYD001,5,2024-11-04,37,65678984.2,58,3,4,4,11,Loyal High Value,0.22,133,Strengthen relationship and pursue cross-selling opportunities
+C0312,Government,Construction,West,PUN001,4,2024-11-17,37,65437706.6,45,3,4,4,11,Loyal High Value,0.22,137,Strengthen relationship and pursue cross-selling opportunities
+C0443,Dealer,Infrastructure,East,KOL001,1,2024-11-18,40,64951558.8,44,3,4,4,11,Loyal High Value,0.22,141,Strengthen relationship and pursue cross-selling opportunities
+C0168,Dealer,Infrastructure,West,PUN001,1,2024-12-18,34,64028787.0,14,5,2,4,11,Regular Customers,0.22,154,Maintain engagement and encourage higher purchase frequency
+C0340,Government,Mining,South,HYD001,3,2024-12-04,35,63532821.6,28,4,3,4,11,Recent Customers,0.22,159,Build repeat purchasing and increase customer value
+C0054,Fleet Owner,Manufacturing,South,CHN001,2,2024-12-14,37,63424926.8,18,4,3,4,11,Recent Customers,0.22,160,Build repeat purchasing and increase customer value
+C0455,Retail,Logistics,Central,PUN001,1,2024-11-27,35,63287015.4,35,4,3,4,11,Recent Customers,0.22,162,Build repeat purchasing and increase customer value
+C0138,Corporate,Mining,South,HYD001,5,2024-12-25,34,62582651.4,7,5,2,4,11,Regular Customers,0.21,172,Maintain engagement and encourage higher purchase frequency
+C0152,Corporate,Manufacturing,South,CHN001,2,2024-11-18,40,62249804.2,44,3,4,4,11,Loyal High Value,0.21,175,Strengthen relationship and pursue cross-selling opportunities
+C0216,Government,Mining,East,KOL001,1,2024-11-20,39,62009378.6,42,3,4,4,11,Loyal High Value,0.21,180,Strengthen relationship and pursue cross-selling opportunities
+C0269,Government,Mining,South,CHN001,1,2024-11-22,41,61642030.4,40,3,4,4,11,Loyal High Value,0.21,184,Strengthen relationship and pursue cross-selling opportunities
+C0447,Fleet Owner,Rental,East,KOL001,2,2024-12-23,33,61334243.8,9,5,2,4,11,Regular Customers,0.21,189,Maintain engagement and encourage higher purchase frequency
+C0409,Government,Logistics,West,PUN001,1,2024-10-09,45,60821412.6,84,2,5,4,11,At Risk High Value,0.21,199,Prioritize retention and immediate re-engagement
+C0026,Fleet Owner,Mining,North,HYD001,5,2024-12-29,36,60554977.0,3,5,3,3,11,Recent Customers,0.21,201,Build repeat purchasing and increase customer value
+C0286,Dealer,Construction,South,CHN001,2,2024-12-29,36,60273490.2,3,5,3,3,11,Recent Customers,0.21,209,Build repeat purchasing and increase customer value
+C0410,Corporate,Mining,South,HYD001,4,2024-11-27,39,59804309.8,35,4,4,3,11,Recent Customers,0.2,216,Build repeat purchasing and increase customer value
+C0211,Fleet Owner,Manufacturing,South,HYD001,1,2024-11-20,42,59389779.2,42,3,5,3,11,Regular Customers,0.2,222,Maintain engagement and encourage higher purchase frequency
+C0280,Corporate,Construction,West,PUN001,4,2024-11-05,42,59078520.8,57,3,5,3,11,Regular Customers,0.2,227,Maintain engagement and encourage higher purchase frequency
+C0068,Retail,Mining,North,DEL001,1,2024-12-06,39,57372766.4,26,4,4,3,11,Recent Customers,0.2,255,Build repeat purchasing and increase customer value
+C0172,Dealer,Manufacturing,South,CHN001,1,2024-11-27,37,57323600.2,35,4,4,3,11,Recent Customers,0.2,258,Build repeat purchasing and increase customer value
+C0105,Government,Logistics,North,DEL001,4,2024-11-26,41,57202879.8,36,4,4,3,11,Recent Customers,0.2,260,Build repeat purchasing and increase customer value
+C0222,Fleet Owner,Logistics,North,DEL001,5,2024-12-13,41,57177978.6,19,4,4,3,11,Recent Customers,0.2,262,Build repeat purchasing and increase customer value
+C0080,Retail,Mining,South,CHN001,1,2024-11-03,42,56541324.2,59,3,5,3,11,Regular Customers,0.19,277,Maintain engagement and encourage higher purchase frequency
+C0081,Corporate,Rental,West,HYD001,1,2024-12-23,37,56355210.0,9,5,3,3,11,Recent Customers,0.19,279,Build repeat purchasing and increase customer value
+C0190,Retail,Manufacturing,North,CHN001,1,2024-12-29,35,56351528.4,3,5,3,3,11,Recent Customers,0.19,280,Build repeat purchasing and increase customer value
+C0098,Corporate,Mining,East,KOL001,1,2024-12-18,35,56088743.0,14,5,3,3,11,Recent Customers,0.19,283,Build repeat purchasing and increase customer value
+C0124,Dealer,Construction,West,PUN001,3,2024-11-04,42,54870405.8,58,3,5,3,11,Regular Customers,0.19,298,Maintain engagement and encourage higher purchase frequency
+C0407,Dealer,Logistics,South,HYD001,2,2024-12-25,38,54609453.4,7,5,4,2,11,Recent Customers,0.19,303,Build repeat purchasing and increase customer value
+C0188,Corporate,Logistics,West,PUN001,4,2024-12-27,39,54387524.8,5,5,4,2,11,Recent Customers,0.19,307,Build repeat purchasing and increase customer value
+C0027,Fleet Owner,Logistics,West,AHM001,1,2024-12-26,39,54309976.4,6,5,4,2,11,Recent Customers,0.19,308,Build repeat purchasing and increase customer value
+C0285,Government,Infrastructure,West,PUN001,4,2024-12-05,47,54036327.8,27,4,5,2,11,Recent Customers,0.18,313,Build repeat purchasing and increase customer value
+C0427,Corporate,Mining,West,HYD001,3,2024-11-26,41,53149424.2,36,4,5,2,11,Recent Customers,0.18,325,Build repeat purchasing and increase customer value
+C0393,Retail,Rental,East,KOL001,3,2024-12-18,39,51240981.8,14,5,4,2,11,Recent Customers,0.18,344,Build repeat purchasing and increase customer value
+C0458,Dealer,Manufacturing,West,AHM001,4,2024-12-28,38,50799400.6,4,5,4,2,11,Recent Customers,0.17,347,Build repeat purchasing and increase customer value
+C0074,Fleet Owner,Infrastructure,East,KOL001,5,2024-12-31,39,50426138.6,1,5,4,2,11,Recent Customers,0.17,354,Build repeat purchasing and increase customer value
+C0087,Government,Logistics,South,HYD001,3,2024-12-17,39,50370513.4,15,5,4,2,11,Recent Customers,0.17,357,Build repeat purchasing and increase customer value
+C0496,Government,Infrastructure,East,PUN001,5,2024-12-27,37,48190097.0,5,5,4,2,11,Recent Customers,0.16,389,Build repeat purchasing and increase customer value
+C0062,Dealer,Construction,South,HYD001,1,2024-10-31,36,78963082.0,62,2,3,5,10,At Risk High Value,0.27,36,Prioritize retention and immediate re-engagement
+C0246,Retail,Manufacturing,North,DEL001,2,2024-11-02,35,77080113.6,60,2,3,5,10,At Risk High Value,0.26,44,Prioritize retention and immediate re-engagement
+C0129,Corporate,Mining,North,DEL001,5,2024-10-31,36,76393252.6,62,2,3,5,10,At Risk High Value,0.26,47,Prioritize retention and immediate re-engagement
+C0103,Dealer,Infrastructure,South,KOL001,4,2024-08-29,40,75304293.2,125,1,4,5,10,At Risk High Value,0.26,51,Prioritize retention and immediate re-engagement
+C0476,Fleet Owner,Infrastructure,North,DEL001,3,2024-09-29,34,73746173.2,94,2,3,5,10,At Risk High Value,0.25,62,Prioritize retention and immediate re-engagement
+C0084,Corporate,Logistics,West,PUN001,3,2024-09-22,39,73317161.4,101,1,4,5,10,At Risk High Value,0.25,66,Prioritize retention and immediate re-engagement
+C0342,Dealer,Infrastructure,North,DEL001,5,2024-10-09,36,72821567.8,84,2,3,5,10,At Risk High Value,0.25,70,Prioritize retention and immediate re-engagement
+C0384,Retail,Construction,South,CHN001,3,2024-09-09,39,72157498.2,114,1,4,5,10,At Risk High Value,0.25,74,Prioritize retention and immediate re-engagement
+C0025,Corporate,Infrastructure,West,PUN001,2,2024-08-18,38,70349653.0,136,1,4,5,10,At Risk High Value,0.24,87,Prioritize retention and immediate re-engagement
+C0373,Corporate,Manufacturing,South,HYD001,3,2024-09-02,38,69753317.8,121,1,4,5,10,At Risk High Value,0.24,91,Prioritize retention and immediate re-engagement
+C0421,Retail,Construction,South,CHN001,3,2024-06-21,38,69466242.8,194,1,4,5,10,At Risk High Value,0.24,94,Prioritize retention and immediate re-engagement
+C0192,Fleet Owner,Logistics,East,DEL001,2,2024-08-29,40,69269688.4,125,1,4,5,10,At Risk High Value,0.24,100,Prioritize retention and immediate re-engagement
+C0225,Fleet Owner,Logistics,North,DEL001,5,2024-07-17,48,69254158.0,168,1,5,4,10,At Risk High Value,0.24,101,Prioritize retention and immediate re-engagement
+C0176,Dealer,Logistics,South,CHN001,2,2024-08-07,42,66901722.8,147,1,5,4,10,At Risk High Value,0.23,124,Prioritize retention and immediate re-engagement
+C0428,Retail,Construction,North,DEL001,4,2024-08-26,43,66337820.6,128,1,5,4,10,At Risk High Value,0.23,127,Prioritize retention and immediate re-engagement
+C0141,Corporate,Rental,West,AHM001,4,2024-11-15,36,66220737.2,47,3,3,4,10,Regular Customers,0.23,130,Maintain engagement and encourage higher purchase frequency
+C0295,Corporate,Mining,East,KOL001,5,2024-10-09,38,65390145.6,84,2,4,4,10,At Risk High Value,0.22,138,Prioritize retention and immediate re-engagement
+C0261,Dealer,Manufacturing,North,DEL001,5,2024-12-06,33,62999554.6,26,4,2,4,10,Regular Customers,0.22,165,Maintain engagement and encourage higher purchase frequency
+C0101,Corporate,Logistics,South,CHN001,5,2024-10-10,38,62629058.6,83,2,4,4,10,At Risk High Value,0.21,171,Prioritize retention and immediate re-engagement
+C0230,Dealer,Infrastructure,North,DEL001,5,2024-10-31,38,62086661.8,62,2,4,4,10,At Risk High Value,0.21,178,Prioritize retention and immediate re-engagement
+C0492,Dealer,Rental,East,HYD001,1,2024-11-05,35,61798115.2,57,3,3,4,10,Regular Customers,0.21,181,Maintain engagement and encourage higher purchase frequency
+C0146,Retail,Mining,West,AHM001,3,2024-12-31,30,61245406.2,1,5,1,4,10,Regular Customers,0.21,190,Maintain engagement and encourage higher purchase frequency
+C0189,Government,Manufacturing,South,KOL001,4,2024-11-11,35,61121980.8,51,3,3,4,10,Regular Customers,0.21,192,Maintain engagement and encourage higher purchase frequency
+C0056,Dealer,Mining,North,DEL001,4,2024-11-10,36,60885469.8,52,3,3,4,10,Regular Customers,0.21,195,Maintain engagement and encourage higher purchase frequency
+C0161,Dealer,Mining,West,AHM001,4,2024-11-17,37,60837361.2,45,3,3,4,10,Regular Customers,0.21,197,Maintain engagement and encourage higher purchase frequency
+C0024,Dealer,Rental,South,CHN001,4,2024-09-17,44,60658309.2,106,1,5,4,10,At Risk High Value,0.21,200,Prioritize retention and immediate re-engagement
+C0130,Government,Mining,West,PUN001,1,2024-11-16,39,60017312.8,46,3,4,3,10,Regular Customers,0.21,213,Maintain engagement and encourage higher purchase frequency
+C0021,Corporate,Mining,South,HYD001,5,2024-10-01,45,59956738.4,92,2,5,3,10,At Risk,0.2,215,Run targeted re-engagement and retention campaigns
+C0065,Corporate,Mining,West,AHM001,4,2024-12-12,36,59751563.6,20,4,3,3,10,Recent Customers,0.2,217,Build repeat purchasing and increase customer value
+C0310,Government,Infrastructure,East,CHN001,4,2024-11-07,39,59059490.6,55,3,4,3,10,Regular Customers,0.2,228,Maintain engagement and encourage higher purchase frequency
+C0355,Government,Infrastructure,South,HYD001,4,2024-12-18,32,58903770.4,14,5,2,3,10,Regular Customers,0.2,231,Maintain engagement and encourage higher purchase frequency
+C0106,Dealer,Infrastructure,Central,PUN001,2,2024-11-12,39,58339475.8,50,3,4,3,10,Regular Customers,0.2,235,Maintain engagement and encourage higher purchase frequency
+C0023,Corporate,Mining,South,CHN001,2,2024-12-27,32,58217713.2,5,5,2,3,10,Regular Customers,0.2,238,Maintain engagement and encourage higher purchase frequency
+C0093,Dealer,Manufacturing,South,CHN001,2,2024-12-01,36,57944235.8,31,4,3,3,10,Recent Customers,0.2,242,Build repeat purchasing and increase customer value
+C0077,Corporate,Mining,North,DEL001,1,2024-12-16,34,57865492.6,16,5,2,3,10,Regular Customers,0.2,246,Maintain engagement and encourage higher purchase frequency
+C0398,Government,Rental,South,HYD001,5,2024-12-02,35,57843305.6,30,4,3,3,10,Recent Customers,0.2,248,Build repeat purchasing and increase customer value
+C0038,Fleet Owner,Rental,North,DEL001,1,2024-11-29,36,57808311.2,33,4,3,3,10,Recent Customers,0.2,249,Build repeat purchasing and increase customer value
+C0436,Fleet Owner,Logistics,East,KOL001,3,2024-12-15,34,57784314.2,17,4,3,3,10,Recent Customers,0.2,250,Build repeat purchasing and increase customer value
+C0290,Corporate,Construction,West,AHM001,3,2024-11-15,40,57372288.2,47,3,4,3,10,Regular Customers,0.2,256,Maintain engagement and encourage higher purchase frequency
+C0426,Dealer,Infrastructure,North East,KOL001,1,2024-12-03,35,57207251.0,29,4,3,3,10,Recent Customers,0.2,259,Build repeat purchasing and increase customer value
+C0011,Retail,Infrastructure,West,KOL001,4,2024-11-22,41,57187490.8,40,3,4,3,10,Regular Customers,0.2,261,Maintain engagement and encourage higher purchase frequency
+C0296,Corporate,Manufacturing,East,KOL001,2,2024-11-07,40,56944680.8,55,3,4,3,10,Regular Customers,0.19,266,Maintain engagement and encourage higher purchase frequency
+C0059,Retail,Manufacturing,South,HYD001,3,2024-12-20,32,56859509.4,12,5,2,3,10,Regular Customers,0.19,267,Maintain engagement and encourage higher purchase frequency
+C0195,Fleet Owner,Logistics,East,KOL001,2,2024-12-28,31,56797913.6,4,5,2,3,10,Regular Customers,0.19,269,Maintain engagement and encourage higher purchase frequency
+C0022,Retail,Infrastructure,South,CHN001,3,2024-11-06,38,56759064.0,56,3,4,3,10,Regular Customers,0.19,270,Maintain engagement and encourage higher purchase frequency
+C0052,Government,Manufacturing,North East,PUN001,2,2024-12-11,35,56612172.2,21,4,3,3,10,Recent Customers,0.19,274,Build repeat purchasing and increase customer value
+C0111,Corporate,Construction,South,CHN001,3,2024-12-16,33,55916542.2,16,5,2,3,10,Regular Customers,0.19,284,Maintain engagement and encourage higher purchase frequency
+C0157,Dealer,Infrastructure,North,PUN001,1,2024-12-30,34,55572804.4,2,5,2,3,10,Regular Customers,0.19,288,Maintain engagement and encourage higher purchase frequency
+C0287,Dealer,Manufacturing,South,CHN001,4,2024-11-27,36,55179366.6,35,4,3,3,10,Recent Customers,0.19,294,Build repeat purchasing and increase customer value
+C0148,Government,Construction,South,AHM001,4,2024-12-09,35,54884128.4,23,4,3,3,10,Recent Customers,0.19,297,Build repeat purchasing and increase customer value
+C0346,Retail,Construction,East,HYD001,3,2024-11-15,39,54686860.8,47,3,4,3,10,Regular Customers,0.19,299,Maintain engagement and encourage higher purchase frequency
+C0493,Retail,Construction,South,CHN001,3,2024-11-22,38,54684935.2,40,3,4,3,10,Regular Customers,0.19,300,Maintain engagement and encourage higher purchase frequency
+C0370,Corporate,Infrastructure,East,KOL001,4,2024-12-18,36,53881174.6,14,5,3,2,10,Recent Customers,0.18,314,Build repeat purchasing and increase customer value
+C0320,Retail,Construction,North,DEL001,1,2024-12-30,34,53574056.6,2,5,3,2,10,Recent Customers,0.18,317,Build repeat purchasing and increase customer value
+C0220,Government,Infrastructure,Central,KOL001,2,2024-11-06,43,53467975.0,56,3,5,2,10,Regular Customers,0.18,322,Maintain engagement and encourage higher purchase frequency
+C0181,Government,Construction,West,PUN001,5,2024-12-15,36,53087081.0,17,5,3,2,10,Recent Customers,0.18,326,Build repeat purchasing and increase customer value
+C0323,Government,Manufacturing,West,AHM001,2,2024-12-22,36,50291498.8,10,5,3,2,10,Recent Customers,0.17,360,Build repeat purchasing and increase customer value
+C0439,Dealer,Construction,South,CHN001,5,2024-12-22,36,47576062.0,10,5,3,2,10,Recent Customers,0.16,396,Build repeat purchasing and increase customer value
+C0337,Corporate,Manufacturing,North,DEL001,2,2024-08-25,34,73457151.8,129,1,3,5,9,At Risk High Value,0.25,64,Prioritize retention and immediate re-engagement
+C0297,Fleet Owner,Rental,South,CHN001,3,2024-07-01,34,73065015.6,184,1,3,5,9,At Risk High Value,0.25,68,Prioritize retention and immediate re-engagement
+C0102,Government,Infrastructure,East,KOL001,4,2024-10-24,34,71864051.2,69,2,2,5,9,At Risk High Value,0.25,78,Prioritize retention and immediate re-engagement
+C0009,Corporate,Rental,West,AHM001,4,2024-11-04,34,68836324.8,58,3,2,4,9,Regular Customers,0.24,103,Maintain engagement and encourage higher purchase frequency
+C0041,Government,Rental,South,HYD001,5,2024-06-11,38,68044561.6,204,1,4,4,9,At Risk High Value,0.23,112,Prioritize retention and immediate re-engagement
+C0385,Corporate,Manufacturing,West,AHM001,2,2024-09-23,37,67435700.6,100,1,4,4,9,At Risk High Value,0.23,117,Prioritize retention and immediate re-engagement
+C0464,Corporate,Infrastructure,North,AHM001,1,2024-09-13,38,67405736.8,110,1,4,4,9,At Risk High Value,0.23,118,Prioritize retention and immediate re-engagement
+C0264,Retail,Infrastructure,West,PUN001,4,2024-11-02,36,67321592.8,60,2,3,4,9,At Risk High Value,0.23,120,Prioritize retention and immediate re-engagement
+C0341,Fleet Owner,Mining,North,DEL001,5,2024-10-07,36,66838579.4,86,2,3,4,9,At Risk High Value,0.23,125,Prioritize retention and immediate re-engagement
+C0191,Corporate,Manufacturing,South,KOL001,2,2024-12-12,29,65787839.8,20,4,1,4,9,Regular Customers,0.22,132,Maintain engagement and encourage higher purchase frequency
+C0006,Government,Construction,West,AHM001,3,2024-09-02,40,65482805.4,121,1,4,4,9,At Risk High Value,0.22,135,Prioritize retention and immediate re-engagement
+C0460,Dealer,Logistics,South,DEL001,1,2024-11-25,32,64634814.4,37,3,2,4,9,Regular Customers,0.22,145,Maintain engagement and encourage higher purchase frequency
+C0390,Fleet Owner,Construction,North,DEL001,3,2024-11-09,32,64132451.0,53,3,2,4,9,Regular Customers,0.22,151,Maintain engagement and encourage higher purchase frequency
+C0318,Corporate,Logistics,North,DEL001,3,2024-10-17,36,62202116.0,76,2,3,4,9,At Risk High Value,0.21,177,Prioritize retention and immediate re-engagement
+C0438,Corporate,Rental,East,KOL001,2,2024-09-01,39,61720027.0,122,1,4,4,9,At Risk High Value,0.21,182,Prioritize retention and immediate re-engagement
+C0263,Government,Rental,South,CHN001,3,2024-11-01,35,61677496.4,61,2,3,4,9,At Risk High Value,0.21,183,Prioritize retention and immediate re-engagement
+C0184,Retail,Rental,South,CHN001,3,2024-11-28,29,61479056.4,34,4,1,4,9,Regular Customers,0.21,186,Maintain engagement and encourage higher purchase frequency
+C0015,Government,Rental,West,PUN001,2,2024-11-16,34,61028370.8,46,3,2,4,9,Regular Customers,0.21,193,Maintain engagement and encourage higher purchase frequency
+C0319,Dealer,Mining,South,KOL001,5,2024-12-08,33,60426895.0,24,4,2,3,9,Regular Customers,0.21,205,Maintain engagement and encourage higher purchase frequency
+C0335,Government,Infrastructure,North East,PUN001,5,2024-11-03,38,60351028.0,59,2,4,3,9,At Risk,0.21,207,Run targeted re-engagement and retention campaigns
+C0259,Fleet Owner,Logistics,South,CHN001,1,2024-12-13,33,60202150.6,19,4,2,3,9,Regular Customers,0.21,210,Maintain engagement and encourage higher purchase frequency
+C0140,Retail,Logistics,West,PUN001,3,2024-11-24,37,60136648.6,38,3,3,3,9,Regular Customers,0.21,211,Maintain engagement and encourage higher purchase frequency
+C0051,Retail,Infrastructure,North,AHM001,4,2024-11-15,36,59420710.4,47,3,3,3,9,Regular Customers,0.2,220,Maintain engagement and encourage higher purchase frequency
+C0453,Dealer,Mining,East,CHN001,3,2024-12-01,31,59284873.8,31,4,2,3,9,Regular Customers,0.2,224,Maintain engagement and encourage higher purchase frequency
+C0055,Dealer,Construction,North,DEL001,1,2024-12-11,32,59056095.2,21,4,2,3,9,Regular Customers,0.2,229,Maintain engagement and encourage higher purchase frequency
+C0236,Corporate,Mining,West,KOL001,1,2024-10-25,41,57861179.0,68,2,4,3,9,At Risk,0.2,247,Run targeted re-engagement and retention campaigns
+C0445,Government,Mining,East,KOL001,2,2024-12-28,28,57177744.4,4,5,1,3,9,Regular Customers,0.2,263,Maintain engagement and encourage higher purchase frequency
+C0245,Dealer,Logistics,South,CHN001,2,2024-11-30,33,56554752.6,32,4,2,3,9,Regular Customers,0.19,276,Maintain engagement and encourage higher purchase frequency
+C0397,Fleet Owner,Mining,West,AHM001,3,2024-11-22,36,56279511.4,40,3,3,3,9,Regular Customers,0.19,281,Maintain engagement and encourage higher purchase frequency
+C0095,Fleet Owner,Logistics,West,AHM001,3,2024-12-26,29,55610118.2,6,5,1,3,9,Regular Customers,0.19,286,Maintain engagement and encourage higher purchase frequency
+C0067,Retail,Manufacturing,West,AHM001,3,2024-12-30,31,55575120.6,2,5,1,3,9,Regular Customers,0.19,287,Maintain engagement and encourage higher purchase frequency
+C0072,Government,Logistics,West,PUN001,3,2024-12-23,26,55369763.0,9,5,1,3,9,Regular Customers,0.19,291,Maintain engagement and encourage higher purchase frequency
+C0472,Dealer,Manufacturing,South,CHN001,4,2024-11-23,34,54888819.4,39,3,3,3,9,Regular Customers,0.19,296,Maintain engagement and encourage higher purchase frequency
+C0035,Dealer,Infrastructure,Central,CHN001,4,2024-11-12,38,53340276.8,50,3,4,2,9,Regular Customers,0.18,324,Maintain engagement and encourage higher purchase frequency
+C0096,Corporate,Construction,South,CHN001,3,2024-12-30,34,51986858.4,2,5,2,2,9,Low Value,0.18,335,Improve engagement and evaluate cost-to-serve
+C0090,Government,Infrastructure,North,DEL001,1,2024-10-22,43,51915256.6,71,2,5,2,9,At Risk,0.18,338,Run targeted re-engagement and retention campaigns
+C0214,Corporate,Rental,West,PUN001,4,2024-12-26,31,50612095.0,6,5,2,2,9,Low Value,0.17,351,Improve engagement and evaluate cost-to-serve
+C0345,Retail,Infrastructure,West,PUN001,2,2024-11-20,40,50444735.6,42,3,4,2,9,Regular Customers,0.17,353,Maintain engagement and encourage higher purchase frequency
+C0167,Retail,Mining,West,HYD001,4,2024-12-28,31,50383279.4,4,5,2,2,9,Low Value,0.17,356,Improve engagement and evaluate cost-to-serve
+C0159,Dealer,Construction,South,CHN001,3,2024-12-26,34,49934036.2,6,5,2,2,9,Low Value,0.17,363,Improve engagement and evaluate cost-to-serve
+C0194,Fleet Owner,Construction,South,CHN001,1,2024-12-26,33,48202752.8,6,5,2,2,9,Low Value,0.16,387,Improve engagement and evaluate cost-to-serve
+C0465,Fleet Owner,Mining,South,CHN001,1,2024-12-12,35,48083241.6,20,4,3,2,9,Recent Customers,0.16,392,Build repeat purchasing and increase customer value
+C0278,Fleet Owner,Logistics,West,AHM001,4,2024-12-03,38,47107787.2,29,4,4,1,9,Recent Customers,0.16,403,Build repeat purchasing and increase customer value
+C0452,Fleet Owner,Mining,South,HYD001,1,2024-12-27,35,40090449.2,5,5,3,1,9,Recent Customers,0.14,467,Build repeat purchasing and increase customer value
+C0415,Government,Infrastructure,North East,PUN001,1,2024-10-11,33,68592455.6,82,2,2,4,8,At Risk High Value,0.23,104,Prioritize retention and immediate re-engagement
+C0293,Dealer,Logistics,West,PUN001,3,2024-09-25,36,66815451.4,98,1,3,4,8,At Risk High Value,0.23,126,Prioritize retention and immediate re-engagement
+C0406,Dealer,Logistics,West,PUN001,3,2024-10-11,32,64818334.4,82,2,2,4,8,At Risk High Value,0.22,143,Prioritize retention and immediate re-engagement
+C0116,Dealer,Construction,North,DEL001,1,2024-07-28,35,64081942.6,157,1,3,4,8,At Risk High Value,0.22,152,Prioritize retention and immediate re-engagement
+C0268,Government,Mining,West,PUN001,3,2024-10-07,32,63709103.6,86,2,2,4,8,At Risk High Value,0.22,156,Prioritize retention and immediate re-engagement
+C0198,Government,Mining,West,AHM001,2,2024-08-01,36,63577917.2,153,1,3,4,8,At Risk High Value,0.22,158,Prioritize retention and immediate re-engagement
+C0249,Corporate,Construction,West,AHM001,4,2024-09-03,35,63391180.8,120,1,3,4,8,At Risk High Value,0.22,161,Prioritize retention and immediate re-engagement
+C0135,Retail,Rental,South,DEL001,2,2024-08-27,35,62791824.6,127,1,3,4,8,At Risk High Value,0.21,167,Prioritize retention and immediate re-engagement
+C0381,Corporate,Mining,South,CHN001,4,2024-11-17,29,62038399.0,45,3,1,4,8,Regular Customers,0.21,179,Maintain engagement and encourage higher purchase frequency
+C0419,Fleet Owner,Logistics,West,AHM001,1,2024-09-30,31,61514207.2,93,2,2,4,8,At Risk High Value,0.21,185,Prioritize retention and immediate re-engagement
+C0228,Government,Construction,South,CHN001,3,2024-09-10,34,61132479.4,113,1,3,4,8,At Risk High Value,0.21,191,Prioritize retention and immediate re-engagement
+C0235,Fleet Owner,Mining,East,CHN001,5,2024-09-10,38,60478356.4,113,1,4,3,8,At Risk,0.21,203,Run targeted re-engagement and retention campaigns
+C0365,Government,Manufacturing,East,KOL001,1,2024-09-15,39,60336743.2,108,1,4,3,8,At Risk,0.21,208,Run targeted re-engagement and retention campaigns
+C0408,Government,Infrastructure,South,HYD001,4,2024-11-02,36,60127186.2,60,2,3,3,8,At Risk,0.21,212,Run targeted re-engagement and retention campaigns
+C0175,Fleet Owner,Rental,East,KOL001,5,2024-11-01,36,59434888.8,61,2,3,3,8,At Risk,0.2,219,Run targeted re-engagement and retention campaigns
+C0358,Government,Infrastructure,West,PUN001,4,2024-10-01,36,59405501.6,92,2,3,3,8,At Risk,0.2,221,Run targeted re-engagement and retention campaigns
+C0158,Corporate,Infrastructure,East,KOL001,2,2024-09-26,36,58875735.2,97,2,3,3,8,At Risk,0.2,232,Run targeted re-engagement and retention campaigns
+C0314,Retail,Logistics,East,KOL001,1,2024-09-26,36,58625243.8,97,2,3,3,8,At Risk,0.2,234,Run targeted re-engagement and retention campaigns
+C0401,Government,Logistics,North East,DEL001,1,2024-10-25,36,58231157.8,68,2,3,3,8,At Risk,0.2,237,Run targeted re-engagement and retention campaigns
+C0029,Dealer,Construction,South,KOL001,1,2024-06-30,38,58176890.6,185,1,4,3,8,At Risk,0.2,240,Run targeted re-engagement and retention campaigns
+C0477,Government,Construction,West,AHM001,5,2024-10-13,36,57746038.6,80,2,3,3,8,At Risk,0.2,251,Run targeted re-engagement and retention campaigns
+C0073,Corporate,Rental,North,CHN001,4,2024-11-12,32,56970903.6,50,3,2,3,8,Regular Customers,0.19,265,Maintain engagement and encourage higher purchase frequency
+C0461,Corporate,Infrastructure,North,DEL001,5,2024-10-31,36,56714684.2,62,2,3,3,8,At Risk,0.19,271,Run targeted re-engagement and retention campaigns
+C0457,Retail,Manufacturing,East,KOL001,4,2024-11-15,33,56578805.4,47,3,2,3,8,Regular Customers,0.19,275,Maintain engagement and encourage higher purchase frequency
+C0050,Dealer,Mining,East,KOL001,3,2024-12-14,27,56151044.8,18,4,1,3,8,Regular Customers,0.19,282,Maintain engagement and encourage higher purchase frequency
+C0449,Fleet Owner,Logistics,West,KOL001,3,2024-11-19,32,55700286.8,43,3,2,3,8,Regular Customers,0.19,285,Maintain engagement and encourage higher purchase frequency
+C0450,Fleet Owner,Construction,East,KOL001,5,2024-09-12,38,55345960.4,111,1,4,3,8,At Risk,0.19,293,Run targeted re-engagement and retention campaigns
+C0001,Retail,Construction,East,KOL001,4,2024-11-15,34,55019747.4,47,3,2,3,8,Regular Customers,0.19,295,Maintain engagement and encourage higher purchase frequency
+C0203,Government,Manufacturing,West,AHM001,1,2024-11-19,35,53777085.6,43,3,3,2,8,Regular Customers,0.18,315,Maintain engagement and encourage higher purchase frequency
+C0362,Corporate,Rental,West,AHM001,1,2024-10-11,37,53495189.2,82,2,4,2,8,At Risk,0.18,321,Run targeted re-engagement and retention campaigns
+C0378,Retail,Manufacturing,North,DEL001,4,2024-11-16,35,50644577.2,46,3,3,2,8,Regular Customers,0.17,350,Maintain engagement and encourage higher purchase frequency
+C0308,Retail,Mining,North,DEL001,3,2024-12-12,33,50359329.6,20,4,2,2,8,Low Value,0.17,358,Improve engagement and evaluate cost-to-serve
+C0057,Retail,Logistics,East,KOL001,3,2024-12-04,32,49701788.6,28,4,2,2,8,Low Value,0.17,366,Improve engagement and evaluate cost-to-serve
+C0432,Fleet Owner,Mining,South,HYD001,3,2024-10-04,37,49310040.8,89,2,4,2,8,At Risk,0.17,370,Run targeted re-engagement and retention campaigns
+C0036,Fleet Owner,Construction,East,KOL001,2,2024-12-18,31,48929201.8,14,5,1,2,8,Low Value,0.17,376,Improve engagement and evaluate cost-to-serve
+C0480,Government,Infrastructure,West,AHM001,3,2024-11-24,34,48525468.6,38,3,3,2,8,Regular Customers,0.17,379,Maintain engagement and encourage higher purchase frequency
+C0494,Corporate,Construction,East,CHN001,2,2024-11-28,32,48287535.6,34,4,2,2,8,Low Value,0.17,383,Improve engagement and evaluate cost-to-serve
+C0305,Fleet Owner,Logistics,North,DEL001,3,2024-11-27,31,48238808.8,35,4,2,2,8,Low Value,0.16,384,Improve engagement and evaluate cost-to-serve
+C0097,Corporate,Construction,West,PUN001,5,2024-12-16,26,47499351.2,16,5,1,2,8,Low Value,0.16,398,Improve engagement and evaluate cost-to-serve
+C0404,Government,Mining,West,AHM001,5,2024-12-26,31,46035794.4,6,5,2,1,8,Low Value,0.16,419,Improve engagement and evaluate cost-to-serve
+C0317,Corporate,Manufacturing,South,HYD001,3,2024-12-25,32,43291415.2,7,5,2,1,8,Low Value,0.15,445,Improve engagement and evaluate cost-to-serve
+C0019,Government,Logistics,East,KOL001,5,2024-12-10,37,42528118.4,22,4,3,1,8,Recent Customers,0.15,452,Build repeat purchasing and increase customer value
+C0104,Fleet Owner,Infrastructure,South,KOL001,1,2024-12-30,34,42120081.4,2,5,2,1,8,Low Value,0.14,455,Improve engagement and evaluate cost-to-serve
+C0155,Fleet Owner,Mining,East,KOL001,5,2024-12-17,31,41576324.2,15,5,2,1,8,Low Value,0.14,460,Improve engagement and evaluate cost-to-serve
+C0309,Government,Manufacturing,West,AHM001,4,2024-12-17,31,38065991.6,15,5,2,1,8,Low Value,0.13,479,Improve engagement and evaluate cost-to-serve
+C0145,Retail,Construction,West,PUN001,3,2024-12-29,33,34445949.4,3,5,2,1,8,Low Value,0.12,489,Improve engagement and evaluate cost-to-serve
+C0156,Government,Manufacturing,South,CHN001,5,2024-09-17,33,67117436.4,106,1,2,4,7,At Risk High Value,0.23,123,Prioritize retention and immediate re-engagement
+C0126,Dealer,Manufacturing,South,HYD001,4,2024-04-05,33,64059034.8,271,1,2,4,7,At Risk High Value,0.22,153,Prioritize retention and immediate re-engagement
+C0258,Corporate,Mining,South,CHN001,2,2024-10-10,28,62250978.4,83,2,1,4,7,At Risk High Value,0.21,174,Prioritize retention and immediate re-engagement
+C0162,Retail,Mining,East,KOL001,4,2024-10-14,28,62233145.6,79,2,1,4,7,At Risk High Value,0.21,176,Prioritize retention and immediate re-engagement
+C0251,Dealer,Mining,North,CHN001,4,2024-07-06,36,60544705.8,179,1,3,3,7,At Risk,0.21,202,Run targeted re-engagement and retention campaigns
+C0085,Retail,Mining,South,CHN001,4,2024-09-20,37,60463527.2,103,1,3,3,7,At Risk,0.21,204,Run targeted re-engagement and retention campaigns
+C0086,Retail,Construction,West,AHM001,3,2024-11-22,29,59655682.6,40,3,1,3,7,Regular Customers,0.2,218,Maintain engagement and encourage higher purchase frequency
+C0424,Retail,Construction,West,AHM001,4,2024-09-23,35,58183379.4,100,1,3,3,7,At Risk,0.2,239,Run targeted re-engagement and retention campaigns
+C0173,Retail,Logistics,South,CHN001,1,2024-10-18,31,57999777.4,75,2,2,3,7,Regular Customers,0.2,241,Maintain engagement and encourage higher purchase frequency
+C0227,Fleet Owner,Infrastructure,East,KOL001,1,2024-10-24,34,57926647.6,69,2,2,3,7,Regular Customers,0.2,243,Maintain engagement and encourage higher purchase frequency
+C0064,Corporate,Manufacturing,North,KOL001,3,2024-10-18,32,57893888.0,75,2,2,3,7,Regular Customers,0.2,244,Maintain engagement and encourage higher purchase frequency
+C0357,Corporate,Mining,West,AHM001,2,2024-11-17,28,57734552.2,45,3,1,3,7,Regular Customers,0.2,252,Maintain engagement and encourage higher purchase frequency
+C0367,Fleet Owner,Logistics,South,CHN001,2,2024-11-04,27,57592654.8,58,3,1,3,7,Regular Customers,0.2,253,Maintain engagement and encourage higher purchase frequency
+C0088,Corporate,Infrastructure,West,PUN001,1,2024-08-06,36,57330201.8,148,1,3,3,7,At Risk,0.2,257,Run targeted re-engagement and retention campaigns
+C0349,Corporate,Rental,West,AHM001,1,2024-10-19,33,56613876.0,74,2,2,3,7,Regular Customers,0.19,273,Maintain engagement and encourage higher purchase frequency
+C0463,Dealer,Mining,West,AHM001,4,2024-08-22,35,55370560.0,132,1,3,3,7,At Risk,0.19,290,Run targeted re-engagement and retention campaigns
+C0360,Dealer,Construction,West,AHM001,5,2024-11-17,31,54662201.0,45,3,2,2,7,Low Value,0.19,301,Improve engagement and evaluate cost-to-serve
+C0274,Dealer,Mining,North,CHN001,3,2024-06-27,39,54639688.2,188,1,4,2,7,At Risk,0.19,302,Run targeted re-engagement and retention campaigns
+C0321,Retail,Logistics,South,HYD001,2,2024-06-28,38,54558976.4,187,1,4,2,7,At Risk,0.19,305,Run targeted re-engagement and retention campaigns
+C0364,Government,Infrastructure,East,KOL001,5,2024-11-18,32,54408370.8,44,3,2,2,7,Low Value,0.19,306,Improve engagement and evaluate cost-to-serve
+C0330,Retail,Infrastructure,East,KOL001,3,2024-08-10,38,54285450.6,144,1,4,2,7,At Risk,0.19,309,Run targeted re-engagement and retention campaigns
+C0224,Retail,Manufacturing,East,KOL001,3,2024-10-31,36,54050072.4,62,2,3,2,7,At Risk,0.18,311,Run targeted re-engagement and retention campaigns
+C0363,Fleet Owner,Logistics,South,AHM001,5,2024-11-07,32,53560072.2,55,3,2,2,7,Low Value,0.18,318,Improve engagement and evaluate cost-to-serve
+C0210,Retail,Infrastructure,West,PUN001,2,2024-11-26,30,53509817.8,36,4,1,2,7,Low Value,0.18,320,Improve engagement and evaluate cost-to-serve
+C0012,Fleet Owner,Logistics,South,CHN001,1,2024-10-10,37,53404468.4,83,2,3,2,7,At Risk,0.18,323,Run targeted re-engagement and retention campaigns
+C0486,Government,Manufacturing,West,PUN001,2,2024-10-07,34,52620254.4,86,2,3,2,7,At Risk,0.18,329,Run targeted re-engagement and retention campaigns
+C0338,Corporate,Rental,West,AHM001,4,2024-11-23,33,52210070.0,39,3,2,2,7,Low Value,0.18,332,Improve engagement and evaluate cost-to-serve
+C0446,Retail,Logistics,South,HYD001,1,2024-10-16,34,52035543.6,77,2,3,2,7,At Risk,0.18,334,Run targeted re-engagement and retention campaigns
+C0205,Retail,Construction,North,CHN001,2,2024-11-15,33,51965845.0,47,3,2,2,7,Low Value,0.18,337,Improve engagement and evaluate cost-to-serve
+C0400,Government,Infrastructure,North,DEL001,5,2024-10-23,35,51694363.6,70,2,3,2,7,At Risk,0.18,340,Run targeted re-engagement and retention campaigns
+C0231,Government,Infrastructure,West,PUN001,4,2024-11-08,32,51646725.4,54,3,2,2,7,Low Value,0.18,341,Improve engagement and evaluate cost-to-serve
+C0348,Retail,Logistics,North,DEL001,2,2024-10-24,34,50897650.4,69,2,3,2,7,At Risk,0.17,346,Run targeted re-engagement and retention campaigns
+C0120,Fleet Owner,Construction,South,HYD001,5,2024-11-15,34,50313583.0,47,3,2,2,7,Low Value,0.17,359,Improve engagement and evaluate cost-to-serve
+C0289,Corporate,Logistics,South,HYD001,2,2024-10-29,35,50221149.2,64,2,3,2,7,At Risk,0.17,361,Run targeted re-engagement and retention campaigns
+C0451,Government,Manufacturing,East,KOL001,3,2024-07-06,37,49725150.4,179,1,4,2,7,At Risk,0.17,365,Run targeted re-engagement and retention campaigns
+C0044,Government,Mining,West,KOL001,4,2024-11-17,34,49589458.0,45,3,2,2,7,Low Value,0.17,367,Improve engagement and evaluate cost-to-serve
+C0033,Government,Mining,South,CHN001,5,2024-12-12,30,49354094.2,20,4,1,2,7,Low Value,0.17,369,Improve engagement and evaluate cost-to-serve
+C0470,Government,Mining,South,CHN001,1,2024-09-27,36,49194933.2,96,2,3,2,7,At Risk,0.17,372,Run targeted re-engagement and retention campaigns
+C0132,Corporate,Construction,Central,PUN001,2,2024-10-01,37,49004629.4,92,2,3,2,7,At Risk,0.17,373,Run targeted re-engagement and retention campaigns
+C0386,Retail,Construction,North,DEL001,4,2024-11-04,32,48819152.6,58,3,2,2,7,Low Value,0.17,377,Improve engagement and evaluate cost-to-serve
+C0100,Government,Construction,North,KOL001,3,2024-09-10,38,48373950.0,113,1,4,2,7,At Risk,0.17,381,Run targeted re-engagement and retention campaigns
+C0079,Retail,Rental,North,DEL001,5,2024-11-28,31,47175266.2,34,4,1,2,7,Low Value,0.16,399,Improve engagement and evaluate cost-to-serve
+C0089,Corporate,Rental,West,AHM001,4,2024-11-14,37,47111014.0,48,3,3,1,7,Regular Customers,0.16,402,Maintain engagement and encourage higher purchase frequency
+C0391,Government,Construction,West,AHM001,3,2024-11-30,33,47080496.4,32,4,2,1,7,Low Value,0.16,404,Improve engagement and evaluate cost-to-serve
+C0121,Government,Construction,West,PUN001,2,2024-12-01,34,47029566.2,31,4,2,1,7,Low Value,0.16,406,Improve engagement and evaluate cost-to-serve
+C0208,Fleet Owner,Logistics,North,KOL001,4,2024-12-30,30,46904115.8,2,5,1,1,7,Low Value,0.16,408,Improve engagement and evaluate cost-to-serve
+C0112,Fleet Owner,Mining,South,HYD001,2,2024-12-01,33,46248326.6,31,4,2,1,7,Low Value,0.16,417,Improve engagement and evaluate cost-to-serve
+C0437,Dealer,Mining,West,HYD001,3,2024-12-21,30,46199550.2,11,5,1,1,7,Low Value,0.16,418,Improve engagement and evaluate cost-to-serve
+C0416,Dealer,Manufacturing,South,CHN001,2,2024-10-20,37,46006682.0,73,2,4,1,7,At Risk,0.16,420,Run targeted re-engagement and retention campaigns
+C0136,Dealer,Mining,West,AHM001,3,2024-11-13,37,45774176.2,49,3,3,1,7,Regular Customers,0.16,422,Maintain engagement and encourage higher purchase frequency
+C0164,Government,Construction,North,DEL001,4,2024-11-13,36,45625652.8,49,3,3,1,7,Regular Customers,0.16,423,Maintain engagement and encourage higher purchase frequency
+C0003,Government,Logistics,West,DEL001,2,2024-10-30,38,44728031.8,63,2,4,1,7,At Risk,0.15,433,Run targeted re-engagement and retention campaigns
+C0332,Corporate,Mining,South,HYD001,1,2024-11-11,35,44566684.4,51,3,3,1,7,Regular Customers,0.15,435,Maintain engagement and encourage higher purchase frequency
+C0147,Dealer,Rental,North,DEL001,5,2024-12-22,30,44007572.2,10,5,1,1,7,Low Value,0.15,441,Improve engagement and evaluate cost-to-serve
+C0118,Retail,Rental,South,CHN001,4,2024-12-10,32,41835680.2,22,4,2,1,7,Low Value,0.14,457,Improve engagement and evaluate cost-to-serve
+C0014,Fleet Owner,Construction,East,KOL001,2,2024-12-21,27,41523847.6,11,5,1,1,7,Low Value,0.14,461,Improve engagement and evaluate cost-to-serve
+C0204,Retail,Rental,South,HYD001,2,2024-12-08,31,39880662.0,24,4,2,1,7,Low Value,0.14,468,Improve engagement and evaluate cost-to-serve
+C0170,Government,Construction,South,HYD001,4,2024-12-20,27,38882680.4,12,5,1,1,7,Low Value,0.13,476,Improve engagement and evaluate cost-to-serve
+C0392,Fleet Owner,Logistics,East,KOL001,2,2024-12-12,31,38571708.8,20,4,2,1,7,Low Value,0.13,477,Improve engagement and evaluate cost-to-serve
+C0177,Dealer,Construction,West,PUN001,1,2024-12-25,28,35762840.4,7,5,1,1,7,Low Value,0.12,487,Improve engagement and evaluate cost-to-serve
+C0108,Corporate,Rental,North,AHM001,4,2024-12-29,24,31126705.0,3,5,1,1,7,Low Value,0.11,496,Improve engagement and evaluate cost-to-serve
+C0213,Fleet Owner,Rental,West,PUN001,4,2024-08-31,30,66248437.6,123,1,1,4,6,At Risk High Value,0.23,129,Prioritize retention and immediate re-engagement
+C0491,Dealer,Infrastructure,South,CHN001,1,2024-07-04,27,65215944.4,181,1,1,4,6,At Risk High Value,0.22,140,Prioritize retention and immediate re-engagement
+C0498,Fleet Owner,Construction,East,KOL001,3,2024-08-19,28,64864362.8,135,1,1,4,6,At Risk High Value,0.22,142,Prioritize retention and immediate re-engagement
+C0485,Fleet Owner,Rental,West,PUN001,1,2024-10-01,28,59146123.8,92,2,1,3,6,Regular Customers,0.2,226,Maintain engagement and encourage higher purchase frequency
+C0131,Corporate,Rental,South,HYD001,2,2024-06-14,32,59008448.8,201,1,2,3,6,Regular Customers,0.2,230,Maintain engagement and encourage higher purchase frequency
+C0030,Corporate,Construction,South,HYD001,5,2024-09-02,32,58263942.8,121,1,2,3,6,Regular Customers,0.2,236,Maintain engagement and encourage higher purchase frequency
+C0433,Dealer,Infrastructure,North,AHM001,3,2024-05-27,31,57020323.4,219,1,2,3,6,Regular Customers,0.19,264,Maintain engagement and encourage higher purchase frequency
+C0260,Dealer,Logistics,South,HYD001,5,2024-09-05,32,55524668.6,118,1,2,3,6,Regular Customers,0.19,289,Maintain engagement and encourage higher purchase frequency
+C0171,Fleet Owner,Construction,South,CHN001,3,2024-10-19,30,55348450.2,74,2,1,3,6,Regular Customers,0.19,292,Maintain engagement and encourage higher purchase frequency
+C0434,Corporate,Mining,Central,KOL001,4,2024-10-26,33,54575670.2,67,2,2,2,6,Low Value,0.19,304,Improve engagement and evaluate cost-to-serve
+C0223,Corporate,Logistics,West,AHM001,1,2024-10-15,33,54079206.6,78,2,2,2,6,Low Value,0.18,310,Improve engagement and evaluate cost-to-serve
+C0066,Retail,Manufacturing,Central,HYD001,1,2024-10-11,32,54037060.8,82,2,2,2,6,Low Value,0.18,312,Improve engagement and evaluate cost-to-serve
+C0442,Dealer,Logistics,East,KOL001,3,2024-10-20,33,53527848.6,73,2,2,2,6,Low Value,0.18,319,Improve engagement and evaluate cost-to-serve
+C0325,Corporate,Rental,East,KOL001,3,2024-11-09,30,52920013.4,53,3,1,2,6,Low Value,0.18,327,Improve engagement and evaluate cost-to-serve
+C0372,Government,Logistics,South,HYD001,4,2024-07-10,36,52822436.0,175,1,3,2,6,At Risk,0.18,328,Run targeted re-engagement and retention campaigns
+C0361,Government,Logistics,South,HYD001,5,2024-09-26,32,52532617.8,97,2,2,2,6,Low Value,0.18,330,Improve engagement and evaluate cost-to-serve
+C0324,Corporate,Mining,South,CHN001,5,2024-08-24,35,52335374.8,130,1,3,2,6,At Risk,0.18,331,Run targeted re-engagement and retention campaigns
+C0376,Retail,Construction,North,DEL001,5,2024-11-24,29,52106248.6,38,3,1,2,6,Low Value,0.18,333,Improve engagement and evaluate cost-to-serve
+C0368,Fleet Owner,Construction,South,CHN001,1,2024-11-01,31,51837532.8,61,2,2,2,6,Low Value,0.18,339,Improve engagement and evaluate cost-to-serve
+C0266,Fleet Owner,Rental,South,CHN001,4,2024-09-24,35,50717014.0,99,1,3,2,6,At Risk,0.17,349,Run targeted re-engagement and retention campaigns
+C0075,Retail,Mining,South,HYD001,5,2024-10-20,33,50186853.4,73,2,2,2,6,Low Value,0.17,362,Improve engagement and evaluate cost-to-serve
+C0018,Retail,Construction,West,AHM001,2,2024-11-14,31,49286607.8,48,3,1,2,6,Low Value,0.17,371,Improve engagement and evaluate cost-to-serve
+C0199,Government,Mining,West,AHM001,3,2024-10-21,33,48930073.4,72,2,2,2,6,Low Value,0.17,375,Improve engagement and evaluate cost-to-serve
+C0389,Retail,Mining,West,AHM001,5,2024-11-25,30,48796477.0,37,3,1,2,6,Low Value,0.17,378,Improve engagement and evaluate cost-to-serve
+C0114,Retail,Mining,East,KOL001,4,2024-09-27,33,48515792.8,96,2,2,2,6,Low Value,0.17,380,Improve engagement and evaluate cost-to-serve
+C0474,Government,Logistics,West,PUN001,3,2024-11-07,30,48230361.0,55,3,1,2,6,Low Value,0.16,385,Improve engagement and evaluate cost-to-serve
+C0484,Fleet Owner,Mining,West,AHM001,1,2024-11-10,27,48200851.6,52,3,1,2,6,Low Value,0.16,388,Improve engagement and evaluate cost-to-serve
+C0299,Retail,Logistics,South,CHN001,1,2024-08-30,34,48095055.8,124,1,3,2,6,At Risk,0.16,391,Run targeted re-engagement and retention campaigns
+C0122,Dealer,Rental,North East,KOL001,2,2024-11-05,31,48051119.4,57,3,1,2,6,Low Value,0.16,393,Improve engagement and evaluate cost-to-serve
+C0043,Corporate,Construction,South,CHN001,4,2024-06-14,36,47644638.8,201,1,3,2,6,At Risk,0.16,395,Run targeted re-engagement and retention campaigns
+C0418,Government,Mining,West,PUN001,4,2024-11-14,30,47167025.6,48,3,1,2,6,Low Value,0.16,400,Improve engagement and evaluate cost-to-serve
+C0387,Dealer,Infrastructure,East,KOL001,4,2024-10-26,34,47133318.0,67,2,3,1,6,At Risk,0.16,401,Run targeted re-engagement and retention campaigns
+C0298,Fleet Owner,Construction,South,CHN001,4,2024-11-20,33,46771231.0,42,3,2,1,6,Low Value,0.16,411,Improve engagement and evaluate cost-to-serve
+C0163,Dealer,Logistics,West,AHM001,5,2024-08-05,38,46377823.0,149,1,4,1,6,At Risk,0.16,414,Run targeted re-engagement and retention campaigns
+C0037,Corporate,Construction,West,PUN001,1,2024-10-25,36,45505928.0,68,2,3,1,6,At Risk,0.16,424,Run targeted re-engagement and retention campaigns
+C0252,Retail,Construction,South,CHN001,2,2024-10-07,34,45321304.6,86,2,3,1,6,At Risk,0.15,426,Run targeted re-engagement and retention campaigns
+C0248,Fleet Owner,Rental,West,PUN001,5,2024-12-04,30,45208412.0,28,4,1,1,6,Low Value,0.15,428,Improve engagement and evaluate cost-to-serve
+C0500,Corporate,Infrastructure,East,KOL001,3,2024-12-07,27,44474866.6,25,4,1,1,6,Low Value,0.15,437,Improve engagement and evaluate cost-to-serve
+C0229,Government,Mining,East,HYD001,3,2024-11-29,28,44419985.8,33,4,1,1,6,Low Value,0.15,438,Improve engagement and evaluate cost-to-serve
+C0115,Fleet Owner,Mining,South,KOL001,5,2024-11-28,29,44357793.6,34,4,1,1,6,Low Value,0.15,439,Improve engagement and evaluate cost-to-serve
+C0218,Fleet Owner,Construction,West,PUN001,5,2024-10-16,36,44324901.0,77,2,3,1,6,At Risk,0.15,440,Run targeted re-engagement and retention campaigns
+C0382,Retail,Manufacturing,South,HYD001,3,2024-11-19,33,42929317.0,43,3,2,1,6,Low Value,0.15,448,Improve engagement and evaluate cost-to-serve
+C0020,Dealer,Logistics,East,KOL001,3,2024-10-17,37,42586254.6,76,2,3,1,6,At Risk,0.15,450,Run targeted re-engagement and retention campaigns
+C0243,Government,Construction,North,DEL001,3,2024-12-10,28,42431751.6,22,4,1,1,6,Low Value,0.15,454,Improve engagement and evaluate cost-to-serve
+C0454,Government,Mining,West,PUN001,3,2024-11-14,33,41820500.6,48,3,2,1,6,Low Value,0.14,458,Improve engagement and evaluate cost-to-serve
+C0350,Dealer,Logistics,North East,AHM001,2,2024-11-25,32,41227777.0,37,3,2,1,6,Low Value,0.14,462,Improve engagement and evaluate cost-to-serve
+C0322,Government,Construction,West,AHM001,2,2024-12-10,28,40996678.0,22,4,1,1,6,Low Value,0.14,463,Improve engagement and evaluate cost-to-serve
+C0151,Government,Infrastructure,East,KOL001,5,2024-11-28,27,39556960.6,34,4,1,1,6,Low Value,0.14,470,Improve engagement and evaluate cost-to-serve
+C0388,Fleet Owner,Infrastructure,West,PUN001,5,2024-12-12,27,39389408.6,20,4,1,1,6,Low Value,0.13,472,Improve engagement and evaluate cost-to-serve
+C0271,Corporate,Infrastructure,South,HYD001,5,2024-11-26,24,37757473.8,36,4,1,1,6,Low Value,0.13,480,Improve engagement and evaluate cost-to-serve
+C0262,Corporate,Logistics,North,DEL001,4,2024-12-04,26,36628894.0,28,4,1,1,6,Low Value,0.13,485,Improve engagement and evaluate cost-to-serve
+C0303,Corporate,Mining,West,AHM001,3,2024-12-01,27,32465859.6,31,4,1,1,6,Low Value,0.11,491,Improve engagement and evaluate cost-to-serve
+C0183,Government,Mining,West,AHM001,4,2024-12-05,27,32313901.0,27,4,1,1,6,Low Value,0.11,492,Improve engagement and evaluate cost-to-serve
+C0125,Government,Mining,West,HYD001,4,2024-12-09,30,31904862.6,23,4,1,1,6,Low Value,0.11,494,Improve engagement and evaluate cost-to-serve
+C0180,Fleet Owner,Logistics,South,HYD001,3,2024-12-10,27,30093537.8,22,4,1,1,6,Low Value,0.1,498,Improve engagement and evaluate cost-to-serve
+C0174,Government,Mining,West,AHM001,2,2024-12-03,29,29793255.0,29,4,1,1,6,Low Value,0.1,499,Improve engagement and evaluate cost-to-serve
+C0347,Retail,Mining,North,DEL001,4,2024-12-03,24,22536660.4,29,4,1,1,6,Low Value,0.08,500,Improve engagement and evaluate cost-to-serve
+C0256,Corporate,Infrastructure,North East,PUN001,4,2024-09-19,30,58794725.4,104,1,1,3,5,Regular Customers,0.2,233,Maintain engagement and encourage higher purchase frequency
+C0047,Corporate,Rental,West,PUN001,5,2024-08-25,30,57880918.0,129,1,1,3,5,Regular Customers,0.2,245,Maintain engagement and encourage higher purchase frequency
+C0417,Fleet Owner,Mining,East,KOL001,3,2024-09-11,32,51984530.4,112,1,2,2,5,Low Value,0.18,336,Improve engagement and evaluate cost-to-serve
+C0497,Government,Logistics,South,CHN001,3,2024-11-02,30,51439335.2,60,2,1,2,5,Low Value,0.18,342,Improve engagement and evaluate cost-to-serve
+C0405,Corporate,Infrastructure,West,PUN001,3,2024-06-25,32,50787823.0,190,1,2,2,5,Low Value,0.17,348,Improve engagement and evaluate cost-to-serve
+C0031,Government,Mining,East,KOL001,4,2024-08-13,34,50500841.8,141,1,2,2,5,Low Value,0.17,352,Improve engagement and evaluate cost-to-serve
+C0233,Government,Logistics,East,KOL001,3,2024-10-21,28,49889164.0,72,2,1,2,5,Low Value,0.17,364,Improve engagement and evaluate cost-to-serve
+C0008,Corporate,Logistics,West,HYD001,1,2024-07-16,34,48368868.0,169,1,2,2,5,Low Value,0.17,382,Improve engagement and evaluate cost-to-serve
+C0265,Retail,Mining,West,AHM001,1,2024-09-27,29,47931619.6,96,2,1,2,5,Low Value,0.16,394,Improve engagement and evaluate cost-to-serve
+C0185,Dealer,Logistics,West,PUN001,5,2024-09-16,33,47500335.2,107,1,2,2,5,Low Value,0.16,397,Improve engagement and evaluate cost-to-serve
+C0441,Dealer,Construction,North,PUN001,2,2024-10-19,31,47045233.8,74,2,2,1,5,Low Value,0.16,405,Improve engagement and evaluate cost-to-serve
+C0187,Retail,Rental,North,CHN001,1,2024-11-08,30,46901016.0,54,3,1,1,5,Low Value,0.16,409,Improve engagement and evaluate cost-to-serve
+C0423,Dealer,Infrastructure,South,DEL001,3,2024-11-09,30,46894840.4,53,3,1,1,5,Low Value,0.16,410,Improve engagement and evaluate cost-to-serve
+C0092,Fleet Owner,Logistics,West,AHM001,2,2024-07-30,36,46760586.8,155,1,3,1,5,At Risk,0.16,412,Run targeted re-engagement and retention campaigns
+C0239,Government,Logistics,South,CHN001,4,2024-10-27,32,44962159.0,66,2,2,1,5,Low Value,0.15,430,Improve engagement and evaluate cost-to-serve
+C0351,Corporate,Rental,East,CHN001,1,2024-09-12,34,44776790.6,111,1,3,1,5,At Risk,0.15,432,Run targeted re-engagement and retention campaigns
+C0277,Dealer,Logistics,West,PUN001,1,2024-09-14,36,43668914.6,109,1,3,1,5,At Risk,0.15,443,Run targeted re-engagement and retention campaigns
+C0402,Fleet Owner,Rental,South,HYD001,1,2024-07-12,35,43498305.2,173,1,3,1,5,At Risk,0.15,444,Run targeted re-engagement and retention campaigns
+C0034,Government,Construction,West,PUN001,5,2024-10-06,32,42477752.2,87,2,2,1,5,Low Value,0.15,453,Improve engagement and evaluate cost-to-serve
+C0473,Government,Rental,South,CHN001,3,2024-11-15,26,42018356.8,47,3,1,1,5,Low Value,0.14,456,Improve engagement and evaluate cost-to-serve
+C0150,Fleet Owner,Manufacturing,West,AHM001,5,2024-11-09,30,41608958.8,53,3,1,1,5,Low Value,0.14,459,Improve engagement and evaluate cost-to-serve
+C0352,Corporate,Mining,South,KOL001,1,2024-11-11,30,40262666.2,51,3,1,1,5,Low Value,0.14,465,Improve engagement and evaluate cost-to-serve
+C0336,Government,Rental,East,KOL001,5,2024-09-26,33,39095696.4,97,2,2,1,5,Low Value,0.13,473,Improve engagement and evaluate cost-to-serve
+C0028,Retail,Infrastructure,South,PUN001,3,2024-11-13,29,38208624.0,49,3,1,1,5,Low Value,0.13,478,Improve engagement and evaluate cost-to-serve
+C0007,Corporate,Manufacturing,West,PUN001,4,2024-11-03,31,36509378.2,59,3,1,1,5,Low Value,0.12,486,Improve engagement and evaluate cost-to-serve
+C0279,Dealer,Rental,West,CHN001,4,2024-11-12,26,35292218.0,50,3,1,1,5,Low Value,0.12,488,Improve engagement and evaluate cost-to-serve
+C0133,Government,Mining,South,AHM001,1,2024-04-07,29,51247358.0,269,1,1,2,4,Low Value,0.18,343,Improve engagement and evaluate cost-to-serve
+C0444,Dealer,Manufacturing,South,CHN001,1,2024-01-08,30,50928809.0,359,1,1,2,4,Low Value,0.17,345,Improve engagement and evaluate cost-to-serve
+C0202,Government,Logistics,North,AHM001,4,2024-09-21,28,50389917.2,102,1,1,2,4,Low Value,0.17,355,Improve engagement and evaluate cost-to-serve
+C0048,Dealer,Mining,South,HYD001,3,2024-09-12,31,49413459.2,111,1,1,2,4,Low Value,0.17,368,Improve engagement and evaluate cost-to-serve
+C0127,Government,Construction,East,KOL001,1,2024-06-25,28,48960650.8,190,1,1,2,4,Low Value,0.17,374,Improve engagement and evaluate cost-to-serve
+C0313,Corporate,Mining,West,AHM001,1,2024-09-02,30,48205237.4,121,1,1,2,4,Low Value,0.16,386,Improve engagement and evaluate cost-to-serve
+C0344,Fleet Owner,Mining,West,CHN001,2,2024-06-17,28,48151864.0,198,1,1,2,4,Low Value,0.16,390,Improve engagement and evaluate cost-to-serve
+C0226,Dealer,Logistics,West,AHM001,5,2024-09-28,26,47025541.0,95,2,1,1,4,Low Value,0.16,407,Improve engagement and evaluate cost-to-serve
+C0316,Dealer,Manufacturing,East,KOL001,4,2024-09-22,33,45390754.0,101,1,2,1,4,Low Value,0.16,425,Improve engagement and evaluate cost-to-serve
+C0212,Retail,Infrastructure,North East,PUN001,4,2024-08-23,31,45262151.0,131,1,2,1,4,Low Value,0.15,427,Improve engagement and evaluate cost-to-serve
+C0430,Retail,Manufacturing,West,KOL001,5,2024-10-11,27,44879330.8,82,2,1,1,4,Low Value,0.15,431,Improve engagement and evaluate cost-to-serve
+C0283,Retail,Logistics,North,CHN001,1,2024-09-04,31,44490975.8,119,1,2,1,4,Low Value,0.15,436,Improve engagement and evaluate cost-to-serve
+C0366,Corporate,Logistics,East,KOL001,4,2024-10-26,26,43711261.8,67,2,1,1,4,Low Value,0.15,442,Improve engagement and evaluate cost-to-serve
+C0412,Corporate,Infrastructure,East,KOL001,3,2024-05-28,32,43246987.6,218,1,2,1,4,Low Value,0.15,446,Improve engagement and evaluate cost-to-serve
+C0179,Government,Infrastructure,South,CHN001,3,2024-07-21,32,43222736.0,164,1,2,1,4,Low Value,0.15,447,Improve engagement and evaluate cost-to-serve
+C0479,Retail,Construction,West,KOL001,1,2024-10-08,26,37716131.0,85,2,1,1,4,Low Value,0.13,481,Improve engagement and evaluate cost-to-serve
+C0334,Corporate,Mining,South,CHN001,5,2024-08-24,33,37526956.6,130,1,2,1,4,Low Value,0.13,482,Improve engagement and evaluate cost-to-serve
+C0139,Government,Mining,West,AHM001,2,2024-10-31,29,37337910.0,62,2,1,1,4,Low Value,0.13,483,Improve engagement and evaluate cost-to-serve
+C0353,Dealer,Manufacturing,North,DEL001,1,2024-10-08,27,31979908.6,85,2,1,1,4,Low Value,0.11,493,Improve engagement and evaluate cost-to-serve
+C0456,Corporate,Mining,North,DEL001,4,2024-10-16,27,31514609.0,77,2,1,1,4,Low Value,0.11,495,Improve engagement and evaluate cost-to-serve
+C0267,Fleet Owner,Infrastructure,South,HYD001,3,2024-03-25,29,46440405.2,282,1,1,1,3,Low Value,0.16,413,Improve engagement and evaluate cost-to-serve
+C0094,Corporate,Logistics,West,PUN001,4,2024-09-20,31,46343009.2,103,1,1,1,3,Low Value,0.16,415,Improve engagement and evaluate cost-to-serve
+C0281,Government,Logistics,South,KOL001,4,2024-06-25,26,46282268.6,190,1,1,1,3,Low Value,0.16,416,Improve engagement and evaluate cost-to-serve
+C0431,Government,Logistics,West,PUN001,5,2024-07-05,28,45787279.2,180,1,1,1,3,Low Value,0.16,421,Improve engagement and evaluate cost-to-serve
+C0053,Fleet Owner,Construction,North,DEL001,5,2024-09-18,27,45016037.4,105,1,1,1,3,Low Value,0.15,429,Improve engagement and evaluate cost-to-serve
+C0143,Corporate,Infrastructure,South,CHN001,3,2024-08-02,27,44644618.2,152,1,1,1,3,Low Value,0.15,434,Improve engagement and evaluate cost-to-serve
+C0137,Dealer,Infrastructure,South,CHN001,5,2024-06-10,21,42806442.6,205,1,1,1,3,Low Value,0.15,449,Improve engagement and evaluate cost-to-serve
+C0078,Dealer,Rental,South,HYD001,1,2024-06-22,31,42565724.6,193,1,1,1,3,Low Value,0.15,451,Improve engagement and evaluate cost-to-serve
+C0182,Dealer,Infrastructure,East,KOL001,5,2024-08-03,29,40856091.0,151,1,1,1,3,Low Value,0.14,464,Improve engagement and evaluate cost-to-serve
+C0339,Fleet Owner,Logistics,South,CHN001,2,2024-08-16,24,40193008.4,138,1,1,1,3,Low Value,0.14,466,Improve engagement and evaluate cost-to-serve
+C0144,Fleet Owner,Construction,West,AHM001,2,2024-08-23,25,39589546.2,131,1,1,1,3,Low Value,0.14,469,Improve engagement and evaluate cost-to-serve
+C0487,Dealer,Mining,South,DEL001,1,2024-03-18,26,39512216.0,289,1,1,1,3,Low Value,0.14,471,Improve engagement and evaluate cost-to-serve
+C0091,Retail,Construction,South,PUN001,2,2024-09-07,30,39090471.8,116,1,1,1,3,Low Value,0.13,474,Improve engagement and evaluate cost-to-serve
+C0117,Government,Mining,North East,AHM001,3,2024-08-12,31,38951277.4,142,1,1,1,3,Low Value,0.13,475,Improve engagement and evaluate cost-to-serve
+C0238,Corporate,Construction,South,CHN001,5,2024-03-25,30,36717219.2,282,1,1,1,3,Low Value,0.13,484,Improve engagement and evaluate cost-to-serve
+C0061,Dealer,Construction,West,HYD001,4,2024-09-08,29,33890240.0,115,1,1,1,3,Low Value,0.12,490,Improve engagement and evaluate cost-to-serve
+C0292,Corporate,Rental,Central,AHM001,2,2024-04-28,27,30979627.8,248,1,1,1,3,Low Value,0.11,497,Improve engagement and evaluate cost-to-serve

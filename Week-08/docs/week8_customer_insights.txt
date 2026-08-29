@@ -1,0 +1,285 @@
+======================================================================
+WEEK 8 - CUSTOMER ANALYTICS INSIGHTS
+======================================================================
+
+1. CUSTOMER GEOGRAPHIC / REGIONAL BEHAVIOUR
+----------------------------------------------------------------------
+Total customers analysed: 500
+Customers with delivered orders: 500
+Total delivered orders: 18,033
+Total customer revenue: 29,253,993,162.40
+
+Six customer regions were analysed: South, West, East, North,
+Central and North East.
+
+South was the strongest region by total revenue and customer count:
+- Customers: 158
+- Delivered orders: 5,722
+- Revenue: 9,252,650,372.80
+- Revenue share: 31.63%
+- Regional performance score: 85.21
+- Performance class: High Regional Performance
+
+North had the highest average customer revenue:
+- Average customer revenue: 61,194,762.03
+
+North also had the highest average orders per customer:
+- Average orders per customer: 36.94
+
+Central and North East were the weakest regions by regional
+performance score and require closer monitoring and targeted
+customer-development strategies.
+
+
+2. CUSTOMER LIFETIME VALUE (CLV)
+----------------------------------------------------------------------
+Total estimated customer lifetime value:
+25,103,379,398.91
+
+Average estimated CLV:
+50,206,758.80
+
+Highest CLV customer:
+C0153
+
+Highest estimated CLV:
+90,809,349.33
+
+250 customers were classified as High Value or Very High Value.
+
+Very High Value customers:
+125
+
+High Value customers:
+125
+
+The Very High Value segment generated 32.39% of total customer
+revenue and had the highest average CLV and average order activity.
+
+North had the highest average regional CLV:
+52,694,826.22
+
+Dealer customers had the highest average CLV among customer types:
+51,926,517.66
+
+
+3. CUSTOMER RFM ANALYSIS & SEGMENTATION
+----------------------------------------------------------------------
+RFM analysis evaluated Recency, Frequency and Monetary value for
+all 500 customers.
+
+Champions:
+68 customers
+
+Loyal Customers:
+52 customers
+
+At-Risk Customers:
+118 customers
+
+Hibernating Customers:
+82 customers
+
+The Champions segment had:
+- 68 customers
+- Average frequency: 43.06 orders
+- Average monetary value: 73,975,947.36
+- Average priority score: 91.15
+
+The highest monetary customer was C0153 with revenue of
+108,200,489.60 and 56 delivered orders.
+
+Customer priority distribution:
+- Critical Priority: 92
+- High Priority: 117
+- Medium Priority: 126
+- Low Priority: 165
+
+The RFM analysis highlights a substantial group of valuable customers
+that should be protected through retention and relationship-building
+activities.
+
+
+4. CUSTOMER RETENTION ANALYSIS
+----------------------------------------------------------------------
+Retention analysis classified all 500 customers according to their
+recent purchasing behaviour.
+
+Active customers:
+167
+
+Recently inactive customers:
+218
+
+At-risk customers:
+90
+
+Churn-risk customers:
+25
+
+Customers requiring retention action:
+115
+
+Overall active/recent retention:
+77.0%
+
+Active customers generated approximately 34.25% of revenue, while
+recently inactive customers represented approximately 43.78% of
+revenue.
+
+This indicates that recently inactive customers represent an
+important opportunity for re-engagement because of their substantial
+contribution to historical revenue.
+
+
+5. CUSTOMER CHURN ANALYSIS
+----------------------------------------------------------------------
+Churn analysis identified customers requiring different levels of
+retention intervention.
+
+Active customers:
+308
+
+At-risk customers:
+125
+
+Churn-risk customers:
+42
+
+Churned customers:
+25
+
+Customers requiring retention action:
+192
+
+Overall customers requiring action:
+38.4%
+
+Revenue at risk:
+10,991,751,385.20
+
+Approximately 38.4% of customers fall into at-risk, churn-risk or
+churned categories.
+
+The revenue associated with these customers is significant, making
+customer retention a major commercial priority.
+
+Highest revenue customer:
+C0153
+
+Highest customer revenue:
+108,200,489.60
+
+
+6. CUSTOMER COHORT & REPEAT PURCHASE ANALYSIS
+----------------------------------------------------------------------
+All 500 customers belong to the 2019 acquisition cohort based on
+their first delivered purchase.
+
+Total repeat customers:
+500
+
+Total one-time customers:
+0
+
+Repeat customer rate:
+100.00%
+
+Average delivered orders per customer:
+36.07
+
+Average customer revenue:
+58,507,986.32
+
+The cohort analysis shows exceptionally strong repeat-purchase
+behaviour in the available dataset, with every analysed customer
+making more than one delivered purchase.
+
+
+7. CUSTOMER PURCHASE FREQUENCY & BEHAVIOUR
+----------------------------------------------------------------------
+Total customers analysed:
+500
+
+Total delivered orders:
+18,033
+
+Average orders per customer:
+36.07
+
+Average order value:
+1,622,908.50
+
+High / Very High Frequency customers:
+128
+
+Low-frequency high-value customers:
+10
+
+Purchase frequency distribution:
+- Very High Frequency: 52 customers
+- High Frequency: 76 customers
+- Medium Frequency: 307 customers
+- Low Frequency: 65 customers
+
+Very High Frequency customers generated approximately 14.05% of
+total customer revenue despite representing only 10.4% of customers.
+
+High Frequency customers represented 15.2% of customers and
+generated approximately 17.58% of revenue.
+
+North had the highest average order frequency:
+36.94 orders per customer.
+
+South generated the highest regional revenue:
+9,252,650,372.80.
+
+
+8. OVERALL CUSTOMER ANALYTICS INSIGHTS
+----------------------------------------------------------------------
+The combined Week 8 analysis indicates that the customer base has
+strong historical engagement, substantial repeat purchasing and a
+large high-value customer population.
+
+Key findings:
+- South is the leading region by total revenue and customer count.
+- North has the highest average customer revenue and order frequency.
+- Customer C0153 is the strongest customer across multiple metrics,
+  including revenue, frequency and CLV.
+- 250 customers are classified as High Value or Very High Value.
+- 68 customers are classified as Champions under RFM segmentation.
+- 115 customers require retention action under the retention analysis.
+- 192 customers require action under the more conservative churn
+  analysis.
+- Revenue at risk from churn-related customers is
+  10,991,751,385.20.
+- All 500 customers are repeat customers in the analysed delivered
+  order history.
+- 128 customers have High or Very High purchase frequency.
+- Central and North East require additional attention because of
+  comparatively low regional performance scores.
+
+BUSINESS PRIORITIES
+----------------------------------------------------------------------
+1. Protect Champions and Very High Value customers through proactive
+   retention and relationship management.
+
+2. Prioritise the 192 customers identified by churn analysis for
+   targeted retention and reactivation activities.
+
+3. Develop re-engagement campaigns for the 218 recently inactive
+   customers identified in retention analysis.
+
+4. Focus regional growth initiatives on Central and North East while
+   maintaining the strong performance of South and North.
+
+5. Use customer value, RFM score, purchase frequency and churn risk
+   together to prioritise customer-management actions.
+
+6. Monitor high-value customers with declining purchase activity so
+   that revenue loss can be addressed before customers become fully
+   churned.
+
+======================================================================
+WEEK 8 CUSTOMER ANALYTICS - FINAL INSIGHTS
+======================================================================

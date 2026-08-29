@@ -1,0 +1,501 @@
+customer_id,customer_type,industry_segment,region,unique_products_purchased,total_product_units,total_product_revenue,total_product_gross_value,avg_revenue_per_product,product_diversification_class,cross_sell_opportunity_score,cross_sell_opportunity_class,cross_sell_priority_rank,action_focus
+C0162,Retail,Mining,East,29,2208,48770920,62233145.6,1681755.8620689656,Highly Diversified,3.33,Low Cross-Sell Opportunity,1,Maintain product engagement and monitor purchasing breadth
+C0410,Corporate,Mining,South,29,2506,46906860,59804309.8,1617477.9310344828,Highly Diversified,3.33,Low Cross-Sell Opportunity,2,Maintain product engagement and monitor purchasing breadth
+C0122,Dealer,Rental,North East,29,2051,37712330,48051119.4,1300425.1724137932,Highly Diversified,3.33,Low Cross-Sell Opportunity,3,Maintain product engagement and monitor purchasing breadth
+C0053,Fleet Owner,Construction,North,29,1874,35369930,45016037.4,1219652.7586206896,Highly Diversified,3.33,Low Cross-Sell Opportunity,4,Maintain product engagement and monitor purchasing breadth
+C0147,Dealer,Rental,North,29,1946,34566290,44007572.2,1191941.0344827587,Highly Diversified,3.33,Low Cross-Sell Opportunity,5,Maintain product engagement and monitor purchasing breadth
+C0150,Fleet Owner,Manufacturing,West,29,1938,32673410,41608958.8,1126669.3103448276,Highly Diversified,3.33,Low Cross-Sell Opportunity,6,Maintain product engagement and monitor purchasing breadth
+C0388,Fleet Owner,Infrastructure,West,29,1660,30890020,39389408.6,1065173.103448276,Highly Diversified,3.33,Low Cross-Sell Opportunity,7,Maintain product engagement and monitor purchasing breadth
+C0271,Corporate,Infrastructure,South,29,1675,29644660,37757473.8,1022229.6551724138,Highly Diversified,3.33,Low Cross-Sell Opportunity,8,Maintain product engagement and monitor purchasing breadth
+C0180,Fleet Owner,Logistics,South,29,1892,23677460,30093537.8,816464.1379310344,Highly Diversified,3.33,Low Cross-Sell Opportunity,9,Maintain product engagement and monitor purchasing breadth
+C0153,Retail,Rental,East,30,4158,84966970,108200489.6,2832232.3333333335,Highly Diversified,0.0,Low Cross-Sell Opportunity,10,Maintain product engagement and monitor purchasing breadth
+C0288,Dealer,Infrastructure,North,30,4116,76291160,97218403.8,2543038.6666666665,Highly Diversified,0.0,Low Cross-Sell Opportunity,11,Maintain product engagement and monitor purchasing breadth
+C0483,Corporate,Rental,North,30,3454,75352940,96130859.2,2511764.6666666665,Highly Diversified,0.0,Low Cross-Sell Opportunity,12,Maintain product engagement and monitor purchasing breadth
+C0475,Fleet Owner,Construction,East,30,4162,74442140,94883375.2,2481404.6666666665,Highly Diversified,0.0,Low Cross-Sell Opportunity,13,Maintain product engagement and monitor purchasing breadth
+C0495,Fleet Owner,Infrastructure,North,30,3533,74165320,94540537.6,2472177.3333333335,Highly Diversified,0.0,Low Cross-Sell Opportunity,14,Maintain product engagement and monitor purchasing breadth
+C0240,Corporate,Manufacturing,South,30,3430,72778580,92835709.4,2425952.6666666665,Highly Diversified,0.0,Low Cross-Sell Opportunity,15,Maintain product engagement and monitor purchasing breadth
+C0420,Retail,Rental,South,30,3596,72545910,92482888.8,2418197.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,16,Maintain product engagement and monitor purchasing breadth
+C0110,Dealer,Logistics,Central,30,3618,71230450,90807306.0,2374348.3333333335,Highly Diversified,0.0,Low Cross-Sell Opportunity,17,Maintain product engagement and monitor purchasing breadth
+C0083,Dealer,Infrastructure,North,30,3381,70378740,89672688.2,2345958.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,18,Maintain product engagement and monitor purchasing breadth
+C0206,Retail,Construction,West,30,3255,70279540,89674652.2,2342651.3333333335,Highly Diversified,0.0,Low Cross-Sell Opportunity,19,Maintain product engagement and monitor purchasing breadth
+C0178,Dealer,Logistics,East,30,3693,70236970,89493824.6,2341232.3333333335,Highly Diversified,0.0,Low Cross-Sell Opportunity,20,Maintain product engagement and monitor purchasing breadth
+C0254,Dealer,Mining,West,30,3425,70227620,89556446.6,2340920.6666666665,Highly Diversified,0.0,Low Cross-Sell Opportunity,21,Maintain product engagement and monitor purchasing breadth
+C0466,Retail,Manufacturing,South,30,3592,69276730,88329161.4,2309224.3333333335,Highly Diversified,0.0,Low Cross-Sell Opportunity,22,Maintain product engagement and monitor purchasing breadth
+C0207,Corporate,Rental,East,30,3149,68312200,87068691.0,2277073.3333333335,Highly Diversified,0.0,Low Cross-Sell Opportunity,23,Maintain product engagement and monitor purchasing breadth
+C0046,Retail,Rental,West,30,3109,68236200,87078641.0,2274540.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,24,Maintain product engagement and monitor purchasing breadth
+C0304,Dealer,Construction,North,30,3566,67903880,86460648.4,2263462.6666666665,Highly Diversified,0.0,Low Cross-Sell Opportunity,25,Maintain product engagement and monitor purchasing breadth
+C0359,Fleet Owner,Mining,South,30,3389,67221300,85617784.0,2240710.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,26,Maintain product engagement and monitor purchasing breadth
+C0134,Fleet Owner,Infrastructure,West,30,3623,66943890,85243025.2,2231463.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,27,Maintain product engagement and monitor purchasing breadth
+C0107,Fleet Owner,Construction,North,30,3857,66825070,85196217.6,2227502.3333333335,Highly Diversified,0.0,Low Cross-Sell Opportunity,28,Maintain product engagement and monitor purchasing breadth
+C0142,Retail,Manufacturing,West,30,3255,66580100,84828043.0,2219336.6666666665,Highly Diversified,0.0,Low Cross-Sell Opportunity,29,Maintain product engagement and monitor purchasing breadth
+C0490,Government,Logistics,West,30,3654,66510660,84742703.8,2217022.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,30,Maintain product engagement and monitor purchasing breadth
+C0200,Retail,Logistics,East,30,3496,66268870,84469856.6,2208962.3333333335,Highly Diversified,0.0,Low Cross-Sell Opportunity,31,Maintain product engagement and monitor purchasing breadth
+C0462,Retail,Logistics,South,30,3546,64949220,82777824.6,2164974.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,32,Maintain product engagement and monitor purchasing breadth
+C0440,Retail,Manufacturing,South,30,3315,64680520,82426773.6,2156017.3333333335,Highly Diversified,0.0,Low Cross-Sell Opportunity,33,Maintain product engagement and monitor purchasing breadth
+C0049,Dealer,Manufacturing,South,30,3073,64589840,82316206.2,2152994.6666666665,Highly Diversified,0.0,Low Cross-Sell Opportunity,34,Maintain product engagement and monitor purchasing breadth
+C0221,Dealer,Logistics,North,30,2968,64336800,82001959.0,2144560.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,35,Maintain product engagement and monitor purchasing breadth
+C0371,Retail,Rental,South,30,2844,64331600,82052808.0,2144386.6666666665,Highly Diversified,0.0,Low Cross-Sell Opportunity,36,Maintain product engagement and monitor purchasing breadth
+C0375,Fleet Owner,Mining,West,30,3033,63738420,81286325.6,2124614.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,37,Maintain product engagement and monitor purchasing breadth
+C0403,Government,Construction,East,30,3459,63236900,80523517.0,2107896.6666666665,Highly Diversified,0.0,Low Cross-Sell Opportunity,38,Maintain product engagement and monitor purchasing breadth
+C0201,Dealer,Infrastructure,South,30,3326,63133600,80475593.0,2104453.3333333335,Highly Diversified,0.0,Low Cross-Sell Opportunity,39,Maintain product engagement and monitor purchasing breadth
+C0076,Government,Mining,South,30,3067,62759940,80026994.2,2091998.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,40,Maintain product engagement and monitor purchasing breadth
+C0294,Government,Infrastructure,South,30,3654,62587650,79772077.0,2086255.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,41,Maintain product engagement and monitor purchasing breadth
+C0356,Dealer,Mining,East,30,3218,62479450,79690881.0,2082648.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,42,Maintain product engagement and monitor purchasing breadth
+C0165,Fleet Owner,Manufacturing,North,30,3496,62168180,79168592.4,2072272.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,43,Maintain product engagement and monitor purchasing breadth
+C0291,Retail,Construction,South,30,2969,61983900,79064597.0,2066130.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,44,Maintain product engagement and monitor purchasing breadth
+C0062,Dealer,Construction,South,30,3044,61918150,78963082.0,2063938.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,45,Maintain product engagement and monitor purchasing breadth
+C0113,Corporate,Logistics,South,30,2822,61701750,78713400.0,2056725.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,46,Maintain product engagement and monitor purchasing breadth
+C0380,Fleet Owner,Manufacturing,South,30,3614,61154260,77887431.8,2038475.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,47,Maintain product engagement and monitor purchasing breadth
+C0082,Fleet Owner,Manufacturing,West,30,3206,60929520,77500928.6,2030984.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,48,Maintain product engagement and monitor purchasing breadth
+C0244,Government,Logistics,North,30,2958,60886580,77550764.4,2029552.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,49,Maintain product engagement and monitor purchasing breadth
+C0197,Government,Manufacturing,West,30,3182,60798070,77464617.60000001,2026602.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,50,Maintain product engagement and monitor purchasing breadth
+C0060,Dealer,Mining,South,30,3190,60575030,77163010.4,2019167.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,51,Maintain product engagement and monitor purchasing breadth
+C0069,Dealer,Logistics,North,30,3351,60517360,77108269.8,2017245.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,52,Maintain product engagement and monitor purchasing breadth
+C0246,Retail,Manufacturing,North,30,2469,60399770,77080113.6,2013325.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,53,Maintain product engagement and monitor purchasing breadth
+C0013,Dealer,Construction,West,30,3311,60328180,76843692.4,2010939.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,54,Maintain product engagement and monitor purchasing breadth
+C0070,Government,Logistics,West,30,2884,60254230,76883391.4,2008474.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,55,Maintain product engagement and monitor purchasing breadth
+C0129,Corporate,Mining,North,30,2939,59941820,76393252.6,1998060.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,56,Maintain product engagement and monitor purchasing breadth
+C0257,Corporate,Logistics,North,30,3264,59812600,76189558.0,1993753.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,57,Maintain product engagement and monitor purchasing breadth
+C0478,Retail,Rental,North,30,3141,59528290,75901402.2,1984276.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,58,Maintain product engagement and monitor purchasing breadth
+C0272,Government,Construction,North,30,2889,59253070,75550922.6,1975102.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,59,Maintain product engagement and monitor purchasing breadth
+C0103,Dealer,Infrastructure,South,30,2899,59164240,75304293.2,1972141.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,60,Maintain product engagement and monitor purchasing breadth
+C0045,Corporate,Rental,East,30,2924,59085670,75275350.6,1969522.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,61,Maintain product engagement and monitor purchasing breadth
+C0468,Fleet Owner,Rental,South,30,3438,59022070,75254807.6,1967402.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,62,Maintain product engagement and monitor purchasing breadth
+C0005,Dealer,Construction,West,30,3231,58882280,74996415.4,1962742.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,63,Maintain product engagement and monitor purchasing breadth
+C0237,Dealer,Infrastructure,South,30,2630,58676380,74820743.4,1955879.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,64,Maintain product engagement and monitor purchasing breadth
+C0250,Government,Infrastructure,East,30,3065,58330380,74416923.4,1944346.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,65,Maintain product engagement and monitor purchasing breadth
+C0154,Fleet Owner,Logistics,North,30,3072,58187170,74171590.6,1939572.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,66,Maintain product engagement and monitor purchasing breadth
+C0215,Corporate,Rental,South,30,3690,58120530,73940925.4,1937351.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,67,Maintain product engagement and monitor purchasing breadth
+C0435,Dealer,Manufacturing,South,30,3145,57957990,73908258.2,1931933.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,68,Maintain product engagement and monitor purchasing breadth
+C0042,Fleet Owner,Rental,South,30,2976,57941340,73882726.2,1931378.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,69,Maintain product engagement and monitor purchasing breadth
+C0482,Fleet Owner,Logistics,East,30,2461,57846740,73762403.2,1928224.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,70,Maintain product engagement and monitor purchasing breadth
+C0476,Fleet Owner,Infrastructure,North,30,2297,57777740,73746173.2,1925924.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,71,Maintain product engagement and monitor purchasing breadth
+C0307,Dealer,Manufacturing,West,30,2971,57776220,73655534.6,1925874.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,72,Maintain product engagement and monitor purchasing breadth
+C0241,Government,Construction,West,30,2954,57604400,73396972.0,1920146.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,73,Maintain product engagement and monitor purchasing breadth
+C0337,Corporate,Manufacturing,North,30,2707,57585510,73457151.8,1919517.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,74,Maintain product engagement and monitor purchasing breadth
+C0084,Corporate,Logistics,West,30,2567,57484480,73317161.4,1916149.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,75,Maintain product engagement and monitor purchasing breadth
+C0242,Government,Construction,South,30,2958,57416320,73225487.6,1913877.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,76,Maintain product engagement and monitor purchasing breadth
+C0297,Fleet Owner,Rental,South,30,2775,57279920,73065015.6,1909330.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,77,Maintain product engagement and monitor purchasing breadth
+C0253,Retail,Rental,West,30,3074,57279120,72946151.6,1909304.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,78,Maintain product engagement and monitor purchasing breadth
+C0342,Dealer,Infrastructure,North,30,3037,57066210,72821567.8,1902207.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,79,Maintain product engagement and monitor purchasing breadth
+C0300,Dealer,Mining,North,30,2801,57051500,72746205.0,1901716.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,80,Maintain product engagement and monitor purchasing breadth
+C0234,Corporate,Infrastructure,West,30,2492,56717930,72295152.4,1890597.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,81,Maintain product engagement and monitor purchasing breadth
+C0384,Retail,Construction,South,30,3025,56692240,72157498.2,1889741.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,82,Maintain product engagement and monitor purchasing breadth
+C0411,Corporate,Mining,South,30,2748,56645350,72229183.0,1888178.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,83,Maintain product engagement and monitor purchasing breadth
+C0071,Corporate,Rental,North,30,3085,56572600,72076738.0,1885753.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,84,Maintain product engagement and monitor purchasing breadth
+C0063,Retail,Rental,North,30,2571,56519080,72065344.4,1883969.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,85,Maintain product engagement and monitor purchasing breadth
+C0032,Government,Logistics,West,30,3015,56493850,71991263.0,1883128.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,86,Maintain product engagement and monitor purchasing breadth
+C0102,Government,Infrastructure,East,30,2736,56370590,71864051.2,1879019.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,87,Maintain product engagement and monitor purchasing breadth
+C0459,Retail,Logistics,East,30,2849,56361360,71816909.8,1878712.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,88,Maintain product engagement and monitor purchasing breadth
+C0002,Fleet Owner,Manufacturing,South,30,3253,56261100,71712838.0,1875370.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,89,Maintain product engagement and monitor purchasing breadth
+C0196,Fleet Owner,Rental,North East,30,3059,55921870,71291851.6,1864062.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,90,Maintain product engagement and monitor purchasing breadth
+C0255,Retail,Infrastructure,South,30,3237,55876690,71144094.2,1862556.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,91,Maintain product engagement and monitor purchasing breadth
+C0016,Government,Rental,East,30,2646,55572340,70872336.2,1852411.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,92,Maintain product engagement and monitor purchasing breadth
+C0160,Retail,Rental,West,30,2817,55534390,70762190.2,1851146.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,93,Maintain product engagement and monitor purchasing breadth
+C0186,Fleet Owner,Infrastructure,East,30,2815,55408900,70676837.0,1846963.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,94,Maintain product engagement and monitor purchasing breadth
+C0489,Fleet Owner,Rental,South,30,3064,55400350,70625273.0,1846678.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,95,Maintain product engagement and monitor purchasing breadth
+C0025,Corporate,Infrastructure,West,30,2887,55220350,70349653.0,1840678.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,96,Maintain product engagement and monitor purchasing breadth
+C0123,Corporate,Infrastructure,East,30,2644,54900300,70019319.0,1830010.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,97,Maintain product engagement and monitor purchasing breadth
+C0394,Government,Construction,South,30,2924,54868190,69936379.2,1828939.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,98,Maintain product engagement and monitor purchasing breadth
+C0306,Fleet Owner,Manufacturing,East,30,2649,54784400,69813587.0,1826146.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,99,Maintain product engagement and monitor purchasing breadth
+C0373,Corporate,Manufacturing,South,30,2794,54767460,69753317.8,1825582.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,100,Maintain product engagement and monitor purchasing breadth
+C0284,Corporate,Manufacturing,East,30,3035,54612880,69641823.4,1820429.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,101,Maintain product engagement and monitor purchasing breadth
+C0109,Retail,Mining,South,30,3308,54539050,69451949.0,1817968.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,102,Maintain product engagement and monitor purchasing breadth
+C0429,Fleet Owner,Logistics,West,30,2699,54510440,69444114.2,1817014.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,103,Maintain product engagement and monitor purchasing breadth
+C0169,Fleet Owner,Construction,West,30,2751,54509920,69450095.6,1816997.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,104,Maintain product engagement and monitor purchasing breadth
+C0421,Retail,Construction,South,30,2798,54492210,69466242.8,1816407.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,105,Maintain product engagement and monitor purchasing breadth
+C0166,Fleet Owner,Manufacturing,West,30,2613,54482720,69504759.6,1816090.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,106,Maintain product engagement and monitor purchasing breadth
+C0282,Government,Logistics,East,30,3200,54475470,69381309.60000001,1815849.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,107,Maintain product engagement and monitor purchasing breadth
+C0311,Government,Infrastructure,North,30,2780,54370990,69331648.2,1812366.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,108,Maintain product engagement and monitor purchasing breadth
+C0225,Fleet Owner,Logistics,North,30,2791,54324600,69254158.0,1810820.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,109,Maintain product engagement and monitor purchasing breadth
+C0192,Fleet Owner,Logistics,East,30,2569,54295880,69269688.4,1809862.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,110,Maintain product engagement and monitor purchasing breadth
+C0128,Retail,Mining,West,30,2377,54226840,69172996.2,1807561.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,111,Maintain product engagement and monitor purchasing breadth
+C0009,Corporate,Rental,West,30,2677,54041610,68836324.8,1801387.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,112,Maintain product engagement and monitor purchasing breadth
+C0415,Government,Infrastructure,North East,30,2815,53841670,68592455.6,1794722.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,113,Maintain product engagement and monitor purchasing breadth
+C0377,Dealer,Logistics,West,30,2676,53755340,68519191.2,1791844.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,114,Maintain product engagement and monitor purchasing breadth
+C0469,Government,Manufacturing,North,30,2820,53714930,68502617.4,1790497.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,115,Maintain product engagement and monitor purchasing breadth
+C0448,Fleet Owner,Logistics,East,30,2526,53706280,68495840.4,1790209.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,116,Maintain product engagement and monitor purchasing breadth
+C0374,Corporate,Manufacturing,West,30,2948,53669570,68389697.6,1788985.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,117,Maintain product engagement and monitor purchasing breadth
+C0343,Corporate,Construction,West,30,2672,53611870,68419201.6,1787062.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,118,Maintain product engagement and monitor purchasing breadth
+C0383,Fleet Owner,Infrastructure,North,30,2781,53480050,68192154.0,1782668.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,119,Maintain product engagement and monitor purchasing breadth
+C0270,Corporate,Manufacturing,North,30,2811,53374960,68114112.8,1779165.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,120,Maintain product engagement and monitor purchasing breadth
+C0041,Government,Rental,South,30,2815,53358620,68044561.6,1778620.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,121,Maintain product engagement and monitor purchasing breadth
+C0331,Dealer,Logistics,North,30,3332,53327060,67826105.8,1777568.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,122,Maintain product engagement and monitor purchasing breadth
+C0425,Dealer,Manufacturing,South,30,2543,53232320,67882732.6,1774410.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,123,Maintain product engagement and monitor purchasing breadth
+C0193,Dealer,Infrastructure,West,30,2665,53179600,67795348.0,1772653.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,124,Maintain product engagement and monitor purchasing breadth
+C0247,Corporate,Logistics,East,30,2862,53174220,67759559.6,1772474.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,125,Maintain product engagement and monitor purchasing breadth
+C0464,Corporate,Infrastructure,North,30,2841,52908510,67405736.8,1763617.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,126,Maintain product engagement and monitor purchasing breadth
+C0385,Corporate,Manufacturing,West,30,2706,52865670,67435700.6,1762189.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,127,Maintain product engagement and monitor purchasing breadth
+C0488,Government,Construction,South,30,2909,52826960,67251532.8,1760898.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,128,Maintain product engagement and monitor purchasing breadth
+C0276,Dealer,Manufacturing,Central,30,2840,52803770,67350598.6,1760125.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,129,Maintain product engagement and monitor purchasing breadth
+C0264,Retail,Infrastructure,West,30,2396,52753710,67321592.8,1758457.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,130,Maintain product engagement and monitor purchasing breadth
+C0119,Government,Manufacturing,West,30,2990,52748640,67143205.2,1758288.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,131,Maintain product engagement and monitor purchasing breadth
+C0156,Government,Manufacturing,South,30,2408,52631480,67117436.4,1754382.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,132,Maintain product engagement and monitor purchasing breadth
+C0176,Dealer,Logistics,South,30,2872,52504460,66901722.8,1750148.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,133,Maintain product engagement and monitor purchasing breadth
+C0341,Fleet Owner,Mining,North,30,2657,52480080,66838579.4,1749336.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,134,Maintain product engagement and monitor purchasing breadth
+C0293,Dealer,Logistics,West,30,2816,52424230,66815451.4,1747474.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,135,Maintain product engagement and monitor purchasing breadth
+C0428,Retail,Construction,North,30,2922,52052170,66337820.6,1735072.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,136,Maintain product engagement and monitor purchasing breadth
+C0414,Dealer,Construction,South,30,2477,52044170,66316815.6,1734805.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,137,Maintain product engagement and monitor purchasing breadth
+C0141,Corporate,Rental,West,30,2432,51926540,66220737.2,1730884.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,138,Maintain product engagement and monitor purchasing breadth
+C0326,Government,Mining,East,30,2853,51922180,66177447.4,1730739.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,139,Maintain product engagement and monitor purchasing breadth
+C0213,Fleet Owner,Rental,West,30,2213,51921070,66248437.6,1730702.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,140,Maintain product engagement and monitor purchasing breadth
+C0422,Government,Construction,South,30,2655,51607190,65678984.2,1720239.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,141,Maintain product engagement and monitor purchasing breadth
+C0191,Corporate,Manufacturing,South,30,2165,51572860,65787839.8,1719095.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,142,Maintain product engagement and monitor purchasing breadth
+C0006,Government,Construction,West,30,2737,51412280,65482805.4,1713742.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,143,Maintain product engagement and monitor purchasing breadth
+C0471,Fleet Owner,Logistics,West,30,2635,51389940,65501994.199999996,1712998.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,144,Maintain product engagement and monitor purchasing breadth
+C0209,Corporate,Infrastructure,East,30,2910,51373630,65445658.4,1712454.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,145,Maintain product engagement and monitor purchasing breadth
+C0295,Corporate,Mining,East,30,2729,51330170,65390145.6,1711005.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,146,Maintain product engagement and monitor purchasing breadth
+C0312,Government,Construction,West,30,2689,51311620,65437706.6,1710387.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,147,Maintain product engagement and monitor purchasing breadth
+C0149,Government,Manufacturing,West,30,2566,51241680,65235052.4,1708056.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,148,Maintain product engagement and monitor purchasing breadth
+C0491,Dealer,Infrastructure,South,30,2384,51140830,65215944.4,1704694.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,149,Maintain product engagement and monitor purchasing breadth
+C0443,Dealer,Infrastructure,East,30,2766,50982660,64951558.800000004,1699422.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,150,Maintain product engagement and monitor purchasing breadth
+C0498,Fleet Owner,Construction,East,30,2120,50845460,64864362.8,1694848.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,151,Maintain product engagement and monitor purchasing breadth
+C0406,Dealer,Logistics,West,30,2312,50826330,64818334.4,1694211.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,152,Maintain product engagement and monitor purchasing breadth
+C0369,Government,Manufacturing,West,30,2597,50690940,64656844.2,1689698.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,153,Maintain product engagement and monitor purchasing breadth
+C0396,Government,Manufacturing,West,30,2731,50680080,64506474.4,1689336.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,154,Maintain product engagement and monitor purchasing breadth
+C0460,Dealer,Logistics,South,30,2571,50664330,64634814.4,1688811.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,155,Maintain product engagement and monitor purchasing breadth
+C0395,Corporate,Manufacturing,East,30,2938,50643860,64514679.8,1688128.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,156,Maintain product engagement and monitor purchasing breadth
+C0275,Fleet Owner,Construction,West,30,2734,50445750,64270295.0,1681525.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,157,Maintain product engagement and monitor purchasing breadth
+C0379,Retail,Mining,West,30,2899,50443570,64194052.6,1681452.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,158,Maintain product engagement and monitor purchasing breadth
+C0329,Dealer,Infrastructure,Central,30,2480,50414010,64307436.800000004,1680467.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,159,Maintain product engagement and monitor purchasing breadth
+C0390,Fleet Owner,Construction,North,30,2474,50314950,64132451.0,1677165.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,160,Maintain product engagement and monitor purchasing breadth
+C0168,Dealer,Infrastructure,West,30,2844,50309900,64028787.0,1676996.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,161,Maintain product engagement and monitor purchasing breadth
+C0116,Dealer,Construction,North,30,2516,50227070,64081942.6,1674235.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,162,Maintain product engagement and monitor purchasing breadth
+C0126,Dealer,Manufacturing,South,30,2272,50213860,64059034.800000004,1673795.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,163,Maintain product engagement and monitor purchasing breadth
+C0301,Dealer,Mining,East,30,2547,50074420,63821535.6,1669147.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,164,Maintain product engagement and monitor purchasing breadth
+C0268,Government,Mining,West,30,2405,49962270,63709103.6,1665409.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,165,Maintain product engagement and monitor purchasing breadth
+C0302,Fleet Owner,Mining,West,30,2506,49894150,63607092.0,1663138.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,166,Maintain product engagement and monitor purchasing breadth
+C0340,Government,Mining,South,30,2588,49824870,63532821.6,1660829.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,167,Maintain product engagement and monitor purchasing breadth
+C0198,Government,Mining,West,30,2375,49819290,63577917.2,1660643.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,168,Maintain product engagement and monitor purchasing breadth
+C0054,Fleet Owner,Manufacturing,South,30,2238,49743760,63424926.8,1658125.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,169,Maintain product engagement and monitor purchasing breadth
+C0249,Corporate,Construction,West,30,2439,49712310,63391180.8,1657077.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,170,Maintain product engagement and monitor purchasing breadth
+C0333,Corporate,Mining,South,30,2835,49686600,63220923.0,1656220.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,171,Maintain product engagement and monitor purchasing breadth
+C0455,Retail,Logistics,Central,30,2493,49656280,63287015.4,1655209.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,172,Maintain product engagement and monitor purchasing breadth
+C0010,Dealer,Construction,South,30,2985,49509380,63051038.4,1650312.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,173,Maintain product engagement and monitor purchasing breadth
+C0261,Dealer,Manufacturing,North,30,2553,49449470,62999554.6,1648315.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,174,Maintain product engagement and monitor purchasing breadth
+C0467,Retail,Construction,North,30,2649,49361930,62880162.4,1645397.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,175,Maintain product engagement and monitor purchasing breadth
+C0039,Fleet Owner,Rental,South,30,2863,49221640,62706510.199999996,1640721.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,176,Maintain product engagement and monitor purchasing breadth
+C0499,Corporate,Construction,East,30,2434,49218150,62785837.0,1640605.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,177,Maintain product engagement and monitor purchasing breadth
+C0328,Government,Rental,East,30,2539,49201820,62646507.6,1640060.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,178,Maintain product engagement and monitor purchasing breadth
+C0101,Corporate,Logistics,South,30,2830,49185770,62629058.6,1639525.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,179,Maintain product engagement and monitor purchasing breadth
+C0135,Retail,Rental,South,30,2223,49182970,62791824.6,1639432.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,180,Maintain product engagement and monitor purchasing breadth
+C0138,Corporate,Mining,South,30,2527,49111730,62582651.4,1637057.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,181,Maintain product engagement and monitor purchasing breadth
+C0413,Fleet Owner,Manufacturing,South,30,2737,48986230,62380011.4,1632874.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,182,Maintain product engagement and monitor purchasing breadth
+C0152,Corporate,Manufacturing,South,30,2932,48907690,62249804.199999996,1630256.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,183,Maintain product engagement and monitor purchasing breadth
+C0258,Corporate,Mining,South,30,2296,48830880,62250978.4,1627696.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,184,Maintain product engagement and monitor purchasing breadth
+C0230,Dealer,Infrastructure,North,30,2971,48757760,62086661.8,1625258.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,185,Maintain product engagement and monitor purchasing breadth
+C0318,Corporate,Logistics,North,30,2547,48754200,62202116.0,1625140.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,186,Maintain product engagement and monitor purchasing breadth
+C0216,Government,Mining,East,30,2494,48655520,62009378.6,1621850.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,187,Maintain product engagement and monitor purchasing breadth
+C0381,Corporate,Mining,South,30,1971,48585550,62038399.0,1619518.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,188,Maintain product engagement and monitor purchasing breadth
+C0492,Dealer,Rental,East,30,2635,48527140,61798115.2,1617571.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,189,Maintain product engagement and monitor purchasing breadth
+C0438,Corporate,Rental,East,30,2562,48432400,61720027.0,1614413.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,190,Maintain product engagement and monitor purchasing breadth
+C0269,Government,Mining,South,30,2864,48367030,61642030.4,1612234.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,191,Maintain product engagement and monitor purchasing breadth
+C0263,Government,Rental,South,30,2552,48351480,61677496.4,1611716.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,192,Maintain product engagement and monitor purchasing breadth
+C0184,Retail,Rental,South,30,2326,48287230,61479056.4,1609574.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,193,Maintain product engagement and monitor purchasing breadth
+C0419,Fleet Owner,Logistics,West,30,2198,48221790,61514207.199999996,1607393.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,194,Maintain product engagement and monitor purchasing breadth
+C0315,Dealer,Rental,West,30,2744,48208830,61457629.4,1606961.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,195,Maintain product engagement and monitor purchasing breadth
+C0217,Corporate,Infrastructure,North,30,2339,48179740,61360958.2,1605991.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,196,Maintain product engagement and monitor purchasing breadth
+C0447,Fleet Owner,Rental,East,30,2524,48124660,61334243.8,1604155.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,197,Maintain product engagement and monitor purchasing breadth
+C0146,Retail,Mining,West,30,2407,48058590,61245406.2,1601953.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,198,Maintain product engagement and monitor purchasing breadth
+C0189,Government,Manufacturing,South,30,2752,47996060,61121980.8,1599868.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,199,Maintain product engagement and monitor purchasing breadth
+C0228,Government,Construction,South,30,2234,47933580,61132479.4,1597786.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,200,Maintain product engagement and monitor purchasing breadth
+C0015,Government,Rental,West,30,2350,47922560,61028370.8,1597418.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,201,Maintain product engagement and monitor purchasing breadth
+C0327,Retail,Mining,West,30,2598,47883020,61017008.6,1596100.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,202,Maintain product engagement and monitor purchasing breadth
+C0161,Dealer,Mining,West,30,2835,47774340,60837361.2,1592478.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,203,Maintain product engagement and monitor purchasing breadth
+C0273,Dealer,Manufacturing,East,30,2548,47764950,60830001.0,1592165.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,204,Maintain product engagement and monitor purchasing breadth
+C0409,Government,Logistics,West,30,2971,47755320,60821412.6,1591844.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,205,Maintain product engagement and monitor purchasing breadth
+C0004,Fleet Owner,Logistics,South,30,2879,47754210,60843242.8,1591807.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,206,Maintain product engagement and monitor purchasing breadth
+C0056,Dealer,Mining,North,30,2498,47730860,60885469.8,1591028.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,207,Maintain product engagement and monitor purchasing breadth
+C0024,Dealer,Rental,South,30,2526,47587690,60658309.199999996,1586256.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,208,Maintain product engagement and monitor purchasing breadth
+C0251,Dealer,Mining,North,30,2253,47504560,60544705.8,1583485.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,209,Maintain product engagement and monitor purchasing breadth
+C0026,Fleet Owner,Mining,North,30,2679,47482150,60554977.0,1582738.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,210,Maintain product engagement and monitor purchasing breadth
+C0481,Corporate,Logistics,South,30,2851,47455190,60397194.2,1581839.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,211,Maintain product engagement and monitor purchasing breadth
+C0235,Fleet Owner,Mining,East,30,2602,47454230,60478356.4,1581807.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,212,Maintain product engagement and monitor purchasing breadth
+C0335,Government,Infrastructure,North East,30,2769,47401100,60351028.0,1580036.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,213,Maintain product engagement and monitor purchasing breadth
+C0085,Retail,Mining,South,30,2228,47385290,60463527.2,1579509.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,214,Maintain product engagement and monitor purchasing breadth
+C0319,Dealer,Mining,South,30,2588,47364750,60426895.0,1578825.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,215,Maintain product engagement and monitor purchasing breadth
+C0365,Government,Manufacturing,East,30,2697,47362240,60336743.2,1578741.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,216,Maintain product engagement and monitor purchasing breadth
+C0286,Dealer,Construction,South,30,2640,47333390,60273490.2,1577779.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,217,Maintain product engagement and monitor purchasing breadth
+C0259,Fleet Owner,Logistics,South,30,2294,47259670,60202150.6,1575322.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,218,Maintain product engagement and monitor purchasing breadth
+C0140,Retail,Logistics,West,30,2498,47230520,60136648.6,1574350.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,219,Maintain product engagement and monitor purchasing breadth
+C0408,Government,Infrastructure,South,30,2629,47201090,60127186.2,1573369.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,220,Maintain product engagement and monitor purchasing breadth
+C0130,Government,Mining,West,30,2610,47103710,60017312.8,1570123.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,221,Maintain product engagement and monitor purchasing breadth
+C0021,Corporate,Mining,South,30,2391,47093630,59956738.4,1569787.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,222,Maintain product engagement and monitor purchasing breadth
+C0219,Government,Manufacturing,West,30,2604,47075000,59976015.0,1569166.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,223,Maintain product engagement and monitor purchasing breadth
+C0065,Corporate,Mining,West,30,2370,46865770,59751563.6,1562192.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,224,Maintain product engagement and monitor purchasing breadth
+C0086,Retail,Construction,West,30,2069,46746570,59655682.6,1558219.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,225,Maintain product engagement and monitor purchasing breadth
+C0211,Fleet Owner,Manufacturing,South,30,3126,46705690,59389779.2,1556856.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,226,Maintain product engagement and monitor purchasing breadth
+C0358,Government,Infrastructure,West,30,2398,46632120,59405501.6,1554404.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,227,Maintain product engagement and monitor purchasing breadth
+C0453,Dealer,Mining,East,30,2527,46607160,59284873.8,1553572.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,228,Maintain product engagement and monitor purchasing breadth
+C0051,Retail,Infrastructure,North,30,2586,46593280,59420710.4,1553109.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,229,Maintain product engagement and monitor purchasing breadth
+C0175,Fleet Owner,Rental,East,30,2207,46583410,59434888.8,1552780.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,230,Maintain product engagement and monitor purchasing breadth
+C0399,Fleet Owner,Rental,South,30,2439,46532600,59287998.0,1551086.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,231,Maintain product engagement and monitor purchasing breadth
+C0017,Government,Infrastructure,South,30,2440,46409400,59194497.0,1546980.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,232,Maintain product engagement and monitor purchasing breadth
+C0485,Fleet Owner,Rental,West,30,2289,46389160,59146123.8,1546305.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,233,Maintain product engagement and monitor purchasing breadth
+C0280,Corporate,Construction,West,30,2692,46383310,59078520.8,1546110.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,234,Maintain product engagement and monitor purchasing breadth
+C0310,Government,Infrastructure,East,30,2817,46376420,59059490.6,1545880.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,235,Maintain product engagement and monitor purchasing breadth
+C0055,Dealer,Construction,North,30,2627,46311140,59056095.2,1543704.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,236,Maintain product engagement and monitor purchasing breadth
+C0131,Corporate,Rental,South,30,2228,46237660,59008448.8,1541255.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,237,Maintain product engagement and monitor purchasing breadth
+C0158,Corporate,Infrastructure,East,30,2349,46231390,58875735.2,1541046.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,238,Maintain product engagement and monitor purchasing breadth
+C0355,Government,Infrastructure,South,30,2259,46214030,58903770.4,1540467.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,239,Maintain product engagement and monitor purchasing breadth
+C0256,Corporate,Infrastructure,North East,30,2389,46110780,58794725.4,1537026.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,240,Maintain product engagement and monitor purchasing breadth
+C0314,Retail,Logistics,East,30,2236,46037410,58625243.8,1534580.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,241,Maintain product engagement and monitor purchasing breadth
+C0106,Dealer,Infrastructure,Central,30,2716,45839560,58339475.8,1527985.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,242,Maintain product engagement and monitor purchasing breadth
+C0401,Government,Logistics,North East,30,2290,45711960,58231157.8,1523732.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,243,Maintain product engagement and monitor purchasing breadth
+C0030,Corporate,Construction,South,30,2481,45703710,58263942.8,1523457.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,244,Maintain product engagement and monitor purchasing breadth
+C0424,Retail,Construction,West,30,2714,45692330,58183379.4,1523077.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,245,Maintain product engagement and monitor purchasing breadth
+C0023,Corporate,Mining,South,30,2181,45671740,58217713.2,1522391.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,246,Maintain product engagement and monitor purchasing breadth
+C0029,Dealer,Construction,South,30,2565,45653420,58176890.6,1521780.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,247,Maintain product engagement and monitor purchasing breadth
+C0173,Retail,Logistics,South,30,2502,45510430,57999777.4,1517014.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,248,Maintain product engagement and monitor purchasing breadth
+C0093,Dealer,Manufacturing,South,30,2522,45460060,57944235.8,1515335.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,249,Maintain product engagement and monitor purchasing breadth
+C0227,Fleet Owner,Infrastructure,East,30,2172,45457070,57926647.6,1515235.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,250,Maintain product engagement and monitor purchasing breadth
+C0236,Corporate,Mining,West,30,2323,45446800,57861179.0,1514893.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,251,Maintain product engagement and monitor purchasing breadth
+C0047,Corporate,Rental,West,30,2272,45416100,57880918.0,1513870.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,252,Maintain product engagement and monitor purchasing breadth
+C0038,Fleet Owner,Rental,North,30,2388,45410090,57808311.2,1513669.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,253,Maintain product engagement and monitor purchasing breadth
+C0077,Corporate,Mining,North,30,2369,45390570,57865492.6,1513019.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,254,Maintain product engagement and monitor purchasing breadth
+C0064,Corporate,Manufacturing,North,30,2240,45390350,57893888.0,1513011.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,255,Maintain product engagement and monitor purchasing breadth
+C0398,Government,Rental,South,30,2629,45379170,57843305.6,1512639.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,256,Maintain product engagement and monitor purchasing breadth
+C0436,Fleet Owner,Logistics,East,30,2530,45357190,57784314.2,1511906.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,257,Maintain product engagement and monitor purchasing breadth
+C0477,Government,Construction,West,30,2667,45286770,57746038.6,1509559.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,258,Maintain product engagement and monitor purchasing breadth
+C0357,Corporate,Mining,West,30,1981,45252290,57734552.2,1508409.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,259,Maintain product engagement and monitor purchasing breadth
+C0367,Fleet Owner,Logistics,South,30,2168,45173860,57592654.8,1505795.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,260,Maintain product engagement and monitor purchasing breadth
+C0232,Government,Mining,South,30,2545,45159600,57544368.0,1505320.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,261,Maintain product engagement and monitor purchasing breadth
+C0068,Retail,Mining,North,30,2466,45062980,57372766.4,1502099.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,262,Maintain product engagement and monitor purchasing breadth
+C0290,Corporate,Construction,West,30,2504,45014240,57372288.2,1500474.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,263,Maintain product engagement and monitor purchasing breadth
+C0088,Corporate,Infrastructure,West,30,2304,44991010,57330201.8,1499700.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,264,Maintain product engagement and monitor purchasing breadth
+C0172,Dealer,Manufacturing,South,30,2312,44967390,57323600.2,1498913.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,265,Maintain product engagement and monitor purchasing breadth
+C0105,Government,Logistics,North,30,2459,44966360,57202879.8,1498878.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,266,Maintain product engagement and monitor purchasing breadth
+C0011,Retail,Infrastructure,West,30,2717,44933810,57187490.8,1497793.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,267,Maintain product engagement and monitor purchasing breadth
+C0222,Fleet Owner,Logistics,North,30,2558,44904020,57177978.6,1496800.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,268,Maintain product engagement and monitor purchasing breadth
+C0426,Dealer,Infrastructure,North East,30,2335,44884200,57207251.0,1496140.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,269,Maintain product engagement and monitor purchasing breadth
+C0445,Government,Mining,East,30,2065,44860580,57177744.4,1495352.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,270,Maintain product engagement and monitor purchasing breadth
+C0433,Dealer,Infrastructure,North,30,2521,44764880,57020323.4,1492162.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,271,Maintain product engagement and monitor purchasing breadth
+C0073,Corporate,Rental,North,30,2151,44726770,56970903.6,1490892.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,272,Maintain product engagement and monitor purchasing breadth
+C0296,Corporate,Manufacturing,East,30,2558,44706560,56944680.8,1490218.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,273,Maintain product engagement and monitor purchasing breadth
+C0059,Retail,Manufacturing,South,30,2341,44636580,56859509.4,1487886.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,274,Maintain product engagement and monitor purchasing breadth
+C0058,Retail,Infrastructure,West,30,2537,44606750,56831525.0,1486891.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,275,Maintain product engagement and monitor purchasing breadth
+C0354,Corporate,Logistics,South,30,2595,44585860,56690884.8,1486195.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,276,Maintain product engagement and monitor purchasing breadth
+C0022,Retail,Infrastructure,South,30,2582,44575550,56759064.0,1485851.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,277,Maintain product engagement and monitor purchasing breadth
+C0461,Corporate,Infrastructure,North,30,2715,44543940,56714684.2,1484798.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,278,Maintain product engagement and monitor purchasing breadth
+C0195,Fleet Owner,Logistics,East,30,2094,44526020,56797913.6,1484200.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,279,Maintain product engagement and monitor purchasing breadth
+C0349,Corporate,Rental,West,30,2459,44485700,56613876.0,1482856.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,280,Maintain product engagement and monitor purchasing breadth
+C0052,Government,Manufacturing,North East,30,2298,44420040,56612172.199999996,1480668.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,281,Maintain product engagement and monitor purchasing breadth
+C0080,Retail,Mining,South,30,2633,44386690,56541324.2,1479556.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,282,Maintain product engagement and monitor purchasing breadth
+C0099,Fleet Owner,Rental,South,30,2882,44372200,56469516.0,1479073.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,283,Maintain product engagement and monitor purchasing breadth
+C0457,Retail,Manufacturing,East,30,2509,44351780,56578805.4,1478392.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,284,Maintain product engagement and monitor purchasing breadth
+C0245,Dealer,Logistics,South,30,2268,44342070,56554752.6,1478069.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,285,Maintain product engagement and monitor purchasing breadth
+C0081,Corporate,Rental,West,30,2676,44271750,56355210.0,1475725.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,286,Maintain product engagement and monitor purchasing breadth
+C0397,Fleet Owner,Mining,West,30,2475,44216230,56279511.4,1473874.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,287,Maintain product engagement and monitor purchasing breadth
+C0190,Retail,Manufacturing,North,30,2251,44179380,56351528.4,1472646.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,288,Maintain product engagement and monitor purchasing breadth
+C0050,Dealer,Mining,East,30,1930,44016360,56151044.800000004,1467212.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,289,Maintain product engagement and monitor purchasing breadth
+C0098,Corporate,Mining,East,30,2381,44013350,56088743.0,1467111.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,290,Maintain product engagement and monitor purchasing breadth
+C0111,Corporate,Construction,South,30,2497,43914790,55916542.2,1463826.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,291,Maintain product engagement and monitor purchasing breadth
+C0449,Fleet Owner,Logistics,West,30,2249,43705510,55700286.8,1456850.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,292,Maintain product engagement and monitor purchasing breadth
+C0157,Dealer,Infrastructure,North,30,2346,43654580,55572804.4,1455152.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,293,Maintain product engagement and monitor purchasing breadth
+C0095,Fleet Owner,Logistics,West,30,2310,43640740,55610118.2,1454691.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,294,Maintain product engagement and monitor purchasing breadth
+C0260,Dealer,Logistics,South,30,2342,43590270,55524668.6,1453009.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,295,Maintain product engagement and monitor purchasing breadth
+C0067,Retail,Manufacturing,West,30,2135,43570420,55575120.6,1452347.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,296,Maintain product engagement and monitor purchasing breadth
+C0463,Dealer,Mining,West,30,2617,43452000,55370560.0,1448400.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,297,Maintain product engagement and monitor purchasing breadth
+C0072,Government,Logistics,West,30,1998,43449850,55369763.0,1448328.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,298,Maintain product engagement and monitor purchasing breadth
+C0171,Fleet Owner,Construction,South,30,2101,43403890,55348450.2,1446796.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,299,Maintain product engagement and monitor purchasing breadth
+C0450,Fleet Owner,Construction,East,30,2347,43401530,55345960.4,1446717.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,300,Maintain product engagement and monitor purchasing breadth
+C0287,Dealer,Manufacturing,South,30,2332,43261120,55179366.6,1442037.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,301,Maintain product engagement and monitor purchasing breadth
+C0001,Retail,Construction,East,30,2123,43201680,55019747.4,1440056.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,302,Maintain product engagement and monitor purchasing breadth
+C0472,Dealer,Manufacturing,South,30,2669,43087580,54888819.4,1436252.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,303,Maintain product engagement and monitor purchasing breadth
+C0124,Dealer,Construction,West,30,2907,43084310,54870405.8,1436143.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,304,Maintain product engagement and monitor purchasing breadth
+C0148,Government,Construction,South,30,2144,43008380,54884128.4,1433612.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,305,Maintain product engagement and monitor purchasing breadth
+C0274,Dealer,Mining,North,30,2395,42946740,54639688.2,1431558.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,306,Maintain product engagement and monitor purchasing breadth
+C0493,Retail,Construction,South,30,2728,42934640,54684935.2,1431154.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,307,Maintain product engagement and monitor purchasing breadth
+C0360,Dealer,Construction,West,30,2233,42914200,54662201.0,1430473.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,308,Maintain product engagement and monitor purchasing breadth
+C0407,Dealer,Logistics,South,30,2248,42882880,54609453.4,1429429.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,309,Maintain product engagement and monitor purchasing breadth
+C0346,Retail,Construction,East,30,2411,42873560,54686860.8,1429118.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,310,Maintain product engagement and monitor purchasing breadth
+C0321,Retail,Logistics,South,30,2577,42809230,54558976.4,1426974.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,311,Maintain product engagement and monitor purchasing breadth
+C0434,Corporate,Mining,Central,30,2130,42768890,54575670.2,1425629.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,312,Maintain product engagement and monitor purchasing breadth
+C0364,Government,Infrastructure,East,30,2358,42733560,54408370.8,1424452.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,313,Maintain product engagement and monitor purchasing breadth
+C0188,Corporate,Logistics,West,30,2365,42691360,54387524.8,1423045.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,314,Maintain product engagement and monitor purchasing breadth
+C0330,Retail,Infrastructure,East,30,2695,42673670,54285450.6,1422455.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,315,Maintain product engagement and monitor purchasing breadth
+C0027,Fleet Owner,Logistics,West,30,2310,42577230,54309976.4,1419241.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,316,Maintain product engagement and monitor purchasing breadth
+C0223,Corporate,Logistics,West,30,2385,42492870,54079206.6,1416429.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,317,Maintain product engagement and monitor purchasing breadth
+C0285,Government,Infrastructure,West,30,2728,42474460,54036327.8,1415815.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,318,Maintain product engagement and monitor purchasing breadth
+C0224,Retail,Manufacturing,East,30,2307,42395680,54050072.4,1413189.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,319,Maintain product engagement and monitor purchasing breadth
+C0066,Retail,Manufacturing,Central,30,2394,42371560,54037060.8,1412385.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,320,Maintain product engagement and monitor purchasing breadth
+C0370,Corporate,Infrastructure,East,30,2351,42286970,53881174.6,1409565.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,321,Maintain product engagement and monitor purchasing breadth
+C0040,Government,Logistics,North,30,2648,42259970,53757984.6,1408665.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,322,Maintain product engagement and monitor purchasing breadth
+C0203,Government,Manufacturing,West,30,2299,42161670,53777085.6,1405389.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,323,Maintain product engagement and monitor purchasing breadth
+C0363,Fleet Owner,Logistics,South,30,2504,42048290,53560072.2,1401609.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,324,Maintain product engagement and monitor purchasing breadth
+C0320,Retail,Construction,North,30,2078,42001120,53574056.6,1400037.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,325,Maintain product engagement and monitor purchasing breadth
+C0220,Government,Infrastructure,Central,30,2604,41988750,53467975.0,1399625.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,326,Maintain product engagement and monitor purchasing breadth
+C0442,Dealer,Logistics,East,30,2137,41966020,53527848.6,1398867.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,327,Maintain product engagement and monitor purchasing breadth
+C0362,Corporate,Rental,West,30,2489,41935190,53495189.2,1397839.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,328,Maintain product engagement and monitor purchasing breadth
+C0210,Retail,Infrastructure,West,30,2036,41928210,53509817.800000004,1397607.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,329,Maintain product engagement and monitor purchasing breadth
+C0035,Dealer,Infrastructure,Central,30,2449,41878010,53340276.8,1395933.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,330,Maintain product engagement and monitor purchasing breadth
+C0012,Fleet Owner,Logistics,South,30,1944,41835630,53404468.4,1394521.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,331,Maintain product engagement and monitor purchasing breadth
+C0427,Corporate,Mining,West,30,2362,41731940,53149424.2,1391064.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,332,Maintain product engagement and monitor purchasing breadth
+C0181,Government,Construction,West,30,2363,41700450,53087081.0,1390015.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,333,Maintain product engagement and monitor purchasing breadth
+C0325,Corporate,Rental,East,30,1740,41524630,52920013.4,1384154.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,334,Maintain product engagement and monitor purchasing breadth
+C0372,Government,Logistics,South,30,2264,41513200,52822436.0,1383773.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,335,Maintain product engagement and monitor purchasing breadth
+C0486,Government,Manufacturing,West,30,2519,41350080,52620254.4,1378336.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,336,Maintain product engagement and monitor purchasing breadth
+C0361,Government,Logistics,South,30,2159,41202210,52532617.8,1373407.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,337,Maintain product engagement and monitor purchasing breadth
+C0324,Corporate,Mining,South,30,2391,41098360,52335374.8,1369945.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,338,Maintain product engagement and monitor purchasing breadth
+C0338,Corporate,Rental,West,30,2009,40964750,52210070.0,1365491.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,339,Maintain product engagement and monitor purchasing breadth
+C0376,Retail,Construction,North,30,2337,40903770,52106248.6,1363459.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,340,Maintain product engagement and monitor purchasing breadth
+C0446,Retail,Logistics,South,30,2246,40839770,52035543.6,1361325.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,341,Maintain product engagement and monitor purchasing breadth
+C0096,Corporate,Construction,South,30,2169,40828880,51986858.4,1360962.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,342,Maintain product engagement and monitor purchasing breadth
+C0090,Government,Infrastructure,North,30,2647,40810370,51915256.6,1360345.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,343,Maintain product engagement and monitor purchasing breadth
+C0417,Fleet Owner,Mining,East,30,2135,40806780,51984530.4,1360226.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,344,Maintain product engagement and monitor purchasing breadth
+C0205,Retail,Construction,North,30,2020,40742250,51965845.0,1358075.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,345,Maintain product engagement and monitor purchasing breadth
+C0368,Fleet Owner,Construction,South,30,2145,40673710,51837532.8,1355790.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,346,Maintain product engagement and monitor purchasing breadth
+C0400,Government,Infrastructure,North,30,2252,40610020,51694363.6,1353667.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,347,Maintain product engagement and monitor purchasing breadth
+C0231,Government,Infrastructure,West,30,2430,40582530,51646725.4,1352751.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,348,Maintain product engagement and monitor purchasing breadth
+C0497,Government,Logistics,South,30,2279,40341140,51439335.2,1344704.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,349,Maintain product engagement and monitor purchasing breadth
+C0393,Retail,Rental,East,30,2192,40195010,51240981.8,1339833.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,350,Maintain product engagement and monitor purchasing breadth
+C0133,Government,Mining,South,30,1898,40181100,51247358.0,1339370.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,351,Maintain product engagement and monitor purchasing breadth
+C0348,Retail,Logistics,North,30,2515,39978280,50897650.4,1332609.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,352,Maintain product engagement and monitor purchasing breadth
+C0444,Dealer,Manufacturing,South,30,2586,39970050,50928809.0,1332335.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,353,Maintain product engagement and monitor purchasing breadth
+C0458,Dealer,Manufacturing,West,30,2631,39941170,50799400.6,1331372.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,354,Maintain product engagement and monitor purchasing breadth
+C0266,Fleet Owner,Rental,South,30,2425,39797800,50717014.0,1326593.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,355,Maintain product engagement and monitor purchasing breadth
+C0405,Corporate,Infrastructure,West,30,2039,39790100,50787823.0,1326336.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,356,Maintain product engagement and monitor purchasing breadth
+C0378,Retail,Manufacturing,North,30,2201,39739040,50644577.2,1324634.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,357,Maintain product engagement and monitor purchasing breadth
+C0214,Corporate,Rental,West,30,2180,39709250,50612095.0,1323641.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,358,Maintain product engagement and monitor purchasing breadth
+C0031,Government,Mining,East,30,2180,39680260,50500841.8,1322675.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,359,Maintain product engagement and monitor purchasing breadth
+C0074,Fleet Owner,Infrastructure,East,30,2466,39627770,50426138.6,1320925.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,360,Maintain product engagement and monitor purchasing breadth
+C0345,Retail,Infrastructure,West,30,2405,39617420,50444735.6,1320580.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,361,Maintain product engagement and monitor purchasing breadth
+C0167,Retail,Mining,West,30,2244,39616580,50383279.4,1320552.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,362,Maintain product engagement and monitor purchasing breadth
+C0087,Government,Logistics,South,30,2510,39608130,50370513.4,1320271.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,363,Maintain product engagement and monitor purchasing breadth
+C0308,Retail,Mining,North,30,2159,39549470,50359329.6,1318315.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,364,Maintain product engagement and monitor purchasing breadth
+C0202,Government,Logistics,North,30,2183,39546540,50389917.2,1318218.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,365,Maintain product engagement and monitor purchasing breadth
+C0120,Fleet Owner,Construction,South,30,2427,39523350,50313583.0,1317445.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,366,Maintain product engagement and monitor purchasing breadth
+C0323,Government,Manufacturing,West,30,2227,39487910,50291498.8,1316263.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,367,Maintain product engagement and monitor purchasing breadth
+C0075,Retail,Mining,South,30,2235,39435130,50186853.4,1314504.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,368,Maintain product engagement and monitor purchasing breadth
+C0289,Corporate,Logistics,South,30,2220,39396940,50221149.2,1313231.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,369,Maintain product engagement and monitor purchasing breadth
+C0159,Dealer,Construction,South,30,2408,39245590,49934036.199999996,1308186.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,370,Maintain product engagement and monitor purchasing breadth
+C0233,Government,Logistics,East,30,2106,39173800,49889164.0,1305793.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,371,Maintain product engagement and monitor purchasing breadth
+C0057,Retail,Logistics,East,30,2256,39001020,49701788.6,1300034.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,372,Maintain product engagement and monitor purchasing breadth
+C0451,Government,Manufacturing,East,30,2177,38981780,49725150.4,1299392.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,373,Maintain product engagement and monitor purchasing breadth
+C0044,Government,Mining,West,30,2129,38929350,49589458.0,1297645.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,374,Maintain product engagement and monitor purchasing breadth
+C0048,Dealer,Mining,South,30,2043,38811940,49413459.2,1293731.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,375,Maintain product engagement and monitor purchasing breadth
+C0432,Fleet Owner,Mining,South,30,2205,38717560,49310040.8,1290585.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,376,Maintain product engagement and monitor purchasing breadth
+C0033,Government,Mining,South,30,2086,38713690,49354094.2,1290456.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,377,Maintain product engagement and monitor purchasing breadth
+C0018,Retail,Construction,West,30,1898,38692710,49286607.8,1289757.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,378,Maintain product engagement and monitor purchasing breadth
+C0470,Government,Mining,South,30,2327,38599240,49194933.2,1286641.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,379,Maintain product engagement and monitor purchasing breadth
+C0132,Corporate,Construction,Central,30,2285,38534330,49004629.4,1284477.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,380,Maintain product engagement and monitor purchasing breadth
+C0199,Government,Mining,West,30,2206,38456880,48930073.4,1281896.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,381,Maintain product engagement and monitor purchasing breadth
+C0127,Government,Construction,East,30,2134,38456060,48960650.8,1281868.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,382,Maintain product engagement and monitor purchasing breadth
+C0036,Fleet Owner,Construction,East,30,2061,38418260,48929201.8,1280608.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,383,Maintain product engagement and monitor purchasing breadth
+C0386,Retail,Construction,North,30,2060,38385820,48819152.6,1279527.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,384,Maintain product engagement and monitor purchasing breadth
+C0389,Retail,Mining,West,30,1924,38241650,48796477.0,1274721.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,385,Maintain product engagement and monitor purchasing breadth
+C0114,Retail,Mining,East,30,2482,38178710,48515792.8,1272623.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,386,Maintain product engagement and monitor purchasing breadth
+C0480,Government,Infrastructure,West,30,2199,38076520,48525468.6,1269217.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,387,Maintain product engagement and monitor purchasing breadth
+C0100,Government,Construction,North,30,2363,38016250,48373950.0,1267208.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,388,Maintain product engagement and monitor purchasing breadth
+C0008,Corporate,Logistics,West,30,2280,37972100,48368868.0,1265736.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,389,Maintain product engagement and monitor purchasing breadth
+C0305,Fleet Owner,Logistics,North,30,1844,37914410,48238808.8,1263813.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,390,Maintain product engagement and monitor purchasing breadth
+C0484,Fleet Owner,Mining,West,30,2160,37883370,48200851.6,1262779.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,391,Maintain product engagement and monitor purchasing breadth
+C0494,Corporate,Construction,East,30,2140,37868420,48287535.6,1262280.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,392,Maintain product engagement and monitor purchasing breadth
+C0474,Government,Logistics,West,30,2020,37863700,48230361.0,1262123.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,393,Maintain product engagement and monitor purchasing breadth
+C0313,Corporate,Mining,West,30,1963,37841680,48205237.4,1261389.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,394,Maintain product engagement and monitor purchasing breadth
+C0299,Retail,Logistics,South,30,2351,37822560,48095055.8,1260752.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,395,Maintain product engagement and monitor purchasing breadth
+C0496,Government,Infrastructure,East,30,2215,37818650,48190097.0,1260621.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,396,Maintain product engagement and monitor purchasing breadth
+C0194,Fleet Owner,Construction,South,30,1704,37787710,48202752.800000004,1259590.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,397,Maintain product engagement and monitor purchasing breadth
+C0465,Fleet Owner,Mining,South,30,2404,37783870,48083241.6,1259462.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,398,Maintain product engagement and monitor purchasing breadth
+C0344,Fleet Owner,Mining,West,30,1972,37729300,48151864.0,1257643.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,399,Maintain product engagement and monitor purchasing breadth
+C0265,Retail,Mining,West,30,1958,37594220,47931619.6,1253140.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,400,Maintain product engagement and monitor purchasing breadth
+C0043,Corporate,Construction,South,30,2472,37467660,47644638.8,1248922.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,401,Maintain product engagement and monitor purchasing breadth
+C0439,Dealer,Construction,South,30,2294,37351400,47576062.0,1245046.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,402,Maintain product engagement and monitor purchasing breadth
+C0185,Dealer,Logistics,West,30,2052,37319640,47500335.2,1243988.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,403,Maintain product engagement and monitor purchasing breadth
+C0097,Corporate,Construction,West,30,1822,37217840,47499351.2,1240594.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,404,Maintain product engagement and monitor purchasing breadth
+C0089,Corporate,Rental,West,30,2219,37054300,47111014.0,1235143.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,405,Maintain product engagement and monitor purchasing breadth
+C0278,Fleet Owner,Logistics,West,30,2662,37042540,47107787.2,1234751.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,406,Maintain product engagement and monitor purchasing breadth
+C0387,Dealer,Infrastructure,East,30,2430,37034600,47133318.0,1234486.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,407,Maintain product engagement and monitor purchasing breadth
+C0418,Government,Mining,West,30,2091,37023670,47167025.6,1234122.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,408,Maintain product engagement and monitor purchasing breadth
+C0441,Dealer,Construction,North,30,2382,37017660,47045233.8,1233922.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,409,Maintain product engagement and monitor purchasing breadth
+C0079,Retail,Rental,North,30,1956,36993090,47175266.2,1233103.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,410,Maintain product engagement and monitor purchasing breadth
+C0391,Government,Construction,West,30,2048,36944480,47080496.4,1231482.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,411,Maintain product engagement and monitor purchasing breadth
+C0121,Government,Construction,West,30,1853,36904340,47029566.2,1230144.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,412,Maintain product engagement and monitor purchasing breadth
+C0226,Dealer,Logistics,West,30,2065,36902950,47025541.0,1230098.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,413,Maintain product engagement and monitor purchasing breadth
+C0208,Fleet Owner,Logistics,North,30,2086,36866060,46904115.8,1228868.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,414,Maintain product engagement and monitor purchasing breadth
+C0423,Dealer,Infrastructure,South,30,2057,36819280,46894840.4,1227309.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,415,Maintain product engagement and monitor purchasing breadth
+C0187,Retail,Rental,North,30,1981,36769950,46901016.0,1225665.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,416,Maintain product engagement and monitor purchasing breadth
+C0092,Fleet Owner,Logistics,West,30,2164,36740510,46760586.8,1224683.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,417,Maintain product engagement and monitor purchasing breadth
+C0298,Fleet Owner,Construction,South,30,2167,36725200,46771231.0,1224173.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,418,Maintain product engagement and monitor purchasing breadth
+C0163,Dealer,Logistics,West,30,2482,36480350,46377823.0,1216011.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,419,Maintain product engagement and monitor purchasing breadth
+C0267,Fleet Owner,Infrastructure,South,30,2008,36465390,46440405.2,1215513.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,420,Maintain product engagement and monitor purchasing breadth
+C0094,Corporate,Logistics,West,30,1934,36407440,46343009.2,1213581.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,421,Maintain product engagement and monitor purchasing breadth
+C0112,Fleet Owner,Mining,South,30,2138,36333120,46248326.6,1211104.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,422,Maintain product engagement and monitor purchasing breadth
+C0281,Government,Logistics,South,30,1849,36333020,46282268.6,1211100.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,423,Maintain product engagement and monitor purchasing breadth
+C0437,Dealer,Mining,West,30,1956,36305140,46199550.2,1210171.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,424,Maintain product engagement and monitor purchasing breadth
+C0404,Government,Mining,West,30,2127,36224330,46035794.4,1207477.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,425,Maintain product engagement and monitor purchasing breadth
+C0416,Dealer,Manufacturing,South,30,2482,36145900,46006682.0,1204863.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,426,Maintain product engagement and monitor purchasing breadth
+C0431,Government,Logistics,West,30,1797,35920190,45787279.2,1197339.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,427,Maintain product engagement and monitor purchasing breadth
+C0136,Dealer,Mining,West,30,2041,35915090,45774176.2,1197169.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,428,Maintain product engagement and monitor purchasing breadth
+C0164,Government,Construction,North,30,2125,35851210,45625652.8,1195040.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,429,Maintain product engagement and monitor purchasing breadth
+C0037,Corporate,Construction,West,30,1860,35689100,45505928.0,1189636.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,430,Maintain product engagement and monitor purchasing breadth
+C0316,Dealer,Manufacturing,East,30,1948,35655050,45390754.0,1188501.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,431,Maintain product engagement and monitor purchasing breadth
+C0252,Retail,Construction,South,30,2068,35584220,45321304.6,1186140.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,432,Maintain product engagement and monitor purchasing breadth
+C0212,Retail,Infrastructure,North East,30,1825,35519950,45262151.0,1183998.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,433,Maintain product engagement and monitor purchasing breadth
+C0248,Fleet Owner,Rental,West,30,1809,35510400,45208412.0,1183680.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,434,Maintain product engagement and monitor purchasing breadth
+C0239,Government,Logistics,South,30,1858,35255050,44962159.0,1175168.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,435,Maintain product engagement and monitor purchasing breadth
+C0430,Retail,Manufacturing,West,30,2115,35197560,44879330.8,1173252.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,436,Maintain product engagement and monitor purchasing breadth
+C0351,Corporate,Rental,East,30,2207,35183170,44776790.6,1172772.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,437,Maintain product engagement and monitor purchasing breadth
+C0003,Government,Logistics,West,30,2164,35112260,44728031.8,1170408.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,438,Maintain product engagement and monitor purchasing breadth
+C0332,Corporate,Mining,South,30,2151,35068830,44566684.4,1168961.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,439,Maintain product engagement and monitor purchasing breadth
+C0143,Corporate,Infrastructure,South,30,1891,35058490,44644618.2,1168616.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,440,Maintain product engagement and monitor purchasing breadth
+C0283,Retail,Logistics,North,30,2069,34916310,44490975.8,1163877.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,441,Maintain product engagement and monitor purchasing breadth
+C0500,Corporate,Infrastructure,East,30,1975,34912870,44474866.6,1163762.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,442,Maintain product engagement and monitor purchasing breadth
+C0229,Government,Mining,East,30,1589,34806810,44419985.8,1160227.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,443,Maintain product engagement and monitor purchasing breadth
+C0218,Fleet Owner,Construction,West,30,2187,34801450,44324901.0,1160048.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,444,Maintain product engagement and monitor purchasing breadth
+C0115,Fleet Owner,Mining,South,30,1937,34787020,44357793.6,1159567.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,445,Maintain product engagement and monitor purchasing breadth
+C0277,Dealer,Logistics,West,30,2195,34361720,43668914.6,1145390.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,446,Maintain product engagement and monitor purchasing breadth
+C0366,Corporate,Logistics,East,30,1695,34264010,43711261.8,1142133.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,447,Maintain product engagement and monitor purchasing breadth
+C0402,Fleet Owner,Rental,South,30,2163,34212640,43498305.2,1140421.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,448,Maintain product engagement and monitor purchasing breadth
+C0317,Corporate,Manufacturing,South,30,2086,34026890,43291415.2,1134229.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,449,Maintain product engagement and monitor purchasing breadth
+C0179,Government,Infrastructure,South,30,2305,34009700,43222736.0,1133656.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,450,Maintain product engagement and monitor purchasing breadth
+C0412,Corporate,Infrastructure,East,30,1897,33987820,43246987.6,1132927.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,451,Maintain product engagement and monitor purchasing breadth
+C0382,Retail,Manufacturing,South,30,2412,33715150,42929317.0,1123838.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,452,Maintain product engagement and monitor purchasing breadth
+C0137,Dealer,Infrastructure,South,30,1656,33571570,42806442.6,1119052.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,453,Maintain product engagement and monitor purchasing breadth
+C0020,Dealer,Logistics,East,30,2048,33443220,42586254.6,1114774.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,454,Maintain product engagement and monitor purchasing breadth
+C0078,Dealer,Rental,South,30,2035,33430220,42565724.6,1114340.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,455,Maintain product engagement and monitor purchasing breadth
+C0019,Government,Logistics,East,30,1905,33389880,42528118.4,1112996.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,456,Maintain product engagement and monitor purchasing breadth
+C0034,Government,Construction,West,30,1983,33363540,42477752.2,1112118.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,457,Maintain product engagement and monitor purchasing breadth
+C0243,Government,Construction,North,30,2049,33315370,42431751.6,1110512.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,458,Maintain product engagement and monitor purchasing breadth
+C0104,Fleet Owner,Infrastructure,South,30,2146,33092730,42120081.4,1103091.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,459,Maintain product engagement and monitor purchasing breadth
+C0473,Government,Rental,South,30,1735,32922260,42018356.8,1097408.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,460,Maintain product engagement and monitor purchasing breadth
+C0118,Retail,Rental,South,30,2110,32892640,41835680.2,1096421.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,461,Maintain product engagement and monitor purchasing breadth
+C0454,Government,Mining,West,30,1810,32847670,41820500.6,1094922.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,462,Maintain product engagement and monitor purchasing breadth
+C0014,Fleet Owner,Construction,East,30,1776,32598320,41523847.6,1086610.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,463,Maintain product engagement and monitor purchasing breadth
+C0155,Fleet Owner,Mining,East,30,1798,32588940,41576324.2,1086298.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,464,Maintain product engagement and monitor purchasing breadth
+C0350,Dealer,Logistics,North East,30,1936,32353150,41227777.0,1078438.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,465,Maintain product engagement and monitor purchasing breadth
+C0322,Government,Construction,West,30,1962,32200600,40996678.0,1073353.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,466,Maintain product engagement and monitor purchasing breadth
+C0182,Dealer,Infrastructure,East,30,1956,32105700,40856091.0,1070190.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,467,Maintain product engagement and monitor purchasing breadth
+C0352,Corporate,Mining,South,30,1819,31581590,40262666.2,1052719.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,468,Maintain product engagement and monitor purchasing breadth
+C0339,Fleet Owner,Logistics,South,30,1645,31557880,40193008.4,1051929.3333333333,Highly Diversified,0.0,Low Cross-Sell Opportunity,469,Maintain product engagement and monitor purchasing breadth
+C0452,Fleet Owner,Mining,South,30,2143,31479440,40090449.2,1049314.6666666667,Highly Diversified,0.0,Low Cross-Sell Opportunity,470,Maintain product engagement and monitor purchasing breadth
+C0204,Retail,Rental,South,30,1913,31359900,39880662.0,1045330.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,471,Maintain product engagement and monitor purchasing breadth
+C0144,Fleet Owner,Construction,West,30,1709,31072090,39589546.2,1035736.3333333334,Highly Diversified,0.0,Low Cross-Sell Opportunity,472,Maintain product engagement and monitor purchasing breadth
+C0487,Dealer,Mining,South,30,1785,31063950,39512216.0,1035465.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,473,Maintain product engagement and monitor purchasing breadth
+C0151,Government,Infrastructure,East,30,1902,31051670,39556960.6,1035055.6666666666,Highly Diversified,0.0,Low Cross-Sell Opportunity,474,Maintain product engagement and monitor purchasing breadth
+C0336,Government,Rental,East,30,1916,30736480,39095696.4,1024549.3333333334,Highly Diversified,0.0,Low Cross-Sell Opportunity,475,Maintain product engagement and monitor purchasing breadth
+C0091,Retail,Construction,South,30,1952,30689510,39090471.8,1022983.6666666666,Highly Diversified,0.0,Low Cross-Sell Opportunity,476,Maintain product engagement and monitor purchasing breadth
+C0117,Government,Mining,North East,30,1951,30628680,38951277.4,1020956.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,477,Maintain product engagement and monitor purchasing breadth
+C0170,Government,Construction,South,30,1743,30542780,38882680.4,1018092.6666666666,Highly Diversified,0.0,Low Cross-Sell Opportunity,478,Maintain product engagement and monitor purchasing breadth
+C0392,Fleet Owner,Logistics,East,30,1721,30249660,38571708.8,1008322.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,479,Maintain product engagement and monitor purchasing breadth
+C0028,Retail,Infrastructure,South,30,1843,30031300,38208624.0,1001043.3333333334,Highly Diversified,0.0,Low Cross-Sell Opportunity,480,Maintain product engagement and monitor purchasing breadth
+C0309,Government,Manufacturing,West,30,1823,29869120,38065991.6,995637.3333333334,Highly Diversified,0.0,Low Cross-Sell Opportunity,481,Maintain product engagement and monitor purchasing breadth
+C0479,Retail,Construction,West,30,1748,29592950,37716131.0,986431.6666666666,Highly Diversified,0.0,Low Cross-Sell Opportunity,482,Maintain product engagement and monitor purchasing breadth
+C0334,Corporate,Mining,South,30,1866,29449120,37526956.6,981637.3333333334,Highly Diversified,0.0,Low Cross-Sell Opportunity,483,Maintain product engagement and monitor purchasing breadth
+C0139,Government,Mining,West,30,1729,29295750,37337910.0,976525.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,484,Maintain product engagement and monitor purchasing breadth
+C0238,Corporate,Construction,South,30,1858,28891440,36717219.2,963048.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,485,Maintain product engagement and monitor purchasing breadth
+C0262,Corporate,Logistics,North,30,1739,28771050,36628894.0,959035.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,486,Maintain product engagement and monitor purchasing breadth
+C0007,Corporate,Manufacturing,West,30,1908,28648240,36509378.2,954941.3333333334,Highly Diversified,0.0,Low Cross-Sell Opportunity,487,Maintain product engagement and monitor purchasing breadth
+C0177,Dealer,Construction,West,30,2001,28125780,35762840.4,937526.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,488,Maintain product engagement and monitor purchasing breadth
+C0279,Dealer,Rental,West,30,1973,27795350,35292218.0,926511.6666666666,Highly Diversified,0.0,Low Cross-Sell Opportunity,489,Maintain product engagement and monitor purchasing breadth
+C0145,Retail,Construction,West,30,1817,27079080,34445949.4,902636.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,490,Maintain product engagement and monitor purchasing breadth
+C0061,Dealer,Construction,West,30,1352,26564250,33890240.0,885475.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,491,Maintain product engagement and monitor purchasing breadth
+C0303,Corporate,Mining,West,30,1711,25492220,32465859.6,849740.6666666666,Highly Diversified,0.0,Low Cross-Sell Opportunity,492,Maintain product engagement and monitor purchasing breadth
+C0183,Government,Mining,West,30,1812,25426200,32313901.0,847540.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,493,Maintain product engagement and monitor purchasing breadth
+C0353,Dealer,Manufacturing,North,30,1680,25154270,31979908.6,838475.6666666666,Highly Diversified,0.0,Low Cross-Sell Opportunity,494,Maintain product engagement and monitor purchasing breadth
+C0125,Government,Mining,West,30,1586,25077820,31904862.6,835927.3333333334,Highly Diversified,0.0,Low Cross-Sell Opportunity,495,Maintain product engagement and monitor purchasing breadth
+C0456,Corporate,Mining,North,30,1488,24747800,31514609.0,824926.6666666666,Highly Diversified,0.0,Low Cross-Sell Opportunity,496,Maintain product engagement and monitor purchasing breadth
+C0108,Corporate,Rental,North,30,1618,24485250,31126705.0,816175.0,Highly Diversified,0.0,Low Cross-Sell Opportunity,497,Maintain product engagement and monitor purchasing breadth
+C0292,Corporate,Rental,Central,30,1511,24356960,30979627.8,811898.6666666666,Highly Diversified,0.0,Low Cross-Sell Opportunity,498,Maintain product engagement and monitor purchasing breadth
+C0174,Government,Mining,West,30,1708,23386250,29793255.0,779541.6666666666,Highly Diversified,0.0,Low Cross-Sell Opportunity,499,Maintain product engagement and monitor purchasing breadth
+C0347,Retail,Mining,North,30,1322,17721530,22536660.4,590717.6666666666,Highly Diversified,0.0,Low Cross-Sell Opportunity,500,Maintain product engagement and monitor purchasing breadth

@@ -1,0 +1,501 @@
+customer_id,customer_type,industry_segment,city,state,region,branch_id,credit_limit,current_balance,customer_rating,delivered_order_count,total_revenue,average_order_value,revenue_contribution_pct,regional_revenue_rank,regional_customer_value_class,regional_priority_flag
+C0001,Retail,Construction,Kolkata,West Bengal,East,KOL001,45896,43284,4,34,55019747.4,1618227.8647058823,0.1880760246799968,53,Medium Regional Value,Medium Value Customer
+C0002,Fleet Owner,Manufacturing,Hyderabad,Telangana,South,HYD001,531506,426735,2,51,71712838.0,1406134.0784313725,0.24513862979968193,27,High Regional Value,High Value - Review
+C0003,Government,Logistics,Surat,Gujarat,West,DEL001,1306933,733495,2,38,44728031.8,1177053.4684210524,0.15289547499275652,131,Low Regional Value,Low Value Customer
+C0004,Fleet Owner,Logistics,Chennai,Tamil Nadu,South,CHN001,506336,250255,3,46,60843242.8,1322679.1913043477,0.20798269303693379,62,Medium Regional Value,Medium Value Customer
+C0005,Dealer,Construction,Ahmedabad,Gujarat,West,AHM001,380783,183927,2,45,74996415.4,1666587.008888889,0.2563630031075296,12,High Regional Value,High Value - Review
+C0006,Government,Construction,Ahmedabad,Gujarat,West,AHM001,514827,303122,3,40,65482805.4,1637070.135,0.22384228039050985,37,High Regional Value,High Value Customer
+C0007,Corporate,Manufacturing,Pune,Maharashtra,West,PUN001,859003,565081,4,31,36509378.2,1177721.8774193549,0.1248013493314318,143,Low Regional Value,Low Value Customer
+C0008,Corporate,Logistics,Mumbai,Maharashtra,West,HYD001,941092,934117,1,34,48368868.0,1422613.7647058824,0.16534107918698854,107,Low Regional Value,Low Value Customer
+C0009,Corporate,Rental,Ahmedabad,Gujarat,West,AHM001,273316,231149,4,34,68836324.8,2024597.788235294,0.23530573900753812,25,High Regional Value,High Value Customer
+C0010,Dealer,Construction,Chennai,Tamil Nadu,South,CHN001,277717,105625,5,46,63051038.4,1370674.7478260868,0.21552968187959773,48,High Regional Value,High Value Customer
+C0011,Retail,Infrastructure,Vadodara,Gujarat,West,KOL001,29130,4200,4,41,57187490.8,1394816.8487804877,0.1954861016153609,72,Medium Regional Value,Medium Value Customer
+C0012,Fleet Owner,Logistics,Chennai,Tamil Nadu,South,CHN001,785687,30771,1,37,53404468.4,1443364.0108108108,0.18255445710789484,102,Medium Regional Value,Medium Value Customer
+C0013,Dealer,Construction,Surat,Gujarat,West,AHM001,425862,104029,2,44,76843692.4,1746447.5545454547,0.2626776179696616,11,High Regional Value,High Value - Review
+C0014,Fleet Owner,Construction,Kolkata,West Bengal,East,KOL001,611397,522294,2,27,41523847.6,1537920.2814814816,0.14194249437840978,83,Low Regional Value,Low Value Customer
+C0015,Government,Rental,Pune,Maharashtra,West,PUN001,790010,18560,2,34,61028370.8,1794952.0823529412,0.20861552288334922,53,Medium Regional Value,Medium Value Customer
+C0016,Government,Rental,Ranchi,Jharkhand,East,DEL001,1033243,195540,4,35,70872336.2,2024923.8914285714,0.24226551160575174,13,High Regional Value,High Value Customer
+C0017,Government,Infrastructure,Chennai,Tamil Nadu,South,CHN001,1155360,986611,1,39,59194497.0,1517807.6153846155,0.20234672467238546,74,Medium Regional Value,Medium Value Customer
+C0018,Retail,Construction,Ahmedabad,Gujarat,West,AHM001,49835,49052,2,31,49286607.8,1589890.5741935482,0.16847822287504943,103,Low Regional Value,Low Value Customer
+C0019,Government,Logistics,Kolkata,West Bengal,East,KOL001,678408,196058,5,37,42528118.4,1149408.6054054054,0.14537543016404736,81,Low Regional Value,Low Value Customer
+C0020,Dealer,Logistics,Kolkata,West Bengal,East,KOL001,492285,202707,3,37,42586254.6,1150979.854054054,0.145574159273189,80,Low Regional Value,Low Value Customer
+C0021,Corporate,Mining,Hyderabad,Telangana,South,HYD001,856624,298508,5,45,59956738.4,1332371.9644444445,0.20495232246468859,70,Medium Regional Value,Medium Value Customer
+C0022,Retail,Infrastructure,Chennai,Tamil Nadu,South,CHN001,47651,19003,3,38,56759064.0,1493659.5789473683,0.19402159453893672,87,Medium Regional Value,Medium Value Customer
+C0023,Corporate,Mining,Chennai,Tamil Nadu,South,CHN001,274997,248491,2,32,58217713.2,1819303.5375,0.1990077487090785,78,Medium Regional Value,Medium Value Customer
+C0024,Dealer,Rental,Visakhapatnam,Andhra Pradesh,South,CHN001,266822,86814,4,44,60658309.2,1378597.9363636365,0.20735052771518317,63,Medium Regional Value,Medium Value Customer
+C0025,Corporate,Infrastructure,Pune,Maharashtra,West,PUN001,738335,521844,2,38,70349653.0,1851306.6578947369,0.24047880441299901,20,High Regional Value,High Value - Review
+C0026,Fleet Owner,Mining,Jaipur,Rajasthan,North,HYD001,172621,3188,5,36,60554977.0,1682082.6944444445,0.20699730345815145,40,Medium Regional Value,Medium Value Customer
+C0027,Fleet Owner,Logistics,Surat,Gujarat,West,AHM001,119712,6429,1,39,54309976.4,1392563.4974358974,0.18564978838445997,85,Medium Regional Value,Medium Value Customer
+C0028,Retail,Infrastructure,Bengaluru,Karnataka,South,PUN001,45173,40670,3,29,38208624.0,1317538.7586206896,0.13060994370200832,154,Low Regional Value,Low Value Customer
+C0029,Dealer,Construction,Visakhapatnam,Andhra Pradesh,South,KOL001,403949,343364,1,38,58176890.6,1530970.805263158,0.19886820331514415,79,Medium Regional Value,Medium Value Customer
+C0030,Corporate,Construction,Hyderabad,Telangana,South,HYD001,501072,443634,5,32,58263942.8,1820748.2125,0.19916577704983648,77,Medium Regional Value,Medium Value Customer
+C0031,Government,Mining,Kolkata,West Bengal,East,KOL001,661950,182414,4,34,50500841.8,1485318.8764705881,0.17262888358403136,63,Low Regional Value,Low Value Customer
+C0032,Government,Logistics,Ahmedabad,Gujarat,West,AHM001,1262598,420821,5,44,71991263.0,1636165.0681818181,0.24609038021014504,18,High Regional Value,High Value Customer
+C0033,Government,Mining,Chennai,Tamil Nadu,South,CHN001,655166,632856,5,30,49354094.2,1645136.4733333334,0.16870891411649933,119,Low Regional Value,Low Value Customer
+C0034,Government,Construction,Pune,Maharashtra,West,PUN001,1033298,786303,5,32,42477752.2,1327429.75625,0.14520326153147678,134,Low Regional Value,Low Value Customer
+C0035,Dealer,Infrastructure,Indore,Madhya Pradesh,Central,CHN001,333126,90011,4,38,53340276.800000004,1403691.494736842,0.18233502860237888,9,Medium Regional Value,Medium Value Customer
+C0036,Fleet Owner,Construction,Kolkata,West Bengal,East,KOL001,630421,352613,2,31,48929201.8,1578361.3483870968,0.16725648880949504,69,Low Regional Value,Low Value Customer
+C0037,Corporate,Construction,Pune,Maharashtra,West,PUN001,330103,123365,1,36,45505928.0,1264053.5555555555,0.15555458616326104,128,Low Regional Value,Low Value Customer
+C0038,Fleet Owner,Rental,Jaipur,Rajasthan,North,DEL001,348040,45014,1,36,57808311.2,1605786.4222222222,0.1976082748057134,46,Medium Regional Value,Medium Value Customer
+C0039,Fleet Owner,Rental,Hyderabad,Telangana,South,HYD001,343809,119070,4,38,62706510.2,1650171.3210526316,0.21435196847108154,50,Medium Regional Value,Medium Value Customer
+C0040,Government,Logistics,Delhi,Delhi,North,DEL001,842290,805196,2,43,53757984.6,1250185.688372093,0.1837628945271473,56,Medium Regional Value,Medium Value Customer
+C0041,Government,Rental,Hyderabad,Telangana,South,HYD001,592802,392894,5,38,68044561.6,1790646.3578947366,0.23259922576127934,34,High Regional Value,High Value Customer
+C0042,Fleet Owner,Rental,Chennai,Tamil Nadu,South,CHN001,731768,472737,4,41,73882726.2,1802017.712195122,0.252556038383714,22,High Regional Value,High Value Customer
+C0043,Corporate,Construction,Chennai,Tamil Nadu,South,CHN001,387054,12548,4,36,47644638.800000004,1323462.188888889,0.16286541989500908,125,Low Regional Value,Low Value Customer
+C0044,Government,Mining,Mumbai,Maharashtra,West,KOL001,888707,663201,4,34,49589458.0,1458513.4705882352,0.16951346684437274,102,Low Regional Value,Low Value Customer
+C0045,Corporate,Rental,Kolkata,West Bengal,East,KOL001,495460,268927,4,42,75275350.60000001,1792270.2523809527,0.25731649755340413,8,High Regional Value,High Value Customer
+C0046,Retail,Rental,Ahmedabad,Gujarat,West,AHM001,14743,2408,3,46,87078641.0,1893013.9347826086,0.29766411893444245,3,High Regional Value,High Value Customer
+C0047,Corporate,Rental,Pune,Maharashtra,West,PUN001,425838,329681,5,30,57880918.0,1929363.9333333333,0.19785646929867348,66,Medium Regional Value,Medium Value Customer
+C0048,Dealer,Mining,Hyderabad,Telangana,South,HYD001,424609,267683,3,31,49413459.2,1593982.5548387098,0.16891184367784312,118,Low Regional Value,Low Value Customer
+C0049,Dealer,Manufacturing,Coimbatore,Tamil Nadu,South,KOL001,116389,95867,5,39,82316206.2,2110671.953846154,0.2813845130236804,7,High Regional Value,High Value Customer
+C0050,Dealer,Mining,Kolkata,West Bengal,East,KOL001,442160,257973,3,27,56151044.8,2079668.3259259257,0.19194318016102715,50,Medium Regional Value,Medium Value Customer
+C0051,Retail,Infrastructure,Jaipur,Rajasthan,North,AHM001,40307,777,4,36,59420710.4,1650575.288888889,0.20311999825163396,42,Medium Regional Value,Medium Value Customer
+C0052,Government,Manufacturing,Guwahati,Assam,North East,PUN001,1297924,695848,2,35,56612172.2,1617490.6342857145,0.1935194689002776,7,Medium Regional Value,Medium Value Customer
+C0053,Fleet Owner,Construction,Delhi,Delhi,North,DEL001,406292,44107,5,27,45016037.4,1667260.6444444444,0.15387997512031576,74,Low Regional Value,Low Value Customer
+C0054,Fleet Owner,Manufacturing,Chennai,Tamil Nadu,South,CHN001,225508,149649,2,37,63424926.8,1714187.2108108108,0.21680775833885033,46,High Regional Value,High Value - Review
+C0055,Dealer,Construction,Delhi,Delhi,North,DEL001,394514,195008,1,32,59056095.2,1845502.975,0.2018736207127596,43,Medium Regional Value,Medium Value Customer
+C0056,Dealer,Mining,Delhi,Delhi,North,DEL001,209877,191295,4,36,60885469.8,1691263.0499999998,0.20812703914300412,39,Medium Regional Value,Medium Value Customer
+C0057,Retail,Logistics,Kolkata,West Bengal,East,KOL001,23289,4934,3,32,49701788.6,1553180.89375,0.16989745066284298,67,Low Regional Value,Low Value Customer
+C0058,Retail,Infrastructure,Pune,Maharashtra,West,PUN001,43362,11601,3,40,56831525.0,1420788.125,0.1942692906383982,73,Medium Regional Value,Medium Value Customer
+C0059,Retail,Manufacturing,Hyderabad,Telangana,South,HYD001,37344,31278,3,32,56859509.4,1776859.66875,0.1943649507414298,86,Medium Regional Value,Medium Value Customer
+C0060,Dealer,Mining,Hyderabad,Telangana,South,HYD001,350950,129725,1,44,77163010.4,1753704.781818182,0.2637691544249665,16,High Regional Value,High Value - Review
+C0061,Dealer,Construction,Surat,Gujarat,West,HYD001,362037,167542,4,29,33890240.0,1168628.9655172413,0.11584825296109982,147,Low Regional Value,Low Value Customer
+C0062,Dealer,Construction,Hyderabad,Telangana,South,HYD001,231418,123783,1,36,78963082.0,2193418.9444444445,0.2699224053333369,13,High Regional Value,High Value - Review
+C0063,Retail,Rental,Delhi,Delhi,North,DEL001,26508,25298,5,38,72065344.4,1896456.4315789475,0.2463436153824812,22,High Regional Value,High Value Customer
+C0064,Corporate,Manufacturing,Chandigarh,Punjab,North,KOL001,577111,313205,3,32,57893888.0,1809184.0,0.19790080512636032,44,Medium Regional Value,Medium Value Customer
+C0065,Corporate,Mining,Vadodara,Gujarat,West,AHM001,464475,104333,4,36,59751563.6,1659765.6555555556,0.20425096590505243,60,Medium Regional Value,Medium Value Customer
+C0066,Retail,Manufacturing,Indore,Madhya Pradesh,Central,HYD001,37976,5882,1,32,54037060.800000004,1688658.1500000001,0.18471687095850403,7,Medium Regional Value,Medium Value Customer
+C0067,Retail,Manufacturing,Ahmedabad,Gujarat,West,AHM001,34526,17171,3,31,55575120.6,1792745.8258064517,0.1899744773012062,79,Medium Regional Value,Medium Value Customer
+C0068,Retail,Mining,Delhi,Delhi,North,DEL001,27354,3730,1,39,57372766.4,1471096.5743589744,0.1961194360082811,47,Medium Regional Value,Medium Value Customer
+C0069,Dealer,Logistics,Delhi,Delhi,North,DEL001,413414,288815,2,47,77108269.8,1640601.485106383,0.26358203262010343,10,High Regional Value,High Value - Review
+C0070,Government,Logistics,Ahmedabad,Gujarat,West,AHM001,549454,84153,3,41,76883391.4,1875204.668292683,0.2628133225204202,10,High Regional Value,High Value Customer
+C0071,Corporate,Rental,Jaipur,Rajasthan,North,KOL001,735733,268163,2,42,72076738.0,1716112.8095238095,0.24638256254411053,21,High Regional Value,High Value - Review
+C0072,Government,Logistics,Pune,Maharashtra,West,PUN001,1196826,1192089,3,26,55369763.0,2129606.269230769,0.1892724958696116,81,Medium Regional Value,Medium Value Customer
+C0073,Corporate,Rental,Jaipur,Rajasthan,North,CHN001,740385,319020,4,32,56970903.6,1780340.7375,0.19474573362936448,51,Medium Regional Value,Medium Value Customer
+C0074,Fleet Owner,Infrastructure,Bhubaneswar,Odisha,East,KOL001,259356,11327,5,39,50426138.6,1292977.912820513,0.17237352288990224,64,Low Regional Value,Low Value Customer
+C0075,Retail,Mining,Hyderabad,Telangana,South,HYD001,27094,12134,5,33,50186853.4,1520813.7393939393,0.17155556549628545,116,Low Regional Value,Low Value Customer
+C0076,Government,Mining,Chennai,Tamil Nadu,South,CHN001,1094151,760549,2,45,80026994.2,1778377.648888889,0.2735592155085968,10,High Regional Value,High Value - Review
+C0077,Corporate,Mining,Delhi,Delhi,North,DEL001,715444,620984,1,34,57865492.6,1701926.2529411765,0.19780374008692325,45,Medium Regional Value,Medium Value Customer
+C0078,Dealer,Rental,Visakhapatnam,Andhra Pradesh,South,HYD001,166204,71681,1,31,42565724.6,1373087.8903225807,0.14550398081964927,143,Low Regional Value,Low Value Customer
+C0079,Retail,Rental,Delhi,Delhi,North,DEL001,28890,10702,5,31,47175266.2,1521782.7806451614,0.16126094628556253,69,Low Regional Value,Low Value Customer
+C0080,Retail,Mining,Chennai,Tamil Nadu,South,CHN001,35201,14738,1,42,56541324.2,1346222.004761905,0.19327728657799872,90,Medium Regional Value,Medium Value Customer
+C0081,Corporate,Rental,Surat,Gujarat,West,HYD001,208371,44941,1,37,56355210.0,1523113.7837837837,0.19264108556787743,75,Medium Regional Value,Medium Value Customer
+C0082,Fleet Owner,Manufacturing,Ahmedabad,Gujarat,West,AHM001,432697,104648,3,46,77500928.6,1684802.7956521737,0.26492427262754514,8,High Regional Value,High Value Customer
+C0083,Dealer,Infrastructure,Delhi,Delhi,North,DEL001,214857,64003,2,45,89672688.2,1992726.4044444445,0.30653144581730407,4,High Regional Value,High Value - Review
+C0084,Corporate,Logistics,Pune,Maharashtra,West,PUN001,522422,458160,3,39,73317161.4,1879927.2153846156,0.25062274744165236,15,High Regional Value,High Value Customer
+C0085,Retail,Mining,Chennai,Tamil Nadu,South,CHN001,18145,7599,4,37,60463527.2,1634149.3837837838,0.20668469724575397,64,Medium Regional Value,Medium Value Customer
+C0086,Retail,Construction,Ahmedabad,Gujarat,West,AHM001,32547,1770,3,29,59655682.6,2057092.5034482758,0.2039232123588349,61,Medium Regional Value,Medium Value Customer
+C0087,Government,Logistics,Hyderabad,Telangana,South,HYD001,831098,749605,3,39,50370513.4,1291551.6256410256,0.17218337722434743,113,Low Regional Value,Low Value Customer
+C0088,Corporate,Infrastructure,Pune,Maharashtra,West,PUN001,516553,272170,1,36,57330201.8,1592505.6055555556,0.19597393587172293,71,Medium Regional Value,Medium Value Customer
+C0089,Corporate,Rental,Surat,Gujarat,West,AHM001,930006,400599,4,37,47111014.0,1273270.6486486488,0.16104131062883933,116,Low Regional Value,Low Value Customer
+C0090,Government,Infrastructure,Delhi,Delhi,North,DEL001,1009986,294069,1,43,51915256.6,1207331.5488372094,0.1774638296789048,60,Low Regional Value,Low Value Customer
+C0091,Retail,Construction,Coimbatore,Tamil Nadu,South,PUN001,48920,2123,2,30,39090471.8,1303015.7266666666,0.13362439644732935,152,Low Regional Value,Low Value Customer
+C0092,Fleet Owner,Logistics,Ahmedabad,Gujarat,West,AHM001,532908,244201,2,36,46760586.8,1298905.1888888888,0.15984343245181695,121,Low Regional Value,Low Value Customer
+C0093,Dealer,Manufacturing,Chennai,Tamil Nadu,South,CHN001,447924,287318,2,36,57944235.8,1609562.1055555556,0.19807291086153464,81,Medium Regional Value,Medium Value Customer
+C0094,Corporate,Logistics,Pune,Maharashtra,West,PUN001,206889,166058,4,31,46343009.2,1494935.7806451614,0.15841601159449378,123,Low Regional Value,Low Value Customer
+C0095,Fleet Owner,Logistics,Nagpur,Maharashtra,West,AHM001,207876,37163,3,29,55610118.2,1917590.2827586208,0.19009411088355413,78,Medium Regional Value,Medium Value Customer
+C0096,Corporate,Construction,Chennai,Tamil Nadu,South,CHN001,401903,200385,3,34,51986858.4,1529025.2470588235,0.1777085887434281,107,Medium Regional Value,Medium Value Customer
+C0097,Corporate,Construction,Pune,Maharashtra,West,PUN001,351063,253,5,26,47499351.2,1826898.1230769232,0.16236877795216914,114,Low Regional Value,Low Value Customer
+C0098,Corporate,Mining,Kolkata,West Bengal,East,KOL001,270655,236169,1,35,56088743.0,1602535.5142857144,0.19173021162830706,51,Medium Regional Value,Medium Value Customer
+C0099,Fleet Owner,Rental,Visakhapatnam,Andhra Pradesh,South,PUN001,601814,62089,4,44,56469516.0,1283398.0909090908,0.19303182196876958,91,Medium Regional Value,Medium Value Customer
+C0100,Government,Construction,Chandigarh,Punjab,North,KOL001,504876,56494,3,38,48373950.0,1272998.6842105263,0.16535845117436745,67,Low Regional Value,Low Value Customer
+C0101,Corporate,Logistics,Chennai,Tamil Nadu,South,CHN001,242777,155072,5,38,62629058.6,1648133.1210526316,0.21408721282022034,51,Medium Regional Value,Medium Value Customer
+C0102,Government,Infrastructure,Patna,Bihar,East,KOL001,1221840,547151,4,34,71864051.2,2113648.564705882,0.24565552743878563,11,High Regional Value,High Value Customer
+C0103,Dealer,Infrastructure,Coimbatore,Tamil Nadu,South,KOL001,167168,77679,4,40,75304293.2,1882607.33,0.25741543310671244,17,High Regional Value,High Value Customer
+C0104,Fleet Owner,Infrastructure,Visakhapatnam,Andhra Pradesh,South,KOL001,318210,213321,1,34,42120081.4,1238825.9235294117,0.14398062229035014,144,Low Regional Value,Low Value Customer
+C0105,Government,Logistics,Delhi,Delhi,North,DEL001,1275897,228879,4,41,57202879.8,1395192.1902439024,0.19553870639965332,48,Medium Regional Value,Medium Value Customer
+C0106,Dealer,Infrastructure,Indore,Madhya Pradesh,Central,PUN001,223855,212350,2,39,58339475.8,1495883.9948717947,0.19942397427980332,5,Medium Regional Value,Medium Value Customer
+C0107,Fleet Owner,Construction,Delhi,Delhi,North,DEL001,412425,152905,1,49,85196217.6,1738698.318367347,0.2912293618414536,6,High Regional Value,High Value - Review
+C0108,Corporate,Rental,Jaipur,Rajasthan,North,AHM001,676059,420507,4,24,31126705.0,1296946.0416666667,0.10640155970230752,81,Low Regional Value,Low Value Customer
+C0109,Retail,Mining,Chennai,Tamil Nadu,South,CHN001,47756,11043,1,44,69451949.0,1578453.3863636365,0.2374101498364545,33,High Regional Value,High Value - Review
+C0110,Dealer,Logistics,Indore,Madhya Pradesh,Central,CHN001,107758,68824,5,42,90807306.0,2162078.714285714,0.3104099515436892,1,High Regional Value,High Value Customer
+C0111,Corporate,Construction,Chennai,Tamil Nadu,South,CHN001,332240,18012,3,33,55916542.2,1694440.6727272728,0.19114157130476545,92,Medium Regional Value,Medium Value Customer
+C0112,Fleet Owner,Mining,Hyderabad,Telangana,South,HYD001,389833,373500,2,33,46248326.6,1401464.4424242424,0.15809235458304108,131,Low Regional Value,Low Value Customer
+C0113,Corporate,Logistics,Chennai,Tamil Nadu,South,CHN001,965190,17579,2,41,78713400.0,1919839.024390244,0.2690689081761662,14,High Regional Value,High Value - Review
+C0114,Retail,Mining,Kolkata,West Bengal,East,KOL001,42285,6186,4,33,48515792.8,1470175.5393939393,0.16584331763076052,70,Low Regional Value,Low Value Customer
+C0115,Fleet Owner,Mining,Visakhapatnam,Andhra Pradesh,South,KOL001,666395,628219,5,29,44357793.6,1529579.0896551725,0.15162987614631987,137,Low Regional Value,Low Value Customer
+C0116,Dealer,Construction,Delhi,Delhi,North,DEL001,480944,340796,1,35,64081942.6,1830912.6457142858,0.21905365959531356,33,High Regional Value,High Value - Review
+C0117,Government,Mining,Guwahati,Assam,North East,AHM001,856033,284259,3,31,38951277.4,1256492.8193548387,0.13314858311399302,11,Low Regional Value,Low Value Customer
+C0118,Retail,Rental,Chennai,Tamil Nadu,South,CHN001,40651,8239,4,32,41835680.2,1307365.00625,0.14300844321578352,146,Low Regional Value,Low Value Customer
+C0119,Government,Manufacturing,Surat,Gujarat,West,DEL001,1079453,124485,4,51,67143205.2,1316533.4352941178,0.22951808605157809,32,High Regional Value,High Value Customer
+C0120,Fleet Owner,Construction,Bengaluru,Karnataka,South,HYD001,416429,90596,5,34,50313583.0,1479811.2647058824,0.1719887699456626,114,Low Regional Value,Low Value Customer
+C0121,Government,Construction,Pune,Maharashtra,West,PUN001,690836,432165,2,34,47029566.199999996,1383222.5352941174,0.16076289462064564,119,Low Regional Value,Low Value Customer
+C0122,Dealer,Rental,Guwahati,Assam,North East,KOL001,351917,4859,2,31,48051119.4,1550036.1096774193,0.16425490746938384,8,Low Regional Value,Low Value Customer
+C0123,Corporate,Infrastructure,Kolkata,West Bengal,East,KOL001,574353,239735,3,36,70019319.0,1944981.0833333333,0.2393496115600227,15,High Regional Value,High Value Customer
+C0124,Dealer,Construction,Pune,Maharashtra,West,PUN001,211359,167163,3,42,54870405.8,1306438.2333333332,0.18756552479996005,82,Medium Regional Value,Medium Value Customer
+C0125,Government,Mining,Surat,Gujarat,West,HYD001,557944,302970,4,30,31904862.6,1063495.4200000002,0.10906156442603927,150,Low Regional Value,Low Value Customer
+C0126,Dealer,Manufacturing,Hyderabad,Telangana,South,HYD001,473103,222292,4,33,64059034.8,1941182.8727272726,0.21897535302064244,44,High Regional Value,High Value Customer
+C0127,Government,Construction,Kolkata,West Bengal,East,KOL001,1030275,912169,1,28,48960650.8,1748594.6714285712,0.16736399208204114,68,Low Regional Value,Low Value Customer
+C0128,Retail,Mining,Ahmedabad,Gujarat,West,AHM001,39121,16592,1,33,69172996.2,2096151.4000000001,0.23645659522785312,24,High Regional Value,High Value - Review
+C0129,Corporate,Mining,Delhi,Delhi,North,DEL001,902420,248703,5,36,76393252.6,2122034.794444444,0.26113786304629283,12,High Regional Value,High Value Customer
+C0130,Government,Mining,Pune,Maharashtra,West,PUN001,1196003,228242,1,39,60017312.8,1538905.4564102564,0.20515938616250148,58,Medium Regional Value,Medium Value Customer
+C0131,Corporate,Rental,Hyderabad,Telangana,South,HYD001,215893,70818,2,32,59008448.8,1844014.025,0.2017107492724899,75,Medium Regional Value,Medium Value Customer
+C0132,Corporate,Construction,Indore,Madhya Pradesh,Central,PUN001,604969,495963,2,37,49004629.4,1324449.4432432433,0.16751432574676806,10,Low Regional Value,Low Value Customer
+C0133,Government,Mining,Visakhapatnam,Andhra Pradesh,South,AHM001,1144779,737832,1,29,51247358.0,1767150.2758620689,0.17518072734722573,110,Low Regional Value,Low Value Customer
+C0134,Fleet Owner,Infrastructure,Ahmedabad,Gujarat,West,AHM001,369606,281323,5,48,85243025.2,1775896.3583333334,0.29138936598085485,4,High Regional Value,High Value Customer
+C0135,Retail,Rental,Bengaluru,Karnataka,South,DEL001,21372,14639,2,35,62791824.6,1794052.1314285714,0.21464360182016448,49,Medium Regional Value,Medium Value Customer
+C0136,Dealer,Mining,Ahmedabad,Gujarat,West,AHM001,425042,208808,3,37,45774176.2,1237139.8972972974,0.1564715488442559,127,Low Regional Value,Low Value Customer
+C0137,Dealer,Infrastructure,Chennai,Tamil Nadu,South,CHN001,257346,114551,5,21,42806442.6,2038402.0285714287,0.14632683600616578,142,Low Regional Value,Low Value Customer
+C0138,Corporate,Mining,Hyderabad,Telangana,South,HYD001,251506,244794,5,34,62582651.4,1840666.217647059,0.213928577382855,52,Medium Regional Value,Medium Value Customer
+C0139,Government,Mining,Ahmedabad,Gujarat,West,AHM001,825908,770729,2,29,37337910.0,1287514.1379310344,0.12763355003442817,142,Low Regional Value,Low Value Customer
+C0140,Retail,Logistics,Pune,Maharashtra,West,PUN001,14401,7550,3,37,60136648.6,1625314.827027027,0.20556731611359405,57,Medium Regional Value,Medium Value Customer
+C0141,Corporate,Rental,Ahmedabad,Gujarat,West,AHM001,742629,317916,4,36,66220737.2,1839464.9222222222,0.2263647797836815,35,High Regional Value,High Value Customer
+C0142,Retail,Manufacturing,Ahmedabad,Gujarat,West,AHM001,34620,17030,1,45,84828043.0,1885067.6222222222,0.2899708170747405,5,High Regional Value,High Value - Review
+C0143,Corporate,Infrastructure,Chennai,Tamil Nadu,South,CHN001,915191,549312,3,27,44644618.2,1653504.3777777778,0.15261033921817377,135,Low Regional Value,Low Value Customer
+C0144,Fleet Owner,Construction,Mumbai,Maharashtra,West,AHM001,578368,178549,2,25,39589546.2,1583581.8480000002,0.13533040081134712,138,Low Regional Value,Low Value Customer
+C0145,Retail,Construction,Pune,Maharashtra,West,PUN001,49522,23237,3,33,34445949.4,1043816.6484848484,0.11774785482712559,146,Low Regional Value,Low Value Customer
+C0146,Retail,Mining,Ahmedabad,Gujarat,West,AHM001,21418,15972,3,30,61245406.2,2041513.54,0.20935742296787843,52,Medium Regional Value,Medium Value Customer
+C0147,Dealer,Rental,Delhi,Delhi,North,DEL001,363902,291538,5,30,44007572.2,1466919.0733333335,0.15043270146300128,76,Low Regional Value,Low Value Customer
+C0148,Government,Construction,Coimbatore,Tamil Nadu,South,AHM001,1202629,329492,4,35,54884128.4,1568117.9542857143,0.18761243326788724,97,Medium Regional Value,Medium Value Customer
+C0149,Government,Manufacturing,Surat,Gujarat,West,AHM001,1227707,1171024,3,38,65235052.4,1716711.9052631578,0.22299537720493573,39,High Regional Value,High Value Customer
+C0150,Fleet Owner,Manufacturing,Ahmedabad,Gujarat,West,AHM001,197605,127111,5,30,41608958.8,1386965.2933333332,0.14223343312146447,136,Low Regional Value,Low Value Customer
+C0151,Government,Infrastructure,Kolkata,West Bengal,East,KOL001,1163117,166210,5,27,39556960.6,1465072.6148148149,0.1352190122572475,85,Low Regional Value,Low Value Customer
+C0152,Corporate,Manufacturing,Chennai,Tamil Nadu,South,CHN001,227415,135210,2,40,62249804.2,1556245.105,0.212790793565951,55,Medium Regional Value,Medium Value Customer
+C0153,Retail,Rental,Patna,Bihar,East,PUN001,32014,27630,4,56,108200489.6,1932151.5999999999,0.3698657102958153,1,High Regional Value,High Value Customer
+C0154,Fleet Owner,Logistics,Delhi,Delhi,North,DEL001,305293,279000,5,45,74171590.6,1648257.5688888887,0.2535434741788767,16,High Regional Value,High Value Customer
+C0155,Fleet Owner,Mining,Kolkata,West Bengal,East,KOL001,393453,245382,5,31,41576324.2,1341171.748387097,0.14212187706886398,82,Low Regional Value,Low Value Customer
+C0156,Government,Manufacturing,Chennai,Tamil Nadu,South,CHN001,1032586,173071,5,33,67117436.4,2033861.7090909092,0.22942999961545657,37,High Regional Value,High Value Customer
+C0157,Dealer,Infrastructure,Chandigarh,Punjab,North,PUN001,315705,130064,1,34,55572804.4,1634494.2470588235,0.1899665597496188,54,Medium Regional Value,Medium Value Customer
+C0158,Corporate,Infrastructure,Kolkata,West Bengal,East,KOL001,516521,146194,2,36,58875735.2,1635437.088888889,0.2012570894959826,42,Medium Regional Value,Medium Value Customer
+C0159,Dealer,Construction,Chennai,Tamil Nadu,South,CHN001,332595,67368,3,34,49934036.2,1468648.1235294119,0.17069135116972664,117,Low Regional Value,Low Value Customer
+C0160,Retail,Rental,Ahmedabad,Gujarat,West,AHM001,45628,6888,2,44,70762190.2,1608231.5954545455,0.2418889954857522,19,High Regional Value,High Value - Review
+C0161,Dealer,Mining,Ahmedabad,Gujarat,West,AHM001,404774,243701,4,37,60837361.2,1644253.0054054055,0.20796258774748716,55,Medium Regional Value,Medium Value Customer
+C0162,Retail,Mining,Kolkata,West Bengal,East,KOL001,21937,2738,4,28,62233145.6,2222612.342857143,0.21273384886131688,31,Medium Regional Value,Medium Value Customer
+C0163,Dealer,Logistics,Ahmedabad,Gujarat,West,AHM001,492794,476585,5,38,46377823.0,1220469.0263157894,0.1585350168865465,122,Low Regional Value,Low Value Customer
+C0164,Government,Construction,Delhi,Delhi,North,DEL001,1454565,1435105,4,36,45625652.8,1267379.2444444443,0.1559638458473505,73,Low Regional Value,Low Value Customer
+C0165,Fleet Owner,Manufacturing,Delhi,Delhi,North,DEL001,364580,79115,4,50,79168592.4,1583371.8480000002,0.2706249090867874,8,High Regional Value,High Value Customer
+C0166,Fleet Owner,Manufacturing,Ahmedabad,Gujarat,West,AHM001,735924,576566,2,32,69504759.6,2172023.7375,0.23759067425138417,21,High Regional Value,High Value - Review
+C0167,Retail,Mining,Vadodara,Gujarat,West,HYD001,34602,32450,4,31,50383279.4,1625267.0774193548,0.17222701571133664,100,Low Regional Value,Low Value Customer
+C0168,Dealer,Infrastructure,Pune,Maharashtra,West,PUN001,238781,189804,1,34,64028787.0,1883199.6176470588,0.21887195585420402,45,High Regional Value,High Value - Review
+C0169,Fleet Owner,Construction,Ahmedabad,Gujarat,West,AHM001,693290,315019,4,40,69450095.6,1736252.39,0.2374038142911164,22,High Regional Value,High Value Customer
+C0170,Government,Construction,Bengaluru,Karnataka,South,HYD001,1285103,765704,4,27,38882680.4,1440099.274074074,0.1329140954677452,153,Low Regional Value,Low Value Customer
+C0171,Fleet Owner,Construction,Chennai,Tamil Nadu,South,CHN001,687863,7826,3,30,55348450.2,1844948.34,0.18919964154206156,94,Medium Regional Value,Medium Value Customer
+C0172,Dealer,Manufacturing,Bengaluru,Karnataka,South,CHN001,425290,197440,1,37,57323600.2,1549286.491891892,0.19595136937981417,85,Medium Regional Value,Medium Value Customer
+C0173,Retail,Logistics,Chennai,Tamil Nadu,South,CHN001,22198,3421,1,31,57999777.4,1870960.5612903226,0.1982627707541369,80,Medium Regional Value,Medium Value Customer
+C0174,Government,Mining,Ahmedabad,Gujarat,West,AHM001,1316961,123349,2,29,29793255.0,1027353.6206896552,0.10184337855897603,151,Low Regional Value,Low Value Customer
+C0175,Fleet Owner,Rental,Kolkata,West Bengal,East,KOL001,222980,209069,5,36,59434888.8,1650969.1333333333,0.20316846479745315,39,Medium Regional Value,Medium Value Customer
+C0176,Dealer,Logistics,Chennai,Tamil Nadu,South,CHN001,397313,332315,2,42,66901722.800000004,1592898.161904762,0.22869261788844752,38,High Regional Value,High Value - Review
+C0177,Dealer,Construction,Pune,Maharashtra,West,PUN001,100097,9054,1,28,35762840.4,1277244.3,0.1222494317321636,144,Low Regional Value,Low Value Customer
+C0178,Dealer,Logistics,Kolkata,West Bengal,East,KOL001,178736,135022,1,54,89493824.6,1657293.048148148,0.30592002979964433,3,High Regional Value,High Value - Review
+C0179,Government,Infrastructure,Chennai,Tamil Nadu,South,CHN001,630635,213290,3,32,43222736.0,1350710.5,0.14774986703543072,140,Low Regional Value,Low Value Customer
+C0180,Fleet Owner,Logistics,Hyderabad,Telangana,South,HYD001,747590,313557,3,27,30093537.8,1114575.474074074,0.10286984629051961,158,Low Regional Value,Low Value Customer
+C0181,Government,Construction,Vadodara,Gujarat,West,PUN001,766249,475114,5,36,53087081.0,1474641.138888889,0.18146952009352532,92,Medium Regional Value,Medium Value Customer
+C0182,Dealer,Infrastructure,Kolkata,West Bengal,East,KOL001,298476,237412,5,29,40856091.0,1408830.7241379311,0.13965987745054959,84,Low Regional Value,Low Value Customer
+C0183,Government,Mining,Ahmedabad,Gujarat,West,AHM001,1225772,731224,4,27,32313901.0,1196811.148148148,0.11045979542216096,149,Low Regional Value,Low Value Customer
+C0184,Retail,Rental,Chennai,Tamil Nadu,South,CHN001,47652,2668,3,29,61479056.4,2119967.4620689657,0.21015611803389184,59,Medium Regional Value,Medium Value Customer
+C0185,Dealer,Logistics,Pune,Maharashtra,West,PUN001,210864,117546,5,33,47500335.2,1439404.0969696972,0.16237214159553412,113,Low Regional Value,Low Value Customer
+C0186,Fleet Owner,Infrastructure,Kolkata,West Bengal,East,KOL001,198216,73566,3,40,70676837.0,1766920.925,0.24159722950520324,14,High Regional Value,High Value Customer
+C0187,Retail,Rental,Jaipur,Rajasthan,North,CHN001,42105,40074,1,30,46901016.0,1563367.2,0.16032346674737594,72,Low Regional Value,Low Value Customer
+C0188,Corporate,Logistics,Pune,Maharashtra,West,PUN001,261082,245715,4,39,54387524.8,1394551.917948718,0.18591487493031886,84,Medium Regional Value,Medium Value Customer
+C0189,Government,Manufacturing,Visakhapatnam,Andhra Pradesh,South,KOL001,1168432,250217,4,35,61121980.8,1746342.3085714285,0.20893551338680064,61,Medium Regional Value,Medium Value Customer
+C0190,Retail,Manufacturing,Jaipur,Rajasthan,North,CHN001,49811,31087,1,35,56351528.4,1610043.6685714286,0.19262850061928746,53,Medium Regional Value,Medium Value Customer
+C0191,Corporate,Manufacturing,Visakhapatnam,Andhra Pradesh,South,KOL001,615994,569076,2,29,65787839.8,2268546.1999999997,0.22488499069096918,40,High Regional Value,High Value - Review
+C0192,Fleet Owner,Logistics,Patna,Bihar,East,DEL001,476705,231421,2,40,69269688.4,1731742.2100000002,0.23678712172884472,19,High Regional Value,High Value - Review
+C0193,Dealer,Infrastructure,Vadodara,Gujarat,West,CHN001,495310,178591,4,38,67795348.0,1784088.105263158,0.23174732975304374,29,High Regional Value,High Value Customer
+C0194,Fleet Owner,Construction,Visakhapatnam,Andhra Pradesh,South,CHN001,380469,167449,1,33,48202752.8,1460689.4787878788,0.16477324149359115,122,Low Regional Value,Low Value Customer
+C0195,Fleet Owner,Logistics,Kolkata,West Bengal,East,KOL001,389773,149217,2,31,56797913.6,1832190.7612903225,0.19415439555445735,48,Medium Regional Value,Medium Value Customer
+C0196,Fleet Owner,Rental,Guwahati,Assam,North East,KOL001,318408,222601,3,48,71291851.6,1485246.9083333332,0.24369955651603495,1,High Regional Value,High Value Customer
+C0197,Government,Manufacturing,Ahmedabad,Gujarat,West,AHM001,1385304,201035,2,47,77464617.6,1648183.3531914891,0.26480014940170576,9,High Regional Value,High Value - Review
+C0198,Government,Mining,Ahmedabad,Gujarat,West,AHM001,1493816,273190,2,36,63577917.2,1766053.2555555557,0.2173307310460315,48,High Regional Value,High Value - Review
+C0199,Government,Mining,Ahmedabad,Gujarat,West,AHM001,666213,506832,3,33,48930073.4,1482729.4969696968,0.16725946823180898,104,Low Regional Value,Low Value Customer
+C0200,Retail,Logistics,Ranchi,Jharkhand,East,DEL001,12816,11546,2,47,84469856.6,1797230.9914893615,0.288746415339184,5,High Regional Value,High Value - Review
+C0201,Dealer,Infrastructure,Chennai,Tamil Nadu,South,CHN001,468119,467851,4,47,80475593.0,1712246.6595744682,0.2750926772740032,9,High Regional Value,High Value Customer
+C0202,Government,Logistics,Chandigarh,Punjab,North,AHM001,1402130,532821,4,28,50389917.2,1799639.9000000001,0.17224970594703592,64,Low Regional Value,Low Value Customer
+C0203,Government,Manufacturing,Ahmedabad,Gujarat,West,AHM001,1101577,142383,1,35,53777085.6,1536488.1600000001,0.183828188177467,88,Medium Regional Value,Medium Value Customer
+C0204,Retail,Rental,Coimbatore,Tamil Nadu,South,HYD001,20298,7042,2,31,39880662.0,1286472.9677419355,0.13632553264987562,150,Low Regional Value,Low Value Customer
+C0205,Retail,Construction,Lucknow,Uttar Pradesh,North,CHN001,45755,34257,2,33,51965845.0,1574722.5757575757,0.17763675786590194,59,Low Regional Value,Low Value Customer
+C0206,Retail,Construction,Pune,Maharashtra,West,PUN001,29675,24913,3,40,89674652.2,2241866.305,0.3065381594306871,1,High Regional Value,High Value Customer
+C0207,Corporate,Rental,Kolkata,West Bengal,East,KOL001,463240,70498,1,45,87068691.0,1934859.8,0.29763010648374977,4,High Regional Value,High Value - Review
+C0208,Fleet Owner,Logistics,Jaipur,Rajasthan,North,KOL001,737567,537907,4,30,46904115.8,1563470.5266666666,0.160334062907643,71,Low Regional Value,Low Value Customer
+C0209,Corporate,Infrastructure,Ranchi,Jharkhand,East,CHN001,834417,590973,5,44,65445658.4,1487401.3272727272,0.22371529943514498,23,High Regional Value,High Value Customer
+C0210,Retail,Infrastructure,Pune,Maharashtra,West,PUN001,11789,1490,2,30,53509817.8,1783660.5933333333,0.18291457683382478,89,Medium Regional Value,Medium Value Customer
+C0211,Fleet Owner,Manufacturing,Hyderabad,Telangana,South,HYD001,323531,251580,1,42,59389779.2,1414042.361904762,0.20301426499385855,72,Medium Regional Value,Medium Value Customer
+C0212,Retail,Infrastructure,Guwahati,Assam,North East,PUN001,24433,23440,4,31,45262151.0,1460069.3870967743,0.15472127428461696,9,Low Regional Value,Low Value Customer
+C0213,Fleet Owner,Rental,Mumbai,Maharashtra,West,PUN001,192184,161419,4,30,66248437.6,2208281.2533333334,0.2264594690790752,34,High Regional Value,High Value Customer
+C0214,Corporate,Rental,Pune,Maharashtra,West,PUN001,583212,447435,4,31,50612095.0,1632648.2258064516,0.1730091844864839,98,Low Regional Value,Low Value Customer
+C0215,Corporate,Rental,Chennai,Tamil Nadu,South,CHN001,647280,121034,5,49,73940925.4,1508998.4775510204,0.2527549828480711,20,High Regional Value,High Value Customer
+C0216,Government,Mining,Kolkata,West Bengal,East,KOL001,1360073,1039649,1,39,62009378.6,1589984.0666666667,0.21196893790110102,32,Medium Regional Value,Medium Value Customer
+C0217,Corporate,Infrastructure,Delhi,Delhi,North,DEL001,777454,325192,5,36,61360958.2,1704471.0611111112,0.20975241861636487,38,Medium Regional Value,Medium Value Customer
+C0218,Fleet Owner,Construction,Nagpur,Maharashtra,West,PUN001,635931,456436,5,36,44324901.0,1231247.25,0.15151743816283703,132,Low Regional Value,Low Value Customer
+C0219,Government,Manufacturing,Pune,Maharashtra,West,PUN001,1072558,185057,2,39,59976015.0,1537846.5384615385,0.20501821637494208,59,Medium Regional Value,Medium Value Customer
+C0220,Government,Infrastructure,Indore,Madhya Pradesh,Central,KOL001,1116238,93524,2,43,53467975.0,1243441.2790697673,0.182771544052735,8,Medium Regional Value,Medium Value Customer
+C0221,Dealer,Logistics,Delhi,Delhi,North,DEL001,244567,24830,5,44,82001959.0,1863680.8863636365,0.2803103102703828,7,High Regional Value,High Value Customer
+C0222,Fleet Owner,Logistics,Delhi,Delhi,North,DEL001,501339,373637,5,41,57177978.6,1394584.843902439,0.1954535857124987,49,Medium Regional Value,Medium Value Customer
+C0223,Corporate,Logistics,Ahmedabad,Gujarat,West,AHM001,681810,584759,1,33,54079206.6,1638763.8363636364,0.18486093949562998,86,Medium Regional Value,Medium Value Customer
+C0224,Retail,Manufacturing,Kolkata,West Bengal,East,KOL001,11280,3718,3,36,54050072.4,1501390.9,0.1847613489889998,57,Medium Regional Value,Medium Value Customer
+C0225,Fleet Owner,Logistics,Delhi,Delhi,North,DEL001,431855,283635,5,48,69254158.0,1442794.9583333333,0.23673403359173542,24,High Regional Value,High Value Customer
+C0226,Dealer,Logistics,Ahmedabad,Gujarat,West,AHM001,400547,150512,5,26,47025541.0,1808674.6538461538,0.16074913513154734,120,Low Regional Value,Low Value Customer
+C0227,Fleet Owner,Infrastructure,Kolkata,West Bengal,East,KOL001,282190,210075,1,34,57926647.6,1703724.9294117647,0.198012788471055,44,Medium Regional Value,Medium Value Customer
+C0228,Government,Construction,Chennai,Tamil Nadu,South,CHN001,1026411,1025544,3,34,61132479.4,1798014.0999999999,0.20897140113703602,60,Medium Regional Value,Medium Value Customer
+C0229,Government,Mining,Patna,Bihar,East,HYD001,543686,47129,3,28,44419985.8,1586428.0642857142,0.15184247002933182,77,Low Regional Value,Low Value Customer
+C0230,Dealer,Infrastructure,Delhi,Delhi,North,DEL001,271689,146416,5,38,62086661.8,1633859.5210526315,0.212233117904053,37,Medium Regional Value,Medium Value Customer
+C0231,Government,Infrastructure,Pune,Maharashtra,West,PUN001,903218,113383,4,32,51646725.4,1613960.16875,0.17654589960860884,95,Low Regional Value,Low Value Customer
+C0232,Government,Mining,Chennai,Tamil Nadu,South,CHN001,1074153,787541,1,37,57544368.0,1555253.189189189,0.19670602806444032,84,Medium Regional Value,Medium Value Customer
+C0233,Government,Logistics,Kolkata,West Bengal,East,KOL001,1146772,306186,3,28,49889164.0,1781755.857142857,0.1705379628792772,65,Low Regional Value,Low Value Customer
+C0234,Corporate,Infrastructure,Surat,Gujarat,West,CHN001,418214,52828,2,29,72295152.4,2492936.2896551727,0.24712917651502214,17,High Regional Value,High Value - Review
+C0235,Fleet Owner,Mining,Bhubaneswar,Odisha,East,CHN001,417861,387266,5,38,60478356.4,1591535.694736842,0.206735388445132,37,Medium Regional Value,Medium Value Customer
+C0236,Corporate,Mining,Mumbai,Maharashtra,West,KOL001,413027,200865,1,41,57861179.0,1411248.268292683,0.19778899474950537,67,Medium Regional Value,Medium Value Customer
+C0237,Dealer,Infrastructure,Coimbatore,Tamil Nadu,South,HYD001,488722,178656,5,44,74820743.4,1700471.4409090912,0.25576249705345083,19,High Regional Value,High Value Customer
+C0238,Corporate,Construction,Chennai,Tamil Nadu,South,CHN001,299342,40569,5,30,36717219.2,1223907.3066666669,0.12551181986051888,157,Low Regional Value,Low Value Customer
+C0239,Government,Logistics,Chennai,Tamil Nadu,South,CHN001,1361502,566279,4,32,44962159.0,1405067.46875,0.1536958006054012,134,Low Regional Value,Low Value Customer
+C0240,Corporate,Manufacturing,Hyderabad,Telangana,South,HYD001,695741,453727,1,46,92835709.4,2018167.595652174,0.3173437174358858,1,High Regional Value,High Value - Review
+C0241,Government,Construction,Ahmedabad,Gujarat,West,AHM001,973243,304765,1,39,73396972.0,1881973.641025641,0.2508955669489139,14,High Regional Value,High Value - Review
+C0242,Government,Construction,Chennai,Tamil Nadu,South,CHN001,568255,46526,3,47,73225487.6,1557989.0978723404,0.25030937552182214,23,High Regional Value,High Value Customer
+C0243,Government,Construction,Delhi,Delhi,North,DEL001,1271592,1157997,3,28,42431751.6,1515419.7,0.1450460159898352,77,Low Regional Value,Low Value Customer
+C0244,Government,Logistics,Lucknow,Uttar Pradesh,North,KOL001,1113022,736516,3,44,77550764.4,1762517.3727272728,0.26509462817430196,9,High Regional Value,High Value Customer
+C0245,Dealer,Logistics,Chennai,Tamil Nadu,South,CHN001,204820,16669,2,33,56554752.6,1713780.3818181818,0.19332318937125315,89,Medium Regional Value,Medium Value Customer
+C0246,Retail,Manufacturing,Delhi,Delhi,North,DEL001,31917,9359,2,35,77080113.6,2202288.96,0.26348578524681765,11,High Regional Value,High Value - Review
+C0247,Corporate,Logistics,Bhubaneswar,Odisha,East,AHM001,294502,230829,2,39,67759559.60000001,1737424.6051282054,0.23162499294999153,21,High Regional Value,High Value - Review
+C0248,Fleet Owner,Rental,Pune,Maharashtra,West,PUN001,635210,15754,5,30,45208412.0,1506947.0666666667,0.15453757628584575,129,Low Regional Value,Low Value Customer
+C0249,Corporate,Construction,Ahmedabad,Gujarat,West,AHM001,817572,617949,4,35,63391180.8,1811176.5942857142,0.2166924031467825,49,High Regional Value,High Value Customer
+C0250,Government,Infrastructure,Patna,Bihar,East,PUN001,886619,515833,2,43,74416923.4,1730626.1255813956,0.25438210430584113,9,High Regional Value,High Value - Review
+C0251,Dealer,Mining,Chandigarh,Punjab,North,CHN001,325375,94574,4,36,60544705.8,1681797.3833333333,0.20696219303769367,41,Medium Regional Value,Medium Value Customer
+C0252,Retail,Construction,Chennai,Tamil Nadu,South,CHN001,19663,14945,2,34,45321304.6,1332979.5470588235,0.15492348120957117,133,Low Regional Value,Low Value Customer
+C0253,Retail,Rental,Pune,Maharashtra,West,PUN001,43197,9387,2,39,72946151.6,1870414.1435897434,0.24935451100657702,16,High Regional Value,High Value - Review
+C0254,Dealer,Mining,Ahmedabad,Gujarat,West,AHM001,194781,184262,5,48,89556446.6,1865759.3041666665,0.30613409288379273,2,High Regional Value,High Value Customer
+C0255,Retail,Infrastructure,Chennai,Tamil Nadu,South,CHN001,22302,1943,4,45,71144094.2,1580979.8711111112,0.24319447196508243,28,High Regional Value,High Value Customer
+C0256,Corporate,Infrastructure,Guwahati,Assam,North East,PUN001,930018,60762,4,30,58794725.4,1959824.18,0.20098017071928675,4,Medium Regional Value,Medium Value Customer
+C0257,Corporate,Logistics,Delhi,Delhi,North,DEL001,443957,112531,1,43,76189558.0,1771850.1860465116,0.2604415663087186,13,High Regional Value,High Value - Review
+C0258,Corporate,Mining,Chennai,Tamil Nadu,South,CHN001,299133,238697,2,28,62250978.4,2223249.2285714285,0.21279480737696638,54,Medium Regional Value,Medium Value Customer
+C0259,Fleet Owner,Logistics,Coimbatore,Tamil Nadu,South,CHN001,326836,313932,1,33,60202150.6,1824307.593939394,0.2057912240075912,68,Medium Regional Value,Medium Value Customer
+C0260,Dealer,Logistics,Hyderabad,Telangana,South,HYD001,127019,19787,5,32,55524668.6,1735145.89375,0.18980201537534216,93,Medium Regional Value,Medium Value Customer
+C0261,Dealer,Manufacturing,Delhi,Delhi,North,DEL001,164597,79881,5,33,62999554.6,1909077.412121212,0.21535369291387196,34,High Regional Value,High Value Customer
+C0262,Corporate,Logistics,Delhi,Delhi,North,DEL001,476523,424625,4,26,36628894.0,1408803.6153846155,0.1252098945831399,78,Low Regional Value,Low Value Customer
+C0263,Government,Rental,Chennai,Tamil Nadu,South,CHN001,907695,500438,3,35,61677496.4,1762214.1828571428,0.21083445277916366,57,Medium Regional Value,Medium Value Customer
+C0264,Retail,Infrastructure,Pune,Maharashtra,West,PUN001,35955,35640,4,36,67321592.8,1870044.2444444443,0.23012787494094336,31,High Regional Value,High Value Customer
+C0265,Retail,Mining,Ahmedabad,Gujarat,West,AHM001,18495,6434,1,29,47931619.6,1652814.4689655174,0.16384641691106377,112,Low Regional Value,Low Value Customer
+C0266,Fleet Owner,Rental,Bengaluru,Karnataka,South,CHN001,196336,54211,4,35,50717014.0,1449057.5428571429,0.17336783296027533,112,Low Regional Value,Low Value Customer
+C0267,Fleet Owner,Infrastructure,Hyderabad,Telangana,South,HYD001,253236,64982,3,29,46440405.199999996,1601393.2827586206,0.15874894392089212,129,Low Regional Value,Low Value Customer
+C0268,Government,Mining,Pune,Maharashtra,West,PUN001,1168032,365651,3,32,63709103.6,1990909.4875,0.21777917033864957,46,High Regional Value,High Value Customer
+C0269,Government,Mining,Chennai,Tamil Nadu,South,CHN001,1060345,618,1,41,61642030.4,1503464.156097561,0.21071321804788062,58,Medium Regional Value,Medium Value Customer
+C0270,Corporate,Manufacturing,Delhi,Delhi,North,DEL001,711134,413227,2,43,68114112.8,1584049.134883721,0.23283697518445687,27,High Regional Value,High Value - Review
+C0271,Corporate,Infrastructure,Hyderabad,Telangana,South,HYD001,399363,217846,5,24,37757473.800000004,1573228.0750000002,0.12906776039221024,155,Low Regional Value,Low Value Customer
+C0272,Government,Construction,Delhi,Delhi,North,DEL001,963398,856171,1,39,75550922.6,1937203.1435897434,0.2582584954491108,15,High Regional Value,High Value - Review
+C0273,Dealer,Manufacturing,Kolkata,West Bengal,East,KOL001,181148,167313,1,37,60830001.0,1644054.0810810812,0.20793742810531748,36,Medium Regional Value,Medium Value Customer
+C0274,Dealer,Mining,Jaipur,Rajasthan,North,CHN001,463140,127143,3,39,54639688.2,1401017.6461538463,0.1867768543483086,55,Medium Regional Value,Medium Value Customer
+C0275,Fleet Owner,Construction,Vadodara,Gujarat,West,AHM001,651275,262408,5,45,64270295.0,1428228.7777777778,0.21969751152675546,43,High Regional Value,High Value Customer
+C0276,Dealer,Manufacturing,Indore,Madhya Pradesh,Central,KOL001,337657,283507,3,44,67350598.6,1530695.4227272726,0.23022702653313445,2,High Regional Value,High Value Customer
+C0277,Dealer,Logistics,Surat,Gujarat,West,PUN001,430878,302093,1,36,43668914.6,1213025.4055555556,0.14927505574222744,133,Low Regional Value,Low Value Customer
+C0278,Fleet Owner,Logistics,Ahmedabad,Gujarat,West,AHM001,312177,50733,4,38,47107787.2,1239678.6105263159,0.16103028033980463,117,Low Regional Value,Low Value Customer
+C0279,Dealer,Rental,Nagpur,Maharashtra,West,CHN001,105022,100986,4,26,35292218.0,1357393.0,0.12064068588544313,145,Low Regional Value,Low Value Customer
+C0280,Corporate,Construction,Pune,Maharashtra,West,PUN001,252022,26117,4,42,59078520.8,1406631.4476190475,0.20195027896544837,64,Medium Regional Value,Medium Value Customer
+C0281,Government,Logistics,Visakhapatnam,Andhra Pradesh,South,KOL001,1088567,176124,4,26,46282268.6,1780087.2538461538,0.1582083797691125,130,Low Regional Value,Low Value Customer
+C0282,Government,Logistics,Kolkata,West Bengal,East,KOL001,1271863,328689,2,44,69381309.6,1576847.9454545453,0.2371686805792223,18,High Regional Value,High Value - Review
+C0283,Retail,Logistics,Jaipur,Rajasthan,North,CHN001,11744,10481,1,31,44490975.8,1435192.7677419353,0.1520851377554296,75,Low Regional Value,Low Value Customer
+C0284,Corporate,Manufacturing,Kolkata,West Bengal,East,KOL001,948858,247207,1,41,69641823.4,1698581.0585365854,0.23805920447643458,17,High Regional Value,High Value - Review
+C0285,Government,Infrastructure,Pune,Maharashtra,West,PUN001,1359546,764093,4,47,54036327.8,1149709.1021276596,0.18471436531766403,87,Medium Regional Value,Medium Value Customer
+C0286,Dealer,Construction,Chennai,Tamil Nadu,South,CHN001,168144,158029,2,36,60273490.2,1674263.6166666667,0.20603508678421786,67,Medium Regional Value,Medium Value Customer
+C0287,Dealer,Manufacturing,Chennai,Tamil Nadu,South,CHN001,208477,196469,4,36,55179366.6,1532760.1833333333,0.18862165685784646,95,Medium Regional Value,Medium Value Customer
+C0288,Dealer,Infrastructure,Delhi,Delhi,North,DEL001,279745,19656,3,55,97218403.8,1767607.3418181818,0.33232524278071646,1,High Regional Value,High Value Customer
+C0289,Corporate,Logistics,Hyderabad,Telangana,South,HYD001,600072,472573,2,35,50221149.2,1434889.9771428572,0.17167280008990013,115,Low Regional Value,Low Value Customer
+C0290,Corporate,Construction,Ahmedabad,Gujarat,West,AHM001,506218,233450,3,40,57372288.2,1434307.205,0.19611780135964582,70,Medium Regional Value,Medium Value Customer
+C0291,Retail,Construction,Hyderabad,Telangana,South,HYD001,34183,21689,2,46,79064597.0,1718795.5869565217,0.2702694177888211,12,High Regional Value,High Value - Review
+C0292,Corporate,Rental,Indore,Madhya Pradesh,Central,AHM001,627266,572987,2,27,30979627.8,1147393.6222222222,0.1058988003040144,11,Low Regional Value,Low Value Customer
+C0293,Dealer,Logistics,Pune,Maharashtra,West,PUN001,304956,217813,3,36,66815451.4,1855984.7611111111,0.22839771319109192,33,High Regional Value,High Value Customer
+C0294,Government,Infrastructure,Hyderabad,Telangana,South,HYD001,826435,405286,4,45,79772077.0,1772712.822222222,0.27268782267485664,11,High Regional Value,High Value Customer
+C0295,Corporate,Mining,Kolkata,West Bengal,East,KOL001,789992,559779,5,38,65390145.6,1720793.305263158,0.2235255379906412,24,High Regional Value,High Value Customer
+C0296,Corporate,Manufacturing,Kolkata,West Bengal,East,KOL001,361733,33627,2,40,56944680.8,1423617.02,0.19465609526835703,47,Medium Regional Value,Medium Value Customer
+C0297,Fleet Owner,Rental,Chennai,Tamil Nadu,South,CHN001,333899,295884,3,34,73065015.6,2148971.0470588235,0.24976082818638948,24,High Regional Value,High Value Customer
+C0298,Fleet Owner,Construction,Chennai,Tamil Nadu,South,CHN001,229813,62180,4,33,46771231.0,1417310.0303030303,0.15987981791188358,128,Low Regional Value,Low Value Customer
+C0299,Retail,Logistics,Bengaluru,Karnataka,South,CHN001,36717,4107,1,34,48095055.8,1414560.4647058824,0.16440509688029978,123,Low Regional Value,Low Value Customer
+C0300,Dealer,Mining,Delhi,Delhi,North,DEL001,121112,70050,1,40,72746205.0,1818655.125,0.24867102619515308,20,High Regional Value,High Value - Review
+C0301,Dealer,Mining,Ranchi,Jharkhand,East,KOL001,388632,1511,5,46,63821535.6,1387424.6869565218,0.21816350077646657,28,High Regional Value,High Value Customer
+C0302,Fleet Owner,Mining,Ahmedabad,Gujarat,West,AHM001,698314,539240,1,36,63607092.0,1766863.6666666667,0.21743046033713392,47,High Regional Value,High Value - Review
+C0303,Corporate,Mining,Ahmedabad,Gujarat,West,AHM001,323564,38655,3,27,32465859.599999998,1202439.2444444443,0.11097924108948037,148,Low Regional Value,Low Value Customer
+C0304,Dealer,Construction,Delhi,Delhi,North,DEL001,177177,155235,5,48,86460648.4,1801263.5083333335,0.2955516121167602,5,High Regional Value,High Value Customer
+C0305,Fleet Owner,Logistics,Delhi,Delhi,North,DEL001,702965,105968,3,31,48238808.800000004,1556090.6064516131,0.16489649304355852,68,Low Regional Value,Low Value Customer
+C0306,Fleet Owner,Manufacturing,Kolkata,West Bengal,East,KOL001,126541,117140,1,42,69813587.0,1662228.261904762,0.23864635030314776,16,High Regional Value,High Value - Review
+C0307,Dealer,Manufacturing,Ahmedabad,Gujarat,West,AHM001,302503,100600,1,42,73655534.6,1753703.2047619047,0.2517794209874536,13,High Regional Value,High Value - Review
+C0308,Retail,Mining,Delhi,Delhi,North,DEL001,23387,13502,3,33,50359329.6,1526040.290909091,0.17214514722976887,65,Low Regional Value,Low Value Customer
+C0309,Government,Manufacturing,Ahmedabad,Gujarat,West,AHM001,618080,43088,4,31,38065991.6,1227935.2129032258,0.13012237812691504,140,Low Regional Value,Low Value Customer
+C0310,Government,Infrastructure,Patna,Bihar,East,CHN001,735405,630621,4,39,59059490.6,1514345.912820513,0.20188522733337083,41,Medium Regional Value,Medium Value Customer
+C0311,Government,Infrastructure,Chandigarh,Punjab,North,DEL001,1148922,76276,4,41,69331648.2,1691015.8097560976,0.23699892119039526,23,High Regional Value,High Value Customer
+C0312,Government,Construction,Vadodara,Gujarat,West,PUN001,673691,616166,4,37,65437706.6,1768586.664864865,0.2236881175049522,38,High Regional Value,High Value Customer
+C0313,Corporate,Mining,Ahmedabad,Gujarat,West,AHM001,821603,658403,1,30,48205237.4,1606841.2466666666,0.16478173469308774,109,Low Regional Value,Low Value Customer
+C0314,Retail,Logistics,Kolkata,West Bengal,East,KOL001,10952,8769,1,36,58625243.800000004,1628478.9944444445,0.200400825537044,43,Medium Regional Value,Medium Value Customer
+C0315,Dealer,Rental,Surat,Gujarat,West,AHM001,407774,313009,4,40,61457629.4,1536440.7349999999,0.21008287333228465,51,Medium Regional Value,Medium Value Customer
+C0316,Dealer,Manufacturing,Kolkata,West Bengal,East,KOL001,254996,128290,4,33,45390754.0,1375477.393939394,0.15516088264606723,74,Low Regional Value,Low Value Customer
+C0317,Corporate,Manufacturing,Coimbatore,Tamil Nadu,South,HYD001,228417,52279,3,32,43291415.2,1352856.725,0.1479846356689596,139,Low Regional Value,Low Value Customer
+C0318,Corporate,Logistics,Delhi,Delhi,North,DEL001,973000,403649,3,36,62202116.0,1727836.5555555555,0.212627779239205,36,Medium Regional Value,Medium Value Customer
+C0319,Dealer,Mining,Bengaluru,Karnataka,South,KOL001,396406,88680,5,33,60426895.0,1831118.0303030303,0.20655947605014946,65,Medium Regional Value,Medium Value Customer
+C0320,Retail,Construction,Delhi,Delhi,North,DEL001,16859,8363,1,34,53574056.6,1575707.5470588235,0.1831341666848355,57,Medium Regional Value,Medium Value Customer
+C0321,Retail,Logistics,Hyderabad,Telangana,South,HYD001,33291,18767,2,38,54558976.4,1435762.5368421052,0.18650095423596516,100,Medium Regional Value,Medium Value Customer
+C0322,Government,Construction,Ahmedabad,Gujarat,West,AHM001,975830,17767,2,28,40996678.0,1464167.0714285714,0.1401404511596482,137,Low Regional Value,Low Value Customer
+C0323,Government,Manufacturing,Ahmedabad,Gujarat,West,AHM001,717071,189451,2,36,50291498.8,1396986.0777777778,0.17191327871314124,101,Low Regional Value,Low Value Customer
+C0324,Corporate,Mining,Chennai,Tamil Nadu,South,CHN001,384819,150633,5,35,52335374.8,1495296.4228571428,0.17889993516258276,105,Medium Regional Value,Medium Value Customer
+C0325,Corporate,Rental,Kolkata,West Bengal,East,KOL001,811959,363532,3,30,52920013.4,1764000.4466666665,0.18089842677620438,60,Medium Regional Value,Medium Value Customer
+C0326,Government,Mining,Kolkata,West Bengal,East,KOL001,1143072,798334,4,42,66177447.4,1575653.5095238094,0.22621680066931002,22,High Regional Value,High Value Customer
+C0327,Retail,Mining,Vadodara,Gujarat,West,AHM001,37994,22697,1,43,61017008.6,1419000.2,0.20857668305749394,54,Medium Regional Value,Medium Value Customer
+C0328,Government,Rental,Kolkata,West Bengal,East,KOL001,1177052,510972,4,37,62646507.6,1693148.854054054,0.214146859378224,30,Medium Regional Value,Medium Value Customer
+C0329,Dealer,Infrastructure,Indore,Madhya Pradesh,Central,PUN001,434298,220404,1,36,64307436.8,1786317.6888888888,0.21982447470676927,3,High Regional Value,High Value - Review
+C0330,Retail,Infrastructure,Bhubaneswar,Odisha,East,KOL001,41835,63,3,38,54285450.6,1428564.4894736842,0.18556595094092249,56,Medium Regional Value,Medium Value Customer
+C0331,Dealer,Logistics,Delhi,Delhi,North,DEL001,270715,127398,2,42,67826105.8,1614907.280952381,0.23185247027122613,28,High Regional Value,High Value - Review
+C0332,Corporate,Mining,Bengaluru,Karnataka,South,HYD001,545215,438695,1,35,44566684.4,1273333.8399999999,0.15234393524533027,136,Low Regional Value,Low Value Customer
+C0333,Corporate,Mining,Hyderabad,Telangana,South,HYD001,523789,445736,3,39,63220923.0,1621049.3076923077,0.216110404651552,47,High Regional Value,High Value Customer
+C0334,Corporate,Mining,Chennai,Tamil Nadu,South,CHN001,681229,142562,5,33,37526956.6,1137180.5030303032,0.12827977497524404,156,Low Regional Value,Low Value Customer
+C0335,Government,Infrastructure,Guwahati,Assam,North East,PUN001,989169,722277,5,38,60351028.0,1588184.9473684211,0.20630013709570716,3,Medium Regional Value,Medium Value Customer
+C0336,Government,Rental,Kolkata,West Bengal,East,KOL001,1317175,577628,5,33,39095696.4,1184718.0727272728,0.13364225588952924,86,Low Regional Value,Low Value Customer
+C0337,Corporate,Manufacturing,Delhi,Delhi,North,DEL001,713111,101691,2,34,73457151.8,2160504.464705882,0.25110128177104407,18,High Regional Value,High Value - Review
+C0338,Corporate,Rental,Ahmedabad,Gujarat,West,AHM001,849500,770295,4,33,52210070.0,1582123.3333333333,0.17847160115941135,94,Medium Regional Value,Medium Value Customer
+C0339,Fleet Owner,Logistics,Chennai,Tamil Nadu,South,CHN001,121781,76116,2,24,40193008.4,1674708.6833333333,0.1373932378286731,148,Low Regional Value,Low Value Customer
+C0340,Government,Mining,Hyderabad,Telangana,South,HYD001,610937,228953,3,35,63532821.6,1815223.4742857143,0.2171765790991515,45,High Regional Value,High Value Customer
+C0341,Fleet Owner,Mining,Delhi,Delhi,North,DEL001,303484,207197,5,36,66838579.4,1856627.2055555554,0.22847677248351606,30,High Regional Value,High Value Customer
+C0342,Dealer,Infrastructure,Delhi,Delhi,North,DEL001,104911,39842,5,36,72821567.8,2022821.3277777778,0.24892864162420456,19,High Regional Value,High Value Customer
+C0343,Corporate,Construction,Pune,Maharashtra,West,PUN001,994769,993939,1,40,68419201.6,1710480.0399999998,0.23387987144243552,27,High Regional Value,High Value - Review
+C0344,Fleet Owner,Mining,Mumbai,Maharashtra,West,CHN001,508890,439948,2,28,48151864.0,1719709.4285714286,0.16459928643823343,111,Low Regional Value,Low Value Customer
+C0345,Retail,Infrastructure,Pune,Maharashtra,West,PUN001,31532,26687,2,40,50444735.6,1261118.3900000001,0.17243709369849838,99,Low Regional Value,Low Value Customer
+C0346,Retail,Construction,Patna,Bihar,East,HYD001,30962,26154,3,39,54686860.8,1402227.2,0.18693810618062467,54,Medium Regional Value,Medium Value Customer
+C0347,Retail,Mining,Delhi,Delhi,North,DEL001,33854,16481,4,24,22536660.4,939027.5166666666,0.07703789453593722,82,Low Regional Value,Low Value Customer
+C0348,Retail,Logistics,Delhi,Delhi,North,DEL001,32723,11641,2,34,50897650.4,1496989.717647059,0.17398530900533082,62,Low Regional Value,Low Value Customer
+C0349,Corporate,Rental,Ahmedabad,Gujarat,West,AHM001,505172,308946,1,33,56613876.0,1715572.0,0.1935252930624374,74,Medium Regional Value,Medium Value Customer
+C0350,Dealer,Logistics,Guwahati,Assam,North East,AHM001,386127,5509,2,32,41227777.0,1288368.03125,0.1409304253649373,10,Low Regional Value,Low Value Customer
+C0351,Corporate,Rental,Bhubaneswar,Odisha,East,CHN001,483031,235148,1,34,44776790.6,1316964.4294117647,0.15306214899083032,75,Low Regional Value,Low Value Customer
+C0352,Corporate,Mining,Bengaluru,Karnataka,South,KOL001,729658,322307,1,30,40262666.2,1342088.8733333335,0.1376313516465485,147,Low Regional Value,Low Value Customer
+C0353,Dealer,Manufacturing,Delhi,Delhi,North,DEL001,275021,20542,1,27,31979908.6,1184441.0592592594,0.10931809692600737,79,Low Regional Value,Low Value Customer
+C0354,Corporate,Logistics,Hyderabad,Telangana,South,HYD001,261489,79839,2,37,56690884.8,1532186.0756756756,0.19378853507378432,88,Medium Regional Value,Medium Value Customer
+C0355,Government,Infrastructure,Hyderabad,Telangana,South,HYD001,917399,657955,4,32,58903770.4,1840742.825,0.2013529232505212,76,Medium Regional Value,Medium Value Customer
+C0356,Dealer,Mining,Bhubaneswar,Odisha,East,DEL001,277333,232370,2,45,79690881.0,1770908.4666666666,0.27241026740385743,7,High Regional Value,High Value - Review
+C0357,Corporate,Mining,Ahmedabad,Gujarat,West,AHM001,573217,397222,2,28,57734552.2,2061948.2928571429,0.19735614170514645,69,Medium Regional Value,Medium Value Customer
+C0358,Government,Infrastructure,Pune,Maharashtra,West,PUN001,1086668,719489,4,36,59405501.6,1650152.8222222223,0.20306800945162443,62,Medium Regional Value,Medium Value Customer
+C0359,Fleet Owner,Mining,Hyderabad,Telangana,South,HYD001,413735,90805,3,46,85617784.0,1861256.1739130435,0.2926704177604173,4,High Regional Value,High Value Customer
+C0360,Dealer,Construction,Ahmedabad,Gujarat,West,AHM001,433677,398778,5,31,54662201.0,1763296.8064516129,0.18685381067996223,83,Medium Regional Value,Medium Value Customer
+C0361,Government,Logistics,Hyderabad,Telangana,South,HYD001,623046,455127,5,32,52532617.8,1641644.30625,0.1795741781587612,104,Medium Regional Value,Medium Value Customer
+C0362,Corporate,Rental,Vadodara,Gujarat,West,AHM001,814512,9547,1,37,53495189.2,1445815.9243243244,0.18286457135279938,90,Medium Regional Value,Medium Value Customer
+C0363,Fleet Owner,Logistics,Visakhapatnam,Andhra Pradesh,South,AHM001,384777,224253,5,32,53560072.2,1673752.25625,0.1830863632963464,101,Medium Regional Value,Medium Value Customer
+C0364,Government,Infrastructure,Kolkata,West Bengal,East,KOL001,615436,402232,5,32,54408370.8,1700261.5875,0.1859861335782726,55,Medium Regional Value,Medium Value Customer
+C0365,Government,Manufacturing,Kolkata,West Bengal,East,KOL001,617154,362148,1,39,60336743.2,1547095.9794871795,0.20625130683885745,38,Medium Regional Value,Medium Value Customer
+C0366,Corporate,Logistics,Kolkata,West Bengal,East,KOL001,429866,27962,4,26,43711261.800000004,1681202.376923077,0.14941981273237545,78,Low Regional Value,Low Value Customer
+C0367,Fleet Owner,Logistics,Chennai,Tamil Nadu,South,CHN001,747445,501548,2,27,57592654.8,2133061.288888889,0.19687108860756666,83,Medium Regional Value,Medium Value Customer
+C0368,Fleet Owner,Construction,Chennai,Tamil Nadu,South,CHN001,234723,90488,1,31,51837532.8,1672178.4774193547,0.17719814355677946,108,Low Regional Value,Low Value Customer
+C0369,Government,Manufacturing,Pune,Maharashtra,West,PUN001,1482938,332815,1,40,64656844.2,1616421.105,0.22101886686397088,41,High Regional Value,High Value - Review
+C0370,Corporate,Infrastructure,Kolkata,West Bengal,East,KOL001,375748,373898,4,36,53881174.6,1496699.2944444446,0.18418399943175343,58,Medium Regional Value,Medium Value Customer
+C0371,Retail,Rental,Hyderabad,Telangana,South,HYD001,20028,141,3,47,82052808.0,1745804.425531915,0.28048412927593774,8,High Regional Value,High Value Customer
+C0372,Government,Logistics,Hyderabad,Telangana,South,HYD001,778200,681891,4,36,52822436.0,1467289.888888889,0.18056487436351898,103,Medium Regional Value,Medium Value Customer
+C0373,Corporate,Manufacturing,Hyderabad,Telangana,South,HYD001,502349,395823,3,38,69753317.8,1835613.6263157893,0.23844032988171188,31,High Regional Value,High Value Customer
+C0374,Corporate,Manufacturing,Pune,Maharashtra,West,PUN001,309830,45731,5,41,68389697.6,1668041.4048780487,0.233779016834874,28,High Regional Value,High Value Customer
+C0375,Fleet Owner,Mining,Surat,Gujarat,West,PUN001,243350,85892,1,42,81286325.6,1935388.7047619047,0.2778640343174649,7,High Regional Value,High Value - Review
+C0376,Retail,Construction,Delhi,Delhi,North,DEL001,37739,31805,5,29,52106248.6,1796767.1931034483,0.17811670465204005,58,Medium Regional Value,Medium Value Customer
+C0377,Dealer,Logistics,Nagpur,Maharashtra,West,CHN001,162271,99916,3,37,68519191.2,1851870.0324324325,0.23422166956703658,26,High Regional Value,High Value Customer
+C0378,Retail,Manufacturing,Delhi,Delhi,North,DEL001,45130,31976,4,35,50644577.199999996,1446987.92,0.17312021958456322,63,Low Regional Value,Low Value Customer
+C0379,Retail,Mining,Vadodara,Gujarat,West,CHN001,22642,8448,3,41,64194052.6,1565708.6,0.21943688932869604,44,High Regional Value,High Value Customer
+C0380,Fleet Owner,Manufacturing,Hyderabad,Telangana,South,HYD001,343972,250436,5,50,77887431.8,1557748.636,0.2662454707212699,15,High Regional Value,High Value Customer
+C0381,Corporate,Mining,Chennai,Tamil Nadu,South,CHN001,571520,435086,4,29,62038399.0,2139255.1379310344,0.21206813940100872,56,Medium Regional Value,Medium Value Customer
+C0382,Retail,Manufacturing,Hyderabad,Telangana,South,HYD001,41306,34329,3,33,42929317.0,1300888.393939394,0.14674686208369261,141,Low Regional Value,Low Value Customer
+C0383,Fleet Owner,Infrastructure,Lucknow,Uttar Pradesh,North,PUN001,316263,124305,5,41,68192154.0,1663223.268292683,0.23310374628666766,26,High Regional Value,High Value Customer
+C0384,Retail,Construction,Chennai,Tamil Nadu,South,CHN001,30122,4580,3,39,72157498.2,1850192.2615384615,0.24665862810395284,26,High Regional Value,High Value Customer
+C0385,Corporate,Manufacturing,Ahmedabad,Gujarat,West,AHM001,406137,295086,2,37,67435700.6,1822586.5027027025,0.23051793382749108,30,High Regional Value,High Value - Review
+C0386,Retail,Construction,Delhi,Delhi,North,DEL001,31717,8568,4,32,48819152.6,1525598.51875,0.16688030358449318,66,Low Regional Value,Low Value Customer
+C0387,Dealer,Infrastructure,Kolkata,West Bengal,East,KOL001,111501,60386,4,34,47133318.0,1386274.0588235294,0.16111755321177895,73,Low Regional Value,Low Value Customer
+C0388,Fleet Owner,Infrastructure,Pune,Maharashtra,West,PUN001,780698,677920,5,27,39389408.6,1458866.9851851852,0.13464626309760336,139,Low Regional Value,Low Value Customer
+C0389,Retail,Mining,Surat,Gujarat,West,AHM001,34342,20256,5,30,48796477.0,1626549.2333333334,0.16680279074761611,105,Low Regional Value,Low Value Customer
+C0390,Fleet Owner,Construction,Delhi,Delhi,North,DEL001,220350,71369,3,32,64132451.0,2004139.09375,0.21922631431537046,32,High Regional Value,High Value Customer
+C0391,Government,Construction,Ahmedabad,Gujarat,West,AHM001,624393,239160,3,33,47080496.4,1426681.709090909,0.16093699119514496,118,Low Regional Value,Low Value Customer
+C0392,Fleet Owner,Logistics,Kolkata,West Bengal,East,KOL001,465583,265735,2,31,38571708.8,1244248.6709677419,0.13185108981831584,87,Low Regional Value,Low Value Customer
+C0393,Retail,Rental,Kolkata,West Bengal,East,KOL001,41273,8717,3,39,51240981.8,1313871.3282051282,0.175158931348421,62,Low Regional Value,Low Value Customer
+C0394,Government,Construction,Hyderabad,Telangana,South,HYD001,685435,586864,4,40,69936379.2,1748409.48,0.23906609539339352,30,High Regional Value,High Value Customer
+C0395,Corporate,Manufacturing,Kolkata,West Bengal,East,KOL001,680072,209294,1,44,64514679.8,1466242.7227272727,0.22053290107047802,27,High Regional Value,High Value - Review
+C0396,Government,Manufacturing,Ahmedabad,Gujarat,West,AHM001,753812,37466,2,38,64506474.4,1697538.8,0.22050485225008468,42,High Regional Value,High Value - Review
+C0397,Fleet Owner,Mining,Ahmedabad,Gujarat,West,AHM001,685521,640617,3,36,56279511.4,1563319.7611111111,0.1923823222613443,76,Medium Regional Value,Medium Value Customer
+C0398,Government,Rental,Hyderabad,Telangana,South,HYD001,1207145,1061185,5,35,57843305.6,1652665.8742857142,0.1977278974493837,82,Medium Regional Value,Medium Value Customer
+C0399,Fleet Owner,Rental,Chennai,Tamil Nadu,South,CHN001,384480,12371,3,39,59287998.0,1520205.076923077,0.20266634257713076,73,Medium Regional Value,Medium Value Customer
+C0400,Government,Infrastructure,Delhi,Delhi,North,DEL001,1018688,799757,5,35,51694363.6,1476981.8171428572,0.17670874301851716,61,Low Regional Value,Low Value Customer
+C0401,Government,Logistics,Guwahati,Assam,North East,DEL001,1066548,57200,1,36,58231157.8,1617532.161111111,0.1990537068793883,5,Medium Regional Value,Medium Value Customer
+C0402,Fleet Owner,Rental,Hyderabad,Telangana,South,HYD001,599112,461073,1,35,43498305.199999996,1242808.72,0.14869185535979454,138,Low Regional Value,Low Value Customer
+C0403,Government,Construction,Kolkata,West Bengal,East,KOL001,954046,440000,4,45,80523517.0,1789411.4888888889,0.2752564976445555,6,High Regional Value,High Value Customer
+C0404,Government,Mining,Ahmedabad,Gujarat,West,AHM001,1177246,346690,5,31,46035794.4,1485025.6258064515,0.15736584795257816,125,Low Regional Value,Low Value Customer
+C0405,Corporate,Infrastructure,Pune,Maharashtra,West,PUN001,216557,212474,3,32,50787823.0,1587119.46875,0.17360988196742083,97,Low Regional Value,Low Value Customer
+C0406,Dealer,Logistics,Pune,Maharashtra,West,PUN001,229106,158033,3,32,64818334.4,2025572.95,0.22157089474988548,40,High Regional Value,High Value Customer
+C0407,Dealer,Logistics,Hyderabad,Telangana,South,HYD001,379116,62934,2,38,54609453.4,1437090.8789473684,0.18667350162024796,99,Medium Regional Value,Medium Value Customer
+C0408,Government,Infrastructure,Hyderabad,Telangana,South,HYD001,1461198,1221928,4,36,60127186.2,1670199.6166666667,0.20553497044390215,69,Medium Regional Value,Medium Value Customer
+C0409,Government,Logistics,Pune,Maharashtra,West,PUN001,990136,859423,1,45,60821412.6,1351586.9466666668,0.20790807006194775,56,Medium Regional Value,Medium Value Customer
+C0410,Corporate,Mining,Hyderabad,Telangana,South,HYD001,320500,286790,4,39,59804309.8,1533443.841025641,0.20443127017909526,71,Medium Regional Value,Medium Value Customer
+C0411,Corporate,Mining,Hyderabad,Telangana,South,HYD001,621936,347662,5,43,72229183.0,1679748.441860465,0.24690367089042659,25,High Regional Value,High Value Customer
+C0412,Corporate,Infrastructure,Kolkata,West Bengal,East,KOL001,699539,571001,3,32,43246987.6,1351468.3625,0.14783276717103058,79,Low Regional Value,Low Value Customer
+C0413,Fleet Owner,Manufacturing,Chennai,Tamil Nadu,South,CHN001,225464,22974,1,41,62380011.4,1521463.6926829268,0.21323588562322046,53,Medium Regional Value,Medium Value Customer
+C0414,Dealer,Construction,Chennai,Tamil Nadu,South,CHN001,252548,96330,4,40,66316815.6,1657920.3900000001,0.22669320810957405,39,High Regional Value,High Value Customer
+C0415,Government,Infrastructure,Guwahati,Assam,North East,PUN001,870771,121474,1,33,68592455.6,2078559.2606060605,0.23447211195824544,2,High Regional Value,High Value - Review
+C0416,Dealer,Manufacturing,Chennai,Tamil Nadu,South,CHN001,498960,179763,2,37,46006682.0,1243423.8378378379,0.15726633196568918,132,Low Regional Value,Low Value Customer
+C0417,Fleet Owner,Mining,Kolkata,West Bengal,East,KOL001,587793,383902,3,32,51984530.4,1624516.575,0.17770063085546706,61,Low Regional Value,Low Value Customer
+C0418,Government,Mining,Pune,Maharashtra,West,PUN001,1185942,749861,4,30,47167025.6,1572234.1866666668,0.16123277713971548,115,Low Regional Value,Low Value Customer
+C0419,Fleet Owner,Logistics,Mumbai,Maharashtra,West,AHM001,344338,246613,1,31,61514207.2,1984329.2645161292,0.21027627530543036,50,Medium Regional Value,Medium Value Customer
+C0420,Retail,Rental,Chennai,Tamil Nadu,South,CHN001,44758,199,3,46,92482888.8,2010497.5826086956,0.3161376578116787,2,High Regional Value,High Value Customer
+C0421,Retail,Construction,Chennai,Tamil Nadu,South,CHN001,35710,11463,3,38,69466242.8,1828059.0210526315,0.23745901085833498,32,High Regional Value,High Value Customer
+C0422,Government,Construction,Hyderabad,Telangana,South,HYD001,858335,605029,5,37,65678984.2,1775107.6810810813,0.22451288559271576,41,High Regional Value,High Value Customer
+C0423,Dealer,Infrastructure,Visakhapatnam,Andhra Pradesh,South,DEL001,234222,160010,3,30,46894840.4,1563161.3466666667,0.16030235646692392,127,Low Regional Value,Low Value Customer
+C0424,Retail,Construction,Ahmedabad,Gujarat,West,AHM001,28345,28072,4,35,58183379.4,1662382.2685714285,0.19889038421866723,65,Medium Regional Value,Medium Value Customer
+C0425,Dealer,Manufacturing,Chennai,Tamil Nadu,South,CHN001,197706,90771,3,41,67882732.6,1655676.4048780487,0.23204603974287277,35,High Regional Value,High Value Customer
+C0426,Dealer,Infrastructure,Guwahati,Assam,North East,KOL001,332893,19372,1,35,57207251.0,1634492.8857142858,0.19555364863326818,6,Medium Regional Value,Medium Value Customer
+C0427,Corporate,Mining,Vadodara,Gujarat,West,HYD001,334941,5247,3,41,53149424.199999996,1296327.419512195,0.181682630145387,91,Medium Regional Value,Medium Value Customer
+C0428,Retail,Construction,Delhi,Delhi,North,DEL001,39509,3190,4,43,66337820.6,1542740.0139534883,0.2267650102730715,31,High Regional Value,High Value Customer
+C0429,Fleet Owner,Logistics,Ahmedabad,Gujarat,West,AHM001,375146,303392,3,42,69444114.2,1653431.2904761906,0.23738336785166184,23,High Regional Value,High Value Customer
+C0430,Retail,Manufacturing,Nagpur,Maharashtra,West,KOL001,10552,5942,5,27,44879330.8,1662197.437037037,0.15341266592515362,130,Low Regional Value,Low Value Customer
+C0431,Government,Logistics,Nagpur,Maharashtra,West,PUN001,1284393,789154,5,28,45787279.2,1635259.9714285715,0.1565163393107309,126,Low Regional Value,Low Value Customer
+C0432,Fleet Owner,Mining,Hyderabad,Telangana,South,HYD001,378549,339143,3,37,49310040.800000004,1332703.8054054056,0.1685583247601833,120,Low Regional Value,Low Value Customer
+C0433,Dealer,Infrastructure,Chandigarh,Punjab,North,AHM001,448175,226491,3,31,57020323.4,1839365.270967742,0.194914667148032,50,Medium Regional Value,Medium Value Customer
+C0434,Corporate,Mining,Indore,Madhya Pradesh,Central,KOL001,437713,377663,4,33,54575670.2,1653808.187878788,0.18655801926605295,6,Medium Regional Value,Medium Value Customer
+C0435,Dealer,Manufacturing,Chennai,Tamil Nadu,South,CHN001,393189,129432,4,50,73908258.2,1478165.164,0.2526433153576924,21,High Regional Value,High Value Customer
+C0436,Fleet Owner,Logistics,Kolkata,West Bengal,East,KOL001,550408,500938,3,34,57784314.2,1699538.6529411767,0.19752624497865084,45,Medium Regional Value,Medium Value Customer
+C0437,Dealer,Mining,Nagpur,Maharashtra,West,HYD001,235226,34472,3,30,46199550.2,1539985.0066666668,0.15792562042224045,124,Low Regional Value,Low Value Customer
+C0438,Corporate,Rental,Kolkata,West Bengal,East,KOL001,482026,171913,2,39,61720027.0,1582564.7948717948,0.21097983669227222,34,Medium Regional Value,Medium Value Customer
+C0439,Dealer,Construction,Visakhapatnam,Andhra Pradesh,South,CHN001,280679,62281,5,36,47576062.0,1321557.2777777778,0.1626310012991637,126,Low Regional Value,Low Value Customer
+C0440,Retail,Manufacturing,Hyderabad,Telangana,South,HYD001,17475,3995,5,44,82426773.6,1873335.7636363634,0.2817624696307876,6,High Regional Value,High Value Customer
+C0441,Dealer,Construction,Lucknow,Uttar Pradesh,North,PUN001,261833,189019,2,31,47045233.8,1517588.187096774,0.16081645175355747,70,Low Regional Value,Low Value Customer
+C0442,Dealer,Logistics,Kolkata,West Bengal,East,KOL001,440207,114258,3,33,53527848.6,1622056.0181818183,0.18297621218015137,59,Medium Regional Value,Medium Value Customer
+C0443,Dealer,Infrastructure,Kolkata,West Bengal,East,KOL001,466614,183013,1,40,64951558.8,1623788.97,0.2220263006128062,25,High Regional Value,High Value - Review
+C0444,Dealer,Manufacturing,Chennai,Tamil Nadu,South,CHN001,403967,96858,1,30,50928809.0,1697626.9666666666,0.1740918195928839,111,Low Regional Value,Low Value Customer
+C0445,Government,Mining,Kolkata,West Bengal,East,KOL001,1283660,253336,2,28,57177744.4,2042062.3,0.19545278513803116,46,Medium Regional Value,Medium Value Customer
+C0446,Retail,Logistics,Visakhapatnam,Andhra Pradesh,South,HYD001,25401,2338,1,34,52035543.6,1530457.1647058823,0.17787501115191687,106,Medium Regional Value,Medium Value Customer
+C0447,Fleet Owner,Rental,Kolkata,West Bengal,East,KOL001,659733,93235,2,33,61334243.8,1858613.4484848485,0.2096610998010096,35,Medium Regional Value,Medium Value Customer
+C0448,Fleet Owner,Logistics,Kolkata,West Bengal,East,KOL001,796652,544307,4,36,68495840.4,1902662.2333333334,0.2341418486691839,20,High Regional Value,High Value Customer
+C0449,Fleet Owner,Logistics,Surat,Gujarat,West,KOL001,359802,296904,3,32,55700286.8,1740633.9625,0.19040233752290361,77,Medium Regional Value,Medium Value Customer
+C0450,Fleet Owner,Construction,Kolkata,West Bengal,East,KOL001,139226,122462,5,38,55345960.4,1456472.6421052632,0.18919113056721384,52,Medium Regional Value,Medium Value Customer
+C0451,Government,Manufacturing,Ranchi,Jharkhand,East,KOL001,1083798,936832,3,37,49725150.4,1343922.9837837839,0.16997730916239998,66,Low Regional Value,Low Value Customer
+C0452,Fleet Owner,Mining,Hyderabad,Telangana,South,HYD001,362507,335242,1,35,40090449.2,1145441.4057142858,0.13704265594595147,149,Low Regional Value,Low Value Customer
+C0453,Dealer,Mining,Ranchi,Jharkhand,East,CHN001,158610,20082,3,31,59284873.8,1912415.2838709676,0.20265566300944693,40,Medium Regional Value,Medium Value Customer
+C0454,Government,Mining,Pune,Maharashtra,West,PUN001,797861,13824,3,33,41820500.6,1267287.896969697,0.14295655423120718,135,Low Regional Value,Low Value Customer
+C0455,Retail,Logistics,Indore,Madhya Pradesh,Central,PUN001,12300,6971,1,35,63287015.4,1808200.44,0.21633633073156813,4,High Regional Value,High Value - Review
+C0456,Corporate,Mining,Delhi,Delhi,North,DEL001,265102,71426,4,27,31514609.0,1167207.7407407407,0.10772754620215594,80,Low Regional Value,Low Value Customer
+C0457,Retail,Manufacturing,Kolkata,West Bengal,East,KOL001,16374,15438,4,33,56578805.4,1714509.2545454544,0.19340540994150648,49,Medium Regional Value,Medium Value Customer
+C0458,Dealer,Manufacturing,Ahmedabad,Gujarat,West,AHM001,162635,61520,4,38,50799400.6,1336826.3315789474,0.17364945810301274,96,Low Regional Value,Low Value Customer
+C0459,Retail,Logistics,Ranchi,Jharkhand,East,PUN001,16763,15429,5,41,71816909.8,1751631.9463414634,0.2454943822585762,12,High Regional Value,High Value Customer
+C0460,Dealer,Logistics,Coimbatore,Tamil Nadu,South,DEL001,143749,30133,1,32,64634814.4,2019837.95,0.2209435615889689,43,High Regional Value,High Value - Review
+C0461,Corporate,Infrastructure,Delhi,Delhi,North,DEL001,965128,447317,5,36,56714684.2,1575407.8944444444,0.19386988943750447,52,Medium Regional Value,Medium Value Customer
+C0462,Retail,Logistics,Chennai,Tamil Nadu,South,CHN001,22565,9458,5,49,82777824.6,1689343.3591836733,0.2829624801662765,5,High Regional Value,High Value Customer
+C0463,Dealer,Mining,Nagpur,Maharashtra,West,AHM001,325255,17271,4,35,55370560.0,1582016.0,0.18927522028400376,80,Medium Regional Value,Medium Value Customer
+C0464,Corporate,Infrastructure,Lucknow,Uttar Pradesh,North,AHM001,703261,194204,1,38,67405736.8,1773835.1789473684,0.23041550746869055,29,High Regional Value,High Value - Review
+C0465,Fleet Owner,Mining,Chennai,Tamil Nadu,South,CHN001,573243,248521,1,35,48083241.6,1373806.902857143,0.16436471196623212,124,Low Regional Value,Low Value Customer
+C0466,Retail,Manufacturing,Bengaluru,Karnataka,South,DEL001,17753,15154,3,47,88329161.4,1879343.859574468,0.3019388187781797,3,High Regional Value,High Value Customer
+C0467,Retail,Construction,Delhi,Delhi,North,DEL001,10621,1167,5,48,62880162.4,1310003.3833333333,0.21494557016858654,35,Medium Regional Value,Medium Value Customer
+C0468,Fleet Owner,Rental,Hyderabad,Telangana,South,HYD001,531281,35084,1,49,75254807.6,1535812.4,0.25724627466148653,18,High Regional Value,High Value - Review
+C0469,Government,Manufacturing,Chandigarh,Punjab,North,KOL001,959081,324787,1,40,68502617.4,1712565.435,0.23416501473735915,25,High Regional Value,High Value - Review
+C0470,Government,Mining,Chennai,Tamil Nadu,South,CHN001,1219925,949663,1,36,49194933.2,1366525.9222222222,0.1681648482205499,121,Low Regional Value,Low Value Customer
+C0471,Fleet Owner,Logistics,Ahmedabad,Gujarat,West,AHM001,601565,128183,5,37,65501994.2,1770324.1675675677,0.2239078741707965,36,High Regional Value,High Value Customer
+C0472,Dealer,Manufacturing,Coimbatore,Tamil Nadu,South,CHN001,475653,77024,4,34,54888819.4,1614377.0411764705,0.1876284686855957,96,Medium Regional Value,Medium Value Customer
+C0473,Government,Rental,Chennai,Tamil Nadu,South,CHN001,1339337,1213028,3,26,42018356.8,1616090.646153846,0.14363289335148258,145,Low Regional Value,Low Value Customer
+C0474,Government,Logistics,Pune,Maharashtra,West,PUN001,697497,64747,3,30,48230361.0,1607678.7,0.16486761561833624,108,Low Regional Value,Low Value Customer
+C0475,Fleet Owner,Construction,Kolkata,West Bengal,East,KOL001,306605,272802,3,55,94883375.2,1725152.2763636364,0.3243433286979539,2,High Regional Value,High Value Customer
+C0476,Fleet Owner,Infrastructure,Delhi,Delhi,North,DEL001,209985,8474,3,34,73746173.2,2169005.094117647,0.25208925424507705,17,High Regional Value,High Value Customer
+C0477,Government,Construction,Ahmedabad,Gujarat,West,AHM001,831717,641227,5,36,57746038.6,1604056.6277777778,0.1973954060884265,68,Medium Regional Value,Medium Value Customer
+C0478,Retail,Rental,Delhi,Delhi,North,DEL001,15416,13473,1,44,75901402.2,1725031.8681818182,0.25945655274697904,14,High Regional Value,High Value - Review
+C0479,Retail,Construction,Mumbai,Maharashtra,West,KOL001,41285,5051,1,26,37716131.0,1450620.423076923,0.12892643677949697,141,Low Regional Value,Low Value Customer
+C0480,Government,Infrastructure,Mumbai,Maharashtra,West,AHM001,635943,336455,3,34,48525468.6,1427219.6647058823,0.1658763927735155,106,Low Regional Value,Low Value Customer
+C0481,Corporate,Logistics,Chennai,Tamil Nadu,South,CHN001,437015,243932,5,39,60397194.2,1548646.0051282053,0.206457948713915,66,Medium Regional Value,Medium Value Customer
+C0482,Fleet Owner,Logistics,Kolkata,West Bengal,East,KOL001,285819,265924,1,31,73762403.2,2379432.3612903226,0.2521447338505788,10,High Regional Value,High Value - Review
+C0483,Corporate,Rental,Delhi,Delhi,North,DEL001,511858,312732,1,47,96130859.2,2045337.4297872342,0.3286076491039742,2,High Regional Value,High Value - Review
+C0484,Fleet Owner,Mining,Ahmedabad,Gujarat,West,AHM001,773172,383774,1,27,48200851.6,1785216.725925926,0.1647667425517563,110,Low Regional Value,Low Value Customer
+C0485,Fleet Owner,Rental,Pune,Maharashtra,West,PUN001,581553,485739,1,28,59146123.8,2112361.564285714,0.20218136878496365,63,Medium Regional Value,Medium Value Customer
+C0486,Government,Manufacturing,Pune,Maharashtra,West,PUN001,670285,64946,2,34,52620254.4,1547654.5411764705,0.17987374956945204,93,Medium Regional Value,Medium Value Customer
+C0487,Dealer,Mining,Visakhapatnam,Andhra Pradesh,South,DEL001,346606,25749,1,26,39512216.0,1519700.6153846155,0.13506606014656775,151,Low Regional Value,Low Value Customer
+C0488,Government,Construction,Chennai,Tamil Nadu,South,CHN001,1281429,1043182,1,37,67251532.8,1817608.9945945945,0.22988838626802588,36,High Regional Value,High Value - Review
+C0489,Fleet Owner,Rental,Chennai,Tamil Nadu,South,CHN001,594359,581546,5,47,70625273.0,1502665.3829787234,0.2414209663888699,29,High Regional Value,High Value Customer
+C0490,Government,Logistics,Pune,Maharashtra,West,PUN001,1262928,379981,3,44,84742703.8,1925970.5409090908,0.2896790989509061,6,High Regional Value,High Value Customer
+C0491,Dealer,Infrastructure,Chennai,Tamil Nadu,South,CHN001,312699,2744,1,27,65215944.4,2415405.348148148,0.22293005962625878,42,High Regional Value,High Value - Review
+C0492,Dealer,Rental,Ranchi,Jharkhand,East,HYD001,442676,48242,1,35,61798115.2,1765660.4342857143,0.2112467684563104,33,Medium Regional Value,Medium Value Customer
+C0493,Retail,Construction,Chennai,Tamil Nadu,South,CHN001,18646,17697,3,38,54684935.199999996,1439077.242105263,0.18693152383137304,98,Medium Regional Value,Medium Value Customer
+C0494,Corporate,Construction,Ranchi,Jharkhand,East,CHN001,704926,188070,2,32,48287535.6,1508985.4875,0.16506305765485618,71,Low Regional Value,Low Value Customer
+C0495,Fleet Owner,Infrastructure,Jaipur,Rajasthan,North,AHM001,414484,135441,2,48,94540537.6,1969594.5333333332,0.32317139432955233,3,High Regional Value,High Value - Review
+C0496,Government,Infrastructure,Bhubaneswar,Odisha,East,PUN001,993386,256383,5,37,48190097.0,1302435.054054054,0.16472997970731212,72,Low Regional Value,Low Value Customer
+C0497,Government,Logistics,Chennai,Tamil Nadu,South,CHN001,764082,310133,3,30,51439335.2,1714644.5066666668,0.17583697006573004,109,Low Regional Value,Low Value Customer
+C0498,Fleet Owner,Construction,Kolkata,West Bengal,East,KOL001,502514,14738,3,28,64864362.8,2316584.3857142855,0.22172823532128874,26,High Regional Value,High Value Customer
+C0499,Corporate,Construction,Bhubaneswar,Odisha,East,PUN001,598104,54844,5,39,62785837.0,1609893.2564102565,0.21462313418702203,29,Medium Regional Value,Medium Value Customer
+C0500,Corporate,Infrastructure,Kolkata,West Bengal,East,KOL001,483892,363569,3,27,44474866.6,1647217.2814814816,0.15203007108500766,76,Low Regional Value,Low Value Customer

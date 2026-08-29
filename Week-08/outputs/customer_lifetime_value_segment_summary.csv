@@ -1,0 +1,5 @@
+clv_value_class,customers,average_revenue,average_clv,total_clv,average_orders,average_order_value,average_orders_per_year,average_priority_score,revenue_share_pct
+High Value,125,61566706.93,52875528.43,6609441053.46,36.26,1724475.76,6.23,60.55,26.31
+Low Value,125,42912295.04,36831250.49,4603906310.72,30.98,1395130.78,5.32,15.11,18.34
+Medium Value,125,53744602.32,45965116.48,5745639560.18,34.74,1563943.87,5.94,38.92,22.96
+Very High Value,125,75808341.0,65155139.8,8144392474.55,42.27,1808083.6,7.27,85.82,32.39

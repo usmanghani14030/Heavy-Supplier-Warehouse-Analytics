@@ -1,0 +1,501 @@
+customer_id,total_delivered_orders,total_purchase_value,first_purchase_date,last_purchase_date,purchase_period_days,average_order_value,orders_per_month,purchase_span_years,repeat_purchase_class,customer_loyalty_class,customer_type,industry_segment,region,customer_rating,frequency_score,value_score,loyalty_score,action_focus,loyalty_rank
+C0153,56,108200489.6,2019-01-17,2024-12-12,2156,1932151.6,0.79,5.9,Very High Repeat,Highly Loyal,Retail,Rental,East,4,100.0,100.0,100.0,Protect relationship and introduce premium loyalty benefits,1
+C0288,55,97218403.8,2019-02-21,2024-10-18,2066,1767607.34,0.81,5.66,Very High Repeat,Highly Loyal,Dealer,Infrastructure,North,3,98.21,89.85,94.87,Protect relationship and introduce premium loyalty benefits,2
+C0475,55,94883375.2,2019-01-19,2024-12-18,2160,1725152.28,0.78,5.91,Very High Repeat,Highly Loyal,Fleet Owner,Construction,East,3,98.21,87.69,94.01,Protect relationship and introduce premium loyalty benefits,3
+C0178,54,89493824.6,2019-01-22,2024-12-09,2148,1657293.05,0.77,5.88,Very High Repeat,Highly Loyal,Dealer,Logistics,East,1,96.43,82.71,90.94,Protect relationship and introduce premium loyalty benefits,4
+C0495,48,94540537.6,2019-01-28,2024-11-25,2128,1969594.53,0.69,5.83,Very High Repeat,Highly Loyal,Fleet Owner,Infrastructure,North,2,85.71,87.38,86.38,Protect relationship and introduce premium loyalty benefits,5
+C0483,47,96130859.2,2019-02-20,2024-12-18,2128,2045337.43,0.67,5.83,Very High Repeat,Highly Loyal,Corporate,Rental,North,1,83.93,88.85,85.9,Protect relationship and introduce premium loyalty benefits,6
+C0254,48,89556446.6,2019-07-01,2024-09-25,1913,1865759.3,0.76,5.24,Very High Repeat,Highly Loyal,Dealer,Mining,West,5,85.71,82.77,84.54,Protect relationship and introduce premium loyalty benefits,7
+C0107,49,85196217.6,2019-01-16,2024-12-11,2156,1738698.32,0.69,5.9,Very High Repeat,Highly Loyal,Fleet Owner,Construction,North,1,87.5,78.74,84.0,Protect relationship and introduce premium loyalty benefits,8
+C0240,46,92835709.4,2019-02-19,2024-11-10,2091,2018167.6,0.67,5.72,Very High Repeat,Highly Loyal,Corporate,Manufacturing,South,1,82.14,85.8,83.61,Protect relationship and introduce premium loyalty benefits,9
+C0420,46,92482888.8,2019-01-10,2024-11-22,2143,2010497.58,0.65,5.87,Very High Repeat,Highly Loyal,Retail,Rental,South,3,82.14,85.47,83.48,Protect relationship and introduce premium loyalty benefits,10
+C0304,48,86460648.4,2019-01-26,2024-12-25,2160,1801263.51,0.68,5.91,Very High Repeat,Highly Loyal,Dealer,Construction,North,5,85.71,79.91,83.39,Protect relationship and introduce premium loyalty benefits,11
+C0462,49,82777824.6,2019-01-06,2024-11-13,2138,1689343.36,0.7,5.85,Very High Repeat,Highly Loyal,Retail,Logistics,South,5,87.5,76.5,83.1,Protect relationship and introduce premium loyalty benefits,12
+C0466,47,88329161.4,2019-03-19,2024-12-13,2096,1879343.86,0.68,5.74,Very High Repeat,Highly Loyal,Retail,Manufacturing,South,3,83.93,81.63,83.01,Protect relationship and introduce premium loyalty benefits,13
+C0134,48,85243025.2,2019-03-03,2024-11-24,2093,1775896.36,0.7,5.73,Very High Repeat,Highly Loyal,Fleet Owner,Infrastructure,West,5,85.71,78.78,82.94,Protect relationship and introduce premium loyalty benefits,14
+C0165,50,79168592.4,2019-02-27,2024-12-24,2127,1583371.85,0.72,5.82,Very High Repeat,Highly Loyal,Fleet Owner,Manufacturing,North,4,89.29,73.17,82.84,Protect relationship and introduce premium loyalty benefits,15
+C0380,50,77887431.8,2019-01-29,2024-11-03,2105,1557748.64,0.72,5.76,Very High Repeat,Highly Loyal,Fleet Owner,Manufacturing,South,5,89.29,71.98,82.37,Protect relationship and introduce premium loyalty benefits,16
+C0200,47,84469856.6,2019-02-09,2024-11-25,2116,1797230.99,0.68,5.79,Very High Repeat,Highly Loyal,Retail,Logistics,East,2,83.93,78.07,81.58,Protect relationship and introduce premium loyalty benefits,17
+C0046,46,87078641.0,2019-02-03,2024-12-09,2136,1893013.93,0.66,5.85,Very High Repeat,Highly Loyal,Retail,Rental,West,3,82.14,80.48,81.48,Protect relationship and introduce premium loyalty benefits,18
+C0083,45,89672688.2,2019-05-23,2024-10-04,1961,1992726.4,0.7,5.37,Very High Repeat,Highly Loyal,Dealer,Infrastructure,North,2,80.36,82.88,81.36,Protect relationship and introduce premium loyalty benefits,19
+C0002,51,71712838.0,2019-01-24,2024-09-07,2053,1406134.08,0.76,5.62,Very High Repeat,Highly Loyal,Fleet Owner,Manufacturing,South,2,91.07,66.28,81.15,Protect relationship and introduce premium loyalty benefits,20
+C0359,46,85617784.0,2019-02-12,2024-11-28,2116,1861256.17,0.66,5.79,Very High Repeat,Highly Loyal,Fleet Owner,Mining,South,3,82.14,79.13,80.94,Protect relationship and introduce premium loyalty benefits,21
+C0435,50,73908258.2,2019-10-11,2024-11-01,1848,1478165.16,0.82,5.06,Very High Repeat,Highly Loyal,Dealer,Manufacturing,South,4,89.29,68.31,80.89,Protect relationship and introduce premium loyalty benefits,22
+C0371,47,82052808.0,2019-01-03,2024-11-02,2130,1745804.43,0.67,5.83,Very High Repeat,Highly Loyal,Retail,Rental,South,3,83.93,75.83,80.69,Protect relationship and introduce premium loyalty benefits,23
+C0207,45,87068691.0,2019-02-10,2024-10-13,2072,1934859.8,0.66,5.67,Very High Repeat,Highly Loyal,Corporate,Rental,East,1,80.36,80.47,80.4,Protect relationship and introduce premium loyalty benefits,24
+C0468,49,75254807.6,2019-05-10,2024-11-10,2011,1535812.4,0.74,5.51,Very High Repeat,Highly Loyal,Fleet Owner,Rental,South,1,87.5,69.55,80.32,Protect relationship and introduce premium loyalty benefits,25
+C0201,47,80475593.0,2019-02-01,2024-12-13,2142,1712246.66,0.67,5.86,Very High Repeat,Highly Loyal,Dealer,Infrastructure,South,4,83.93,74.38,80.11,Protect relationship and introduce premium loyalty benefits,26
+C0215,49,73940925.4,2019-02-28,2024-12-24,2126,1508998.48,0.7,5.82,Very High Repeat,Highly Loyal,Corporate,Rental,South,5,87.5,68.34,79.83,Protect relationship and introduce premium loyalty benefits,27
+C0142,45,84828043.0,2019-02-06,2024-12-08,2132,1885067.62,0.64,5.84,Very High Repeat,Highly Loyal,Retail,Manufacturing,West,1,80.36,78.4,79.57,Protect relationship and introduce premium loyalty benefits,28
+C0119,51,67143205.2,2019-01-07,2024-10-26,2119,1316533.44,0.73,5.8,Very High Repeat,Highly Loyal,Government,Manufacturing,West,4,91.07,62.05,79.46,Protect relationship and introduce premium loyalty benefits,29
+C0197,47,77464617.6,2019-02-22,2024-10-18,2065,1648183.35,0.69,5.65,Very High Repeat,Highly Loyal,Government,Manufacturing,West,2,83.93,71.59,78.99,Protect relationship and introduce premium loyalty benefits,30
+C0069,47,77108269.8,2019-02-18,2024-12-11,2123,1640601.49,0.67,5.81,Very High Repeat,Highly Loyal,Dealer,Logistics,North,2,83.93,71.26,78.86,Protect relationship and introduce premium loyalty benefits,31
+C0110,42,90807306.0,2019-01-25,2024-06-21,1974,2162078.71,0.65,5.4,Very High Repeat,Highly Loyal,Dealer,Logistics,Central,5,75.0,83.93,78.57,Protect relationship and introduce premium loyalty benefits,32
+C0291,46,79064597.0,2019-03-13,2024-12-03,2092,1718795.59,0.67,5.73,Very High Repeat,Highly Loyal,Retail,Construction,South,2,82.14,73.07,78.51,Protect relationship and introduce premium loyalty benefits,33
+C0490,44,84742703.8,2019-01-26,2024-12-29,2164,1925970.54,0.62,5.92,Very High Repeat,Highly Loyal,Government,Logistics,West,3,78.57,78.32,78.47,Protect relationship and introduce premium loyalty benefits,34
+C0403,45,80523517.0,2019-02-19,2024-12-10,2121,1789411.49,0.65,5.81,Very High Repeat,Highly Loyal,Government,Construction,East,4,80.36,74.42,77.98,Protect relationship and introduce premium loyalty benefits,35
+C0082,46,77500928.6,2019-03-17,2024-12-18,2103,1684802.8,0.67,5.76,Very High Repeat,Highly Loyal,Fleet Owner,Manufacturing,West,3,82.14,71.63,77.94,Protect relationship and introduce premium loyalty benefits,36
+C0076,45,80026994.2,2019-01-12,2024-10-06,2094,1778377.65,0.65,5.73,Very High Repeat,Highly Loyal,Government,Mining,South,2,80.36,73.96,77.8,Protect relationship and introduce premium loyalty benefits,37
+C0196,48,71291851.6,2019-01-09,2024-10-28,2119,1485246.91,0.69,5.8,Very High Repeat,Highly Loyal,Fleet Owner,Rental,North East,3,85.71,65.89,77.78,Protect relationship and introduce premium loyalty benefits,38
+C0294,45,79772077.0,2019-03-26,2024-12-27,2103,1772712.82,0.65,5.76,Very High Repeat,Highly Loyal,Government,Infrastructure,South,4,80.36,73.73,77.7,Protect relationship and introduce premium loyalty benefits,39
+C0356,45,79690881.0,2019-03-16,2024-12-05,2091,1770908.47,0.66,5.72,Very High Repeat,Highly Loyal,Dealer,Mining,East,2,80.36,73.65,77.67,Protect relationship and introduce premium loyalty benefits,40
+C0440,44,82426773.6,2019-01-29,2024-10-21,2092,1873335.76,0.64,5.73,Very High Repeat,Highly Loyal,Retail,Manufacturing,South,5,78.57,76.18,77.61,Protect relationship and introduce premium loyalty benefits,41
+C0221,44,82001959.0,2019-01-17,2024-09-05,2058,1863680.89,0.65,5.63,Very High Repeat,Highly Loyal,Dealer,Logistics,North,5,78.57,75.79,77.46,Protect relationship and introduce premium loyalty benefits,42
+C0242,47,73225487.6,2019-01-30,2024-11-18,2119,1557989.1,0.68,5.8,Very High Repeat,Highly Loyal,Government,Construction,South,3,83.93,67.68,77.43,Protect relationship and introduce premium loyalty benefits,43
+C0225,48,69254158.0,2019-03-17,2024-07-17,1949,1442794.96,0.75,5.34,Very High Repeat,Highly Loyal,Fleet Owner,Logistics,North,5,85.71,64.01,77.03,Protect relationship and introduce premium loyalty benefits,44
+C0489,47,70625273.0,2019-04-14,2024-08-17,1952,1502665.38,0.73,5.34,Very High Repeat,Highly Loyal,Fleet Owner,Rental,South,5,83.93,65.27,76.47,Protect relationship and introduce premium loyalty benefits,45
+C0206,40,89674652.2,2019-01-08,2024-12-11,2164,2241866.31,0.56,5.92,Very High Repeat,Highly Loyal,Retail,Construction,West,3,71.43,82.88,76.01,Protect relationship and introduce premium loyalty benefits,46
+C0005,45,74996415.4,2019-02-28,2024-10-04,2045,1666587.01,0.67,5.6,Very High Repeat,Highly Loyal,Dealer,Construction,West,2,80.36,69.31,75.94,Protect relationship and introduce premium loyalty benefits,47
+C0244,44,77550764.4,2019-05-06,2024-12-09,2044,1762517.37,0.66,5.6,Very High Repeat,Highly Loyal,Government,Logistics,North,3,78.57,71.67,75.81,Protect relationship and introduce premium loyalty benefits,48
+C0060,44,77163010.4,2019-07-20,2024-11-24,1954,1753704.78,0.69,5.35,Very High Repeat,Highly Loyal,Dealer,Mining,South,1,78.57,71.31,75.67,Protect relationship and introduce premium loyalty benefits,49
+C0154,45,74171590.6,2019-01-29,2024-08-21,2031,1648257.57,0.67,5.56,Very High Repeat,Highly Loyal,Fleet Owner,Logistics,North,5,80.36,68.55,75.63,Protect relationship and introduce premium loyalty benefits,50
+C0013,44,76843692.4,2019-01-02,2024-10-27,2125,1746447.55,0.63,5.82,Very High Repeat,Highly Loyal,Dealer,Construction,West,2,78.57,71.02,75.55,Protect relationship and introduce premium loyalty benefits,51
+C0478,44,75901402.2,2019-02-04,2024-12-29,2155,1725031.87,0.62,5.9,Very High Repeat,Highly Loyal,Retail,Rental,North,1,78.57,70.15,75.2,Protect relationship and introduce premium loyalty benefits,52
+C0375,42,81286325.6,2019-02-20,2024-11-03,2083,1935388.7,0.61,5.7,Very High Repeat,Highly Loyal,Fleet Owner,Mining,West,1,75.0,75.13,75.05,Protect relationship and introduce premium loyalty benefits,53
+C0237,44,74820743.4,2019-01-28,2024-10-15,2087,1700471.44,0.64,5.71,Very High Repeat,Highly Loyal,Dealer,Infrastructure,South,5,78.57,69.15,74.8,Protect relationship and introduce premium loyalty benefits,54
+C0467,48,62880162.4,2019-01-02,2024-11-06,2135,1310003.38,0.68,5.85,Very High Repeat,Loyal,Retail,Construction,North,5,85.71,58.11,74.67,Maintain engagement and encourage higher-value purchases,55
+C0255,45,71144094.2,2019-01-05,2024-11-11,2137,1580979.87,0.64,5.85,Very High Repeat,Highly Loyal,Retail,Infrastructure,South,4,80.36,65.75,74.52,Protect relationship and introduce premium loyalty benefits,56
+C0257,43,76189558.0,2019-01-18,2024-12-23,2166,1771850.19,0.6,5.93,Very High Repeat,Highly Loyal,Corporate,Logistics,North,1,76.79,70.42,74.24,Protect relationship and introduce premium loyalty benefits,57
+C0032,44,71991263.0,2019-01-23,2024-10-25,2102,1636165.07,0.64,5.75,Very High Repeat,Highly Loyal,Government,Logistics,West,5,78.57,66.54,73.76,Protect relationship and introduce premium loyalty benefits,58
+C0250,43,74416923.4,2019-03-08,2024-12-20,2114,1730626.13,0.62,5.79,Very High Repeat,Highly Loyal,Government,Infrastructure,East,2,76.79,68.78,73.58,Protect relationship and introduce premium loyalty benefits,59
+C0160,44,70762190.2,2019-02-19,2024-11-23,2104,1608231.6,0.64,5.76,Very High Repeat,Highly Loyal,Retail,Rental,West,2,78.57,65.4,73.3,Protect relationship and introduce premium loyalty benefits,60
+C0113,41,78713400.0,2019-01-13,2024-12-23,2171,1919839.02,0.57,5.94,Very High Repeat,Highly Loyal,Corporate,Logistics,South,2,73.21,72.75,73.03,Protect relationship and introduce premium loyalty benefits,61
+C0301,46,63821535.6,2019-01-13,2024-12-19,2167,1387424.69,0.65,5.93,Very High Repeat,Loyal,Dealer,Mining,East,5,82.14,58.98,72.88,Maintain engagement and encourage higher-value purchases,62
+C0045,42,75275350.6,2019-02-02,2024-12-15,2143,1792270.25,0.6,5.87,Very High Repeat,Highly Loyal,Corporate,Rental,East,4,75.0,69.57,72.83,Protect relationship and introduce premium loyalty benefits,63
+C0109,44,69451949.0,2019-01-14,2024-12-09,2156,1578453.39,0.62,5.9,Very High Repeat,Highly Loyal,Retail,Mining,South,1,78.57,64.19,72.82,Protect relationship and introduce premium loyalty benefits,64
+C0282,44,69381309.6,2019-01-17,2024-12-24,2168,1576847.95,0.62,5.94,Very High Repeat,Highly Loyal,Government,Logistics,East,2,78.57,64.12,72.79,Protect relationship and introduce premium loyalty benefits,65
+C0411,43,72229183.0,2019-07-14,2024-12-12,1978,1679748.44,0.66,5.42,Very High Repeat,Highly Loyal,Corporate,Mining,South,5,76.79,66.75,72.77,Protect relationship and introduce premium loyalty benefits,66
+C0010,46,63051038.4,2019-01-23,2024-11-27,2135,1370674.75,0.66,5.85,Very High Repeat,Loyal,Dealer,Construction,South,5,82.14,58.27,72.59,Maintain engagement and encourage higher-value purchases,67
+C0070,41,76883391.4,2019-02-04,2024-12-20,2146,1875204.67,0.58,5.88,Very High Repeat,Highly Loyal,Government,Logistics,West,3,73.21,71.06,72.35,Protect relationship and introduce premium loyalty benefits,68
+C0307,42,73655534.6,2019-01-15,2024-11-24,2140,1753703.2,0.6,5.86,Very High Repeat,Highly Loyal,Dealer,Manufacturing,West,1,75.0,68.07,72.23,Protect relationship and introduce premium loyalty benefits,69
+C0049,39,82316206.2,2019-01-25,2024-12-25,2161,2110671.95,0.55,5.92,High Repeat,Loyal,Dealer,Manufacturing,South,5,69.64,76.08,72.22,Maintain engagement and encourage higher-value purchases,70
+C0276,44,67350598.6,2019-01-08,2024-12-29,2182,1530695.42,0.61,5.97,Very High Repeat,Highly Loyal,Dealer,Manufacturing,Central,3,78.57,62.25,72.04,Protect relationship and introduce premium loyalty benefits,71
+C0275,45,64270295.0,2019-06-17,2024-11-06,1969,1428228.78,0.7,5.39,Very High Repeat,Loyal,Fleet Owner,Construction,West,5,80.36,59.4,71.97,Maintain engagement and encourage higher-value purchases,72
+C0004,46,60843242.8,2019-03-21,2024-12-31,2112,1322679.19,0.66,5.78,Very High Repeat,Loyal,Fleet Owner,Logistics,South,3,82.14,56.23,71.78,Maintain engagement and encourage higher-value purchases,73
+C0071,42,72076738.0,2019-01-24,2024-11-26,2133,1716112.81,0.6,5.84,Very High Repeat,Highly Loyal,Corporate,Rental,North,2,75.0,66.61,71.65,Protect relationship and introduce premium loyalty benefits,74
+C0209,44,65445658.4,2019-10-18,2024-11-22,1862,1487401.33,0.72,5.1,Very High Repeat,Loyal,Corporate,Infrastructure,East,5,78.57,60.49,71.34,Maintain engagement and encourage higher-value purchases,75
+C0270,43,68114112.8,2019-03-27,2024-12-20,2095,1584049.13,0.62,5.74,Very High Repeat,Highly Loyal,Corporate,Manufacturing,North,2,76.79,62.95,71.25,Protect relationship and introduce premium loyalty benefits,76
+C0042,41,73882726.2,2019-01-25,2024-10-13,2088,1802017.71,0.6,5.72,Very High Repeat,Highly Loyal,Fleet Owner,Rental,South,4,73.21,68.28,71.24,Protect relationship and introduce premium loyalty benefits,77
+C0395,44,64514679.8,2019-02-21,2024-12-20,2129,1466242.72,0.63,5.83,Very High Repeat,Loyal,Corporate,Manufacturing,East,1,78.57,59.63,70.99,Maintain engagement and encourage higher-value purchases,78
+C0306,42,69813587.0,2019-07-19,2024-12-16,1977,1662228.26,0.65,5.41,Very High Repeat,Highly Loyal,Fleet Owner,Manufacturing,East,1,75.0,64.52,70.81,Protect relationship and introduce premium loyalty benefits,79
+C0409,45,60821412.6,2019-01-19,2024-10-09,2090,1351586.95,0.66,5.72,Very High Repeat,Loyal,Government,Logistics,West,1,80.36,56.21,70.7,Maintain engagement and encourage higher-value purchases,80
+C0103,40,75304293.2,2019-02-21,2024-08-29,2016,1882607.33,0.6,5.52,Very High Repeat,Highly Loyal,Dealer,Infrastructure,South,4,71.43,69.6,70.7,Protect relationship and introduce premium loyalty benefits,81
+C0429,42,69444114.2,2019-02-08,2024-10-21,2082,1653431.29,0.61,5.7,Very High Repeat,Highly Loyal,Fleet Owner,Logistics,West,3,75.0,64.18,70.67,Protect relationship and introduce premium loyalty benefits,82
+C0428,43,66337820.6,2019-01-25,2024-08-26,2040,1542740.01,0.64,5.59,Very High Repeat,Loyal,Retail,Construction,North,4,76.79,61.31,70.6,Maintain engagement and encourage higher-value purchases,83
+C0459,41,71816909.8,2019-03-10,2024-12-14,2106,1751631.95,0.59,5.77,Very High Repeat,Highly Loyal,Retail,Logistics,East,5,73.21,66.37,70.48,Protect relationship and introduce premium loyalty benefits,84
+C0021,45,59956738.4,2019-01-16,2024-10-01,2085,1332371.96,0.66,5.71,Very High Repeat,Loyal,Corporate,Mining,South,5,80.36,55.41,70.38,Maintain engagement and encourage higher-value purchases,85
+C0285,47,54036327.8,2019-02-11,2024-12-05,2124,1149709.1,0.67,5.82,Very High Repeat,Loyal,Government,Infrastructure,West,4,83.93,49.94,70.33,Maintain engagement and encourage higher-value purchases,86
+C0331,42,67826105.8,2019-04-12,2024-12-15,2074,1614907.28,0.62,5.68,Very High Repeat,Highly Loyal,Dealer,Logistics,North,2,75.0,62.69,70.07,Protect relationship and introduce premium loyalty benefits,87
+C0300,40,72746205.0,2019-05-05,2024-11-18,2024,1818655.12,0.6,5.54,Very High Repeat,Highly Loyal,Dealer,Mining,North,1,71.43,67.23,69.75,Protect relationship and introduce premium loyalty benefits,88
+C0176,42,66901722.8,2019-01-14,2024-08-07,2032,1592898.16,0.63,5.56,Very High Repeat,Highly Loyal,Dealer,Logistics,South,2,75.0,61.83,69.73,Protect relationship and introduce premium loyalty benefits,89
+C0272,39,75550922.6,2019-09-01,2024-12-13,1930,1937203.14,0.62,5.28,High Repeat,Loyal,Government,Construction,North,1,69.64,69.82,69.72,Maintain engagement and encourage higher-value purchases,90
+C0284,41,69641823.4,2019-01-09,2024-12-23,2175,1698581.06,0.57,5.95,Very High Repeat,Highly Loyal,Corporate,Manufacturing,East,1,73.21,64.36,69.67,Protect relationship and introduce premium loyalty benefits,91
+C0024,44,60658309.2,2019-01-22,2024-09-17,2065,1378597.94,0.65,5.65,Very High Repeat,Loyal,Dealer,Rental,South,4,78.57,56.06,69.57,Maintain engagement and encourage higher-value purchases,92
+C0311,41,69331648.2,2019-02-03,2024-09-17,2053,1691015.81,0.61,5.62,Very High Repeat,Highly Loyal,Government,Infrastructure,North,4,73.21,64.08,69.56,Protect relationship and introduce premium loyalty benefits,93
+C0326,42,66177447.4,2019-03-14,2024-12-30,2118,1575653.51,0.6,5.8,Very High Repeat,Loyal,Government,Mining,East,4,75.0,61.16,69.46,Maintain engagement and encourage higher-value purchases,94
+C0374,41,68389697.6,2019-03-07,2024-12-10,2105,1668041.4,0.59,5.76,Very High Repeat,Highly Loyal,Corporate,Manufacturing,West,5,73.21,63.21,69.21,Protect relationship and introduce premium loyalty benefits,95
+C0383,41,68192154.0,2019-02-18,2024-11-19,2101,1663223.27,0.59,5.75,Very High Repeat,Highly Loyal,Fleet Owner,Infrastructure,North,5,73.21,63.02,69.14,Protect relationship and introduce premium loyalty benefits,96
+C0425,41,67882732.6,2019-01-17,2024-12-09,2153,1655676.4,0.58,5.89,Very High Repeat,Highly Loyal,Dealer,Manufacturing,South,3,73.21,62.74,69.02,Protect relationship and introduce premium loyalty benefits,97
+C0186,40,70676837.0,2019-02-17,2024-12-11,2124,1766920.92,0.57,5.82,Very High Repeat,Highly Loyal,Fleet Owner,Infrastructure,East,3,71.43,65.32,68.99,Protect relationship and introduce premium loyalty benefits,98
+C0241,39,73396972.0,2019-02-01,2024-10-31,2099,1881973.64,0.57,5.75,High Repeat,Loyal,Government,Construction,West,1,69.64,67.83,68.92,Maintain engagement and encourage higher-value purchases,99
+C0084,39,73317161.4,2019-04-29,2024-09-22,1973,1879927.22,0.6,5.4,High Repeat,Loyal,Corporate,Logistics,West,3,69.64,67.76,68.89,Maintain engagement and encourage higher-value purchases,100
+C0253,39,72946151.6,2019-03-28,2024-11-27,2071,1870414.14,0.57,5.67,High Repeat,Loyal,Retail,Rental,West,2,69.64,67.42,68.75,Maintain engagement and encourage higher-value purchases,101
+C0394,40,69936379.2,2019-03-08,2024-11-21,2085,1748409.48,0.58,5.71,Very High Repeat,Highly Loyal,Government,Construction,South,4,71.43,64.64,68.71,Protect relationship and introduce premium loyalty benefits,102
+C0327,43,61017008.6,2019-02-01,2024-12-06,2135,1419000.2,0.61,5.85,Very High Repeat,Loyal,Retail,Mining,West,1,76.79,56.39,68.63,Maintain engagement and encourage higher-value purchases,103
+C0169,40,69450095.6,2019-03-25,2024-10-27,2043,1736252.39,0.6,5.59,Very High Repeat,Highly Loyal,Fleet Owner,Construction,West,4,71.43,64.19,68.53,Protect relationship and introduce premium loyalty benefits,104
+C0192,40,69269688.4,2019-01-19,2024-08-29,2049,1731742.21,0.59,5.61,Very High Repeat,Highly Loyal,Fleet Owner,Logistics,East,2,71.43,64.02,68.47,Protect relationship and introduce premium loyalty benefits,105
+C0384,39,72157498.2,2019-02-05,2024-09-09,2043,1850192.26,0.58,5.59,High Repeat,Loyal,Retail,Construction,South,3,69.64,66.69,68.46,Maintain engagement and encourage higher-value purchases,106
+C0469,40,68502617.4,2019-01-04,2024-12-18,2175,1712565.44,0.56,5.95,Very High Repeat,Highly Loyal,Government,Manufacturing,North,1,71.43,63.31,68.18,Protect relationship and introduce premium loyalty benefits,107
+C0343,40,68419201.6,2019-02-28,2024-11-21,2093,1710480.04,0.58,5.73,Very High Repeat,Highly Loyal,Corporate,Construction,West,1,71.43,63.23,68.15,Protect relationship and introduce premium loyalty benefits,108
+C0099,44,56469516.0,2019-01-10,2024-12-26,2177,1283398.09,0.62,5.96,Very High Repeat,Loyal,Fleet Owner,Rental,South,4,78.57,52.19,68.02,Maintain engagement and encourage higher-value purchases,109
+C0062,36,78963082.0,2019-03-18,2024-10-31,2054,2193418.94,0.53,5.62,High Repeat,Loyal,Dealer,Construction,South,1,64.29,72.98,67.76,Maintain engagement and encourage higher-value purchases,110
+C0379,41,64194052.6,2019-03-29,2024-12-15,2088,1565708.6,0.6,5.72,Very High Repeat,Loyal,Retail,Mining,West,3,73.21,59.33,67.66,Maintain engagement and encourage higher-value purchases,111
+C0414,40,66316815.6,2019-02-16,2024-12-31,2145,1657920.39,0.57,5.87,Very High Repeat,Loyal,Dealer,Construction,South,4,71.43,61.29,67.37,Maintain engagement and encourage higher-value purchases,112
+C0063,38,72065344.4,2019-02-28,2024-12-19,2121,1896456.43,0.55,5.81,High Repeat,Loyal,Retail,Rental,North,5,67.86,66.6,67.36,Maintain engagement and encourage higher-value purchases,113
+C0006,40,65482805.4,2019-06-05,2024-09-02,1916,1637070.14,0.64,5.25,Very High Repeat,Loyal,Government,Construction,West,3,71.43,60.52,67.07,Maintain engagement and encourage higher-value purchases,114
+C0413,41,62380011.4,2019-02-06,2024-11-08,2102,1521463.69,0.59,5.75,Very High Repeat,Loyal,Fleet Owner,Manufacturing,South,1,73.21,57.65,66.99,Maintain engagement and encourage higher-value purchases,115
+C0211,42,59389779.2,2019-03-06,2024-11-20,2086,1414042.36,0.61,5.71,Very High Repeat,Loyal,Fleet Owner,Manufacturing,South,1,75.0,54.89,66.96,Maintain engagement and encourage higher-value purchases,116
+C0443,40,64951558.8,2019-03-27,2024-11-18,2063,1623788.97,0.59,5.65,Very High Repeat,Loyal,Dealer,Infrastructure,East,1,71.43,60.03,66.87,Maintain engagement and encourage higher-value purchases,117
+C0280,42,59078520.8,2019-01-12,2024-11-05,2124,1406631.45,0.6,5.82,Very High Repeat,Loyal,Corporate,Construction,West,4,75.0,54.6,66.84,Maintain engagement and encourage higher-value purchases,118
+C0247,39,67759559.6,2019-02-14,2024-11-13,2099,1737424.61,0.57,5.75,High Repeat,Loyal,Corporate,Logistics,East,2,69.64,62.62,66.84,Maintain engagement and encourage higher-value purchases,119
+C0129,36,76393252.6,2019-01-06,2024-10-31,2125,2122034.79,0.52,5.82,High Repeat,Loyal,Corporate,Mining,North,5,64.29,70.6,66.81,Maintain engagement and encourage higher-value purchases,120
+C0369,40,64656844.2,2019-01-26,2024-12-13,2148,1616421.1,0.57,5.88,Very High Repeat,Loyal,Government,Manufacturing,West,1,71.43,59.76,66.76,Maintain engagement and encourage higher-value purchases,121
+C0025,38,70349653.0,2019-01-29,2024-08-18,2028,1851306.66,0.57,5.55,High Repeat,Loyal,Corporate,Infrastructure,West,2,67.86,65.02,66.72,Maintain engagement and encourage higher-value purchases,122
+C0269,41,61642030.4,2019-01-12,2024-11-22,2141,1503464.16,0.58,5.86,Very High Repeat,Loyal,Government,Mining,South,1,73.21,56.97,66.72,Maintain engagement and encourage higher-value purchases,123
+C0373,38,69753317.8,2019-04-03,2024-09-02,1979,1835613.63,0.58,5.42,High Repeat,Loyal,Corporate,Manufacturing,South,3,67.86,64.47,66.5,Maintain engagement and encourage higher-value purchases,124
+C0421,38,69466242.8,2019-04-06,2024-06-21,1903,1828059.02,0.61,5.21,High Repeat,Loyal,Retail,Construction,South,3,67.86,64.2,66.39,Maintain engagement and encourage higher-value purchases,125
+C0246,35,77080113.6,2019-01-26,2024-11-02,2107,2202288.96,0.51,5.77,High Repeat,Loyal,Retail,Manufacturing,North,2,62.5,71.24,66.0,Maintain engagement and encourage higher-value purchases,126
+C0040,43,53757984.6,2019-02-23,2024-12-21,2128,1250185.69,0.62,5.83,Very High Repeat,Loyal,Government,Logistics,North,2,76.79,49.68,65.94,Maintain engagement and encourage higher-value purchases,127
+C0080,42,56541324.2,2019-02-20,2024-11-03,2083,1346222.0,0.61,5.7,Very High Repeat,Loyal,Retail,Mining,South,1,75.0,52.26,65.9,Maintain engagement and encourage higher-value purchases,128
+C0152,40,62249804.2,2019-03-10,2024-11-18,2080,1556245.1,0.59,5.69,Very High Repeat,Loyal,Corporate,Manufacturing,South,2,71.43,57.53,65.87,Maintain engagement and encourage higher-value purchases,129
+C0041,38,68044561.6,2019-01-11,2024-06-11,1978,1790646.36,0.58,5.42,High Repeat,Loyal,Government,Rental,South,5,67.86,62.89,65.87,Maintain engagement and encourage higher-value purchases,130
+C0220,43,53467975.0,2019-01-19,2024-11-06,2118,1243441.28,0.62,5.8,Very High Repeat,Loyal,Government,Infrastructure,Central,2,76.79,49.42,65.84,Maintain engagement and encourage higher-value purchases,131
+C0193,38,67795348.0,2019-01-10,2024-11-30,2151,1784088.11,0.54,5.89,High Repeat,Loyal,Dealer,Infrastructure,West,4,67.86,62.66,65.78,Maintain engagement and encourage higher-value purchases,132
+C0464,38,67405736.8,2019-01-18,2024-09-13,2065,1773835.18,0.56,5.65,High Repeat,Loyal,Corporate,Infrastructure,North,1,67.86,62.3,65.63,Maintain engagement and encourage higher-value purchases,133
+C0315,40,61457629.4,2019-01-09,2024-12-17,2169,1536440.74,0.56,5.94,Very High Repeat,Loyal,Dealer,Rental,West,4,71.43,56.8,65.58,Maintain engagement and encourage higher-value purchases,134
+C0342,36,72821567.8,2019-12-04,2024-10-09,1771,2022821.33,0.62,4.85,High Repeat,Loyal,Dealer,Infrastructure,North,5,64.29,67.3,65.49,Maintain engagement and encourage higher-value purchases,135
+C0236,41,57861179.0,2019-03-21,2024-10-25,2045,1411248.27,0.61,5.6,Very High Repeat,Loyal,Corporate,Mining,West,1,73.21,53.48,65.32,Maintain engagement and encourage higher-value purchases,136
+C0124,42,54870405.8,2019-01-11,2024-11-04,2124,1306438.23,0.6,5.82,Very High Repeat,Loyal,Dealer,Construction,West,3,75.0,50.71,65.28,Maintain engagement and encourage higher-value purchases,137
+C0090,43,51915256.6,2019-03-16,2024-10-22,2047,1207331.55,0.64,5.6,Very High Repeat,Loyal,Government,Infrastructure,North,1,76.79,47.98,65.26,Maintain engagement and encourage higher-value purchases,138
+C0333,39,63220923.0,2019-01-09,2024-12-02,2154,1621049.31,0.55,5.9,High Repeat,Loyal,Corporate,Mining,South,3,69.64,58.43,65.16,Maintain engagement and encourage higher-value purchases,139
+C0105,41,57202879.8,2019-05-25,2024-11-26,2012,1395192.19,0.62,5.51,Very High Repeat,Loyal,Government,Logistics,North,4,73.21,52.87,65.08,Maintain engagement and encourage higher-value purchases,140
+C0011,41,57187490.8,2019-01-03,2024-11-22,2150,1394816.85,0.58,5.89,Very High Repeat,Loyal,Retail,Infrastructure,West,4,73.21,52.85,65.07,Maintain engagement and encourage higher-value purchases,141
+C0222,41,57177978.6,2019-01-30,2024-12-13,2144,1394584.84,0.58,5.87,Very High Repeat,Loyal,Fleet Owner,Logistics,North,5,73.21,52.84,65.07,Maintain engagement and encourage higher-value purchases,142
+C0499,39,62785837.0,2019-01-18,2024-11-29,2142,1609893.26,0.55,5.86,High Repeat,Loyal,Corporate,Construction,East,5,69.64,58.03,65.0,Maintain engagement and encourage higher-value purchases,143
+C0377,37,68519191.2,2019-02-01,2024-12-07,2136,1851870.03,0.53,5.85,High Repeat,Loyal,Dealer,Logistics,West,3,66.07,63.33,64.97,Maintain engagement and encourage higher-value purchases,144
+C0295,38,65390145.6,2019-03-07,2024-10-09,2043,1720793.31,0.57,5.59,High Repeat,Loyal,Corporate,Mining,East,5,67.86,60.43,64.89,Maintain engagement and encourage higher-value purchases,145
+C0149,38,65235052.4,2019-02-28,2024-12-12,2114,1716711.91,0.55,5.79,High Repeat,Loyal,Government,Manufacturing,West,3,67.86,60.29,64.83,Maintain engagement and encourage higher-value purchases,146
+C0216,39,62009378.6,2019-01-27,2024-11-20,2124,1589984.07,0.56,5.82,High Repeat,Loyal,Government,Mining,East,1,69.64,57.31,64.71,Maintain engagement and encourage higher-value purchases,147
+C0438,39,61720027.0,2019-06-17,2024-09-01,1903,1582564.79,0.62,5.21,High Repeat,Loyal,Corporate,Rental,East,2,69.64,57.04,64.6,Maintain engagement and encourage higher-value purchases,148
+C0385,37,67435700.6,2019-07-27,2024-09-23,1885,1822586.5,0.6,5.16,High Repeat,Loyal,Corporate,Manufacturing,West,2,66.07,62.32,64.57,Maintain engagement and encourage higher-value purchases,149
+C0396,38,64506474.4,2019-01-14,2024-12-07,2154,1697538.8,0.54,5.9,High Repeat,Loyal,Government,Manufacturing,West,2,67.86,59.62,64.56,Maintain engagement and encourage higher-value purchases,150
+C0488,37,67251532.8,2019-03-01,2024-11-26,2097,1817608.99,0.54,5.74,High Repeat,Loyal,Government,Construction,South,1,66.07,62.15,64.5,Maintain engagement and encourage higher-value purchases,151
+C0123,36,70019319.0,2019-01-16,2024-11-04,2119,1944981.08,0.52,5.8,High Repeat,Loyal,Corporate,Infrastructure,East,3,64.29,64.71,64.46,Maintain engagement and encourage higher-value purchases,152
+C0481,39,60397194.2,2019-01-03,2024-12-31,2189,1548646.01,0.54,5.99,High Repeat,Loyal,Corporate,Logistics,South,5,69.64,55.82,64.11,Maintain engagement and encourage higher-value purchases,153
+C0365,39,60336743.2,2019-01-04,2024-09-15,2081,1547095.98,0.57,5.7,High Repeat,Loyal,Government,Manufacturing,East,1,69.64,55.76,64.09,Maintain engagement and encourage higher-value purchases,154
+C0290,40,57372288.2,2019-03-04,2024-11-15,2083,1434307.2,0.58,5.7,Very High Repeat,Loyal,Corporate,Construction,West,3,71.43,53.02,64.07,Maintain engagement and encourage higher-value purchases,155
+C0130,39,60017312.8,2019-02-17,2024-11-16,2099,1538905.46,0.57,5.75,High Repeat,Loyal,Government,Mining,West,1,69.64,55.47,63.97,Maintain engagement and encourage higher-value purchases,156
+C0219,39,59976015.0,2019-01-09,2024-12-21,2173,1537846.54,0.55,5.95,High Repeat,Loyal,Government,Manufacturing,West,2,69.64,55.43,63.96,Maintain engagement and encourage higher-value purchases,157
+C0422,37,65678984.2,2019-09-19,2024-11-04,1873,1775107.68,0.6,5.13,High Repeat,Loyal,Government,Construction,South,5,66.07,60.7,63.92,Maintain engagement and encourage higher-value purchases,158
+C0296,40,56944680.8,2019-01-02,2024-11-07,2136,1423617.02,0.57,5.85,Very High Repeat,Loyal,Corporate,Manufacturing,East,2,71.43,52.63,63.91,Maintain engagement and encourage higher-value purchases,159
+C0039,38,62706510.2,2019-04-17,2024-11-28,2052,1650171.32,0.56,5.62,High Repeat,Loyal,Fleet Owner,Rental,South,4,67.86,57.95,63.9,Maintain engagement and encourage higher-value purchases,160
+C0410,39,59804309.8,2019-03-03,2024-11-27,2096,1533443.84,0.57,5.74,High Repeat,Loyal,Corporate,Mining,South,4,69.64,55.27,63.89,Maintain engagement and encourage higher-value purchases,161
+C0448,36,68495840.4,2019-03-13,2024-12-11,2100,1902662.23,0.52,5.75,High Repeat,Loyal,Fleet Owner,Logistics,East,4,64.29,63.3,63.89,Maintain engagement and encourage higher-value purchases,162
+C0101,38,62629058.6,2019-02-26,2024-10-10,2053,1648133.12,0.56,5.62,High Repeat,Loyal,Corporate,Logistics,South,5,67.86,57.88,63.87,Maintain engagement and encourage higher-value purchases,163
+C0058,40,56831525.0,2019-01-23,2024-12-24,2162,1420788.12,0.56,5.92,Very High Repeat,Loyal,Retail,Infrastructure,West,3,71.43,52.52,63.87,Maintain engagement and encourage higher-value purchases,164
+C0471,37,65501994.2,2019-02-23,2024-11-27,2104,1770324.17,0.54,5.76,High Repeat,Loyal,Fleet Owner,Logistics,West,5,66.07,60.54,63.86,Maintain engagement and encourage higher-value purchases,165
+C0312,37,65437706.6,2019-04-16,2024-11-17,2042,1768586.66,0.55,5.59,High Repeat,Loyal,Government,Construction,West,4,66.07,60.48,63.83,Maintain engagement and encourage higher-value purchases,166
+C0016,35,70872336.2,2019-01-18,2024-12-18,2161,2024923.89,0.49,5.92,High Repeat,Loyal,Government,Rental,East,4,62.5,65.5,63.7,Maintain engagement and encourage higher-value purchases,167
+C0399,39,59287998.0,2019-01-03,2024-12-25,2183,1520205.08,0.54,5.98,High Repeat,Loyal,Fleet Owner,Rental,South,3,69.64,54.79,63.7,Maintain engagement and encourage higher-value purchases,168
+C0476,34,73746173.2,2019-01-13,2024-09-29,2086,2169005.09,0.5,5.71,High Repeat,Loyal,Fleet Owner,Infrastructure,North,3,60.71,68.16,63.69,Maintain engagement and encourage higher-value purchases,169
+C0017,39,59194497.0,2019-01-31,2024-12-21,2151,1517807.62,0.55,5.89,High Repeat,Loyal,Government,Infrastructure,South,1,69.64,54.71,63.67,Maintain engagement and encourage higher-value purchases,170
+C0230,38,62086661.8,2019-02-19,2024-10-31,2081,1633859.52,0.56,5.7,High Repeat,Loyal,Dealer,Infrastructure,North,5,67.86,57.38,63.67,Maintain engagement and encourage higher-value purchases,171
+C0310,39,59059490.6,2019-05-30,2024-11-07,1988,1514345.91,0.6,5.44,High Repeat,Loyal,Government,Infrastructure,East,4,69.64,54.58,63.62,Maintain engagement and encourage higher-value purchases,172
+C0337,34,73457151.8,2019-04-15,2024-08-25,1959,2160504.46,0.53,5.36,High Repeat,Loyal,Corporate,Manufacturing,North,2,60.71,67.89,63.58,Maintain engagement and encourage higher-value purchases,173
+C0427,41,53149424.2,2019-02-07,2024-11-26,2119,1296327.42,0.59,5.8,Very High Repeat,Loyal,Corporate,Mining,West,3,73.21,49.12,63.58,Maintain engagement and encourage higher-value purchases,174
+C0264,36,67321592.8,2019-01-02,2024-11-02,2131,1870044.24,0.51,5.83,High Repeat,Loyal,Retail,Infrastructure,West,4,64.29,62.22,63.46,Maintain engagement and encourage higher-value purchases,175
+C0297,34,73065015.6,2019-02-13,2024-07-01,1965,2148971.05,0.53,5.38,High Repeat,Loyal,Fleet Owner,Rental,South,3,60.71,67.53,63.44,Maintain engagement and encourage higher-value purchases,176
+C0106,39,58339475.8,2019-04-07,2024-11-12,2046,1495883.99,0.58,5.6,High Repeat,Loyal,Dealer,Infrastructure,Central,2,69.64,53.92,63.35,Maintain engagement and encourage higher-value purchases,177
+C0341,36,66838579.4,2019-03-10,2024-10-07,2038,1856627.21,0.54,5.58,High Repeat,Loyal,Fleet Owner,Mining,North,5,64.29,61.77,63.28,Maintain engagement and encourage higher-value purchases,178
+C0293,36,66815451.4,2019-01-19,2024-09-25,2076,1855984.76,0.53,5.68,High Repeat,Loyal,Dealer,Logistics,West,3,64.29,61.75,63.27,Maintain engagement and encourage higher-value purchases,179
+C0054,37,63424926.8,2019-01-31,2024-12-14,2144,1714187.21,0.53,5.87,High Repeat,Loyal,Fleet Owner,Manufacturing,South,2,66.07,58.62,63.09,Maintain engagement and encourage higher-value purchases,180
+C0235,38,60478356.4,2019-05-08,2024-09-10,1952,1591535.69,0.59,5.34,High Repeat,Loyal,Fleet Owner,Mining,East,5,67.86,55.89,63.07,Maintain engagement and encourage higher-value purchases,181
+C0141,36,66220737.2,2019-04-06,2024-11-15,2050,1839464.92,0.53,5.61,High Repeat,Loyal,Corporate,Rental,West,4,64.29,61.2,63.05,Maintain engagement and encourage higher-value purchases,182
+C0335,38,60351028.0,2019-01-31,2024-11-03,2103,1588184.95,0.55,5.76,High Repeat,Loyal,Government,Infrastructure,North East,5,67.86,55.78,63.03,Maintain engagement and encourage higher-value purchases,183
+C0102,34,71864051.2,2019-03-11,2024-10-24,2054,2113648.56,0.5,5.62,High Repeat,Loyal,Government,Infrastructure,East,4,60.71,66.42,63.0,Maintain engagement and encourage higher-value purchases,184
+C0068,39,57372766.4,2019-03-11,2024-12-06,2097,1471096.57,0.57,5.74,High Repeat,Loyal,Retail,Mining,North,1,69.64,53.02,63.0,Maintain engagement and encourage higher-value purchases,185
+C0328,37,62646507.6,2019-01-03,2024-12-05,2163,1693148.85,0.52,5.92,High Repeat,Loyal,Government,Rental,East,4,66.07,57.9,62.8,Maintain engagement and encourage higher-value purchases,186
+C0329,36,64307436.8,2019-01-03,2024-12-26,2184,1786317.69,0.5,5.98,High Repeat,Loyal,Dealer,Infrastructure,Central,1,64.29,59.43,62.34,Maintain engagement and encourage higher-value purchases,187
+C0029,38,58176890.6,2019-01-16,2024-06-30,1992,1530970.81,0.58,5.45,High Repeat,Loyal,Dealer,Construction,South,1,67.86,53.77,62.22,Maintain engagement and encourage higher-value purchases,188
+C0161,37,60837361.2,2019-03-24,2024-11-17,2065,1644253.01,0.55,5.65,High Repeat,Loyal,Dealer,Mining,West,4,66.07,56.23,62.13,Maintain engagement and encourage higher-value purchases,189
+C0273,37,60830001.0,2019-05-04,2024-12-31,2068,1644054.08,0.54,5.66,High Repeat,Loyal,Dealer,Manufacturing,East,1,66.07,56.22,62.13,Maintain engagement and encourage higher-value purchases,190
+C0302,36,63607092.0,2019-02-05,2024-12-24,2149,1766863.67,0.51,5.88,High Repeat,Loyal,Fleet Owner,Mining,West,1,64.29,58.79,62.09,Maintain engagement and encourage higher-value purchases,191
+C0198,36,63577917.2,2019-03-27,2024-08-01,1954,1766053.26,0.56,5.35,High Repeat,Loyal,Government,Mining,West,2,64.29,58.76,62.08,Maintain engagement and encourage higher-value purchases,192
+C0346,39,54686860.8,2019-01-21,2024-11-15,2125,1402227.2,0.56,5.82,High Repeat,Loyal,Retail,Construction,East,3,69.64,50.54,62.0,Maintain engagement and encourage higher-value purchases,193
+C0085,37,60463527.2,2019-01-01,2024-09-20,2089,1634149.38,0.54,5.72,High Repeat,Loyal,Retail,Mining,South,4,66.07,55.88,62.0,Maintain engagement and encourage higher-value purchases,194
+C0274,39,54639688.2,2019-01-08,2024-06-27,1997,1401017.65,0.59,5.47,High Repeat,Loyal,Dealer,Mining,North,3,69.64,50.5,61.99,Maintain engagement and encourage higher-value purchases,195
+C0188,39,54387524.8,2019-03-04,2024-12-27,2125,1394551.92,0.56,5.82,High Repeat,Loyal,Corporate,Logistics,West,4,69.64,50.27,61.89,Maintain engagement and encourage higher-value purchases,196
+C0009,34,68836324.8,2019-04-14,2024-11-04,2031,2024597.79,0.51,5.56,High Repeat,Loyal,Corporate,Rental,West,4,60.71,63.62,61.88,Maintain engagement and encourage higher-value purchases,197
+C0140,37,60136648.6,2019-03-18,2024-11-24,2078,1625314.83,0.54,5.69,High Repeat,Loyal,Retail,Logistics,West,3,66.07,55.58,61.87,Maintain engagement and encourage higher-value purchases,198
+C0027,39,54309976.4,2019-03-25,2024-12-26,2103,1392563.5,0.56,5.76,High Repeat,Loyal,Fleet Owner,Logistics,West,1,69.64,50.19,61.86,Maintain engagement and encourage higher-value purchases,199
+C0022,38,56759064.0,2019-01-13,2024-11-06,2124,1493659.58,0.54,5.82,High Repeat,Loyal,Retail,Infrastructure,South,3,67.86,52.46,61.7,Maintain engagement and encourage higher-value purchases,200
+C0318,36,62202116.0,2019-01-08,2024-10-17,2109,1727836.56,0.52,5.77,High Repeat,Loyal,Corporate,Logistics,North,3,64.29,57.49,61.57,Maintain engagement and encourage higher-value purchases,201
+C0345,40,50444735.6,2019-02-21,2024-11-20,2099,1261118.39,0.58,5.75,Very High Repeat,Loyal,Retail,Infrastructure,West,2,71.43,46.62,61.51,Maintain engagement and encourage higher-value purchases,202
+C0217,36,61360958.2,2019-01-19,2024-12-18,2160,1704471.06,0.51,5.91,High Repeat,Loyal,Corporate,Infrastructure,North,5,64.29,56.71,61.26,Maintain engagement and encourage higher-value purchases,203
+C0116,35,64081942.6,2019-01-08,2024-07-28,2028,1830912.65,0.53,5.55,High Repeat,Loyal,Dealer,Construction,North,1,62.5,59.23,61.19,Maintain engagement and encourage higher-value purchases,204
+C0450,38,55345960.4,2019-01-15,2024-09-12,2067,1456472.64,0.56,5.66,High Repeat,Loyal,Fleet Owner,Construction,East,5,67.86,51.15,61.17,Maintain engagement and encourage higher-value purchases,205
+C0056,36,60885469.8,2019-01-08,2024-11-10,2133,1691263.05,0.51,5.84,High Repeat,Loyal,Dealer,Mining,North,4,64.29,56.27,61.08,Maintain engagement and encourage higher-value purchases,206
+C0340,35,63532821.6,2019-01-05,2024-12-04,2160,1815223.47,0.49,5.91,High Repeat,Loyal,Government,Mining,South,3,62.5,58.72,60.99,Maintain engagement and encourage higher-value purchases,207
+C0026,36,60554977.0,2019-01-09,2024-12-29,2181,1682082.69,0.5,5.97,High Repeat,Loyal,Fleet Owner,Mining,North,5,64.29,55.97,60.96,Maintain engagement and encourage higher-value purchases,208
+C0251,36,60544705.8,2019-01-09,2024-07-06,2005,1681797.38,0.55,5.49,High Repeat,Loyal,Dealer,Mining,North,4,64.29,55.96,60.95,Maintain engagement and encourage higher-value purchases,209
+C0128,33,69172996.2,2019-01-02,2024-12-18,2177,2096151.4,0.46,5.96,High Repeat,Loyal,Retail,Mining,West,1,58.93,63.93,60.93,Maintain engagement and encourage higher-value purchases,210
+C0249,35,63391180.8,2019-01-16,2024-09-03,2057,1811176.59,0.52,5.63,High Repeat,Loyal,Corporate,Construction,West,4,62.5,58.59,60.93,Maintain engagement and encourage higher-value purchases,211
+C0493,38,54684935.2,2019-02-18,2024-11-22,2104,1439077.24,0.55,5.76,High Repeat,Loyal,Retail,Construction,South,3,67.86,50.54,60.93,Maintain engagement and encourage higher-value purchases,212
+C0232,37,57544368.0,2019-01-24,2024-12-29,2166,1555253.19,0.52,5.93,High Repeat,Loyal,Government,Mining,South,1,66.07,53.18,60.92,Maintain engagement and encourage higher-value purchases,213
+C0407,38,54609453.4,2019-02-01,2024-12-25,2154,1437090.88,0.54,5.9,High Repeat,Loyal,Dealer,Logistics,South,2,67.86,50.47,60.9,Maintain engagement and encourage higher-value purchases,214
+C0455,35,63287015.4,2019-04-27,2024-11-27,2041,1808200.44,0.52,5.59,High Repeat,Loyal,Retail,Logistics,Central,1,62.5,58.49,60.9,Maintain engagement and encourage higher-value purchases,215
+C0321,38,54558976.4,2019-01-04,2024-06-28,2002,1435762.54,0.58,5.48,High Repeat,Loyal,Retail,Logistics,South,2,67.86,50.42,60.88,Maintain engagement and encourage higher-value purchases,216
+C0286,36,60273490.2,2019-01-06,2024-12-29,2184,1674263.62,0.5,5.98,High Repeat,Loyal,Dealer,Construction,South,2,64.29,55.71,60.85,Maintain engagement and encourage higher-value purchases,217
+C0172,37,57323600.2,2019-08-18,2024-11-27,1928,1549286.49,0.58,5.28,High Repeat,Loyal,Dealer,Manufacturing,South,1,66.07,52.98,60.83,Maintain engagement and encourage higher-value purchases,218
+C0408,36,60127186.2,2019-07-06,2024-11-02,1946,1670199.62,0.56,5.33,High Repeat,Loyal,Government,Infrastructure,South,4,64.29,55.57,60.8,Maintain engagement and encourage higher-value purchases,219
+C0330,38,54285450.6,2019-02-12,2024-08-10,2006,1428564.49,0.58,5.49,High Repeat,Loyal,Retail,Infrastructure,East,3,67.86,50.17,60.78,Maintain engagement and encourage higher-value purchases,220
+C0393,39,51240981.8,2019-03-27,2024-12-18,2093,1313871.33,0.57,5.73,High Repeat,Loyal,Retail,Rental,East,3,69.64,47.36,60.73,Maintain engagement and encourage higher-value purchases,221
+C0415,33,68592455.6,2019-03-21,2024-10-11,2031,2078559.26,0.49,5.56,High Repeat,Loyal,Government,Infrastructure,North East,1,58.93,63.39,60.71,Maintain engagement and encourage higher-value purchases,222
+C0135,35,62791824.6,2019-03-09,2024-08-27,1998,1794052.13,0.53,5.47,High Repeat,Loyal,Retail,Rental,South,2,62.5,58.03,60.71,Maintain engagement and encourage higher-value purchases,223
+C0065,36,59751563.6,2019-01-07,2024-12-12,2166,1659765.66,0.51,5.93,High Repeat,Loyal,Corporate,Mining,West,4,64.29,55.22,60.66,Maintain engagement and encourage higher-value purchases,224
+C0354,37,56690884.8,2019-01-06,2024-12-25,2180,1532186.08,0.52,5.97,High Repeat,Loyal,Corporate,Logistics,South,2,66.07,52.39,60.6,Maintain engagement and encourage higher-value purchases,225
+C0051,36,59420710.4,2019-02-15,2024-11-15,2100,1650575.29,0.52,5.75,High Repeat,Loyal,Retail,Infrastructure,North,4,64.29,54.92,60.54,Maintain engagement and encourage higher-value purchases,226
+C0175,36,59434888.8,2019-01-24,2024-11-01,2108,1650969.13,0.52,5.77,High Repeat,Loyal,Fleet Owner,Rental,East,5,64.29,54.93,60.54,Maintain engagement and encourage higher-value purchases,227
+C0358,36,59405501.6,2019-04-17,2024-10-01,1994,1650152.82,0.55,5.46,High Repeat,Loyal,Government,Infrastructure,West,4,64.29,54.9,60.53,Maintain engagement and encourage higher-value purchases,228
+C0081,37,56355210.0,2019-01-03,2024-12-23,2181,1523113.78,0.52,5.97,High Repeat,Loyal,Corporate,Rental,West,1,66.07,52.08,60.48,Maintain engagement and encourage higher-value purchases,229
+C0482,31,73762403.2,2019-12-15,2024-12-03,1815,2379432.36,0.52,4.97,High Repeat,Loyal,Fleet Owner,Logistics,East,1,55.36,68.17,60.48,Maintain engagement and encourage higher-value purchases,230
+C0035,38,53340276.8,2019-01-07,2024-11-12,2136,1403691.49,0.54,5.85,High Repeat,Loyal,Dealer,Infrastructure,Central,4,67.86,49.3,60.43,Maintain engagement and encourage higher-value purchases,231
+C0074,39,50426138.6,2019-01-10,2024-12-31,2182,1292977.91,0.54,5.97,High Repeat,Loyal,Fleet Owner,Infrastructure,East,5,69.64,46.6,60.43,Maintain engagement and encourage higher-value purchases,232
+C0087,39,50370513.4,2019-01-22,2024-12-17,2156,1291551.63,0.55,5.9,High Repeat,Loyal,Government,Logistics,South,3,69.64,46.55,60.41,Maintain engagement and encourage higher-value purchases,233
+C0492,35,61798115.2,2019-02-04,2024-11-05,2101,1765660.43,0.51,5.75,High Repeat,Loyal,Dealer,Rental,East,1,62.5,57.11,60.35,Maintain engagement and encourage higher-value purchases,234
+C0158,36,58875735.2,2019-03-03,2024-09-26,2034,1635437.09,0.54,5.57,High Repeat,Loyal,Corporate,Infrastructure,East,2,64.29,54.41,60.34,Maintain engagement and encourage higher-value purchases,235
+C0263,35,61677496.4,2019-03-06,2024-11-01,2067,1762214.18,0.52,5.66,High Repeat,Loyal,Government,Rental,South,3,62.5,57.0,60.3,Maintain engagement and encourage higher-value purchases,236
+C0314,36,58625243.8,2019-01-22,2024-09-26,2074,1628478.99,0.53,5.68,High Repeat,Loyal,Retail,Logistics,East,1,64.29,54.18,60.24,Maintain engagement and encourage higher-value purchases,237
+C0156,33,67117436.4,2019-01-14,2024-09-17,2073,2033861.71,0.48,5.68,High Repeat,Loyal,Government,Manufacturing,South,5,58.93,62.03,60.17,Maintain engagement and encourage higher-value purchases,238
+C0189,35,61121980.8,2019-03-03,2024-11-11,2080,1746342.31,0.51,5.69,High Repeat,Loyal,Government,Manufacturing,South,4,62.5,56.49,60.1,Maintain engagement and encourage higher-value purchases,239
+C0168,34,64028787.0,2019-06-02,2024-12-18,2026,1883199.62,0.51,5.55,High Repeat,Loyal,Dealer,Infrastructure,West,1,60.71,59.18,60.1,Maintain engagement and encourage higher-value purchases,240
+C0401,36,58231157.8,2019-01-11,2024-10-25,2114,1617532.16,0.52,5.79,High Repeat,Loyal,Government,Logistics,North East,1,64.29,53.82,60.1,Maintain engagement and encourage higher-value purchases,241
+C0093,36,57944235.8,2019-02-13,2024-12-01,2118,1609562.11,0.52,5.8,High Repeat,Loyal,Dealer,Manufacturing,South,2,64.29,53.55,59.99,Maintain engagement and encourage higher-value purchases,242
+C0166,32,69504759.6,2019-01-18,2024-12-08,2151,2172023.74,0.45,5.89,High Repeat,Loyal,Fleet Owner,Manufacturing,West,2,57.14,64.24,59.98,Maintain engagement and encourage higher-value purchases,243
+C0038,36,57808311.2,2019-01-08,2024-11-29,2152,1605786.42,0.51,5.89,High Repeat,Loyal,Fleet Owner,Rental,North,1,64.29,53.43,59.94,Maintain engagement and encourage higher-value purchases,244
+C0477,36,57746038.6,2019-06-12,2024-10-13,1950,1604056.63,0.56,5.34,High Repeat,Loyal,Government,Construction,West,5,64.29,53.37,59.92,Maintain engagement and encourage higher-value purchases,245
+C0088,36,57330201.8,2019-01-26,2024-08-06,2019,1592505.61,0.54,5.53,High Repeat,Loyal,Corporate,Infrastructure,West,1,64.29,52.99,59.77,Maintain engagement and encourage higher-value purchases,246
+C0138,34,62582651.4,2019-01-10,2024-12-25,2176,1840666.22,0.48,5.96,High Repeat,Loyal,Corporate,Mining,South,5,60.71,57.84,59.56,Maintain engagement and encourage higher-value purchases,247
+C0461,36,56714684.2,2019-02-27,2024-10-31,2073,1575407.89,0.53,5.68,High Repeat,Loyal,Corporate,Infrastructure,North,5,64.29,52.42,59.54,Maintain engagement and encourage higher-value purchases,248
+C0458,38,50799400.6,2019-07-09,2024-12-28,1999,1336826.33,0.58,5.47,High Repeat,Loyal,Dealer,Manufacturing,West,4,67.86,46.95,59.49,Maintain engagement and encourage higher-value purchases,249
+C0362,37,53495189.2,2019-02-26,2024-10-11,2054,1445815.92,0.55,5.62,High Repeat,Loyal,Corporate,Rental,West,1,66.07,49.44,59.42,Maintain engagement and encourage higher-value purchases,250
+C0012,37,53404468.4,2019-01-28,2024-10-10,2082,1443364.01,0.54,5.7,High Repeat,Loyal,Fleet Owner,Logistics,South,1,66.07,49.36,59.39,Maintain engagement and encourage higher-value purchases,251
+C0397,36,56279511.4,2019-02-11,2024-11-22,2111,1563319.76,0.52,5.78,High Repeat,Loyal,Fleet Owner,Mining,West,3,64.29,52.01,59.38,Maintain engagement and encourage higher-value purchases,252
+C0126,33,64059034.8,2019-03-05,2024-04-05,1858,1941182.87,0.54,5.09,High Repeat,Loyal,Dealer,Manufacturing,South,4,58.93,59.2,59.04,Maintain engagement and encourage higher-value purchases,253
+C0228,34,61132479.4,2019-03-27,2024-09-10,1994,1798014.1,0.52,5.46,High Repeat,Loyal,Government,Construction,South,3,60.71,56.5,59.03,Maintain engagement and encourage higher-value purchases,254
+C0424,35,58183379.4,2019-03-22,2024-09-23,2012,1662382.27,0.53,5.51,High Repeat,Loyal,Retail,Construction,West,4,62.5,53.77,59.01,Maintain engagement and encourage higher-value purchases,255
+C0015,34,61028370.8,2019-02-18,2024-11-16,2098,1794952.08,0.49,5.74,High Repeat,Loyal,Government,Rental,West,2,60.71,56.4,58.99,Maintain engagement and encourage higher-value purchases,256
+C0287,36,55179366.6,2019-03-22,2024-11-27,2077,1532760.18,0.53,5.69,High Repeat,Loyal,Dealer,Manufacturing,South,4,64.29,51.0,58.97,Maintain engagement and encourage higher-value purchases,257
+C0398,35,57843305.6,2019-09-10,2024-12-02,1910,1652665.87,0.56,5.23,High Repeat,Loyal,Government,Rental,South,5,62.5,53.46,58.88,Maintain engagement and encourage higher-value purchases,258
+C0261,33,62999554.6,2019-05-06,2024-12-06,2041,1909077.41,0.49,5.59,High Repeat,Loyal,Dealer,Manufacturing,North,5,58.93,58.22,58.65,Maintain engagement and encourage higher-value purchases,259
+C0426,35,57207251.0,2019-02-20,2024-12-03,2113,1634492.89,0.5,5.79,High Repeat,Loyal,Dealer,Infrastructure,North East,1,62.5,52.87,58.65,Maintain engagement and encourage higher-value purchases,260
+C0100,38,48373950.0,2019-01-25,2024-09-10,2055,1272998.68,0.56,5.63,High Repeat,Loyal,Government,Construction,North,3,67.86,44.71,58.6,Maintain engagement and encourage higher-value purchases,261
+C0224,36,54050072.4,2019-01-30,2024-10-31,2101,1501390.9,0.52,5.75,High Repeat,Loyal,Retail,Manufacturing,East,3,64.29,49.95,58.55,Maintain engagement and encourage higher-value purchases,262
+C0370,36,53881174.6,2019-02-18,2024-12-18,2130,1496699.29,0.51,5.83,High Repeat,Loyal,Corporate,Infrastructure,East,4,64.29,49.8,58.49,Maintain engagement and encourage higher-value purchases,263
+C0052,35,56612172.2,2019-02-12,2024-12-11,2129,1617490.63,0.5,5.83,High Repeat,Loyal,Government,Manufacturing,North East,2,62.5,52.32,58.43,Maintain engagement and encourage higher-value purchases,264
+C0190,35,56351528.4,2019-05-15,2024-12-29,2055,1610043.67,0.52,5.63,High Repeat,Loyal,Retail,Manufacturing,North,1,62.5,52.08,58.33,Maintain engagement and encourage higher-value purchases,265
+C0406,32,64818334.4,2019-02-25,2024-10-11,2055,2025572.95,0.47,5.63,High Repeat,Loyal,Dealer,Logistics,West,3,57.14,59.91,58.25,Maintain engagement and encourage higher-value purchases,266
+C0098,35,56088743.0,2019-03-14,2024-12-18,2106,1602535.51,0.51,5.77,High Repeat,Loyal,Corporate,Mining,East,1,62.5,51.84,58.24,Maintain engagement and encourage higher-value purchases,267
+C0181,36,53087081.0,2019-04-13,2024-12-15,2073,1474641.14,0.53,5.68,High Repeat,Loyal,Government,Construction,West,5,64.29,49.06,58.2,Maintain engagement and encourage higher-value purchases,268
+C0460,32,64634814.4,2019-04-06,2024-11-25,2060,2019837.95,0.47,5.64,High Repeat,Loyal,Dealer,Logistics,South,1,57.14,59.74,58.18,Maintain engagement and encourage higher-value purchases,269
+C0278,38,47107787.2,2019-08-12,2024-12-03,1940,1239678.61,0.6,5.31,High Repeat,Loyal,Fleet Owner,Logistics,West,4,67.86,43.54,58.13,Maintain engagement and encourage higher-value purchases,270
+C0372,36,52822436.0,2019-02-15,2024-07-10,1972,1467289.89,0.56,5.4,High Repeat,Loyal,Government,Logistics,South,4,64.29,48.82,58.1,Maintain engagement and encourage higher-value purchases,271
+C0447,33,61334243.8,2019-05-16,2024-12-23,2048,1858613.45,0.49,5.61,High Repeat,Loyal,Fleet Owner,Rental,East,2,58.93,56.69,58.03,Maintain engagement and encourage higher-value purchases,272
+C0451,37,49725150.4,2019-01-07,2024-07-06,2007,1343922.98,0.56,5.49,High Repeat,Loyal,Government,Manufacturing,East,3,66.07,45.96,58.03,Maintain engagement and encourage higher-value purchases,273
+C0390,32,64132451.0,2019-03-23,2024-11-09,2058,2004139.09,0.47,5.63,High Repeat,Loyal,Fleet Owner,Construction,North,3,57.14,59.27,57.99,Maintain engagement and encourage higher-value purchases,274
+C0463,35,55370560.0,2019-01-10,2024-08-22,2051,1582016.0,0.52,5.62,High Repeat,Loyal,Dealer,Mining,West,4,62.5,51.17,57.97,Maintain engagement and encourage higher-value purchases,275
+C0432,37,49310040.8,2019-01-26,2024-10-04,2078,1332703.81,0.54,5.69,High Repeat,Loyal,Fleet Owner,Mining,South,3,66.07,45.57,57.87,Maintain engagement and encourage higher-value purchases,276
+C0163,38,46377823.0,2019-06-02,2024-08-05,1891,1220469.03,0.61,5.18,High Repeat,Loyal,Dealer,Logistics,West,5,67.86,42.86,57.86,Maintain engagement and encourage higher-value purchases,277
+C0268,32,63709103.6,2019-01-21,2024-10-07,2086,1990909.49,0.47,5.71,High Repeat,Loyal,Government,Mining,West,3,57.14,58.88,57.84,Maintain engagement and encourage higher-value purchases,278
+C0227,34,57926647.6,2019-02-13,2024-10-24,2080,1703724.93,0.5,5.69,High Repeat,Loyal,Fleet Owner,Infrastructure,East,1,60.71,53.54,57.84,Maintain engagement and encourage higher-value purchases,279
+C0077,34,57865492.6,2019-02-05,2024-12-16,2141,1701926.25,0.48,5.86,High Repeat,Loyal,Corporate,Mining,North,1,60.71,53.48,57.82,Maintain engagement and encourage higher-value purchases,280
+C0234,29,72295152.4,2019-01-09,2024-12-26,2178,2492936.29,0.41,5.96,Moderate Repeat,Regular,Corporate,Infrastructure,West,2,51.79,66.82,57.8,Increase purchase frequency through targeted offers,281
+C0148,35,54884128.4,2019-01-28,2024-12-09,2142,1568117.95,0.5,5.86,High Repeat,Loyal,Government,Construction,South,4,62.5,50.72,57.79,Maintain engagement and encourage higher-value purchases,282
+C0436,34,57784314.2,2019-02-01,2024-12-15,2144,1699538.65,0.48,5.87,High Repeat,Loyal,Fleet Owner,Logistics,East,3,60.71,53.4,57.79,Maintain engagement and encourage higher-value purchases,283
+C0132,37,49004629.4,2019-02-22,2024-10-01,2048,1324449.44,0.55,5.61,High Repeat,Loyal,Corporate,Construction,Central,2,66.07,45.29,57.76,Maintain engagement and encourage higher-value purchases,284
+C0319,33,60426895.0,2019-05-16,2024-12-08,2033,1831118.03,0.49,5.57,High Repeat,Loyal,Dealer,Mining,South,5,58.93,55.85,57.7,Maintain engagement and encourage higher-value purchases,285
+C0259,33,60202150.6,2019-02-02,2024-12-13,2141,1824307.59,0.47,5.86,High Repeat,Loyal,Fleet Owner,Logistics,South,1,58.93,55.64,57.61,Maintain engagement and encourage higher-value purchases,286
+C0496,37,48190097.0,2019-02-17,2024-12-27,2140,1302435.05,0.53,5.86,High Repeat,Loyal,Government,Infrastructure,East,5,66.07,44.54,57.46,Maintain engagement and encourage higher-value purchases,287
+C0203,35,53777085.6,2019-02-25,2024-11-19,2094,1536488.16,0.51,5.73,High Repeat,Loyal,Government,Manufacturing,West,1,62.5,49.7,57.38,Maintain engagement and encourage higher-value purchases,288
+C0003,38,44728031.8,2019-04-05,2024-10-30,2035,1177053.47,0.57,5.57,High Repeat,Loyal,Government,Logistics,West,2,67.86,41.34,57.25,Maintain engagement and encourage higher-value purchases,289
+C0323,36,50291498.8,2019-01-11,2024-12-22,2172,1396986.08,0.5,5.95,High Repeat,Loyal,Government,Manufacturing,West,2,64.29,46.48,57.16,Maintain engagement and encourage higher-value purchases,290
+C0089,37,47111014.0,2019-01-02,2024-11-14,2143,1273270.65,0.53,5.87,High Repeat,Loyal,Corporate,Rental,West,4,66.07,43.54,57.06,Maintain engagement and encourage higher-value purchases,291
+C0157,34,55572804.4,2019-02-15,2024-12-30,2145,1634494.25,0.48,5.87,High Repeat,Loyal,Dealer,Infrastructure,North,1,60.71,51.36,56.97,Maintain engagement and encourage higher-value purchases,292
+C0324,35,52335374.8,2019-01-24,2024-08-24,2039,1495296.42,0.52,5.58,High Repeat,Loyal,Corporate,Mining,South,5,62.5,48.37,56.85,Maintain engagement and encourage higher-value purchases,293
+C0001,34,55019747.4,2019-01-26,2024-11-15,2120,1618227.86,0.49,5.8,High Repeat,Loyal,Retail,Construction,East,4,60.71,50.85,56.77,Maintain engagement and encourage higher-value purchases,294
+C0470,36,49194933.2,2019-01-25,2024-09-27,2072,1366525.92,0.53,5.67,High Repeat,Loyal,Government,Mining,South,1,64.29,45.47,56.76,Maintain engagement and encourage higher-value purchases,295
+C0472,34,54888819.4,2019-04-29,2024-11-23,2035,1614377.04,0.51,5.57,High Repeat,Loyal,Dealer,Manufacturing,South,4,60.71,50.73,56.72,Maintain engagement and encourage higher-value purchases,296
+C0416,37,46006682.0,2019-01-05,2024-10-20,2115,1243423.84,0.53,5.79,High Repeat,Loyal,Dealer,Manufacturing,South,2,66.07,42.52,56.65,Maintain engagement and encourage higher-value purchases,297
+C0213,30,66248437.6,2019-02-26,2024-08-31,2013,2208281.25,0.45,5.51,High Repeat,Loyal,Fleet Owner,Rental,West,4,53.57,61.23,56.63,Maintain engagement and encourage higher-value purchases,298
+C0400,35,51694363.6,2019-04-06,2024-10-23,2027,1476981.82,0.53,5.55,High Repeat,Loyal,Government,Infrastructure,North,5,62.5,47.78,56.61,Maintain engagement and encourage higher-value purchases,299
+C0136,37,45774176.2,2019-03-23,2024-11-13,2062,1237139.9,0.55,5.65,High Repeat,Loyal,Dealer,Mining,West,3,66.07,42.3,56.56,Maintain engagement and encourage higher-value purchases,300
+C0349,33,56613876.0,2019-01-31,2024-10-19,2088,1715572.0,0.48,5.72,High Repeat,Loyal,Corporate,Rental,West,1,58.93,52.32,56.29,Maintain engagement and encourage higher-value purchases,301
+C0457,33,56578805.4,2019-01-13,2024-11-15,2133,1714509.25,0.47,5.84,High Repeat,Loyal,Retail,Manufacturing,East,4,58.93,52.29,56.27,Maintain engagement and encourage higher-value purchases,302
+C0245,33,56554752.6,2019-01-01,2024-11-30,2160,1713780.38,0.47,5.91,High Repeat,Loyal,Dealer,Logistics,South,2,58.93,52.27,56.26,Maintain engagement and encourage higher-value purchases,303
+C0266,35,50717014.0,2019-01-22,2024-09-24,2072,1449057.54,0.51,5.67,High Repeat,Loyal,Fleet Owner,Rental,South,4,62.5,46.87,56.25,Maintain engagement and encourage higher-value purchases,304
+C0320,34,53574056.6,2019-04-01,2024-12-30,2100,1575707.55,0.49,5.75,High Repeat,Loyal,Retail,Construction,North,1,60.71,49.51,56.23,Maintain engagement and encourage higher-value purchases,305
+C0378,35,50644577.2,2019-01-19,2024-11-16,2128,1446987.92,0.5,5.83,High Repeat,Loyal,Retail,Manufacturing,North,4,62.5,46.81,56.22,Maintain engagement and encourage higher-value purchases,306
+C0043,36,47644638.8,2019-04-04,2024-06-14,1898,1323462.19,0.58,5.2,High Repeat,Loyal,Corporate,Construction,South,4,64.29,44.03,56.18,Maintain engagement and encourage higher-value purchases,307
+C0439,36,47576062.0,2019-03-21,2024-12-22,2103,1321557.28,0.52,5.76,High Repeat,Loyal,Dealer,Construction,South,5,64.29,43.97,56.16,Maintain engagement and encourage higher-value purchases,308
+C0055,32,59056095.2,2019-04-01,2024-12-11,2081,1845502.98,0.47,5.7,High Repeat,Loyal,Dealer,Construction,North,1,57.14,54.58,56.12,Maintain engagement and encourage higher-value purchases,309
+C0131,32,59008448.8,2019-02-21,2024-06-14,1940,1844014.02,0.5,5.31,High Repeat,Loyal,Corporate,Rental,South,2,57.14,54.54,56.1,Maintain engagement and encourage higher-value purchases,310
+C0289,35,50221149.2,2019-02-07,2024-10-29,2091,1434889.98,0.51,5.72,High Repeat,Loyal,Corporate,Logistics,South,2,62.5,46.41,56.07,Maintain engagement and encourage higher-value purchases,311
+C0355,32,58903770.4,2019-01-03,2024-12-18,2176,1840742.82,0.45,5.96,High Repeat,Loyal,Government,Infrastructure,South,4,57.14,54.44,56.06,Maintain engagement and encourage higher-value purchases,312
+C0111,33,55916542.2,2019-04-09,2024-12-16,2078,1694440.67,0.48,5.69,High Repeat,Loyal,Corporate,Construction,South,3,58.93,51.68,56.03,Maintain engagement and encourage higher-value purchases,313
+C0419,31,61514207.2,2019-03-05,2024-09-30,2036,1984329.26,0.46,5.57,High Repeat,Loyal,Fleet Owner,Logistics,West,1,55.36,56.85,55.96,Maintain engagement and encourage higher-value purchases,314
+C0486,34,52620254.4,2019-01-01,2024-10-07,2106,1547654.54,0.49,5.77,High Repeat,Loyal,Government,Manufacturing,West,2,60.71,48.63,55.88,Maintain engagement and encourage higher-value purchases,315
+C0092,36,46760586.8,2019-01-17,2024-07-30,2021,1298905.19,0.54,5.53,High Repeat,Loyal,Fleet Owner,Logistics,West,2,64.29,43.22,55.86,Maintain engagement and encourage higher-value purchases,316
+C0030,32,58263942.8,2019-01-30,2024-09-02,2042,1820748.21,0.48,5.59,High Repeat,Loyal,Corporate,Construction,South,5,57.14,53.85,55.82,Maintain engagement and encourage higher-value purchases,317
+C0023,32,58217713.2,2019-01-05,2024-12-27,2183,1819303.54,0.45,5.98,High Repeat,Loyal,Corporate,Mining,South,2,57.14,53.81,55.81,Maintain engagement and encourage higher-value purchases,318
+C0064,32,57893888.0,2019-03-21,2024-10-18,2038,1809184.0,0.48,5.58,High Repeat,Loyal,Corporate,Manufacturing,North,3,57.14,53.51,55.69,Maintain engagement and encourage higher-value purchases,319
+C0446,34,52035543.6,2019-02-03,2024-10-16,2082,1530457.16,0.5,5.7,High Repeat,Loyal,Retail,Logistics,South,1,60.71,48.09,55.67,Maintain engagement and encourage higher-value purchases,320
+C0096,34,51986858.4,2019-01-02,2024-12-30,2189,1529025.25,0.47,5.99,High Repeat,Loyal,Corporate,Construction,South,3,60.71,48.05,55.65,Maintain engagement and encourage higher-value purchases,321
+C0434,33,54575670.2,2019-01-05,2024-10-26,2121,1653808.19,0.47,5.81,High Repeat,Loyal,Corporate,Mining,Central,4,58.93,50.44,55.53,Maintain engagement and encourage higher-value purchases,322
+C0164,36,45625652.8,2019-01-11,2024-11-13,2133,1267379.24,0.51,5.84,High Repeat,Loyal,Government,Construction,North,4,64.29,42.17,55.44,Maintain engagement and encourage higher-value purchases,323
+C0020,37,42586254.6,2019-01-26,2024-10-17,2091,1150979.85,0.54,5.72,High Repeat,Loyal,Dealer,Logistics,East,3,66.07,39.36,55.39,Maintain engagement and encourage higher-value purchases,324
+C0037,36,45505928.0,2019-06-12,2024-10-25,1962,1264053.56,0.56,5.37,High Repeat,Loyal,Corporate,Construction,West,1,64.29,42.06,55.39,Maintain engagement and encourage higher-value purchases,325
+C0191,29,65787839.8,2019-02-03,2024-12-12,2139,2268546.2,0.41,5.86,Moderate Repeat,Regular,Corporate,Manufacturing,South,2,51.79,60.8,55.39,Increase purchase frequency through targeted offers,326
+C0019,37,42528118.4,2019-01-19,2024-12-10,2152,1149408.61,0.52,5.89,High Repeat,Loyal,Government,Logistics,East,5,66.07,39.3,55.36,Maintain engagement and encourage higher-value purchases,327
+C0223,33,54079206.6,2019-03-01,2024-10-15,2055,1638763.84,0.49,5.63,High Repeat,Loyal,Corporate,Logistics,West,1,58.93,49.98,55.35,Maintain engagement and encourage higher-value purchases,328
+C0073,32,56970903.6,2019-03-23,2024-11-12,2061,1780340.74,0.47,5.64,High Repeat,Loyal,Corporate,Rental,North,4,57.14,52.65,55.35,Maintain engagement and encourage higher-value purchases,329
+C0059,32,56859509.4,2019-01-21,2024-12-20,2160,1776859.67,0.45,5.91,High Repeat,Loyal,Retail,Manufacturing,South,3,57.14,52.55,55.31,Maintain engagement and encourage higher-value purchases,330
+C0465,35,48083241.6,2019-03-12,2024-12-12,2102,1373806.9,0.51,5.75,High Repeat,Loyal,Fleet Owner,Mining,South,1,62.5,44.44,55.28,Maintain engagement and encourage higher-value purchases,331
+C0348,34,50897650.4,2019-04-15,2024-10-24,2019,1496989.72,0.51,5.53,High Repeat,Loyal,Retail,Logistics,North,2,60.71,47.04,55.24,Maintain engagement and encourage higher-value purchases,332
+C0442,33,53527848.6,2019-01-28,2024-10-20,2092,1622056.02,0.48,5.73,High Repeat,Loyal,Dealer,Logistics,East,3,58.93,49.47,55.15,Maintain engagement and encourage higher-value purchases,333
+C0453,31,59284873.8,2019-05-25,2024-12-01,2017,1912415.28,0.47,5.52,High Repeat,Loyal,Dealer,Mining,East,3,55.36,54.79,55.13,Maintain engagement and encourage higher-value purchases,334
+C0031,34,50500841.8,2019-04-11,2024-08-13,1951,1485318.88,0.53,5.34,High Repeat,Loyal,Government,Mining,East,4,60.71,46.67,55.1,Maintain engagement and encourage higher-value purchases,335
+C0120,34,50313583.0,2019-01-02,2024-11-15,2144,1479811.26,0.48,5.87,High Repeat,Loyal,Fleet Owner,Construction,South,5,60.71,46.5,55.03,Maintain engagement and encourage higher-value purchases,336
+C0218,36,44324901.0,2019-02-02,2024-10-16,2083,1231247.25,0.53,5.7,High Repeat,Loyal,Fleet Owner,Construction,West,5,64.29,40.97,54.96,Maintain engagement and encourage higher-value purchases,337
+C0159,34,49934036.2,2019-02-02,2024-12-26,2154,1468648.12,0.48,5.9,High Repeat,Loyal,Dealer,Construction,South,3,60.71,46.15,54.89,Maintain engagement and encourage higher-value purchases,338
+C0449,32,55700286.8,2019-07-19,2024-11-19,1950,1740633.96,0.5,5.34,High Repeat,Loyal,Fleet Owner,Logistics,West,3,57.14,51.48,54.88,Maintain engagement and encourage higher-value purchases,339
+C0260,32,55524668.6,2019-08-24,2024-09-05,1839,1735145.89,0.53,5.03,High Repeat,Loyal,Dealer,Logistics,South,5,57.14,51.32,54.81,Maintain engagement and encourage higher-value purchases,340
+C0146,30,61245406.2,2019-01-20,2024-12-31,2172,2041513.54,0.42,5.95,High Repeat,Loyal,Retail,Mining,West,3,53.57,56.6,54.78,Maintain engagement and encourage higher-value purchases,341
+C0044,34,49589458.0,2019-01-05,2024-11-17,2143,1458513.47,0.48,5.87,High Repeat,Loyal,Government,Mining,West,4,60.71,45.83,54.76,Maintain engagement and encourage higher-value purchases,342
+C0277,36,43668914.6,2019-05-28,2024-09-14,1936,1213025.41,0.57,5.3,High Repeat,Loyal,Dealer,Logistics,West,1,64.29,40.36,54.72,Maintain engagement and encourage higher-value purchases,343
+C0338,33,52210070.0,2019-02-01,2024-11-23,2122,1582123.33,0.47,5.81,High Repeat,Loyal,Corporate,Rental,West,4,58.93,48.25,54.66,Maintain engagement and encourage higher-value purchases,344
+C0173,31,57999777.4,2019-03-29,2024-10-18,2030,1870960.56,0.46,5.56,High Repeat,Loyal,Retail,Logistics,South,1,55.36,53.6,54.66,Maintain engagement and encourage higher-value purchases,345
+C0205,33,51965845.0,2019-02-07,2024-11-15,2108,1574722.58,0.48,5.77,High Repeat,Loyal,Retail,Construction,North,2,58.93,48.03,54.57,Maintain engagement and encourage higher-value purchases,346
+C0364,32,54408370.8,2019-03-14,2024-11-18,2076,1700261.59,0.47,5.68,High Repeat,Loyal,Government,Infrastructure,East,5,57.14,50.28,54.4,Maintain engagement and encourage higher-value purchases,347
+C0480,34,48525468.6,2019-01-24,2024-11-24,2131,1427219.66,0.49,5.83,High Repeat,Loyal,Government,Infrastructure,West,3,60.71,44.85,54.37,Maintain engagement and encourage higher-value purchases,348
+C0008,34,48368868.0,2019-03-04,2024-07-16,1961,1422613.76,0.53,5.37,High Repeat,Loyal,Corporate,Logistics,West,1,60.71,44.7,54.31,Maintain engagement and encourage higher-value purchases,349
+C0433,31,57020323.4,2019-09-11,2024-05-27,1720,1839365.27,0.55,4.71,High Repeat,Loyal,Dealer,Infrastructure,North,3,55.36,52.7,54.29,Maintain engagement and encourage higher-value purchases,350
+C0066,32,54037060.8,2019-01-29,2024-10-11,2082,1688658.15,0.47,5.7,High Repeat,Loyal,Retail,Manufacturing,Central,1,57.14,49.94,54.26,Maintain engagement and encourage higher-value purchases,351
+C0195,31,56797913.6,2019-02-15,2024-12-28,2143,1832190.76,0.44,5.87,High Repeat,Loyal,Fleet Owner,Logistics,East,2,55.36,52.49,54.21,Maintain engagement and encourage higher-value purchases,352
+C0299,34,48095055.8,2019-01-24,2024-08-30,2045,1414560.46,0.51,5.6,High Repeat,Loyal,Retail,Logistics,South,1,60.71,44.45,54.21,Maintain engagement and encourage higher-value purchases,353
+C0363,32,53560072.2,2019-05-10,2024-11-07,2008,1673752.26,0.49,5.5,High Repeat,Loyal,Fleet Owner,Logistics,South,5,57.14,49.5,54.09,Maintain engagement and encourage higher-value purchases,354
+C0381,29,62038399.0,2019-07-06,2024-11-17,1961,2139255.14,0.45,5.37,Moderate Repeat,Regular,Corporate,Mining,South,4,51.79,57.34,54.01,Increase purchase frequency through targeted offers,355
+C0332,35,44566684.4,2019-01-19,2024-11-11,2123,1273333.84,0.5,5.81,High Repeat,Loyal,Corporate,Mining,South,1,62.5,41.19,53.98,Maintain engagement and encourage higher-value purchases,356
+C0498,28,64864362.8,2019-03-01,2024-08-19,1998,2316584.39,0.43,5.47,Moderate Repeat,Regular,Fleet Owner,Construction,East,3,50.0,59.95,53.98,Increase purchase frequency through targeted offers,357
+C0308,33,50359329.6,2019-02-19,2024-12-12,2123,1526040.29,0.47,5.81,High Repeat,Loyal,Retail,Mining,North,3,58.93,46.54,53.97,Maintain engagement and encourage higher-value purchases,358
+C0075,33,50186853.4,2019-04-17,2024-10-20,2013,1520813.74,0.5,5.51,High Repeat,Loyal,Retail,Mining,South,5,58.93,46.38,53.91,Maintain engagement and encourage higher-value purchases,359
+C0256,30,58794725.4,2019-01-03,2024-09-19,2086,1959824.18,0.44,5.71,High Repeat,Loyal,Corporate,Infrastructure,North East,4,53.57,54.34,53.88,Maintain engagement and encourage higher-value purchases,360
+C0387,34,47133318.0,2019-01-02,2024-10-26,2124,1386274.06,0.49,5.82,High Repeat,Loyal,Dealer,Infrastructure,East,4,60.71,43.56,53.85,Maintain engagement and encourage higher-value purchases,361
+C0121,34,47029566.2,2019-01-22,2024-12-01,2140,1383222.54,0.48,5.86,High Repeat,Loyal,Government,Construction,West,2,60.71,43.47,53.81,Maintain engagement and encourage higher-value purchases,362
+C0184,29,61479056.4,2019-03-12,2024-11-28,2088,2119967.46,0.42,5.72,Moderate Repeat,Regular,Retail,Rental,South,3,51.79,56.82,53.8,Increase purchase frequency through targeted offers,363
+C0067,31,55575120.6,2019-05-29,2024-12-30,2042,1792745.83,0.46,5.59,High Repeat,Loyal,Retail,Manufacturing,West,3,55.36,51.36,53.76,Maintain engagement and encourage higher-value purchases,364
+C0361,32,52532617.8,2019-01-15,2024-09-26,2081,1641644.31,0.47,5.7,High Repeat,Loyal,Government,Logistics,South,5,57.14,48.55,53.71,Maintain engagement and encourage higher-value purchases,365
+C0402,35,43498305.2,2019-01-25,2024-07-12,1995,1242808.72,0.53,5.46,High Repeat,Loyal,Fleet Owner,Rental,South,1,62.5,40.2,53.58,Maintain engagement and encourage higher-value purchases,366
+C0047,30,57880918.0,2019-04-06,2024-08-25,1968,1929363.93,0.46,5.39,High Repeat,Loyal,Corporate,Rental,West,5,53.57,53.49,53.54,Maintain engagement and encourage higher-value purchases,367
+C0417,32,51984530.4,2019-12-18,2024-09-11,1729,1624516.58,0.56,4.73,High Repeat,Loyal,Fleet Owner,Mining,East,3,57.14,48.04,53.5,Maintain engagement and encourage higher-value purchases,368
+C0199,33,48930073.4,2019-01-19,2024-10-21,2102,1482729.5,0.48,5.75,High Repeat,Loyal,Government,Mining,West,3,58.93,45.22,53.45,Maintain engagement and encourage higher-value purchases,369
+C0360,31,54662201.0,2019-05-25,2024-11-17,2003,1763296.81,0.47,5.48,High Repeat,Loyal,Dealer,Construction,West,5,55.36,50.52,53.42,Maintain engagement and encourage higher-value purchases,370
+C0231,32,51646725.4,2019-02-21,2024-11-08,2087,1613960.17,0.47,5.71,High Repeat,Loyal,Government,Infrastructure,West,4,57.14,47.73,53.38,Maintain engagement and encourage higher-value purchases,371
+C0114,33,48515792.8,2019-02-09,2024-09-27,2057,1470175.54,0.49,5.63,High Repeat,Loyal,Retail,Mining,East,4,58.93,44.84,53.29,Maintain engagement and encourage higher-value purchases,372
+C0194,33,48202752.8,2019-04-15,2024-12-26,2082,1460689.48,0.48,5.7,High Repeat,Loyal,Fleet Owner,Construction,South,1,58.93,44.55,53.18,Maintain engagement and encourage higher-value purchases,373
+C0252,34,45321304.6,2019-08-03,2024-10-07,1892,1332979.55,0.55,5.18,High Repeat,Loyal,Retail,Construction,South,2,60.71,41.89,53.18,Maintain engagement and encourage higher-value purchases,374
+C0086,29,59655682.6,2019-01-12,2024-11-22,2141,2057092.5,0.41,5.86,Moderate Repeat,Regular,Retail,Construction,West,3,51.79,55.13,53.13,Increase purchase frequency through targeted offers,375
+C0405,32,50787823.0,2019-01-30,2024-06-25,1973,1587119.47,0.49,5.4,High Repeat,Loyal,Corporate,Infrastructure,West,3,57.14,46.94,53.06,Maintain engagement and encourage higher-value purchases,376
+C0491,27,65215944.4,2019-03-27,2024-07-04,1926,2415405.35,0.43,5.27,Moderate Repeat,Regular,Dealer,Infrastructure,South,1,48.21,60.27,53.04,Increase purchase frequency through targeted offers,377
+C0162,28,62233145.6,2019-07-05,2024-10-14,1928,2222612.34,0.44,5.28,Moderate Repeat,Regular,Retail,Mining,East,4,50.0,57.52,53.01,Increase purchase frequency through targeted offers,378
+C0258,28,62250978.4,2019-02-04,2024-10-10,2075,2223249.23,0.41,5.68,Moderate Repeat,Regular,Corporate,Mining,South,2,50.0,57.53,53.01,Increase purchase frequency through targeted offers,379
+C0351,34,44776790.6,2019-03-29,2024-09-12,1994,1316964.43,0.52,5.46,High Repeat,Loyal,Corporate,Rental,East,1,60.71,41.38,52.98,Maintain engagement and encourage higher-value purchases,380
+C0185,33,47500335.2,2019-03-25,2024-09-16,2002,1439404.1,0.5,5.48,High Repeat,Loyal,Dealer,Logistics,West,5,58.93,43.9,52.92,Maintain engagement and encourage higher-value purchases,381
+C0391,33,47080496.4,2019-01-14,2024-11-30,2147,1426681.71,0.47,5.88,High Repeat,Loyal,Government,Construction,West,3,58.93,43.51,52.76,Maintain engagement and encourage higher-value purchases,382
+C0057,32,49701788.6,2019-03-20,2024-12-04,2086,1553180.89,0.47,5.71,High Repeat,Loyal,Retail,Logistics,East,3,57.14,45.93,52.66,Maintain engagement and encourage higher-value purchases,383
+C0298,33,46771231.0,2019-01-05,2024-11-20,2146,1417310.03,0.47,5.88,High Repeat,Loyal,Fleet Owner,Construction,South,4,58.93,43.23,52.65,Maintain engagement and encourage higher-value purchases,384
+C0171,30,55348450.2,2019-04-27,2024-10-19,2002,1844948.34,0.46,5.48,High Repeat,Loyal,Fleet Owner,Construction,South,3,53.57,51.15,52.6,Maintain engagement and encourage higher-value purchases,385
+C0112,33,46248326.6,2019-02-27,2024-12-01,2104,1401464.44,0.48,5.76,High Repeat,Loyal,Fleet Owner,Mining,South,2,58.93,42.74,52.45,Maintain engagement and encourage higher-value purchases,386
+C0368,31,51837532.8,2019-02-17,2024-11-01,2084,1672178.48,0.45,5.71,High Repeat,Loyal,Fleet Owner,Construction,South,1,55.36,47.91,52.38,Maintain engagement and encourage higher-value purchases,387
+C0386,32,48819152.6,2019-04-23,2024-11-04,2022,1525598.52,0.48,5.54,High Repeat,Loyal,Retail,Construction,North,4,57.14,45.12,52.33,Maintain engagement and encourage higher-value purchases,388
+C0452,35,40090449.2,2019-03-05,2024-12-27,2124,1145441.41,0.5,5.82,High Repeat,Loyal,Fleet Owner,Mining,South,1,62.5,37.05,52.32,Maintain engagement and encourage higher-value purchases,389
+C0316,33,45390754.0,2019-03-08,2024-09-22,2025,1375477.39,0.5,5.54,High Repeat,Loyal,Dealer,Manufacturing,East,4,58.93,41.95,52.14,Maintain engagement and encourage higher-value purchases,390
+C0494,32,48287535.6,2019-02-25,2024-11-28,2103,1508985.49,0.46,5.76,High Repeat,Loyal,Corporate,Construction,East,2,57.14,44.63,52.14,Maintain engagement and encourage higher-value purchases,391
+C0104,34,42120081.4,2019-04-06,2024-12-30,2095,1238825.92,0.49,5.74,High Repeat,Loyal,Fleet Owner,Infrastructure,South,1,60.71,38.93,52.0,Maintain engagement and encourage higher-value purchases,392
+C0214,31,50612095.0,2019-01-12,2024-12-26,2175,1632648.23,0.43,5.95,High Repeat,Loyal,Corporate,Rental,West,4,55.36,46.78,51.92,Maintain engagement and encourage higher-value purchases,393
+C0210,30,53509817.8,2019-02-20,2024-11-26,2106,1783660.59,0.43,5.77,High Repeat,Loyal,Retail,Infrastructure,West,2,53.57,49.45,51.92,Maintain engagement and encourage higher-value purchases,394
+C0485,28,59146123.8,2019-01-14,2024-10-01,2087,2112361.56,0.41,5.71,Moderate Repeat,Regular,Fleet Owner,Rental,West,1,50.0,54.66,51.87,Increase purchase frequency through targeted offers,395
+C0167,31,50383279.4,2019-01-03,2024-12-28,2186,1625267.08,0.43,5.98,High Repeat,Loyal,Retail,Mining,West,4,55.36,46.56,51.84,Maintain engagement and encourage higher-value purchases,396
+C0325,30,52920013.4,2019-03-03,2024-11-09,2078,1764000.45,0.44,5.69,High Repeat,Loyal,Corporate,Rental,East,3,53.57,48.91,51.71,Maintain engagement and encourage higher-value purchases,397
+C0095,29,55610118.2,2019-05-21,2024-12-26,2046,1917590.28,0.43,5.6,Moderate Repeat,Regular,Fleet Owner,Logistics,West,3,51.79,51.4,51.63,Increase purchase frequency through targeted offers,398
+C0048,31,49413459.2,2019-04-05,2024-09-12,1987,1593982.55,0.47,5.44,High Repeat,Loyal,Dealer,Mining,South,3,55.36,45.67,51.48,Maintain engagement and encourage higher-value purchases,399
+C0018,31,49286607.8,2019-06-10,2024-11-14,1984,1589890.57,0.48,5.43,High Repeat,Loyal,Retail,Construction,West,2,55.36,45.55,51.43,Maintain engagement and encourage higher-value purchases,400
+C0357,28,57734552.2,2019-01-05,2024-11-17,2143,2061948.29,0.4,5.87,Moderate Repeat,Regular,Corporate,Mining,West,2,50.0,53.36,51.34,Increase purchase frequency through targeted offers,401
+C0036,31,48929201.8,2019-06-26,2024-12-18,2002,1578361.35,0.47,5.48,High Repeat,Loyal,Fleet Owner,Construction,East,2,55.36,45.22,51.3,Maintain engagement and encourage higher-value purchases,402
+C0382,33,42929317.0,2019-04-17,2024-11-19,2043,1300888.39,0.49,5.59,High Repeat,Loyal,Retail,Manufacturing,South,3,58.93,39.68,51.23,Maintain engagement and encourage higher-value purchases,403
+C0497,30,51439335.2,2019-06-12,2024-11-02,1970,1714644.51,0.46,5.39,High Repeat,Loyal,Government,Logistics,South,3,53.57,47.54,51.16,Maintain engagement and encourage higher-value purchases,404
+C0445,28,57177744.4,2019-04-04,2024-12-28,2095,2042062.3,0.41,5.74,Moderate Repeat,Regular,Government,Mining,East,2,50.0,52.84,51.14,Increase purchase frequency through targeted offers,405
+C0305,31,48238808.8,2019-05-16,2024-11-27,2022,1556090.61,0.47,5.54,High Repeat,Loyal,Fleet Owner,Logistics,North,3,55.36,44.58,51.05,Maintain engagement and encourage higher-value purchases,406
+C0122,31,48051119.4,2019-01-12,2024-11-05,2124,1550036.11,0.44,5.82,High Repeat,Loyal,Dealer,Rental,North East,2,55.36,44.41,50.98,Maintain engagement and encourage higher-value purchases,407
+C0444,30,50928809.0,2019-02-25,2024-01-08,1778,1697626.97,0.51,4.87,High Repeat,Loyal,Dealer,Manufacturing,South,1,53.57,47.07,50.97,Maintain engagement and encourage higher-value purchases,408
+C0239,32,44962159.0,2019-10-11,2024-10-27,1843,1405067.47,0.53,5.05,High Repeat,Loyal,Government,Logistics,South,4,57.14,41.55,50.91,Maintain engagement and encourage higher-value purchases,409
+C0454,33,41820500.6,2019-02-08,2024-11-14,2106,1267287.9,0.48,5.77,High Repeat,Loyal,Government,Mining,West,3,58.93,38.65,50.82,Maintain engagement and encourage higher-value purchases,410
+C0079,31,47175266.2,2019-01-25,2024-11-28,2134,1521782.78,0.44,5.84,High Repeat,Loyal,Retail,Rental,North,5,55.36,43.6,50.65,Maintain engagement and encourage higher-value purchases,411
+C0441,31,47045233.8,2019-01-17,2024-10-19,2102,1517588.19,0.45,5.75,High Repeat,Loyal,Dealer,Construction,North,2,55.36,43.48,50.61,Maintain engagement and encourage higher-value purchases,412
+C0033,30,49354094.2,2019-03-05,2024-12-12,2109,1645136.47,0.43,5.77,High Repeat,Loyal,Government,Mining,South,5,53.57,45.61,50.39,Maintain engagement and encourage higher-value purchases,413
+C0094,31,46343009.2,2019-01-18,2024-09-20,2072,1494935.78,0.46,5.67,High Repeat,Loyal,Corporate,Logistics,West,4,55.36,42.83,50.35,Maintain engagement and encourage higher-value purchases,414
+C0376,29,52106248.6,2019-07-01,2024-11-24,1973,1796767.19,0.45,5.4,Moderate Repeat,Regular,Retail,Construction,North,5,51.79,48.16,50.33,Increase purchase frequency through targeted offers,415
+C0317,32,43291415.2,2019-01-17,2024-12-25,2169,1352856.72,0.45,5.94,High Repeat,Loyal,Corporate,Manufacturing,South,3,57.14,40.01,50.29,Maintain engagement and encourage higher-value purchases,416
+C0412,32,43246987.6,2019-04-20,2024-05-28,1865,1351468.36,0.52,5.11,High Repeat,Loyal,Corporate,Infrastructure,East,3,57.14,39.97,50.27,Maintain engagement and encourage higher-value purchases,417
+C0179,32,43222736.0,2019-05-20,2024-07-21,1889,1350710.5,0.52,5.17,High Repeat,Loyal,Government,Infrastructure,South,3,57.14,39.95,50.26,Maintain engagement and encourage higher-value purchases,418
+C0404,31,46035794.4,2019-02-10,2024-12-26,2146,1485025.63,0.44,5.88,High Repeat,Loyal,Government,Mining,West,5,55.36,42.55,50.23,Maintain engagement and encourage higher-value purchases,419
+C0367,27,57592654.8,2019-02-28,2024-11-04,2076,2133061.29,0.4,5.68,Moderate Repeat,Regular,Fleet Owner,Logistics,South,2,48.21,53.23,50.22,Increase purchase frequency through targeted offers,420
+C0389,30,48796477.0,2019-04-04,2024-11-25,2062,1626549.23,0.44,5.65,High Repeat,Loyal,Retail,Mining,West,5,53.57,45.1,50.18,Maintain engagement and encourage higher-value purchases,421
+C0133,29,51247358.0,2019-03-27,2024-04-07,1838,1767150.28,0.48,5.03,Moderate Repeat,Regular,Government,Mining,South,1,51.79,47.36,50.02,Increase purchase frequency through targeted offers,422
+C0034,32,42477752.2,2019-01-05,2024-10-06,2101,1327429.76,0.46,5.75,High Repeat,Loyal,Government,Construction,West,5,57.14,39.26,49.99,Maintain engagement and encourage higher-value purchases,423
+C0474,30,48230361.0,2019-01-11,2024-11-07,2127,1607678.7,0.43,5.82,High Repeat,Loyal,Government,Logistics,West,3,53.57,44.57,49.97,Maintain engagement and encourage higher-value purchases,424
+C0313,30,48205237.4,2019-05-28,2024-09-02,1924,1606841.25,0.47,5.27,High Repeat,Loyal,Corporate,Mining,West,1,53.57,44.55,49.96,Maintain engagement and encourage higher-value purchases,425
+C0212,31,45262151.0,2019-02-01,2024-08-23,2030,1460069.39,0.46,5.56,High Repeat,Loyal,Retail,Infrastructure,North East,4,55.36,41.83,49.95,Maintain engagement and encourage higher-value purchases,426
+C0336,33,39095696.4,2019-04-29,2024-09-26,1977,1184718.07,0.51,5.41,High Repeat,Loyal,Government,Rental,East,5,58.93,36.13,49.81,Maintain engagement and encourage higher-value purchases,427
+C0118,32,41835680.2,2019-02-03,2024-12-10,2137,1307365.01,0.46,5.85,High Repeat,Loyal,Retail,Rental,South,4,57.14,38.66,49.75,Maintain engagement and encourage higher-value purchases,428
+C0050,27,56151044.8,2019-01-11,2024-12-14,2164,2079668.33,0.38,5.92,Moderate Repeat,Regular,Dealer,Mining,East,3,48.21,51.9,49.69,Increase purchase frequency through targeted offers,429
+C0283,31,44490975.8,2019-04-14,2024-09-04,1970,1435192.77,0.48,5.39,High Repeat,Loyal,Retail,Logistics,North,1,55.36,41.12,49.66,Maintain engagement and encourage higher-value purchases,430
+C0418,30,47167025.6,2019-03-18,2024-11-14,2068,1572234.19,0.44,5.66,High Repeat,Loyal,Government,Mining,West,4,53.57,43.59,49.58,Maintain engagement and encourage higher-value purchases,431
+C0350,32,41227777.0,2019-05-03,2024-11-25,2033,1288368.03,0.48,5.57,High Repeat,Loyal,Dealer,Logistics,North East,2,57.14,38.1,49.53,Maintain engagement and encourage higher-value purchases,432
+C0208,30,46904115.8,2019-01-20,2024-12-30,2171,1563470.53,0.42,5.94,High Repeat,Loyal,Fleet Owner,Logistics,North,4,53.57,43.35,49.48,Maintain engagement and encourage higher-value purchases,433
+C0423,30,46894840.4,2019-02-25,2024-11-09,2084,1563161.35,0.44,5.71,High Repeat,Loyal,Dealer,Infrastructure,South,3,53.57,43.34,49.48,Maintain engagement and encourage higher-value purchases,434
+C0187,30,46901016.0,2019-05-02,2024-11-08,2017,1563367.2,0.45,5.52,High Repeat,Loyal,Retail,Rental,North,1,53.57,43.35,49.48,Maintain engagement and encourage higher-value purchases,435
+C0334,33,37526956.6,2019-01-03,2024-08-24,2060,1137180.5,0.49,5.64,High Repeat,Loyal,Corporate,Mining,South,5,58.93,34.68,49.23,Maintain engagement and encourage higher-value purchases,436
+C0437,30,46199550.2,2019-02-09,2024-12-21,2142,1539985.01,0.43,5.86,High Repeat,Loyal,Dealer,Mining,West,3,53.57,42.7,49.22,Maintain engagement and encourage higher-value purchases,437
+C0078,31,42565724.6,2019-01-31,2024-06-22,1969,1373087.89,0.48,5.39,High Repeat,Loyal,Dealer,Rental,South,1,55.36,39.34,48.95,Maintain engagement and encourage higher-value purchases,438
+C0248,30,45208412.0,2019-01-10,2024-12-04,2155,1506947.07,0.42,5.9,High Repeat,Loyal,Fleet Owner,Rental,West,5,53.57,41.78,48.86,Maintain engagement and encourage higher-value purchases,439
+C0265,29,47931619.6,2019-02-19,2024-09-27,2047,1652814.47,0.43,5.6,Moderate Repeat,Regular,Retail,Mining,West,1,51.79,44.3,48.79,Increase purchase frequency through targeted offers,440
+C0202,28,50389917.2,2019-09-19,2024-09-21,1829,1799639.9,0.47,5.01,Moderate Repeat,Regular,Government,Logistics,North,4,50.0,46.57,48.63,Increase purchase frequency through targeted offers,441
+C0155,31,41576324.2,2019-11-15,2024-12-17,1859,1341171.75,0.51,5.09,High Repeat,Loyal,Fleet Owner,Mining,East,5,55.36,38.43,48.58,Maintain engagement and encourage higher-value purchases,442
+C0233,28,49889164.0,2019-05-29,2024-10-21,1972,1781755.86,0.43,5.4,Moderate Repeat,Regular,Government,Logistics,East,3,50.0,46.11,48.44,Increase purchase frequency through targeted offers,443
+C0147,30,44007572.2,2019-07-21,2024-12-22,1981,1466919.07,0.46,5.42,High Repeat,Loyal,Dealer,Rental,North,5,53.57,40.67,48.41,Maintain engagement and encourage higher-value purchases,444
+C0072,26,55369763.0,2019-06-15,2024-12-23,2018,2129606.27,0.39,5.52,Moderate Repeat,Regular,Government,Logistics,West,3,46.43,51.17,48.33,Increase purchase frequency through targeted offers,445
+C0267,29,46440405.2,2019-03-07,2024-03-25,1845,1601393.28,0.48,5.05,Moderate Repeat,Regular,Fleet Owner,Infrastructure,South,3,51.79,42.92,48.24,Increase purchase frequency through targeted offers,446
+C0127,28,48960650.8,2019-03-01,2024-06-25,1943,1748594.67,0.44,5.32,Moderate Repeat,Regular,Government,Construction,East,1,50.0,45.25,48.1,Increase purchase frequency through targeted offers,447
+C0145,33,34445949.4,2019-04-01,2024-12-29,2099,1043816.65,0.48,5.75,High Repeat,Loyal,Retail,Construction,West,3,58.93,31.84,48.09,Maintain engagement and encourage higher-value purchases,448
+C0204,31,39880662.0,2019-05-20,2024-12-08,2029,1286472.97,0.47,5.56,High Repeat,Loyal,Retail,Rental,South,2,55.36,36.86,47.96,Maintain engagement and encourage higher-value purchases,449
+C0344,28,48151864.0,2019-01-04,2024-06-17,1991,1719709.43,0.43,5.45,Moderate Repeat,Regular,Fleet Owner,Mining,West,2,50.0,44.5,47.8,Increase purchase frequency through targeted offers,450
+C0117,31,38951277.4,2019-01-01,2024-08-12,2050,1256492.82,0.46,5.61,High Repeat,Loyal,Government,Mining,North East,3,55.36,36.0,47.61,Maintain engagement and encourage higher-value purchases,451
+C0150,30,41608958.8,2019-07-12,2024-11-09,1947,1386965.29,0.47,5.33,High Repeat,Loyal,Fleet Owner,Manufacturing,West,5,53.57,38.46,47.53,Maintain engagement and encourage higher-value purchases,452
+C0115,29,44357793.6,2019-05-07,2024-11-28,2032,1529579.09,0.43,5.56,Moderate Repeat,Regular,Fleet Owner,Mining,South,5,51.79,41.0,47.47,Increase purchase frequency through targeted offers,453
+C0392,31,38571708.8,2019-02-11,2024-12-12,2131,1244248.67,0.44,5.83,High Repeat,Loyal,Fleet Owner,Logistics,East,2,55.36,35.65,47.47,Maintain engagement and encourage higher-value purchases,454
+C0309,31,38065991.6,2019-03-04,2024-12-17,2115,1227935.21,0.45,5.79,High Repeat,Loyal,Government,Manufacturing,West,4,55.36,35.18,47.29,Maintain engagement and encourage higher-value purchases,455
+C0352,30,40262666.2,2019-02-23,2024-11-11,2088,1342088.87,0.44,5.72,High Repeat,Loyal,Corporate,Mining,South,1,53.57,37.21,47.03,Maintain engagement and encourage higher-value purchases,456
+C0431,28,45787279.2,2019-06-09,2024-07-05,1853,1635259.97,0.46,5.07,Moderate Repeat,Regular,Government,Logistics,West,5,50.0,42.32,46.93,Increase purchase frequency through targeted offers,457
+C0484,27,48200851.6,2019-01-30,2024-11-10,2111,1785216.73,0.39,5.78,Moderate Repeat,Regular,Fleet Owner,Mining,West,1,48.21,44.55,46.75,Increase purchase frequency through targeted offers,458
+C0007,31,36509378.2,2019-05-08,2024-11-03,2006,1177721.88,0.47,5.49,High Repeat,Loyal,Corporate,Manufacturing,West,4,55.36,33.74,46.71,Maintain engagement and encourage higher-value purchases,459
+C0091,30,39090471.8,2019-01-09,2024-09-07,2068,1303015.73,0.44,5.66,High Repeat,Loyal,Retail,Construction,South,2,53.57,36.13,46.59,Maintain engagement and encourage higher-value purchases,460
+C0229,28,44419985.8,2019-05-15,2024-11-29,2025,1586428.06,0.42,5.54,Moderate Repeat,Regular,Government,Mining,East,3,50.0,41.05,46.42,Increase purchase frequency through targeted offers,461
+C0182,29,40856091.0,2019-03-03,2024-08-03,1980,1408830.72,0.45,5.42,Moderate Repeat,Regular,Dealer,Infrastructure,East,5,51.79,37.76,46.18,Increase purchase frequency through targeted offers,462
+C0238,30,36717219.2,2019-01-22,2024-03-25,1889,1223907.31,0.48,5.17,High Repeat,Loyal,Corporate,Construction,South,5,53.57,33.93,45.72,Maintain engagement and encourage higher-value purchases,463
+C0243,28,42431751.6,2019-11-20,2024-12-10,1847,1515419.7,0.46,5.06,Moderate Repeat,Regular,Government,Construction,North,3,50.0,39.22,45.69,Increase purchase frequency through targeted offers,464
+C0053,27,45016037.4,2019-05-16,2024-09-18,1952,1667260.64,0.42,5.34,Moderate Repeat,Regular,Fleet Owner,Construction,North,5,48.21,41.6,45.57,Increase purchase frequency through targeted offers,465
+C0430,27,44879330.8,2019-03-08,2024-10-11,2044,1662197.44,0.4,5.6,Moderate Repeat,Regular,Retail,Manufacturing,West,5,48.21,41.48,45.52,Increase purchase frequency through targeted offers,466
+C0143,27,44644618.2,2019-01-11,2024-08-02,2030,1653504.38,0.4,5.56,Moderate Repeat,Regular,Corporate,Infrastructure,South,3,48.21,41.26,45.43,Increase purchase frequency through targeted offers,467
+C0097,26,47499351.2,2019-03-22,2024-12-16,2096,1826898.12,0.38,5.74,Moderate Repeat,Regular,Corporate,Construction,West,5,46.43,43.9,45.42,Increase purchase frequency through targeted offers,468
+C0500,27,44474866.6,2019-01-06,2024-12-07,2162,1647217.28,0.38,5.92,Moderate Repeat,Regular,Corporate,Infrastructure,East,3,48.21,41.1,45.37,Increase purchase frequency through targeted offers,469
+C0226,26,47025541.0,2019-01-22,2024-09-28,2076,1808674.65,0.38,5.68,Moderate Repeat,Regular,Dealer,Logistics,West,5,46.43,43.46,45.24,Increase purchase frequency through targeted offers,470
+C0028,29,38208624.0,2019-01-22,2024-11-13,2122,1317538.76,0.42,5.81,Moderate Repeat,Regular,Retail,Infrastructure,South,3,51.79,35.31,45.2,Increase purchase frequency through targeted offers,471
+C0322,28,40996678.0,2019-04-10,2024-12-10,2071,1464167.07,0.41,5.67,Moderate Repeat,Regular,Government,Construction,West,2,50.0,37.89,45.16,Increase purchase frequency through targeted offers,472
+C0281,26,46282268.6,2019-07-26,2024-06-25,1796,1780087.25,0.44,4.92,Moderate Repeat,Regular,Government,Logistics,South,4,46.43,42.77,44.97,Increase purchase frequency through targeted offers,473
+C0139,29,37337910.0,2019-03-13,2024-10-31,2059,1287514.14,0.43,5.64,Moderate Repeat,Regular,Government,Mining,West,2,51.79,34.51,44.87,Increase purchase frequency through targeted offers,474
+C0014,27,41523847.6,2019-03-05,2024-12-21,2118,1537920.28,0.39,5.8,Moderate Repeat,Regular,Fleet Owner,Construction,East,2,48.21,38.38,44.28,Increase purchase frequency through targeted offers,475
+C0366,26,43711261.8,2019-03-09,2024-10-26,2058,1681202.38,0.38,5.63,Moderate Repeat,Regular,Corporate,Logistics,East,4,46.43,40.4,44.02,Increase purchase frequency through targeted offers,476
+C0125,30,31904862.6,2019-02-17,2024-12-09,2122,1063495.42,0.43,5.81,High Repeat,Loyal,Government,Mining,West,4,53.57,29.49,43.94,Maintain engagement and encourage higher-value purchases,477
+C0061,29,33890240.0,2019-01-29,2024-09-08,2049,1168628.97,0.43,5.61,Moderate Repeat,Regular,Dealer,Construction,West,4,51.79,31.32,43.6,Increase purchase frequency through targeted offers,478
+C0151,27,39556960.6,2019-03-03,2024-11-28,2097,1465072.61,0.39,5.74,Moderate Repeat,Regular,Government,Infrastructure,East,5,48.21,36.56,43.55,Increase purchase frequency through targeted offers,479
+C0388,27,39389408.6,2019-03-21,2024-12-12,2093,1458866.99,0.39,5.73,Moderate Repeat,Regular,Fleet Owner,Infrastructure,West,5,48.21,36.4,43.49,Increase purchase frequency through targeted offers,480
+C0473,26,42018356.8,2019-03-04,2024-11-15,2083,1616090.65,0.38,5.7,Moderate Repeat,Regular,Government,Rental,South,3,46.43,38.83,43.39,Increase purchase frequency through targeted offers,481
+C0170,27,38882680.4,2019-03-21,2024-12-20,2101,1440099.27,0.39,5.75,Moderate Repeat,Regular,Government,Construction,South,4,48.21,35.94,43.3,Increase purchase frequency through targeted offers,482
+C0177,28,35762840.4,2019-04-01,2024-12-25,2095,1277244.3,0.41,5.74,Moderate Repeat,Regular,Dealer,Construction,West,1,50.0,33.05,43.22,Increase purchase frequency through targeted offers,483
+C0487,26,39512216.0,2019-03-08,2024-03-18,1837,1519700.62,0.43,5.03,Moderate Repeat,Regular,Dealer,Mining,South,1,46.43,36.52,42.46,Increase purchase frequency through targeted offers,484
+C0174,29,29793255.0,2019-01-11,2024-12-03,2153,1027353.62,0.41,5.89,Moderate Repeat,Regular,Government,Mining,West,2,51.79,27.54,42.09,Increase purchase frequency through targeted offers,485
+C0479,26,37716131.0,2019-02-22,2024-10-08,2055,1450620.42,0.39,5.63,Moderate Repeat,Regular,Retail,Construction,West,1,46.43,34.86,41.8,Increase purchase frequency through targeted offers,486
+C0144,25,39589546.2,2019-04-02,2024-08-23,1970,1583581.85,0.39,5.39,Moderate Repeat,Regular,Fleet Owner,Construction,West,2,44.64,36.59,41.42,Increase purchase frequency through targeted offers,487
+C0262,26,36628894.0,2019-02-26,2024-12-04,2108,1408803.62,0.38,5.77,Moderate Repeat,Regular,Corporate,Logistics,North,4,46.43,33.85,41.4,Increase purchase frequency through targeted offers,488
+C0303,27,32465859.6,2019-04-05,2024-12-01,2067,1202439.24,0.4,5.66,Moderate Repeat,Regular,Corporate,Mining,West,3,48.21,30.01,40.93,Increase purchase frequency through targeted offers,489
+C0279,26,35292218.0,2019-05-12,2024-11-12,2011,1357393.0,0.39,5.51,Moderate Repeat,Regular,Dealer,Rental,West,4,46.43,32.62,40.9,Increase purchase frequency through targeted offers,490
+C0183,27,32313901.0,2019-02-03,2024-12-05,2132,1196811.15,0.39,5.84,Moderate Repeat,Regular,Government,Mining,West,4,48.21,29.86,40.87,Increase purchase frequency through targeted offers,491
+C0353,27,31979908.6,2019-01-16,2024-10-08,2092,1184441.06,0.39,5.73,Moderate Repeat,Regular,Dealer,Manufacturing,North,1,48.21,29.56,40.75,Increase purchase frequency through targeted offers,492
+C0456,27,31514609.0,2019-02-23,2024-10-16,2062,1167207.74,0.4,5.65,Moderate Repeat,Regular,Corporate,Mining,North,4,48.21,29.13,40.58,Increase purchase frequency through targeted offers,493
+C0339,24,40193008.4,2019-05-01,2024-08-16,1934,1674708.68,0.38,5.3,Moderate Repeat,Regular,Fleet Owner,Logistics,South,2,42.86,37.15,40.57,Increase purchase frequency through targeted offers,494
+C0292,27,30979627.8,2019-01-11,2024-04-28,1934,1147393.62,0.42,5.3,Moderate Repeat,Regular,Corporate,Rental,Central,2,48.21,28.63,40.38,Increase purchase frequency through targeted offers,495
+C0180,27,30093537.8,2019-01-04,2024-12-10,2167,1114575.47,0.38,5.93,Moderate Repeat,Regular,Fleet Owner,Logistics,South,3,48.21,27.81,40.05,Increase purchase frequency through targeted offers,496
+C0271,24,37757473.8,2019-06-05,2024-11-26,2001,1573228.08,0.37,5.48,Moderate Repeat,Regular,Corporate,Infrastructure,South,5,42.86,34.9,39.67,Increase purchase frequency through targeted offers,497
+C0137,21,42806442.6,2019-06-13,2024-06-10,1824,2038402.03,0.35,4.99,Moderate Repeat,Regular,Dealer,Infrastructure,South,5,37.5,39.56,38.32,Increase purchase frequency through targeted offers,498
+C0108,24,31126705.0,2019-01-03,2024-12-29,2187,1296946.04,0.33,5.99,Moderate Repeat,Regular,Corporate,Rental,North,4,42.86,28.77,37.22,Increase purchase frequency through targeted offers,499
+C0347,24,22536660.4,2019-03-04,2024-12-03,2101,939027.52,0.35,5.75,Moderate Repeat,Regular,Retail,Mining,North,4,42.86,20.83,34.05,Increase purchase frequency through targeted offers,500

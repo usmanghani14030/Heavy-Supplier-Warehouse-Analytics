@@ -1,0 +1,5 @@
+sales_channel,delivered_orders,total_revenue,average_order_value,unique_customers,revenue_share_pct
+Counter Sale,4507,7365134868.8,1634154.6192145552,500,25.18
+Dealer Network,4535,7317950347.6,1613660.4956119074,500,25.02
+Field Sales,4548,7424002948.4,1632366.5233948987,500,25.38
+Online,4443,7146904997.6,1608576.4117938331,500,24.43
