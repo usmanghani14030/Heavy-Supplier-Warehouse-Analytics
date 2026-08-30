@@ -1,0 +1,88 @@
+dataset,check,issue_type,issue_count,severity,details
+stock_ledger,Missing values,Missing Data,0,None,Total missing cells: 0
+inventory_master,Missing values,Missing Data,0,None,Total missing cells: 0
+purchase_orders_header,Missing values,Missing Data,2370,High,Total missing cells: 2370
+purchase_orders_lines,Missing values,Missing Data,0,None,Total missing cells: 0
+sales_orders_header,Missing values,Missing Data,0,None,Total missing cells: 0
+sales_orders_lines,Missing values,Missing Data,0,None,Total missing cells: 0
+products,Missing values,Missing Data,0,None,Total missing cells: 0
+suppliers,Missing values,Missing Data,0,None,Total missing cells: 0
+branches,Missing values,Missing Data,0,None,Total missing cells: 0
+stock_ledger,Duplicate rows,Duplicate Data,0,None,Duplicate complete rows: 0
+inventory_master,Duplicate rows,Duplicate Data,0,None,Duplicate complete rows: 0
+purchase_orders_header,Duplicate rows,Duplicate Data,0,None,Duplicate complete rows: 0
+purchase_orders_lines,Duplicate rows,Duplicate Data,0,None,Duplicate complete rows: 0
+sales_orders_header,Duplicate rows,Duplicate Data,0,None,Duplicate complete rows: 0
+sales_orders_lines,Duplicate rows,Duplicate Data,0,None,Duplicate complete rows: 0
+products,Duplicate rows,Duplicate Data,0,None,Duplicate complete rows: 0
+suppliers,Duplicate rows,Duplicate Data,0,None,Duplicate complete rows: 0
+branches,Duplicate rows,Duplicate Data,0,None,Duplicate complete rows: 0
+stock_ledger,Negative values in quantity,Invalid Numeric Value,0,None,Negative records detected: 0
+purchase_orders_lines,Negative values in quantity,Invalid Numeric Value,0,None,Negative records detected: 0
+purchase_orders_lines,Negative values in unit_cost,Invalid Numeric Value,0,None,Negative records detected: 0
+purchase_orders_lines,Negative values in line_total,Invalid Numeric Value,0,None,Negative records detected: 0
+purchase_orders_lines,Negative values in gst_amount,Invalid Numeric Value,0,None,Negative records detected: 0
+purchase_orders_lines,Negative values in line_grand_total,Invalid Numeric Value,0,None,Negative records detected: 0
+sales_orders_lines,Negative values in quantity,Invalid Numeric Value,0,None,Negative records detected: 0
+sales_orders_lines,Negative values in unit_price,Invalid Numeric Value,0,None,Negative records detected: 0
+sales_orders_lines,Negative values in line_total,Invalid Numeric Value,0,None,Negative records detected: 0
+sales_orders_lines,Negative values in gst_amount,Invalid Numeric Value,0,None,Negative records detected: 0
+sales_orders_lines,Negative values in line_grand_total,Invalid Numeric Value,0,None,Negative records detected: 0
+purchase_orders_header,Negative values in total_cost,Invalid Numeric Value,0,None,Negative records detected: 0
+purchase_orders_header,Negative values in total_gst_amount,Invalid Numeric Value,0,None,Negative records detected: 0
+purchase_orders_header,Negative values in grand_total,Invalid Numeric Value,0,None,Negative records detected: 0
+sales_orders_header,Negative values in total_order_value,Invalid Numeric Value,0,None,Negative records detected: 0
+sales_orders_header,Negative values in total_gst_amount,Invalid Numeric Value,0,None,Negative records detected: 0
+sales_orders_header,Negative values in grand_total,Invalid Numeric Value,0,None,Negative records detected: 0
+inventory_master,Negative values in opening_stock,Invalid Numeric Value,0,None,Negative records detected: 0
+inventory_master,Negative values in reorder_level,Invalid Numeric Value,0,None,Negative records detected: 0
+inventory_master,Negative values in safety_stock,Invalid Numeric Value,0,None,Negative records detected: 0
+inventory_master,Negative values in max_stock,Invalid Numeric Value,0,None,Negative records detected: 0
+inventory_master,Negative values in current_stock,Invalid Numeric Value,0,None,Negative records detected: 0
+products,Negative values in unit_cost,Invalid Numeric Value,0,None,Negative records detected: 0
+products,Negative values in unit_price,Invalid Numeric Value,0,None,Negative records detected: 0
+products,Negative values in weight_kg,Invalid Numeric Value,0,None,Negative records detected: 0
+products,Negative values in reorder_level,Invalid Numeric Value,0,None,Negative records detected: 0
+products,Negative values in safety_stock,Invalid Numeric Value,0,None,Negative records detected: 0
+products,Negative values in max_stock_level,Invalid Numeric Value,0,None,Negative records detected: 0
+products,Negative values in lead_time_days,Invalid Numeric Value,0,None,Negative records detected: 0
+suppliers,Negative values in lead_time_days,Invalid Numeric Value,0,None,Negative records detected: 0
+suppliers,Negative values in reliability_score,Invalid Numeric Value,0,None,Negative records detected: 0
+suppliers,Negative values in import_duty_rate,Invalid Numeric Value,0,None,Negative records detected: 0
+branches,Negative values in warehouse_capacity,Invalid Numeric Value,0,None,Negative records detected: 0
+branches,Negative values in total_employees,Invalid Numeric Value,0,None,Negative records detected: 0
+branches,Negative values in avg_monthly_revenue,Invalid Numeric Value,0,None,Negative records detected: 0
+branches,Negative values in monthly_operational_cost,Invalid Numeric Value,0,None,Negative records detected: 0
+branches,Negative values in market_demand_index,Invalid Numeric Value,0,None,Negative records detected: 0
+products,Primary key uniqueness: product_id,Duplicate Key,0,None,Duplicate product_id values: 0
+products,Primary key completeness: product_id,Missing Key,0,None,Missing product_id values: 0
+suppliers,Primary key uniqueness: supplier_id,Duplicate Key,0,None,Duplicate supplier_id values: 0
+suppliers,Primary key completeness: supplier_id,Missing Key,0,None,Missing supplier_id values: 0
+branches,Primary key uniqueness: branch_id,Duplicate Key,0,None,Duplicate branch_id values: 0
+branches,Primary key completeness: branch_id,Missing Key,0,None,Missing branch_id values: 0
+stock_ledger,Primary key uniqueness: movement_id,Duplicate Key,0,None,Duplicate movement_id values: 0
+stock_ledger,Primary key completeness: movement_id,Missing Key,0,None,Missing movement_id values: 0
+purchase_orders_header,Primary key uniqueness: po_id,Duplicate Key,0,None,Duplicate po_id values: 0
+purchase_orders_header,Primary key completeness: po_id,Missing Key,0,None,Missing po_id values: 0
+sales_orders_header,Primary key uniqueness: so_id,Duplicate Key,0,None,Duplicate so_id values: 0
+sales_orders_header,Primary key completeness: so_id,Missing Key,0,None,Missing so_id values: 0
+stock_ledger,Foreign key product_id → products.product_id,Referential Integrity,0,None,Rows referencing missing parent IDs: 0
+stock_ledger,Foreign key branch_id → branches.branch_id,Referential Integrity,0,None,Rows referencing missing parent IDs: 0
+inventory_master,Foreign key product_id → products.product_id,Referential Integrity,0,None,Rows referencing missing parent IDs: 0
+inventory_master,Foreign key branch_id → branches.branch_id,Referential Integrity,0,None,Rows referencing missing parent IDs: 0
+purchase_orders_header,Foreign key supplier_id → suppliers.supplier_id,Referential Integrity,0,None,Rows referencing missing parent IDs: 0
+purchase_orders_header,Foreign key branch_id → branches.branch_id,Referential Integrity,0,None,Rows referencing missing parent IDs: 0
+purchase_orders_lines,Foreign key po_id → purchase_orders_header.po_id,Referential Integrity,0,None,Rows referencing missing parent IDs: 0
+purchase_orders_lines,Foreign key product_id → products.product_id,Referential Integrity,0,None,Rows referencing missing parent IDs: 0
+sales_orders_header,Foreign key branch_id → branches.branch_id,Referential Integrity,0,None,Rows referencing missing parent IDs: 0
+sales_orders_lines,Foreign key so_id → sales_orders_header.so_id,Referential Integrity,0,None,Rows referencing missing parent IDs: 0
+sales_orders_lines,Foreign key product_id → products.product_id,Referential Integrity,0,None,Rows referencing missing parent IDs: 0
+inventory_master,Inventory level hierarchy,Business Logic,180,High,Expected relationship: reorder level <= safety stock <= max stock
+products,Unit cost <= unit price,Business Logic,0,None,Products where unit cost exceeds unit selling price
+stock_ledger,Date validity: movement_date,Invalid Date,0,None,Unparseable dates: 0
+purchase_orders_header,Date validity: order_date,Invalid Date,0,None,Unparseable dates: 0
+purchase_orders_header,Date validity: expected_delivery_date,Invalid Date,0,None,Unparseable dates: 0
+purchase_orders_header,Date validity: received_date,Invalid Date,0,None,Unparseable dates: 0
+sales_orders_header,Date validity: order_date,Invalid Date,0,None,Unparseable dates: 0
+sales_orders_header,Date validity: delivery_date,Invalid Date,0,None,Unparseable dates: 0
+products,Date validity: last_purchase_date,Invalid Date,0,None,Unparseable dates: 0
