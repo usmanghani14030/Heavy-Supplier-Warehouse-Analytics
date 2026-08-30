@@ -1,0 +1,171 @@
+WEEK 10 - BUSINESS INTELLIGENCE, KPI FRAMEWORK & DASHBOARD INSIGHTS
+==================================================================
+
+1. EXECUTIVE KPI OVERVIEW
+-------------------------
+The Week-10 KPI framework consolidates key performance indicators across
+Product & Inventory, Warehouse, Supplier, and Customer analytics.
+
+Total Units Sold: 1,234,939
+Total Product Sales Revenue: 22,958,987,430
+Products Analysed: 30
+Fast-Moving Products: 8
+Slow/Dead Stock Products: 8
+
+Warehouses Analysed: 6
+Total Warehouse Capacity: 226,080 sqft
+
+Suppliers Analysed: 8
+Average Supplier Score: 57.14
+Total Procurement Spend: 346,621,977,539.14
+Average Procurement Risk Score: 55.44
+
+Customers Analysed: 500
+Average Customer Lifetime Value: 50,206,758.80
+
+
+2. PRODUCT & INVENTORY INSIGHTS
+-------------------------------
+Product revenue is concentrated among a small number of high-value products.
+
+Top revenue-generating products include:
+- P015 Engine Block EB-600
+- P014 Transmission Assembly TA-800
+- P021 Boom Cylinder BC-400
+- P019 Swing Motor SWM-350
+- P004 Track Chain TC-45
+
+Eight products were classified as fast-moving based on unit sales.
+Eight products were classified as slow/dead stock in the final dashboard
+classification.
+
+Management should prioritize high-revenue and fast-moving products while
+reviewing slow/dead stock for inventory optimisation opportunities.
+
+
+3. WAREHOUSE INSIGHTS
+---------------------
+Six warehouses were analysed with a combined stated capacity of
+226,080 sqft.
+
+The warehouse utilisation percentage field was identified as invalid
+because the underlying occupied-footprint values were inconsistent with
+the stated warehouse capacity.
+
+Therefore, the invalid utilisation KPI was deliberately excluded from
+the final KPI framework rather than presenting misleading information.
+
+Warehouse capacity remains included as a validated KPI.
+
+This data-quality issue should be investigated before using utilisation
+percentages for operational decisions.
+
+
+4. SUPPLIER INSIGHTS
+--------------------
+Eight suppliers were evaluated using supplier performance, procurement
+spend, risk, dependency, and strategic sourcing measures.
+
+Supplier performance ranking:
+1. SUP0006
+2. SUP0007
+3. SUP0005
+4. SUP0008
+5. SUP0001
+6. SUP0003
+7. SUP0002
+8. SUP0004
+
+Supplier strategic segmentation identified:
+- 3 Approved Suppliers
+- 3 Transactional Suppliers
+- 1 Preferred Supplier
+- 1 Strategic Partner
+
+SUP0005 received the highest strategic sourcing priority score and
+therefore requires particular sourcing attention.
+
+Supplier strategy should balance supplier performance, risk exposure,
+procurement spend, diversification requirements, and negotiation
+opportunities.
+
+
+5. CUSTOMER INSIGHTS
+--------------------
+The customer dashboard covers 500 customers.
+
+Customer industry segmentation:
+- Mining: 98
+- Logistics: 96
+- Construction: 90
+- Infrastructure: 79
+- Manufacturing: 70
+- Rental: 67
+
+Mining represents the largest customer segment in the analysed dataset,
+followed by Logistics and Construction.
+
+Customer segmentation and lifetime-value analysis can support targeted
+retention, prioritisation, and account-management decisions.
+
+
+6. DASHBOARD DELIVERABLES
+-------------------------
+The Week-10 dashboard layer contains nine validated CSV datasets and
+seven validated visualisation charts.
+
+Dashboard datasets:
+- dashboard_kpi_cards.csv
+- dashboard_product_performance.csv
+- dashboard_fast_moving_products.csv
+- dashboard_slow_dead_stock.csv
+- dashboard_warehouse_data.csv
+- dashboard_supplier_scorecard.csv
+- dashboard_supplier_strategy.csv
+- dashboard_customer_segmentation.csv
+- dashboard_data_quality_summary.csv
+
+Dashboard charts:
+- 01_product_revenue.png
+- 02_fast_moving_products.png
+- 03_supplier_performance.png
+- 04_customer_segmentation.png
+- 05_slow_dead_stock_products.png
+- 06_warehouse_capacity.png
+- 07_supplier_strategic_sourcing_priority.png
+
+
+7. DATA QUALITY NOTES
+---------------------
+The warehouse utilisation KPI was excluded because its calculated values
+were outside a valid percentage range.
+
+This is an intentional data-quality control and prevents invalid metrics
+from being presented in the executive dashboard.
+
+The final KPI framework contains 14 validated KPIs across four categories.
+
+
+8. BUSINESS RECOMMENDATIONS
+---------------------------
+- Prioritize high-revenue products for availability and replenishment.
+- Monitor fast-moving products closely to reduce stockout risk.
+- Review slow/dead stock for potential inventory reduction.
+- Use supplier performance and risk scores in sourcing decisions.
+- Diversify suppliers where dependency risk is elevated.
+- Apply targeted customer strategies by industry segment.
+- Use customer lifetime value to prioritize high-value accounts.
+- Investigate warehouse source data before calculating utilisation-based
+  performance targets.
+- Maintain a centralized KPI and dashboard layer for management reporting.
+
+
+9. WEEK-10 CONCLUSION
+---------------------
+Week 10 established the project's Business Intelligence and KPI layer.
+Validated operational metrics were consolidated into an executive KPI
+framework, dashboard datasets were prepared, and seven dashboard
+visualisations were generated.
+
+The dashboard layer provides a foundation for the final Weeks 11-12
+strategy, advanced analytics, anomaly/risk monitoring, and final delivery.
