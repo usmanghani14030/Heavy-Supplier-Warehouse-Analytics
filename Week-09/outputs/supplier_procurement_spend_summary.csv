@@ -1,0 +1,9 @@
+supplier_id,purchase_order_count,total_procurement_spend,average_po_value,spend_share_pct,po_share_pct,supplier_spend_class,procurement_value_class,procurement_priority_score,procurement_priority_class,procurement_spend_rank
+SUP0005,3044,44748497243.67,14700557.57,12.91,12.68,Medium Spend Supplier,Above Average Procurement Value,100.0,Critical Procurement Priority,1
+SUP0001,2944,43664270006.09,14831613.45,12.6,12.27,Medium Spend Supplier,Above Average Procurement Value,97.58,Critical Procurement Priority,2
+SUP0003,3033,43657994600.35,14394327.27,12.6,12.64,Medium Spend Supplier,Above Average Procurement Value,97.56,Critical Procurement Priority,3
+SUP0007,3028,43632412424.6,14409647.43,12.59,12.62,Medium Spend Supplier,Above Average Procurement Value,97.51,Critical Procurement Priority,4
+SUP0008,3010,43432705804.86,14429470.37,12.53,12.54,Medium Spend Supplier,Above Average Procurement Value,97.06,Critical Procurement Priority,5
+SUP0006,3038,43243725354.91,14234274.31,12.48,12.66,Medium Spend Supplier,Below Average Procurement Value,96.64,Critical Procurement Priority,6
+SUP0004,2966,42427550782.14,14304636.14,12.24,12.36,Medium Spend Supplier,Below Average Procurement Value,94.81,Critical Procurement Priority,7
+SUP0002,2937,41814821322.52,14237256.15,12.06,12.24,Medium Spend Supplier,Below Average Procurement Value,93.44,Critical Procurement Priority,8
