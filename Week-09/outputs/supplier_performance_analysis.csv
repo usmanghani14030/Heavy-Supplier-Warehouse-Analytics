@@ -1,0 +1,9 @@
+supplier_id,purchase_order_count,total_ordered_quantity,total_purchase_value,supplier_name,supplier_type,product_category,city,province,region,pincode,lead_time_days,reliability_score,import_duty_rate,china_tax_id,average_po_value,purchase_value_rank,purchase_order_rank,supplier_performance_class
+SUP0005,3044,3183732,44748497243.67,Tianjin OEM Supplies,OEM,Small Parts,Tianjin,Tianjin,North China,334261,28,3,5,59GUANGZ986793,14700557.570193823,1,1,Strategic Supplier
+SUP0001,2944,3106464,43664270006.090004,Shenzhen OEM Supplies,OEM,Medium Parts,Shenzhen,Guangdong,South China,586808,19,5,8,90SUZHOU398241,14831613.453155572,2,7,High Value Low Frequency
+SUP0003,3033,3115813,43657994600.35,Shanghai Distributor Supplies,Distributor,Large Parts,Shanghai,Shanghai,East China,655757,16,4,8,96SHENZH983302,14394327.266848005,3,3,Regular Supplier
+SUP0007,3028,3124421,43632412424.6,Suzhou Local Vendor Supplies,Local Vendor,Medium Parts,Suzhou,Jiangsu,East China,202099,12,5,15,41GUANGZ551261,14409647.432166446,4,4,Regular Supplier
+SUP0008,3010,3074615,43432705804.86,Hangzhou OEM Supplies,OEM,Small Parts,Hangzhou,Zhejiang,East China,306032,26,4,5,60QINGDA640679,14429470.367063124,5,5,Regular Supplier
+SUP0006,3038,3134287,43243725354.91,Qingdao Distributor Supplies,Distributor,Large Parts,Qingdao,Shandong,East China,885785,10,3,15,64SHANGH737801,14234274.310371956,6,2,High Activity Supplier
+SUP0004,2966,3056587,42427550782.14,Ningbo Distributor Supplies,Distributor,Large Parts,Ningbo,Zhejiang,East China,536477,18,3,8,39GUANGZ946640,14304636.136931894,7,6,Regular Supplier
+SUP0002,2937,3071797,41814821322.52,Guangzhou Local Vendor Supplies,Local Vendor,Small Parts,Guangzhou,Guangdong,South China,966203,10,5,12,89TIANJI357980,14237256.153394619,8,8,Low Activity Supplier
