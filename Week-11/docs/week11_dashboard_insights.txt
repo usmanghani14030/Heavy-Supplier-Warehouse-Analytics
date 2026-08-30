@@ -1,0 +1,124 @@
+
+======================================================================
+WEEK 11 - RISK, ANOMALY & DATA INTEGRITY DASHBOARD INSIGHTS
+======================================================================
+
+1. EXECUTIVE SUMMARY
+----------------------------------------------------------------------
+Week 11 focused on operational risk monitoring, inventory anomaly
+detection, stock shrinkage analysis and data integrity validation.
+
+The analysis covered 180 product-branch combinations,
+5,055 detected operational movement anomalies and
+180 stock position records.
+
+Operational risk analysis identified 180 high-risk
+product-branch combinations.
+
+Average operational risk score: 99.87
+Maximum operational risk score: 100.00
+
+2. INVENTORY MOVEMENT ANOMALIES
+----------------------------------------------------------------------
+Total daily movement anomaly records: 5,055
+
+The enhanced anomaly analysis identified unusual daily inventory
+activity using product-branch activity volume and movement frequency.
+
+The analysis indicates that abnormal operational activity is present
+across the inventory network and should be monitored at product and
+branch level.
+
+3. STOCK SHRINKAGE
+----------------------------------------------------------------------
+High shrinkage records: 179
+Medium shrinkage records: 1
+Total absolute stock variance: 69,656.00
+
+Stock shrinkage was identified as the dominant operational risk
+driver.
+
+The results indicate discrepancies between expected inventory balances
+and recorded current stock. These differences should be investigated
+through cycle counts, warehouse reconciliation and transaction-level
+audits.
+
+4. OPERATIONAL RISK
+----------------------------------------------------------------------
+Product-branch combinations analysed: 180
+High-risk combinations: 180
+Average operational risk score: 99.87
+Maximum operational risk score: 100.00
+
+Primary risk drivers:
+  - Stock Shrinkage: 179 combinations
+  - Movement Anomaly: 1 combinations
+
+5. TOP OPERATIONAL RISK AREAS
+----------------------------------------------------------------------
+
+Top-ranked product-branch combinations should receive priority
+investigation because they combine inventory discrepancies and/or
+abnormal movement activity.
+
+- Rank 1: P025 - HYD001 | Risk Score: 100.00 | Driver: Stock Shrinkage
+- Rank 2: P021 - DEL001 | Risk Score: 100.00 | Driver: Stock Shrinkage
+- Rank 3: P025 - CHN001 | Risk Score: 100.00 | Driver: Stock Shrinkage
+- Rank 4: P028 - DEL001 | Risk Score: 100.00 | Driver: Stock Shrinkage
+- Rank 5: P013 - KOL001 | Risk Score: 100.00 | Driver: Stock Shrinkage
+- Rank 6: P015 - CHN001 | Risk Score: 100.00 | Driver: Stock Shrinkage
+- Rank 7: P026 - AHM001 | Risk Score: 100.00 | Driver: Stock Shrinkage
+- Rank 8: P028 - CHN001 | Risk Score: 100.00 | Driver: Stock Shrinkage
+- Rank 9: P005 - CHN001 | Risk Score: 100.00 | Driver: Stock Shrinkage
+- Rank 10: P013 - PUN001 | Risk Score: 100.00 | Driver: Stock Shrinkage
+
+6. DATA INTEGRITY FINDINGS
+----------------------------------------------------------------------
+Integrity issue categories identified: 2
+
+Previously validated source-data findings include:
+- 2,370 purchase orders with missing received_date.
+- All 2,370 missing received_date records relate to cancelled
+  purchase orders.
+- 180 inventory records have current_stock greater than max_stock.
+- No primary-key duplication was identified.
+- No foreign-key orphan records were identified.
+
+The source data was preserved and no source values were overwritten.
+
+7. BUSINESS RECOMMENDATIONS
+----------------------------------------------------------------------
+
+1. Prioritise high-risk product-branch combinations for physical
+   inventory verification.
+
+2. Investigate stock shrinkage through cycle counts and warehouse
+   reconciliation.
+
+3. Review unusual movement-frequency patterns for potential process
+   errors or control weaknesses.
+
+4. Strengthen inventory transaction controls for adjustments and
+   stock corrections.
+
+5. Monitor inventory levels where current stock exceeds defined
+   maximum-stock thresholds.
+
+6. Maintain validation rules for purchase-order status and
+   received-date consistency.
+
+7. Use the Week-11 dashboard as an operational monitoring layer for
+   recurring risk identification.
+
+8. CONCLUSION
+----------------------------------------------------------------------
+Week 11 successfully established a risk and anomaly monitoring layer
+for the Heavy Supplier, Warehouse & Inventory Analytics project.
+
+The resulting datasets and visualisations provide management with
+visibility into inventory anomalies, stock shrinkage, operational
+risk and source-data integrity.
+
+======================================================================
+✓ WEEK-11 DASHBOARD INSIGHTS COMPLETE
+======================================================================
