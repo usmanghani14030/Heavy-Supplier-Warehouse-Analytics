@@ -1,0 +1,68 @@
+======================================================================
+WEEK 12 - EXECUTIVE DASHBOARD INSIGHTS
+======================================================================
+
+1. EXECUTIVE OVERVIEW
+----------------------------------------------------------------------
+The final Week-12 dashboard consolidates product, inventory, supplier, customer, operational risk, stock shrinkage and data integrity information for management-level review.
+Total product sales revenue analysed was 22,958,987,430.00, with 1,234,939 units sold across 30 products.
+
+2. PRODUCT PERFORMANCE
+----------------------------------------------------------------------
+Engine Block EB-600 generated the highest product revenue at 4,856,985,000.00, representing approximately 21.16% of analysed product revenue.
+The analysis covers 30 products, providing a complete view of product-level sales performance.
+
+3. INVENTORY PERFORMANCE
+----------------------------------------------------------------------
+8 products were classified as fast-moving.
+3 products were classified as slow-moving and 5 products as dead stock.
+Therefore, 8 products require inventory management attention because they fall into slow/dead stock categories.
+
+4. SUPPLIER PERFORMANCE
+----------------------------------------------------------------------
+8 suppliers were evaluated with an average supplier score of 57.14.
+The highest-ranked supplier in the dashboard is SUP0006 with a score of 78.36.
+Supplier performance should continue to be monitored using delivery reliability, quality, cost efficiency and procurement risk indicators.
+
+5. CUSTOMER PERFORMANCE
+----------------------------------------------------------------------
+The dashboard analyses 500 customers.
+The largest customer segment is Regular Customers, containing 141 customers.
+Customer segmentation can be used to prioritize retention, service differentiation and targeted commercial activity.
+
+6. OPERATIONAL RISK
+----------------------------------------------------------------------
+180 product-branch combinations were assessed for operational risk.
+180 combinations were classified as High Risk.
+The average operational risk score was 99.87.
+The highest-risk combination identified was P025 / HYD001.
+Management attention should focus on high-risk product-branch combinations and the underlying shrinkage and movement-anomaly drivers.
+
+7. STOCK SHRINKAGE
+----------------------------------------------------------------------
+180 product-branch records showed negative stock variance.
+Total absolute stock variance was 69,656 units.
+The largest negative variance was associated with P025 / HYD001.
+Stock reconciliation, movement monitoring and branch-level inventory controls should be prioritised for shrinkage-heavy locations.
+
+8. DATA INTEGRITY
+----------------------------------------------------------------------
+2 integrity issue categories were documented in the final dashboard data.
+The identified issues were preserved and documented rather than silently corrected or overwritten.
+
+9. WAREHOUSE UTILISATION DATA QUALITY
+----------------------------------------------------------------------
+Warehouse utilisation was deliberately excluded from validated management KPIs because the source calculations produced values above the valid 0-100% percentage range.
+No artificial scaling or adjustment was applied. The original warehouse data remains preserved for future source-level review.
+
+10. STRATEGIC MANAGEMENT PRIORITIES
+----------------------------------------------------------------------
+Priority 1: Investigate high-risk product-branch combinations and recurring stock shrinkage.
+Priority 2: Reduce slow-moving and dead-stock exposure through inventory rationalisation and demand-aligned replenishment.
+Priority 3: Continue supplier performance monitoring with emphasis on reliability, quality, cost and procurement risk.
+Priority 4: Use customer segmentation to improve retention and targeted commercial decisions.
+Priority 5: Strengthen data-quality controls around inventory hierarchy and purchase-order completion fields.
+
+======================================================================
+END OF WEEK 12 EXECUTIVE DASHBOARD INSIGHTS
+======================================================================
