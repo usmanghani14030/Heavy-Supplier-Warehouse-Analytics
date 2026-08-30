@@ -1,0 +1,18 @@
+WEEK 11 - DATA INTEGRITY & ERROR DETECTION
+======================================================================
+
+Datasets analysed: 9
+Integrity checks performed: 87
+Checks with detected issues: 2
+Total detected issues: 2550
+
+SEVERITY SUMMARY
+----------------------------------------
+High: 2
+Medium: 0
+Low: 0
+
+KEY FINDINGS
+----------------------------------------
+- purchase_orders_header | Missing values | Issues: 2370 | Severity: High
+- inventory_master | Inventory level hierarchy | Issues: 180 | Severity: High
