@@ -1,0 +1,3 @@
+issue_id,issue_category,dataset,field,issue_count,severity,status,finding
+INT-001,Missing Values,purchase_orders_header,received_date,2370,High,Expected / Contextual,Missing received dates occur on cancelled purchase orders and are therefore generally expected.
+INT-002,Business Logic,inventory_master,current_stock,180,High,Requires Investigation,Current stock exceeds configured maximum stock for all product-branch inventory records.
