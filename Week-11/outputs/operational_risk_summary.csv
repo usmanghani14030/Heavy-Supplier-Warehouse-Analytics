@@ -1,0 +1,10 @@
+metric,value
+Product-branch combinations analysed,180.0
+High-risk combinations,180.0
+Medium-risk combinations,0.0
+Low-risk combinations,0.0
+Normal-risk combinations,0.0
+Average operational risk score,99.87
+Maximum operational risk score,100.0
+Combinations with movement anomalies,180.0
+Combinations with shrinkage,180.0
