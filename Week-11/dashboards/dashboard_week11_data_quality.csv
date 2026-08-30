@@ -1,0 +1,10 @@
+dataset,rows,columns,missing_cells,duplicate_rows
+movement_anomalies,5055,10,0,0
+movement_type,3,9,0,0
+adjustment,6,2,0,0
+shrinkage,180,13,0,0
+operational_risk,180,25,0,0
+operational_summary,9,2,0,0
+integrity,87,6,85,0
+integrity_summary,7,2,0,0
+integrity_issue_summary,2,8,0,0
