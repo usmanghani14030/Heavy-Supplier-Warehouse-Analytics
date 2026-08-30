@@ -1,0 +1,7 @@
+branch_id,branch_name,total_orders,total_units,units_per_sqft,capacity_pressure_pct,performance_score,performance_rank,performance_class,throughput_percentile,capacity_pressure_percentile,order_volume_percentile,bottleneck_type,operational_risk,action_focus
+HYD001,Hyderabad Logistics,2768,189163,5.224054128693731,103.29583889959366,20.96,6,Critical Performance,50.0,66.67,16.67,Capacity Bottleneck,Critical,Review warehouse space and inventory allocation
+PUN001,Pune Distribution,2972,201749,5.206425806451613,96.8513043850813,30.76,5,Low Performance,33.33,50.0,50.0,Throughput Bottleneck,High,Improve warehouse processing and space efficiency
+DEL001,Delhi Central,2953,204734,4.526508954233916,83.8014272577708,34.27,4,Low Performance,16.67,16.67,33.33,Throughput Bottleneck,High,Improve warehouse processing and space efficiency
+AHM001,Ahmedabad West Hub,3446,236347,6.926934349355217,106.57293991247788,50.78,3,Moderate Performance,83.33,83.33,66.67,Capacity Bottleneck,High,Review warehouse space and inventory allocation
+KOL001,Kolkata East Depot,3794,256095,8.57078313253012,120.492781264033,63.69,2,Moderate Performance,100.0,100.0,83.33,Capacity Bottleneck,High,Review warehouse space and inventory allocation
+CHN001,Chennai South Hub,4067,280446,6.694819766053951,88.98570828104333,77.2,1,High Performance,66.67,33.33,100.0,No Major Bottleneck,Normal,Maintain monitoring
