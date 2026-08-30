@@ -1,0 +1,15 @@
+kpi_category,kpi_name,kpi_value,unit,source_analysis
+Product & Inventory,Total Units Sold,1234939.0,units,product_performance_analysis
+Product & Inventory,Total Product Sales Revenue,22958987430.0,currency,product_performance_analysis
+Product & Inventory,Products Analysed,30.0,products,product_performance_analysis
+Product & Inventory,Fast-Moving Products,8.0,products,fast_moving_products
+Product & Inventory,Slow/Dead Stock Products,8.0,products,slow_moving_dead_stock_analysis
+Warehouse,Warehouses Analysed,6.0,warehouses,warehouse_space_utilisation
+Warehouse,Warehouse Capacity Records,6.0,records,warehouse_capacity_analysis
+Warehouse,Total Warehouse Capacity,226080.0,sqft,warehouse_space_utilisation
+Supplier,Average Supplier Score,57.14,score,supplier_overall_performance_risk_scorecard
+Supplier,Suppliers Analysed,8.0,suppliers,supplier_overall_performance_risk_scorecard
+Supplier,Total Procurement Spend,346621977539.14,currency,supplier_procurement_spend_cost_analysis
+Supplier,Average Procurement Risk Score,55.44,score,supplier_quality_procurement_risk_analysis
+Customer,Customers Analysed,500.0,customers,customer_rfm_segmentation_analysis
+Customer,Average Customer Lifetime Value,50206758.8,currency,customer_lifetime_value_analysis
