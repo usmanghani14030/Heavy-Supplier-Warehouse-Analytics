@@ -1,0 +1,9 @@
+metric,value
+Total stock movements,237230.0
+Quantity IQR lower bound,0.0
+Quantity IQR upper bound,408.5
+Quantity anomalies,0.0
+Negative balance anomalies,0.0
+Data quality anomalies,0.0
+Total flagged anomalies,0.0
+Anomaly rate pct,0.0
