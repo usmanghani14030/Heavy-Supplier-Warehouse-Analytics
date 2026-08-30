@@ -1,0 +1,7 @@
+branch_id,branch_name,warehouse_type,capacity_sqft,occupied_footprint_sqft,unused_space_sqft,utilization_status,total_current_stock,products_stored,storage_bins_used,total_employees,avg_monthly_revenue,monthly_operational_cost,market_demand_index,utilisation_data_quality
+KOL001,Kolkata East Depot,Branch,29880.0,5695476.807863338,-5665596.807863338,Over Capacity,3123805,30,26,49,2894770,1743000,6,False
+AHM001,Ahmedabad West Hub,Service Hub,34120.0,5798327.897558573,-5764207.897558573,Over Capacity,3154992,30,26,63,3245890,2018000,7,False
+HYD001,Hyderabad Logistics,Branch,36210.0,6006724.842373296,-5970514.842373296,Over Capacity,3245291,30,28,57,3102455,1887000,7,False
+PUN001,Pune Distribution,Regional,38750.0,5987508.618663071,-5948758.618663071,Over Capacity,3256263,30,26,74,4389120,2654000,8,False
+CHN001,Chennai South Hub,Regional,41890.0,6078191.17436846,-6036301.17436846,Over Capacity,3234245,30,28,81,4567780,2739000,8,False
+DEL001,Delhi Central,Central,45230.0,6003348.568572137,-5958118.568572137,Over Capacity,3288670,30,27,92,5234890,3189000,9,False
