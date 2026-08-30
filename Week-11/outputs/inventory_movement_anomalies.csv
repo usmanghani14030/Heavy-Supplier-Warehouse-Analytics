@@ -1,0 +1,1 @@
+movement_id,product_id,branch_id,movement_type,movement_date,quantity,reference_type,reference_id,running_balance,quantity_anomaly,negative_balance_anomaly,data_quality_anomaly,anomaly_flag,anomaly_reason,anomaly_severity
