@@ -1,0 +1,9 @@
+supplier_id,purchase_order_count,average_lead_time_days,minimum_lead_time_days,maximum_lead_time_days,average_delivery_variance_days,total_on_time_deliveries,total_late_deliveries,on_time_delivery_rate_pct,late_delivery_rate_pct,supplier_delivery_performance_class,delivery_performance_score,supplier_delivery_risk_class,supplier_delivery_rank
+SUP0002,2937,10.0,10,10,0.0,2937,0,100.0,0.0,Excellent Delivery Performance,100.0,Low Risk,1
+SUP0006,3038,10.0,10,10,0.0,3038,0,100.0,0.0,Excellent Delivery Performance,100.0,Low Risk,2
+SUP0007,3028,12.0,12,12,0.0,3028,0,100.0,0.0,Excellent Delivery Performance,100.0,Low Risk,3
+SUP0003,3033,16.0,16,16,0.0,3033,0,100.0,0.0,Excellent Delivery Performance,100.0,Low Risk,4
+SUP0004,2966,18.0,18,18,0.0,2966,0,100.0,0.0,Excellent Delivery Performance,100.0,Low Risk,5
+SUP0001,2944,19.0,19,19,0.0,2944,0,100.0,0.0,Excellent Delivery Performance,100.0,Low Risk,6
+SUP0008,3010,26.0,26,26,0.0,3010,0,100.0,0.0,Excellent Delivery Performance,100.0,Low Risk,7
+SUP0005,3044,28.0,28,28,0.0,3044,0,100.0,0.0,Excellent Delivery Performance,100.0,Low Risk,8
