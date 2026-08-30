@@ -1,0 +1,15 @@
+metric,value
+Total suppliers analysed,8
+Total purchase orders,24000
+Total procurement spend,346621977539.14
+Highest-spend supplier,SUP0005
+Highest supplier spend,44748497243.67
+Highest supplier spend share pct,12.91
+Top 1 supplier spend share pct,12.91
+Top 3 suppliers spend share pct,38.1
+Top 5 suppliers spend share pct,63.22
+Supplier concentration HHI,1250.45
+Effective supplier count,8.0
+Overall concentration class,Low Supplier Concentration
+Overall dependency score,73.56
+Overall dependency class,High Supplier Dependency
