@@ -1,0 +1,31 @@
+product_id,product_name,category,criticality_level,total_stock,warehouse_count,total_bins,top_stock_branch_id,top_stock_warehouse,top_warehouse_stock,top_warehouse_stock_share_pct,warehouse_coverage_class,stock_concentration_class
+P019,Swing Motor SWM-350,Hydraulic,High,622249,6,6,DEL001,Delhi Central,118200,19.0,Full Coverage,Balanced Distribution
+P002,Engine Oil Filter OF-90,Filters,Medium,655012,6,6,HYD001,Hyderabad Logistics,121013,18.47,Full Coverage,Balanced Distribution
+P021,Boom Cylinder BC-400,Hydraulic,High,630617,6,6,DEL001,Delhi Central,115902,18.38,Full Coverage,Balanced Distribution
+P007,Hydraulic Hose HH-60,Hydraulic,Medium,656823,6,6,DEL001,Delhi Central,119439,18.18,Full Coverage,Balanced Distribution
+P003,Air Filter AF-120,Filters,Medium,650115,6,6,PUN001,Pune Distribution,118139,18.17,Full Coverage,Balanced Distribution
+P020,Pivot Pin PP-12,Pins & Bushes,Medium,625266,6,6,CHN001,Chennai South Hub,113260,18.11,Full Coverage,Balanced Distribution
+P012,Brake Pad BP-40,Brakes,Medium,663107,6,6,DEL001,Delhi Central,119923,18.09,Full Coverage,Balanced Distribution
+P001,Hydraulic Pump HP-300,Hydraulic,High,643984,6,6,DEL001,Delhi Central,115928,18.0,Full Coverage,Balanced Distribution
+P015,Engine Block EB-600,Engine,High,632583,6,6,CHN001,Chennai South Hub,113851,18.0,Full Coverage,Balanced Distribution
+P027,O-Ring Set OR-50,Seals,Low,630991,6,6,PUN001,Pune Distribution,112683,17.86,Full Coverage,Balanced Distribution
+P030,Fuel Pump FP-350,Engine,High,632290,6,6,PUN001,Pune Distribution,112388,17.77,Full Coverage,Balanced Distribution
+P017,Fan Belt FB-30,Belts,Medium,659066,6,6,HYD001,Hyderabad Logistics,117058,17.76,Full Coverage,Balanced Distribution
+P029,Pressure Sensor PS-90,Sensors,Medium,634978,6,6,HYD001,Hyderabad Logistics,112739,17.75,Full Coverage,Balanced Distribution
+P024,Track Roller TR-60,Undercarriage,High,656188,6,6,DEL001,Delhi Central,116412,17.74,Full Coverage,Balanced Distribution
+P016,Radiator RD-250,Cooling,Medium,633960,6,6,CHN001,Chennai South Hub,112003,17.67,Full Coverage,Balanced Distribution
+P009,Starter Motor SM-700,Electrical,High,631941,6,6,CHN001,Chennai South Hub,111456,17.64,Full Coverage,Balanced Distribution
+P018,Wheel Rim WR-24,Undercarriage,High,650455,6,6,DEL001,Delhi Central,114627,17.62,Full Coverage,Balanced Distribution
+P013,Seal Kit SK-15,Seals,Medium,634580,6,6,HYD001,Hyderabad Logistics,111295,17.54,Full Coverage,Balanced Distribution
+P008,Bucket Tooth BT-10,Attachments,Low,624694,6,6,AHM001,Ahmedabad West Hub,109281,17.49,Full Coverage,Balanced Distribution
+P022,Control Valve CV-75,Hydraulic,High,647348,6,6,HYD001,Hyderabad Logistics,112997,17.46,Full Coverage,Balanced Distribution
+P025,Cabin Glass CG-20,Cabin,Medium,651781,6,6,HYD001,Hyderabad Logistics,113613,17.43,Full Coverage,Balanced Distribution
+P010,Turbocharger TB-900,Engine,High,661248,6,6,AHM001,Ahmedabad West Hub,115149,17.41,Full Coverage,Balanced Distribution
+P005,Fuel Injector FI-220,Engine,High,658820,6,6,CHN001,Chennai South Hub,114267,17.34,Full Coverage,Balanced Distribution
+P023,Idler Wheel IW-55,Undercarriage,High,661520,6,6,AHM001,Ahmedabad West Hub,114558,17.32,Full Coverage,Balanced Distribution
+P014,Transmission Assembly TA-800,Transmission,High,661663,6,6,CHN001,Chennai South Hub,114302,17.27,Full Coverage,Balanced Distribution
+P011,Hydraulic Cylinder HC-200,Hydraulic,High,650389,6,6,DEL001,Delhi Central,112300,17.27,Full Coverage,Balanced Distribution
+P026,Grease Cartridge GC-5,Lubricants,Low,631316,6,6,CHN001,Chennai South Hub,108895,17.25,Full Coverage,Balanced Distribution
+P004,Track Chain TC-45,Undercarriage,High,638882,6,6,DEL001,Delhi Central,110145,17.24,Full Coverage,Balanced Distribution
+P006,Alternator ALT-500,Electrical,High,647154,6,6,PUN001,Pune Distribution,111016,17.15,Full Coverage,Balanced Distribution
+P028,Light Assembly LA-18,Electrical,Medium,624246,6,6,DEL001,Delhi Central,106744,17.1,Full Coverage,Balanced Distribution
