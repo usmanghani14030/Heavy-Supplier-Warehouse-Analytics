@@ -1,0 +1,8 @@
+WEEK 10 - KPI DATA QUALITY NOTES
+=================================
+
+Warehouse space-utilisation KPI was excluded from the final KPI framework because the source warehouse dataset contains physically inconsistent occupancy values.
+
+Example: Kolkata East Depot has capacity of 29,880 sqft but occupied footprint of approximately 5,695,477 sqft. Using these values directly produces utilisation above 19,000%, which is not a valid physical utilisation metric.
+
+Rather than artificially capping or modifying the metric, the invalid utilisation KPI was excluded and validated warehouse capacity was retained as a reliable KPI.
