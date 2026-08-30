@@ -1,9 +1,0 @@
-product_id,product_name,category,total_units_sold,number_of_orders,sales_revenue,revenue_share_pct,movement_class
-P029,Pressure Sensor PS-90,Sensors,42702,3506,168672900,0.7346704662575791,Fast-Moving
-P010,Turbocharger TB-900,Engine,42292,3542,1475990800,6.428814879141209,Fast-Moving
-P007,Hydraulic Hose HH-60,Hydraulic,42156,3534,61126200,0.2662408356917681,Fast-Moving
-P011,Hydraulic Cylinder HC-200,Hydraulic,42093,3595,1161766800,5.060183091881243,Fast-Moving
-P021,Boom Cylinder BC-400,Hydraulic,41864,3481,1934116800,8.424225179341892,Fast-Moving
-P006,Alternator ALT-500,Electrical,41843,3539,468641600,2.0412119716901644,Fast-Moving
-P016,Radiator RD-250,Cooling,41770,3544,426054000,1.855717728401579,Fast-Moving
-P003,Air Filter AF-120,Filters,41712,3554,52140000,0.2271006078075979,Fast-Moving
