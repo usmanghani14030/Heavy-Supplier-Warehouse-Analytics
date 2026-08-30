@@ -1,0 +1,42 @@
+======================================================================
+WEEK 11 - DATA INTEGRITY FINDINGS REPORT
+======================================================================
+
+1. EXECUTIVE SUMMARY
+----------------------------------------------------------------------
+The Week-11 data integrity assessment identified two high-severity issue categories across the validated source datasets. The first relates to missing purchase-order received dates, while the second relates to inventory current-stock values exceeding configured maximum stock levels.
+
+2. PURCHASE ORDER MISSING VALUES
+----------------------------------------------------------------------
+Total purchase orders: 24,000
+Missing received_date values: 2,370
+Cancelled POs with missing received_date: 2,370
+Non-cancelled POs with missing received_date: 0
+
+Assessment: Missing received dates are primarily associated with cancelled purchase orders. Because cancelled orders normally do not have a completed receipt event, these missing values are treated as contextually expected rather than automatically imputed.
+
+3. INVENTORY BUSINESS LOGIC VIOLATION
+----------------------------------------------------------------------
+Inventory records analysed: 180
+Current stock above max stock: 180
+Percentage affected: 100.00%
+
+Validation results:
+- Opening stock above max stock: 0
+- Safety stock above reorder level: 0
+- Reorder level above max stock: 0
+- Current stock above max stock: 180
+
+Assessment: The current_stock versus max_stock relationship is invalid under the configured inventory hierarchy. All 180 product-branch records are affected. The source values should be retained for auditability, while the issue should be flagged for investigation rather than overwritten without confirmation of the underlying stock-generation logic.
+
+4. RECOMMENDED DATA GOVERNANCE ACTIONS
+----------------------------------------------------------------------
+1. Do not impute received_date for cancelled purchase orders.
+2. Investigate the source logic generating current_stock values.
+3. Preserve the original inventory_master.csv for auditability.
+4. Use the flagged inventory records carefully in downstream risk and capacity analysis.
+5. Revalidate the inventory hierarchy after the source-generation logic has been reviewed.
+
+======================================================================
+END OF WEEK-11 DATA INTEGRITY FINDINGS REPORT
+======================================================================
