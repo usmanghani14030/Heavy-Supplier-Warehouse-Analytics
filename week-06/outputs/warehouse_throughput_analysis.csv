@@ -1,7 +1,0 @@
-branch_id,total_orders,total_units,branch_name,warehouse_capacity,warehouse_capacity_sqft,units_per_sqft
-CHN001,4067,280446,Chennai South Hub,41890 sqft,41890.0,6.694819766053951
-KOL001,3794,256095,Kolkata East Depot,29880 sqft,29880.0,8.57078313253012
-AHM001,3446,236347,Ahmedabad West Hub,34120 sqft,34120.0,6.926934349355217
-DEL001,2953,204734,Delhi Central,45230 sqft,45230.0,4.526508954233916
-PUN001,2972,201749,Pune Distribution,38750 sqft,38750.0,5.206425806451613
-HYD001,2768,189163,Hyderabad Logistics,36210 sqft,36210.0,5.224054128693731
