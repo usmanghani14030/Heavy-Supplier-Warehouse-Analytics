@@ -1,0 +1,5 @@
+priority_area,priority,evidence,recommended_action
+Product,Protect high-revenue products,P015 - Engine Block EB-600,Maintain availability and closely monitor stock levels.
+Inventory,Reduce slow/dead stock exposure,P024 - stock-to-sales ratio 16.62,Review replenishment parameters and develop stock reduction actions.
+Supplier,Review lowest-performing supplier,SUP0004 - score 46.33,"Review delivery, quality, cost and risk performance."
+Operational Risk,Investigate highest-risk product-branch combinations,P025 / HYD001,Prioritize root-cause investigation and corrective controls.
