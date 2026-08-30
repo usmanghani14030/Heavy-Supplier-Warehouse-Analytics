@@ -1,0 +1,227 @@
+======================================================================
+WEEK 9 - SUPPLIER ANALYTICS & PROCUREMENT INSIGHTS
+======================================================================
+
+OVERVIEW
+--------
+Week 9 focused on supplier performance, procurement risk, supplier
+dependency, purchasing costs, supplier-product relationships, and
+strategic sourcing.
+
+The analysis integrated supplier master data with purchase order
+headers, purchase order lines, and product information.
+
+KEY DATASET VALIDATION
+----------------------
+Suppliers analysed: 8
+Purchase orders analysed: 24,000
+Purchase order lines analysed: 155,495
+Products analysed: 30
+Supplier IDs were unique and complete.
+Purchase order IDs were unique and complete.
+No missing supplier IDs were identified in the analysed purchase data.
+
+1. SUPPLIER PERFORMANCE
+-----------------------
+Total purchase value: 346,621,977,539.14
+Total ordered quantity: 24,867,716
+Total purchase orders: 24,000
+
+Highest purchase-value supplier: SUP0005
+Purchase value of SUP0005: approximately 44.75 billion
+
+SUP0005 was classified as a Strategic Supplier based on the supplier
+performance analysis.
+
+2. DELIVERY & LEAD-TIME PERFORMANCE
+-----------------------------------
+Average supplier lead time: 17.38 days
+Average on-time delivery rate: 100.00%
+
+Fastest suppliers:
+- SUP0002: 10 days average lead time
+- SUP0006: 10 days average lead time
+
+Slowest supplier:
+- SUP0005: 28 days average lead time
+
+The delivery analysis showed zero late-delivery rate across the
+analysed supplier records.
+
+3. SUPPLIER QUALITY & PROCUREMENT RISK
+--------------------------------------
+Average procurement risk score: 55.44
+
+Highest procurement-risk supplier: SUP0005
+Highest risk score: 63.5
+
+All analysed suppliers were classified as Medium Procurement Risk.
+No suppliers were classified as High Procurement Risk.
+
+The analysis also identified poor supplier quality classifications
+across the supplier risk profile, indicating that supplier quality
+should remain an important procurement monitoring area.
+
+4. PROCUREMENT SPEND & COST
+---------------------------
+Total procurement spend: 346,621,977,539.14
+
+Highest-spend supplier: SUP0005
+Highest supplier spend: 44,748,497,243.67
+Highest spend share: 12.91%
+
+Highest average purchase-order value supplier: SUP0001
+Average PO value for SUP0001: 14,831,613.45
+
+Top 3 suppliers represented 38.10% of total procurement spend.
+Top 5 suppliers represented 63.22% of total procurement spend.
+
+5. SUPPLIER CONCENTRATION & DEPENDENCY
+--------------------------------------
+Supplier concentration HHI: 1250.45
+Effective supplier count: 8.00
+Overall concentration classification: Low Supplier Concentration
+
+Overall dependency score: 73.56
+Overall dependency classification: High Supplier Dependency
+
+Although procurement spend was relatively diversified across the
+eight suppliers, the overall dependency score indicates that supplier
+dependency should still be monitored as part of procurement risk
+management.
+
+6. SUPPLIER PRICING & PURCHASE COST
+-----------------------------------
+Overall average PO cost: 14,442,582.40
+
+Highest average purchase cost supplier: SUP0001
+Average purchase cost: 14,831,613.45
+
+Lowest average purchase cost supplier: SUP0006
+Average purchase cost: 14,234,274.31
+
+Estimated total potential cost saving: 1,930,583,853.74
+
+SUP0001 and SUP0005 were identified as the main suppliers with
+potential cost-saving opportunities.
+
+7. SUPPLIER-PRODUCT PROCUREMENT
+-------------------------------
+Supplier-product relationships analysed: 240
+Suppliers analysed: 8
+Products analysed: 30
+
+Total procurement value: 346,621,977,539.14
+Total ordered quantity: 24,867,716
+
+Highest-value supplier-product relationship:
+SUP0005 - P015
+
+Highest product dependency relationship:
+SUP0003 - P023
+
+Highest dependency share: 13.85%
+
+Highest unit cost variance:
+SUP0001 - P027
+
+Highest cost variance: 39.62%
+
+The supplier-product analysis highlights opportunities to monitor
+product-level supplier dependency and procurement cost differences.
+
+8. OVERALL SUPPLIER PERFORMANCE & RISK SCORECARD
+------------------------------------------------
+Best overall supplier: SUP0006
+Overall supplier score: 78.36
+
+Lowest overall supplier: SUP0004
+Overall supplier score: 46.33
+
+Average overall supplier score: 57.14
+
+Suppliers requiring high or critical attention: 7
+
+SUP0006 achieved the strongest overall supplier score because of its
+strong delivery, quality, cost, and overall performance indicators.
+
+SUP0004 recorded the lowest overall score and should receive closer
+performance monitoring.
+
+9. STRATEGIC SUPPLIER SEGMENTATION
+----------------------------------
+Highest strategic sourcing priority: SUP0005
+Strategic sourcing priority score: 68.60
+
+Highest supplier value score: SUP0006
+Supplier value score: 75.19
+
+Highest risk exposure: SUP0005
+Risk exposure score: 40.31
+
+Most strategically important supplier: SUP0005
+Strategic importance score: 100.00
+
+Strategic / preferred suppliers: 2
+Suppliers requiring diversification: 5
+Suppliers requiring negotiation: 3
+
+SUP0006 was classified as a Strategic Partner and recommended for
+long-term strategic partnership.
+
+SUP0007 was classified as a Preferred Supplier and recommended for
+preferred sourcing and volume allocation.
+
+SUP0005 was identified as the highest sourcing-priority supplier and
+requires both diversification planning and negotiation attention.
+
+OVERALL BUSINESS INSIGHTS
+-------------------------
+1. SUP0006 is the strongest overall-performing supplier and represents
+   a strong candidate for long-term strategic collaboration.
+
+2. SUP0005 has high strategic importance and the highest sourcing
+   priority, but its longer lead time, procurement risk exposure, and
+   cost position require active management.
+
+3. SUP0001 presents a significant cost-management opportunity because
+   it has the highest average PO value and the highest average
+   purchase cost.
+
+4. Procurement spend is relatively distributed across suppliers, with
+   the top three suppliers accounting for 38.10% of total spend.
+   However, the overall dependency score remains high and should be
+   monitored.
+
+5. Supplier quality and procurement risk require continued monitoring,
+   particularly for suppliers with weaker overall scorecard results.
+
+6. Supplier-product analysis should be used to identify opportunities
+   for supplier diversification and product-level cost benchmarking.
+
+7. Negotiation efforts should focus on suppliers with relatively high
+   procurement costs and meaningful spend exposure.
+
+8. Strategic sourcing should balance supplier performance, cost,
+   quality, delivery reliability, and dependency risk rather than
+   relying on procurement spend alone.
+
+RECOMMENDED PROCUREMENT ACTIONS
+-------------------------------
+- Maintain SUP0006 as a strategic supplier and explore long-term
+  partnership opportunities.
+- Closely monitor SUP0005 because of its high strategic importance,
+  risk exposure, and long lead time.
+- Benchmark SUP0001 purchasing costs and negotiate improved pricing.
+- Develop diversification plans for suppliers identified with high
+  diversification priority.
+- Continue supplier quality monitoring and periodic risk scoring.
+- Use supplier-product cost variance analysis for procurement
+  negotiations.
+- Review supplier dependency regularly to reduce disruption risk.
+- Use the overall supplier scorecard as a recurring supplier
+  performance-management framework.
+
+======================================================================
+WEEK 9 FINAL SUPPLIER ANALYTICS INSIGHTS
+======================================================================
