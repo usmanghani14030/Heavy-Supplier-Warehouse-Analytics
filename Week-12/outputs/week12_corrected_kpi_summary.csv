@@ -1,0 +1,9 @@
+category,metric,value,unit
+Inventory,Fast-moving products,8.0,products
+Inventory,Slow-moving products,3.0,products
+Inventory,Dead-stock products,5.0,products
+Inventory,Total slow/dead stock products,8.0,products
+Risk,Average operational risk score,99.87222,score
+Risk,High-risk product-branch combinations,180.0,combinations
+Risk,Negative stock variance records,180.0,records
+Data Quality,Warehouse utilisation KPI,Not validated,N/A
