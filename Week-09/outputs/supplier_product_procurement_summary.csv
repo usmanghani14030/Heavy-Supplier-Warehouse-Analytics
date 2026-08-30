@@ -1,0 +1,12 @@
+metric,value
+Suppliers analysed,8
+Products analysed,30
+Supplier-product relationships,240
+Total procurement value,346621977539.14
+Total ordered quantity,24867716
+Highest-value supplier-product,SUP0005 - P015
+Highest supplier-product procurement value,9796008318.0
+Highest product dependency supplier,SUP0003 - P023
+Highest product dependency share,13.85
+Highest unit cost variance supplier-product,SUP0001 - P027
+Highest unit cost variance percentage,39.62
