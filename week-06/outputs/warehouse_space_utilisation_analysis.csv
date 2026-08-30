@@ -1,7 +1,0 @@
-branch_id,branch_name,warehouse_capacity_sqft,total_current_stock,stock_units_per_sqft,sqft_per_stock_unit,capacity_pressure_pct,capacity_class,space_utilisation_pct,utilisation_vs_avg_pct,space_efficiency_class,space_status,action_focus
-KOL001,Kolkata East Depot,29880.0,3123805,104.54501338688084,0.0095652577545653,120.492781264033,High Pressure,120.49,120.49,High Space Efficiency,Over Capacity,Review space allocation and inventory levels
-AHM001,Ahmedabad West Hub,34120.0,3154992,92.4675263774912,0.0108146074538382,106.57293991247788,Normal,106.57,106.57,High Space Efficiency,Over Capacity,Review space allocation and inventory levels
-HYD001,Hyderabad Logistics,36210.0,3245291,89.62416459541564,0.0111577051179693,103.29583889959366,Normal,103.3,103.3,Moderate Space Efficiency,Over Capacity,Review space allocation and inventory levels
-PUN001,Pune Distribution,38750.0,3256263,84.0325935483871,0.0119001444293658,96.8513043850813,Normal,96.85,96.85,Moderate Space Efficiency,Near Capacity,Maintain current utilisation monitoring
-CHN001,Chennai South Hub,41890.0,3234245,77.20804487944616,0.0129520181680732,88.98570828104333,Low Pressure,88.99,88.99,Low Space Efficiency,Available Capacity,Review warehouse space utilisation efficiency
-DEL001,Delhi Central,45230.0,3288670,72.7099270395755,0.0137532802014188,83.8014272577708,Low Pressure,83.8,83.8,Low Space Efficiency,Available Capacity,Review warehouse space utilisation efficiency
