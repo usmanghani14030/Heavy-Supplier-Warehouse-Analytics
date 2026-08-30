@@ -1,0 +1,7 @@
+branch_id,branch_name,total_orders,total_units,units_per_sqft,warehouse_capacity_sqft,total_current_stock,stock_units_per_sqft,capacity_pressure_pct,capacity_class,throughput_score,order_volume_score,capacity_efficiency_score,performance_score,performance_rank,performance_class
+CHN001,Chennai South Hub,4067,280446,6.694819766053951,41890.0,3234245,77.20804487944616,88.98570828104333,Low Pressure,53.61,100.0,85.87,77.2,1,High Performance
+KOL001,Kolkata East Depot,3794,256095,8.57078313253012,29880.0,3123805,104.54501338688084,120.492781264033,High Pressure,100.0,78.98,0.0,63.69,2,Moderate Performance
+AHM001,Ahmedabad West Hub,3446,236347,6.926934349355217,34120.0,3154992,92.4675263774912,106.57293991247788,Normal,59.35,52.19,37.94,50.78,3,Moderate Performance
+DEL001,Delhi Central,2953,204734,4.526508954233916,45230.0,3288670,72.7099270395755,83.8014272577708,Low Pressure,0.0,14.24,100.0,34.27,4,Low Performance
+PUN001,Pune Distribution,2972,201749,5.206425806451613,38750.0,3256263,84.0325935483871,96.8513043850813,Normal,16.81,15.7,64.43,30.76,5,Low Performance
+HYD001,Hyderabad Logistics,2768,189163,5.224054128693731,36210.0,3245291,89.62416459541564,103.29583889959366,Normal,17.25,0.0,46.87,20.96,6,Critical Performance
