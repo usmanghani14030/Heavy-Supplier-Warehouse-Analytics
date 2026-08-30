@@ -1,0 +1,9 @@
+kpi_category,kpi_name,kpi_value,unit
+Inventory Anomaly,Operational Anomaly Records,5055.0,records
+Inventory Shrinkage,Product-Branch Combinations,180.0,combinations
+Inventory Shrinkage,High Shrinkage Records,179.0,records
+Operational Risk,Average Operational Risk Score,99.87222222222222,score
+Operational Risk,Maximum Operational Risk Score,100.0,score
+Operational Risk,High Risk Combinations,180.0,combinations
+Data Integrity,Integrity Issue Categories,2.0,issues
+Data Integrity,Total Detected Issue Records,2550.0,records
