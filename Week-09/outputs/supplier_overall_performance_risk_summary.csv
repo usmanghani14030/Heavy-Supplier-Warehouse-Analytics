@@ -1,0 +1,4 @@
+overall_supplier_class,supplier_priority_class,suppliers,total_purchase_value,average_supplier_score,average_risk_score,average_delivery_score,average_quality_score
+Average Supplier,High Supplier Priority,4,175477885479.22,59.08,55.62,81.25,63.62
+Good Supplier,Medium Supplier Priority,1,43243725354.91,78.36,42.5,100.0,100.0
+Needs Improvement,Critical Supplier Priority,3,127900366705.01,47.47,59.5,92.22,6.23
