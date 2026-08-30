@@ -1,0 +1,4 @@
+movement_type,movement_count,q1_quantity,q3_quantity,iqr,lower_bound,upper_bound,quantity_anomalies,anomaly_rate_pct
+ADJUSTMENT,2454,16.0,38.0,22.0,0,71.0,0,0.0
+IN,127611,90.0,230.0,140.0,0,440.0,0,0.0
+OUT,107165,5.0,16.0,11.0,0,32.5,0,0.0
