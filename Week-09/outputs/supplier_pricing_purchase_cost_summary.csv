@@ -1,0 +1,14 @@
+metric,value
+Total suppliers analysed,8
+Total purchase orders,24000
+Total procurement cost,346621977539.14
+Overall average PO cost,14442582.4
+Average supplier PO cost,14442722.84
+Highest average cost supplier,SUP0001
+Highest average supplier cost,14831613.45
+Lowest average cost supplier,SUP0006
+Lowest average supplier cost,14234274.31
+Highest procurement spend supplier,SUP0005
+Highest supplier procurement spend,44748497243.67
+Total potential cost saving,1930583853.74
+Cost saving opportunity percentage,0.56
