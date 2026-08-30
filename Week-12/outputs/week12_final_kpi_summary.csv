@@ -1,0 +1,20 @@
+category,metric,value,unit
+Product,Total product sales revenue,22958987430.0,currency
+Product,Total units sold,1234939.0,units
+Product,Products analysed,30.0,products
+Inventory,Fast-moving products,8.0,products
+Inventory,Slow/dead stock products,30.0,products
+Inventory,Current stock in slow/dead products,19303266.0,units
+Supplier,Suppliers analysed,8.0,suppliers
+Supplier,Total purchase value,346621977539.14,currency
+Supplier,Average supplier score,57.14,score
+Customer,Customers analysed,500.0,customers
+Customer,Customer revenue,29253993162.4,currency
+Warehouse,Warehouses analysed,6.0,warehouses
+Warehouse,Average warehouse utilisation,15979.688428438212,percent
+Risk,Product-branch combinations assessed,180.0,combinations
+Risk,Average operational risk score,99.87222222222222,score
+Risk,High-risk product-branch combinations,180.0,combinations
+Risk,Negative stock variance records,180.0,records
+Risk,Absolute stock variance,69656.0,units
+Data Quality,Documented integrity issue categories,2.0,issues
