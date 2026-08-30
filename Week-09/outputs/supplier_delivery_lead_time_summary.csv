@@ -1,0 +1,22 @@
+
+WEEK 9 - SUPPLIER DELIVERY & LEAD-TIME PERFORMANCE SUMMARY
+
+Suppliers analysed: 8
+Average lead time: 17.38 days
+Average on-time delivery rate: 100.00%
+
+Best delivery supplier: SUP0002
+Best on-time delivery rate: 100.00%
+
+Slowest supplier: SUP0005
+Highest average lead time: 28.00 days
+
+Highest late-delivery supplier: SUP0002
+Highest late-delivery rate: 0.00%
+
+Suppliers requiring attention:
+0
+
+Delivery risk distribution:
+supplier_delivery_risk_class
+Low Risk    8
